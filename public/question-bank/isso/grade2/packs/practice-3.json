@@ -1,0 +1,20 @@
+{
+  "packId": "isso-grade2-earth-practice-01",
+  "exam": "isso",
+  "grade": 2,
+  "mode": "practice",
+  "title": "Earth Practice Test",
+  "topic": "Earth",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Earth"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

@@ -1,15 +1,15 @@
 {
-  "packId": "isso-grade3-history-and-indian-leaders-practice-01",
+  "packId": "isso-grade3-directions-practice-01",
   "exam": "isso",
   "grade": 3,
   "mode": "practice",
-  "title": "History and Indian Leaders Practice Test",
-  "topic": "History and Indian Leaders",
+  "title": "Directions Practice Test",
+  "topic": "Directions",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "History and Indian Leaders"
+      "Directions"
     ],
     "difficultyMix": {
       "easy": 15,

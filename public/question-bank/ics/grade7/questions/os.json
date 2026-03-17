@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "ics-g7-os-0001",
+    "exam": "ics",
+    "grade": "7",
+    "topic": "OS",
+    "subtopic": "OS Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to type letters and numbers on a computer?",
+    "image": "",
+    "options": [
+      "Mouse",
+      "Keyboard",
+      "Monitor",
+      "Speaker"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The keyboard is used for typing.",
+    "tags": [
+      "computer-parts-and-devices",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g7-os-0002",
+    "exam": "ics",
+    "grade": "7",
+    "topic": "OS",
+    "subtopic": "OS Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which part of the computer displays pictures and text?",
+    "image": "",
+    "options": [
+      "Keyboard",
+      "Monitor",
+      "CPU",
+      "Printer"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The monitor displays what we see.",
+    "tags": [
+      "computer-parts-and-devices",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g7-os-0003",
+    "exam": "ics",
+    "grade": "7",
+    "topic": "OS",
+    "subtopic": "OS Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to point and click on items on the screen?",
+    "image": "",
+    "options": [
+      "Keyboard",
+      "Monitor",
+      "Mouse",
+      "Speaker"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The mouse is used to point and click.",
+    "tags": [
+      "computer-parts-and-devices",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g7-os-0004",
+    "exam": "ics",
+    "grade": "7",
+    "topic": "OS",
+    "subtopic": "OS Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which part of the computer does all the thinking and calculations?",
+    "image": "",
+    "options": [
+      "Monitor",
+      "Keyboard",
+      "CPU",
+      "Mouse"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The CPU is like the brain of the computer.",
+    "tags": [
+      "computer-parts-and-devices",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g7-os-0005",
+    "exam": "ics",
+    "grade": "7",
+    "topic": "OS",
+    "subtopic": "OS Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which device helps us hear sounds from the computer?",
+    "image": "",
+    "options": [
+      "Monitor",
+      "Keyboard",
+      "Speaker",
+      "Mouse"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Speakers play sound.",
+    "tags": [
+      "computer-parts-and-devices",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g7-os-0006",
+    "exam": "ics",
+    "grade": "7",
+    "topic": "OS",
+    "subtopic": "OS Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which of these is a portable computer?",
+    "image": "",
+    "options": [
+      "Television",
+      "Laptop",
+      "Radio",
+      "Refrigerator"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A laptop is a portable computer.",
+    "tags": [
+      "computer-parts-and-devices",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g7-os-0007",
+    "exam": "ics",
+    "grade": "7",
+    "topic": "OS",
+    "subtopic": "OS Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is often called the brain of the computer?",
+    "image": "",
+    "options": [
+      "Monitor",
+      "Keyboard",
+      "CPU",
+      "Mouse"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The CPU is like the brain.",
+    "tags": [
+      "computer-parts-and-devices",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g7-os-0008",
+    "exam": "ics",
+    "grade": "7",
+    "topic": "OS",
+    "subtopic": "OS Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which device do we use to print on paper?",
+    "image": "",
+    "options": [
+      "Monitor",
+      "Keyboard",
+      "Printer",
+      "Scanner"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A printer prints on paper.",
+    "tags": [
+      "computer-parts-and-devices",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g7-os-0009",
+    "exam": "ics",
+    "grade": "7",
+    "topic": "OS",
+    "subtopic": "OS Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the main screen when we first start the computer?",
+    "image": "",
+    "options": [
+      "Folder",
+      "File",
+      "Desktop",
+      "Icon"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The desktop is the main screen.",
+    "tags": [
+      "computer-parts-and-devices",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g7-os-0010",
+    "exam": "ics",
+    "grade": "7",
+    "topic": "OS",
+    "subtopic": "OS Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is a small picture that represents a program or file?",
+    "image": "",
+    "options": [
+      "Folder",
+      "File",
+      "Icon",
+      "Menu"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Icons are small pictures that represent programs.",
+    "tags": [
+      "computer-parts-and-devices",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g7-os-0011",
+    "exam": "ics",
+    "grade": "7",
+    "topic": "OS",
+    "subtopic": "OS Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which device takes paper documents and puts them into the computer?",
+    "image": "",
+    "options": [
+      "Printer",
+      "Modem",
+      "Scanner",
+      "Monitor"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A scanner copies documents into the computer.",
+    "tags": [
+      "computer-parts-and-devices",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g7-os-0012",
+    "exam": "ics",
+    "grade": "7",
+    "topic": "OS",
+    "subtopic": "OS Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to connect a computer to the internet?",
+    "image": "",
+    "options": [
+      "Printer",
+      "Modem or WiFi",
+      "Keyboard",
+      "Monitor"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Modem or WiFi connects to the internet.",
+    "tags": [
+      "computer-parts-and-devices",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g7-os-0013",
+    "exam": "ics",
+    "grade": "7",
+    "topic": "OS",
+    "subtopic": "OS Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a USB drive used for?",
+    "image": "",
+    "options": [
+      "Playing music",
+      "Storing files",
+      "Typing",
+      "Printing"
+    ],
+    "correctAnswer": 1,
+    "explanation": "USB drives store files that we can carry.",
+    "tags": [
+      "computer-parts-and-devices",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g7-os-0014",
+    "exam": "ics",
+    "grade": "7",
+    "topic": "OS",
+    "subtopic": "OS Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which part of the computer shows what we type?",
+    "image": "",
+    "options": [
+      "Keyboard",
+      "Monitor",
+      "CPU",
+      "Printer"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The monitor displays the output.",
+    "tags": [
+      "computer-parts-and-devices",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g7-os-0015",
+    "exam": "ics",
+    "grade": "7",
+    "topic": "OS",
+    "subtopic": "OS Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the bar at the top of a window that shows its name?",
+    "image": "",
+    "options": [
+      "Status bar",
+      "Title bar",
+      "Menu bar",
+      "Toolbar"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The title bar shows the window name.",
+    "tags": [
+      "computer-parts-and-devices",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g7-os-0016",
+    "exam": "ics",
+    "grade": "7",
+    "topic": "OS",
+    "subtopic": "OS Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which key makes all letters appear in uppercase?",
+    "image": "",
+    "options": [
+      "Enter",
+      "Caps Lock",
+      "Tab",
+      "Space"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Caps Lock makes uppercase letters.",
+    "tags": [
+      "computer-parts-and-devices",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g7-os-0017",
+    "exam": "ics",
+    "grade": "7",
+    "topic": "OS",
+    "subtopic": "OS Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is a blinking line that shows where we will type?",
+    "image": "",
+    "options": [
+      "Icon",
+      "Cursor",
+      "Menu",
+      "Folder"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The cursor shows where we are typing.",
+    "tags": [
+      "computer-parts-and-devices",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g7-os-0018",
+    "exam": "ics",
+    "grade": "7",
+    "topic": "OS",
+    "subtopic": "OS Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which key do we press to go to the next line when typing?",
+    "image": "",
+    "options": [
+      "Space",
+      "Enter",
+      "Tab",
+      "Shift"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Enter creates a new line.",
+    "tags": [
+      "computer-parts-and-devices",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g7-os-0019",
+    "exam": "ics",
+    "grade": "7",
+    "topic": "OS",
+    "subtopic": "OS Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is a list of options in a program?",
+    "image": "",
+    "options": [
+      "Icon",
+      "Folder",
+      "Menu",
+      "File"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A menu shows options we can choose.",
+    "tags": [
+      "computer-parts-and-devices",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g7-os-0020",
+    "exam": "ics",
+    "grade": "7",
+    "topic": "OS",
+    "subtopic": "OS Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which key do we hold down to type a capital letter?",
+    "image": "",
+    "options": [
+      "Enter",
+      "Shift",
+      "Space",
+      "Tab"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Shift helps type capital letters.",
+    "tags": [
+      "computer-parts-and-devices",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g7-os-0021",
+    "exam": "ics",
+    "grade": "7",
+    "topic": "OS",
+    "subtopic": "OS Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is a picture or icon that opens a program quickly?",
+    "image": "",
+    "options": [
+      "Folder",
+      "File",
+      "Shortcut",
+      "Menu"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A shortcut opens a program quickly.",
+    "tags": [
+      "computer-parts-and-devices",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g7-os-0022",
+    "exam": "ics",
+    "grade": "7",
+    "topic": "OS",
+    "subtopic": "OS Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which key cancels an action or closes a dialog?",
+    "image": "",
+    "options": [
+      "Enter",
+      "Shift",
+      "Escape",
+      "Tab"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Escape cancels or closes.",
+    "tags": [
+      "computer-parts-and-devices",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g7-os-0023",
+    "exam": "ics",
+    "grade": "7",
+    "topic": "OS",
+    "subtopic": "OS Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a place that holds many files?",
+    "image": "",
+    "options": [
+      "File",
+      "Folder",
+      "Desktop",
+      "Icon"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A folder holds files.",
+    "tags": [
+      "computer-parts-and-devices",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g7-os-0024",
+    "exam": "ics",
+    "grade": "7",
+    "topic": "OS",
+    "subtopic": "OS Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which device do we use to type on a computer?",
+    "image": "",
+    "options": [
+      "Mouse",
+      "Keyboard",
+      "Monitor",
+      "Speaker"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The keyboard is used for typing.",
+    "tags": [
+      "computer-parts",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g7-os-0025",
+    "exam": "ics",
+    "grade": "7",
+    "topic": "OS",
+    "subtopic": "OS Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which part shows pictures and text on the computer?",
+    "image": "",
+    "options": [
+      "Keyboard",
+      "Monitor",
+      "CPU",
+      "Printer"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The monitor displays output.",
+    "tags": [
+      "computer-parts",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g7-os-0026",
+    "exam": "ics",
+    "grade": "7",
+    "topic": "OS",
+    "subtopic": "OS Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to click on things on the screen?",
+    "image": "",
+    "options": [
+      "Keyboard",
+      "Monitor",
+      "Mouse",
+      "Speaker"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The mouse is used to point and click.",
+    "tags": [
+      "computer-parts",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g7-os-0027",
+    "exam": "ics",
+    "grade": "7",
+    "topic": "OS",
+    "subtopic": "OS Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which key deletes the character before the cursor?",
+    "image": "",
+    "options": [
+      "Delete",
+      "Backspace",
+      "Enter",
+      "Shift"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Backspace deletes the character before.",
+    "tags": [
+      "keyboard",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g7-os-0028",
+    "exam": "ics",
+    "grade": "7",
+    "topic": "OS",
+    "subtopic": "OS Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which key deletes the character after the cursor?",
+    "image": "",
+    "options": [
+      "Backspace",
+      "Delete",
+      "Enter",
+      "Shift"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Delete removes the character after.",
+    "tags": [
+      "keyboard",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g7-os-0029",
+    "exam": "ics",
+    "grade": "7",
+    "topic": "OS",
+    "subtopic": "OS Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which key do we press to paste?",
+    "image": "",
+    "options": [
+      "Ctrl+V or Cmd+V",
+      "Ctrl+C",
+      "Ctrl+X",
+      "Ctrl+S"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ctrl+V pastes.",
+    "tags": [
+      "keyboard",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g7-os-0030",
+    "exam": "ics",
+    "grade": "7",
+    "topic": "OS",
+    "subtopic": "OS Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which key do we press to go to the next line?",
+    "image": "",
+    "options": [
+      "Space",
+      "Enter",
+      "Tab",
+      "Shift"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Enter creates a new line.",
+    "tags": [
+      "keyboard",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g7-os-0031",
+    "exam": "ics",
+    "grade": "7",
+    "topic": "OS",
+    "subtopic": "OS Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which key cancels an action?",
+    "image": "",
+    "options": [
+      "Enter",
+      "Shift",
+      "Escape",
+      "Tab"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Escape cancels or closes.",
+    "tags": [
+      "keyboard",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g7-os-0032",
+    "exam": "ics",
+    "grade": "7",
+    "topic": "OS",
+    "subtopic": "OS Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the brain of the computer?",
+    "image": "",
+    "options": [
+      "Monitor",
+      "Keyboard",
+      "CPU",
+      "Mouse"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The CPU is like the brain.",
+    "tags": [
+      "computer-parts",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g7-os-0033",
+    "exam": "ics",
+    "grade": "7",
+    "topic": "OS",
+    "subtopic": "OS Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which key makes letters uppercase?",
+    "image": "",
+    "options": [
+      "Enter",
+      "Caps Lock",
+      "Tab",
+      "Space"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Caps Lock makes uppercase letters.",
+    "tags": [
+      "keyboard",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g7-os-0034",
+    "exam": "ics",
+    "grade": "7",
+    "topic": "OS",
+    "subtopic": "OS Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which key do we hold to type a capital letter?",
+    "image": "",
+    "options": [
+      "Enter",
+      "Shift",
+      "Space",
+      "Tab"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Shift helps type capital letters.",
+    "tags": [
+      "keyboard",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g7-os-0035",
+    "exam": "ics",
+    "grade": "7",
+    "topic": "OS",
+    "subtopic": "OS Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which device helps us hear sound from the computer?",
+    "image": "",
+    "options": [
+      "Monitor",
+      "Keyboard",
+      "Speaker",
+      "Mouse"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Speakers play sound.",
+    "tags": [
+      "computer-parts",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g7-os-0036",
+    "exam": "ics",
+    "grade": "7",
+    "topic": "OS",
+    "subtopic": "OS Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which key takes us to the next tab or field?",
+    "image": "",
+    "options": [
+      "Enter",
+      "Tab",
+      "Space",
+      "Shift"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tab moves to the next field.",
+    "tags": [
+      "keyboard",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g7-os-0037",
+    "exam": "ics",
+    "grade": "7",
+    "topic": "OS",
+    "subtopic": "OS Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which part of the computer does calculations?",
+    "image": "",
+    "options": [
+      "Monitor",
+      "Keyboard",
+      "CPU",
+      "Mouse"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The CPU does calculations.",
+    "tags": [
+      "computer-parts",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g7-os-0038",
+    "exam": "ics",
+    "grade": "7",
+    "topic": "OS",
+    "subtopic": "OS Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which key do we press to save a file?",
+    "image": "",
+    "options": [
+      "Ctrl+S or Cmd+S",
+      "Ctrl+N",
+      "Ctrl+P",
+      "Ctrl+C"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ctrl+S saves the file.",
+    "tags": [
+      "keyboard",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g7-os-0039",
+    "exam": "ics",
+    "grade": "7",
+    "topic": "OS",
+    "subtopic": "OS Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do the letters CPU mean?",
+    "image": "",
+    "options": [
+      "Central Processing Unit",
+      "Computer Personal Unit",
+      "Central Program Unit",
+      "Computer Processing Unit"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CPU means Central Processing Unit.",
+    "tags": [
+      "computer-parts-and-devices",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g7-os-0040",
+    "exam": "ics",
+    "grade": "7",
+    "topic": "OS",
+    "subtopic": "OS Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which part of the computer stores files even when it is turned off?",
+    "image": "",
+    "options": [
+      "Monitor",
+      "RAM",
+      "Hard disk",
+      "Keyboard"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The hard disk stores files permanently.",
+    "tags": [
+      "computer-parts-and-devices",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  }
+]

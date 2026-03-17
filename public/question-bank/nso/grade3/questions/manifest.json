@@ -1,9 +1,8 @@
 {
   "files": [
-    "plants-animals.json",
-    "human-body-food.json",
-    "matter-energy-force.json",
-    "earth-environment-space.json",
-    "mixed.json"
+    "plants-and-animals.json",
+    "human-body-and-food.json",
+    "matter-energy-and-force.json",
+    "earth-environment-and-space.json"
   ]
 }

@@ -2,23 +2,250 @@
   "exam": "ieo",
   "grade": 3,
   "topics": [
-    { "id": "grammar-basics", "name": "Grammar Basics", "subtopics": [
-      { "id": "nouns", "name": "Nouns", "learningObjectives": ["Identify nouns"] },
-      { "id": "verbs", "name": "Verbs", "learningObjectives": ["Identify verbs"] },
-      { "id": "adjectives", "name": "Adjectives", "learningObjectives": ["Identify adjectives"] },
-      { "id": "pronouns", "name": "Pronouns", "learningObjectives": ["Use pronouns"] },
-      { "id": "tenses", "name": "Tenses", "learningObjectives": ["Use past/present"] }
-    ]},
-    { "id": "vocabulary-word-usage", "name": "Vocabulary and Word Usage", "subtopics": [
-      { "id": "synonyms", "name": "Synonyms", "learningObjectives": ["Identify synonyms"] },
-      { "id": "antonyms", "name": "Antonyms", "learningObjectives": ["Identify antonyms"] },
-      { "id": "spelling", "name": "Spelling", "learningObjectives": ["Spell common words"] }
-    ]},
-    { "id": "sentence-formation", "name": "Sentence Formation", "subtopics": [
-      { "id": "complete-sentences", "name": "Complete Sentences", "learningObjectives": ["Form complete sentences"] }
-    ]},
-    { "id": "everyday-english", "name": "Everyday English", "subtopics": [
-      { "id": "greetings", "name": "Greetings", "learningObjectives": ["Use polite expressions"] }
-    ]}
+    {
+      "code": "IEO-G3-T1",
+      "name": "Vocabulary",
+      "description": "Vocabulary for Grade 3.",
+      "weightage": "high",
+      "recommendedQuestionCount": 40,
+      "subtopics": [
+        {
+          "code": "IEO-G3-T1-S1",
+          "name": "Vocabulary Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "vocabulary",
+            "ieo",
+            "ieo",
+            "grade3"
+          ]
+        },
+        {
+          "code": "IEO-G3-T1-S2",
+          "name": "Vocabulary Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "vocabulary",
+            "ieo",
+            "ieo",
+            "grade3"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IEO-G3-T2",
+      "name": "Simple Grammar",
+      "description": "Simple Grammar for Grade 3.",
+      "weightage": "high",
+      "recommendedQuestionCount": 37,
+      "subtopics": [
+        {
+          "code": "IEO-G3-T2-S1",
+          "name": "Simple Grammar Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "simple grammar",
+            "ieo",
+            "ieo",
+            "grade3"
+          ]
+        },
+        {
+          "code": "IEO-G3-T2-S2",
+          "name": "Simple Grammar Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "simple grammar",
+            "ieo",
+            "ieo",
+            "grade3"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IEO-G3-T3",
+      "name": "Sentence Formation",
+      "description": "Sentence Formation for Grade 3.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 34,
+      "subtopics": [
+        {
+          "code": "IEO-G3-T3-S1",
+          "name": "Sentence Formation Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "sentence formation",
+            "ieo",
+            "ieo",
+            "grade3"
+          ]
+        },
+        {
+          "code": "IEO-G3-T3-S2",
+          "name": "Sentence Formation Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "sentence formation",
+            "ieo",
+            "ieo",
+            "grade3"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IEO-G3-T4",
+      "name": "Spelling",
+      "description": "Spelling for Grade 3.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 31,
+      "subtopics": [
+        {
+          "code": "IEO-G3-T4-S1",
+          "name": "Spelling Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "spelling",
+            "ieo",
+            "ieo",
+            "grade3"
+          ]
+        },
+        {
+          "code": "IEO-G3-T4-S2",
+          "name": "Spelling Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "spelling",
+            "ieo",
+            "ieo",
+            "grade3"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IEO-G3-T5",
+      "name": "Everyday English",
+      "description": "Everyday English for Grade 3.",
+      "weightage": "low",
+      "recommendedQuestionCount": 28,
+      "subtopics": [
+        {
+          "code": "IEO-G3-T5-S1",
+          "name": "Everyday English Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "everyday english",
+            "ieo",
+            "ieo",
+            "grade3"
+          ]
+        },
+        {
+          "code": "IEO-G3-T5-S2",
+          "name": "Everyday English Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "everyday english",
+            "ieo",
+            "ieo",
+            "grade3"
+          ]
+        }
+      ]
+    }
   ]
 }

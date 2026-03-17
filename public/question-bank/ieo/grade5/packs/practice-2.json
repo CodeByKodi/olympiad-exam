@@ -1,0 +1,20 @@
+{
+  "packId": "ieo-grade5-pronouns-practice-01",
+  "exam": "ieo",
+  "grade": 5,
+  "mode": "practice",
+  "title": "Pronouns Practice Test",
+  "topic": "Pronouns",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Pronouns"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

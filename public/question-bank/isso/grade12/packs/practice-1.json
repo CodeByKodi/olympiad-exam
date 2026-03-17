@@ -1,0 +1,20 @@
+{
+  "packId": "isso-grade12-advanced-history-practice-01",
+  "exam": "isso",
+  "grade": 12,
+  "mode": "practice",
+  "title": "Advanced History Practice Test",
+  "topic": "Advanced History",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Advanced History"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

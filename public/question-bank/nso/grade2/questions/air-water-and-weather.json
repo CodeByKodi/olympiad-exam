@@ -1,0 +1,272 @@
+[
+  {
+    "id": "nso-g2-air-water-and-weather-0141",
+    "exam": "nso",
+    "grade": "2",
+    "topic": "Air, Water, and Weather",
+    "subtopic": "Air and Water",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Can sound travel through empty space?",
+    "image": "",
+    "options": [
+      "Yes",
+      "No",
+      "Sometimes",
+      "Only at night"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sound needs a medium like air to travel. In space there is no air.",
+    "tags": [
+      "matter-energy-and-force",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g2-air-water-and-weather-0142",
+    "exam": "nso",
+    "grade": "2",
+    "topic": "Air, Water, and Weather",
+    "subtopic": "Air and Water",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Why do we see a rainbow after rain?",
+    "image": "",
+    "options": [
+      "Because of darkness",
+      "Because sunlight splits in water drops",
+      "Because of wind",
+      "No reason"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sunlight splits into colors when it passes through water drops.",
+    "tags": [
+      "matter-energy-and-force",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g2-air-water-and-weather-0143",
+    "exam": "nso",
+    "grade": "2",
+    "topic": "Air, Water, and Weather",
+    "subtopic": "Air and Water",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the layer of air around the Earth?",
+    "image": "",
+    "options": [
+      "Ocean",
+      "Atmosphere",
+      "Soil",
+      "Rock"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The atmosphere is the layer of air that surrounds the Earth.",
+    "tags": [
+      "earth-environment-and-space",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g2-air-water-and-weather-0144",
+    "exam": "nso",
+    "grade": "2",
+    "topic": "Air, Water, and Weather",
+    "subtopic": "Air and Water",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do plants need from the air?",
+    "image": "",
+    "options": [
+      "Oxygen only",
+      "Carbon dioxide",
+      "Smoke",
+      "Dust"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Plants use carbon dioxide from the air to make food.",
+    "tags": [
+      "earth-environment-and-space",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g2-air-water-and-weather-0145",
+    "exam": "nso",
+    "grade": "2",
+    "topic": "Air, Water, and Weather",
+    "subtopic": "Air and Water",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is the largest ocean on Earth?",
+    "image": "",
+    "options": [
+      "Indian Ocean",
+      "Atlantic Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Pacific Ocean is the largest ocean on Earth.",
+    "tags": [
+      "earth-environment-and-space",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g2-air-water-and-weather-0146",
+    "exam": "nso",
+    "grade": "2",
+    "topic": "Air, Water, and Weather",
+    "subtopic": "Air and Water",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How long does Earth take to go around the Sun once?",
+    "image": "",
+    "options": [
+      "One day",
+      "One week",
+      "One month",
+      "One year"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Earth takes about 365 days (one year) to orbit the Sun.",
+    "tags": [
+      "earth-environment-and-space",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g2-air-water-and-weather-0147",
+    "exam": "nso",
+    "grade": "2",
+    "topic": "Air, Water, and Weather",
+    "subtopic": "Air and Water",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do clouds contain?",
+    "image": "",
+    "options": [
+      "Only air",
+      "Tiny drops of water",
+      "Dust only",
+      "Fire"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Clouds contain tiny drops of water or ice crystals.",
+    "tags": [
+      "earth-environment-and-space",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g2-air-water-and-weather-0148",
+    "exam": "nso",
+    "grade": "2",
+    "topic": "Air, Water, and Weather",
+    "subtopic": "Air and Water",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which organ is protected by the rib cage?",
+    "image": "",
+    "options": [
+      "Brain",
+      "Heart and lungs",
+      "Stomach",
+      "Eyes"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The rib cage protects the heart and lungs.",
+    "tags": [
+      "human-body",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g2-air-water-and-weather-0149",
+    "exam": "nso",
+    "grade": "2",
+    "topic": "Air, Water, and Weather",
+    "subtopic": "Air and Water",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which organ filters waste from blood?",
+    "image": "",
+    "options": [
+      "Heart",
+      "Kidneys",
+      "Lungs",
+      "Stomach"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kidneys filter waste from blood and make urine.",
+    "tags": [
+      "human-body",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g2-air-water-and-weather-0150",
+    "exam": "nso",
+    "grade": "2",
+    "topic": "Air, Water, and Weather",
+    "subtopic": "Air and Water",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Why do we see a rainbow?",
+    "image": "",
+    "options": [
+      "At night only",
+      "When sunlight passes through rain drops",
+      "In winter only",
+      "No reason"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sunlight splits into colors when it passes through water drops.",
+    "tags": [
+      "light",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  }
+]

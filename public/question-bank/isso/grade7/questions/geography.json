@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "isso-g7-geography-0001",
+    "exam": "isso",
+    "grade": "7",
+    "topic": "Geography",
+    "subtopic": "Geography Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a drawing that shows where places are?",
+    "image": "",
+    "options": [
+      "Picture",
+      "Map",
+      "Photo",
+      "Painting"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A map shows where places are.",
+    "tags": [
+      "maps-geography-and-landforms",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g7-geography-0002",
+    "exam": "isso",
+    "grade": "7",
+    "topic": "Geography",
+    "subtopic": "Geography Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to find north, south, east, and west?",
+    "image": "",
+    "options": [
+      "Watch",
+      "Compass",
+      "Ruler",
+      "Pen"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A compass shows directions.",
+    "tags": [
+      "maps-geography-and-landforms",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g7-geography-0003",
+    "exam": "isso",
+    "grade": "7",
+    "topic": "Geography",
+    "subtopic": "Geography Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a round model that shows the Earth?",
+    "image": "",
+    "options": [
+      "Map",
+      "Globe",
+      "Compass",
+      "Chart"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A globe is a model of Earth.",
+    "tags": [
+      "maps-geography-and-landforms",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g7-geography-0004",
+    "exam": "isso",
+    "grade": "7",
+    "topic": "Geography",
+    "subtopic": "Geography Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a small river that flows into a big river?",
+    "image": "",
+    "options": [
+      "Lake",
+      "Stream or tributary",
+      "Ocean",
+      "Pond"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A tributary flows into a bigger river.",
+    "tags": [
+      "maps-geography-and-landforms",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g7-geography-0005",
+    "exam": "isso",
+    "grade": "7",
+    "topic": "Geography",
+    "subtopic": "Geography Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a piece of land surrounded by water?",
+    "image": "",
+    "options": [
+      "Peninsula",
+      "Island",
+      "Continent",
+      "Valley"
+    ],
+    "correctAnswer": 1,
+    "explanation": "An island is surrounded by water.",
+    "tags": [
+      "maps-geography-and-landforms",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g7-geography-0006",
+    "exam": "isso",
+    "grade": "7",
+    "topic": "Geography",
+    "subtopic": "Geography Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a hill of sand in the desert?",
+    "image": "",
+    "options": [
+      "Mountain",
+      "Valley",
+      "Dune",
+      "Plain"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A dune is a sand hill.",
+    "tags": [
+      "maps-geography-and-landforms",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g7-geography-0007",
+    "exam": "isso",
+    "grade": "7",
+    "topic": "Geography",
+    "subtopic": "Geography Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a large area of flat land with grass?",
+    "image": "",
+    "options": [
+      "Desert",
+      "Forest",
+      "Grassland",
+      "Mountain"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Grasslands have grass and few trees.",
+    "tags": [
+      "maps-geography-and-landforms",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g7-geography-0008",
+    "exam": "isso",
+    "grade": "7",
+    "topic": "Geography",
+    "subtopic": "Geography Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the capital of India?",
+    "image": "",
+    "options": [
+      "Mumbai",
+      "Kolkata",
+      "New Delhi",
+      "Chennai"
+    ],
+    "correctAnswer": 2,
+    "explanation": "New Delhi is the capital.",
+    "tags": [
+      "maps-geography-and-landforms",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g7-geography-0009",
+    "exam": "isso",
+    "grade": "7",
+    "topic": "Geography",
+    "subtopic": "Geography Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the seven large land areas on Earth?",
+    "image": "",
+    "options": [
+      "Countries",
+      "Continents",
+      "Islands",
+      "Oceans"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Continents are large land areas.",
+    "tags": [
+      "maps-geography-and-landforms",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g7-geography-0010",
+    "exam": "isso",
+    "grade": "7",
+    "topic": "Geography",
+    "subtopic": "Geography Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the five large water bodies on Earth?",
+    "image": "",
+    "options": [
+      "Rivers",
+      "Lakes",
+      "Oceans",
+      "Ponds"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Oceans are large water bodies.",
+    "tags": [
+      "maps-geography-and-landforms",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g7-geography-0011",
+    "exam": "isso",
+    "grade": "7",
+    "topic": "Geography",
+    "subtopic": "Geography Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a place where we buy and sell things?",
+    "image": "",
+    "options": [
+      "School",
+      "Hospital",
+      "Market",
+      "Park"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A market is for buying and selling.",
+    "tags": [
+      "maps-geography-and-landforms",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g7-geography-0012",
+    "exam": "isso",
+    "grade": "7",
+    "topic": "Geography",
+    "subtopic": "Geography Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is a place where we keep books to read?",
+    "image": "",
+    "options": [
+      "Museum",
+      "Library",
+      "Hospital",
+      "Market"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A library has books to read.",
+    "tags": [
+      "maps-geography-and-landforms",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g7-geography-0013",
+    "exam": "isso",
+    "grade": "7",
+    "topic": "Geography",
+    "subtopic": "Geography Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a place where sick people go for treatment?",
+    "image": "",
+    "options": [
+      "School",
+      "Hospital",
+      "Market",
+      "Park"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A hospital treats sick people.",
+    "tags": [
+      "maps-geography-and-landforms",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g7-geography-0014",
+    "exam": "isso",
+    "grade": "7",
+    "topic": "Geography",
+    "subtopic": "Geography Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the line that divides Earth into north and south?",
+    "image": "",
+    "options": [
+      "Equator",
+      "Pole",
+      "Border",
+      "Edge"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Equator divides north and south.",
+    "tags": [
+      "maps-geography-and-landforms",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g7-geography-0015",
+    "exam": "isso",
+    "grade": "7",
+    "topic": "Geography",
+    "subtopic": "Geography Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the place where a river meets the sea?",
+    "image": "",
+    "options": [
+      "Source",
+      "Delta",
+      "Mouth",
+      "Bank"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The mouth is where river meets sea.",
+    "tags": [
+      "maps-geography-and-landforms",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g7-geography-0016",
+    "exam": "isso",
+    "grade": "7",
+    "topic": "Geography",
+    "subtopic": "Geography Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is a map used for?",
+    "image": "",
+    "options": [
+      "Drawing pictures",
+      "Showing places and directions",
+      "Writing stories",
+      "Playing games"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Maps show places and directions.",
+    "tags": [
+      "geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g7-geography-0017",
+    "exam": "isso",
+    "grade": "7",
+    "topic": "Geography",
+    "subtopic": "Geography Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a low area between hills?",
+    "image": "",
+    "options": [
+      "Mountain",
+      "Valley",
+      "Plain",
+      "Desert"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A valley is between hills.",
+    "tags": [
+      "geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g7-geography-0018",
+    "exam": "isso",
+    "grade": "7",
+    "topic": "Geography",
+    "subtopic": "Geography Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What ocean is the biggest?",
+    "image": "",
+    "options": [
+      "Atlantic",
+      "Indian",
+      "Pacific",
+      "Arctic"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Pacific is the largest.",
+    "tags": [
+      "geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g7-geography-0019",
+    "exam": "isso",
+    "grade": "7",
+    "topic": "Geography",
+    "subtopic": "Geography Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a dry area with little rain?",
+    "image": "",
+    "options": [
+      "Forest",
+      "Desert",
+      "Plain",
+      "Valley"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A desert has little rain.",
+    "tags": [
+      "geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g7-geography-0020",
+    "exam": "isso",
+    "grade": "7",
+    "topic": "Geography",
+    "subtopic": "Geography Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a flowing body of water?",
+    "image": "",
+    "options": [
+      "Lake",
+      "Ocean",
+      "River",
+      "Pond"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A river flows.",
+    "tags": [
+      "geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g7-geography-0021",
+    "exam": "isso",
+    "grade": "7",
+    "topic": "Geography",
+    "subtopic": "Geography Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a flat area of land?",
+    "image": "",
+    "options": [
+      "Mountain",
+      "Valley",
+      "Plain",
+      "Hill"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A plain is flat land.",
+    "tags": [
+      "geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g7-geography-0022",
+    "exam": "isso",
+    "grade": "7",
+    "topic": "Geography",
+    "subtopic": "Geography Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call land that rises high above the ground?",
+    "image": "",
+    "options": [
+      "Valley",
+      "Mountain",
+      "Plain",
+      "Desert"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A mountain rises high.",
+    "tags": [
+      "geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g7-geography-0023",
+    "exam": "isso",
+    "grade": "7",
+    "topic": "Geography",
+    "subtopic": "Geography Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which city is India's capital?",
+    "image": "",
+    "options": [
+      "Mumbai",
+      "Kolkata",
+      "New Delhi",
+      "Chennai"
+    ],
+    "correctAnswer": 2,
+    "explanation": "New Delhi is the capital.",
+    "tags": [
+      "geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g7-geography-0024",
+    "exam": "isso",
+    "grade": "7",
+    "topic": "Geography",
+    "subtopic": "Geography Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a large body of water surrounded by land?",
+    "image": "",
+    "options": [
+      "River",
+      "Ocean",
+      "Lake",
+      "Pond"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A lake is surrounded by land.",
+    "tags": [
+      "geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g7-geography-0025",
+    "exam": "isso",
+    "grade": "7",
+    "topic": "Geography",
+    "subtopic": "Geography Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a large area covered with trees?",
+    "image": "",
+    "options": [
+      "Desert",
+      "Forest",
+      "Plain",
+      "Valley"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A forest has many trees.",
+    "tags": [
+      "geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g7-geography-0026",
+    "exam": "isso",
+    "grade": "7",
+    "topic": "Geography",
+    "subtopic": "Geography Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Why does Earth have day and night?",
+    "image": "",
+    "options": [
+      "Moon blocks sun",
+      "Earth spins on its axis",
+      "Sun moves away",
+      "Stars hide"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Earth's rotation causes day and night.",
+    "tags": [
+      "earth-seasons-and-solar-system",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g7-geography-0027",
+    "exam": "isso",
+    "grade": "7",
+    "topic": "Geography",
+    "subtopic": "Geography Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What makes the seasons change on Earth?",
+    "image": "",
+    "options": [
+      "Moon",
+      "Earth's tilt",
+      "Stars",
+      "Wind"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Earth's tilt causes seasons.",
+    "tags": [
+      "earth-seasons-and-solar-system",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g7-geography-0028",
+    "exam": "isso",
+    "grade": "7",
+    "topic": "Geography",
+    "subtopic": "Geography Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the Moon's path around Earth?",
+    "image": "",
+    "options": [
+      "Rotation",
+      "Orbit",
+      "Revolution",
+      "Spin"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Moon orbits Earth.",
+    "tags": [
+      "earth-seasons-and-solar-system",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g7-geography-0029",
+    "exam": "isso",
+    "grade": "7",
+    "topic": "Geography",
+    "subtopic": "Geography Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "On which planet do humans live?",
+    "image": "",
+    "options": [
+      "Mars",
+      "Venus",
+      "Earth",
+      "Jupiter"
+    ],
+    "correctAnswer": 2,
+    "explanation": "We live on Earth.",
+    "tags": [
+      "earth-seasons-and-solar-system",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g7-geography-0030",
+    "exam": "isso",
+    "grade": "7",
+    "topic": "Geography",
+    "subtopic": "Geography Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the name of Earth's natural satellite?",
+    "image": "",
+    "options": [
+      "Sun",
+      "Star",
+      "Moon",
+      "Planet"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Moon is Earth's satellite.",
+    "tags": [
+      "earth-seasons-and-solar-system",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g7-geography-0031",
+    "exam": "isso",
+    "grade": "7",
+    "topic": "Geography",
+    "subtopic": "Geography Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is Earth's path around the Sun?",
+    "image": "",
+    "options": [
+      "Rotation",
+      "Orbit",
+      "Revolution",
+      "Spin"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Orbit is Earth's path around the Sun.",
+    "tags": [
+      "earth-seasons-and-solar-system",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g7-geography-0032",
+    "exam": "isso",
+    "grade": "7",
+    "topic": "Geography",
+    "subtopic": "Geography Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What makes seasons change throughout the year?",
+    "image": "",
+    "options": [
+      "Moon",
+      "Earth's tilt and orbit",
+      "Stars",
+      "Wind"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Earth's tilt and orbit cause seasons.",
+    "tags": [
+      "earth-seasons-and-solar-system",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g7-geography-0033",
+    "exam": "isso",
+    "grade": "7",
+    "topic": "Geography",
+    "subtopic": "Geography Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What planet in our solar system is smallest?",
+    "image": "",
+    "options": [
+      "Earth",
+      "Mars",
+      "Mercury",
+      "Venus"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Mercury is the smallest planet.",
+    "tags": [
+      "earth-seasons-and-solar-system",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g7-geography-0034",
+    "exam": "isso",
+    "grade": "7",
+    "topic": "Geography",
+    "subtopic": "Geography Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which resource do humans need most to survive?",
+    "image": "",
+    "options": [
+      "Plastic",
+      "Water",
+      "Glass",
+      "Steel"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Water is essential for life.",
+    "tags": [
+      "earth-seasons-and-solar-system",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g7-geography-0035",
+    "exam": "isso",
+    "grade": "7",
+    "topic": "Geography",
+    "subtopic": "Geography Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the science of weather patterns?",
+    "image": "",
+    "options": [
+      "Biology",
+      "Meteorology",
+      "Geography",
+      "History"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Meteorology studies weather.",
+    "tags": [
+      "earth-seasons-and-solar-system",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g7-geography-0036",
+    "exam": "isso",
+    "grade": "7",
+    "topic": "Geography",
+    "subtopic": "Geography Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the star at the center of our solar system?",
+    "image": "",
+    "options": [
+      "Moon",
+      "Sun",
+      "Mars",
+      "Venus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Sun is at the center.",
+    "tags": [
+      "earth-seasons-and-solar-system",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g7-geography-0037",
+    "exam": "isso",
+    "grade": "7",
+    "topic": "Geography",
+    "subtopic": "Geography Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many planets are in our solar system?",
+    "image": "",
+    "options": [
+      "Six",
+      "Seven",
+      "Eight",
+      "Nine"
+    ],
+    "correctAnswer": 2,
+    "explanation": "There are eight planets.",
+    "tags": [
+      "earth-seasons-and-solar-system",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g7-geography-0038",
+    "exam": "isso",
+    "grade": "7",
+    "topic": "Geography",
+    "subtopic": "Geography Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the four periods of the year?",
+    "image": "",
+    "options": [
+      "Months",
+      "Seasons",
+      "Weeks",
+      "Days"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Spring, summer, autumn, winter are seasons.",
+    "tags": [
+      "earth-seasons-and-solar-system",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g7-geography-0039",
+    "exam": "isso",
+    "grade": "7",
+    "topic": "Geography",
+    "subtopic": "Geography Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which season is the hottest?",
+    "image": "",
+    "options": [
+      "Winter",
+      "Spring",
+      "Summer",
+      "Autumn"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Summer is usually the hottest.",
+    "tags": [
+      "earth-seasons-and-solar-system",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g7-geography-0040",
+    "exam": "isso",
+    "grade": "7",
+    "topic": "Geography",
+    "subtopic": "Geography Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "When do we usually need warm clothes?",
+    "image": "",
+    "options": [
+      "Summer",
+      "Spring",
+      "Winter",
+      "Autumn"
+    ],
+    "correctAnswer": 2,
+    "explanation": "We need warm clothes in winter when it is cold.",
+    "tags": [
+      "earth-seasons-and-solar-system",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  }
+]

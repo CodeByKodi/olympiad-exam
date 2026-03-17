@@ -1,0 +1,349 @@
+{
+  "exam": "imo",
+  "grade": 8,
+  "topics": [
+    {
+      "code": "IMO-G8-T1",
+      "name": "Algebra",
+      "description": "Algebraic expressions.",
+      "weightage": "high",
+      "recommendedQuestionCount": 55,
+      "subtopics": [
+        {
+          "code": "IMO-G8-T1-S1",
+          "name": "Expressions and Equations",
+          "description": "Basic algebra.",
+          "learningObjectives": [
+            "Simplify expressions",
+            "Solve equations"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 28,
+          "tags": [
+            "algebra",
+            "imo",
+            "grade8"
+          ]
+        },
+        {
+          "code": "IMO-G8-T1-S2",
+          "name": "Linear Equations",
+          "description": "One variable.",
+          "learningObjectives": [
+            "Solve linear equations",
+            "Solve word problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 27,
+          "tags": [
+            "algebra",
+            "imo",
+            "grade8"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IMO-G8-T2",
+      "name": "Number System",
+      "description": "Integers, rationals.",
+      "weightage": "high",
+      "recommendedQuestionCount": 50,
+      "subtopics": [
+        {
+          "code": "IMO-G8-T2-S1",
+          "name": "Integers",
+          "description": "Integer operations.",
+          "learningObjectives": [
+            "Operate with integers",
+            "Apply properties"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 25,
+          "tags": [
+            "numbers",
+            "imo",
+            "grade8"
+          ]
+        },
+        {
+          "code": "IMO-G8-T2-S2",
+          "name": "Rational Numbers",
+          "description": "Rational operations.",
+          "learningObjectives": [
+            "Operate with rationals",
+            "Convert forms"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 25,
+          "tags": [
+            "numbers",
+            "imo",
+            "grade8"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IMO-G8-T3",
+      "name": "Percentages and Ratios",
+      "description": "Proportional reasoning.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 45,
+      "subtopics": [
+        {
+          "code": "IMO-G8-T3-S1",
+          "name": "Percentages",
+          "description": "Percentage calculations.",
+          "learningObjectives": [
+            "Calculate percentages",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 22,
+          "tags": [
+            "percentages",
+            "imo",
+            "grade8"
+          ]
+        },
+        {
+          "code": "IMO-G8-T3-S2",
+          "name": "Ratios",
+          "description": "Ratio and proportion.",
+          "learningObjectives": [
+            "Simplify ratios",
+            "Solve proportion problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 23,
+          "tags": [
+            "ratios",
+            "imo",
+            "grade8"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IMO-G8-T4",
+      "name": "Geometry",
+      "description": "Angles, triangles, circles.",
+      "weightage": "high",
+      "recommendedQuestionCount": 55,
+      "subtopics": [
+        {
+          "code": "IMO-G8-T4-S1",
+          "name": "Angles and Lines",
+          "description": "Geometric properties.",
+          "learningObjectives": [
+            "Calculate angles",
+            "Apply properties"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 28,
+          "tags": [
+            "geometry",
+            "imo",
+            "grade8"
+          ]
+        },
+        {
+          "code": "IMO-G8-T4-S2",
+          "name": "Triangles and Circles",
+          "description": "Shape properties.",
+          "learningObjectives": [
+            "Apply theorems",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 27,
+          "tags": [
+            "geometry",
+            "imo",
+            "grade8"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IMO-G8-T5",
+      "name": "Mensuration",
+      "description": "Area and volume.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 40,
+      "subtopics": [
+        {
+          "code": "IMO-G8-T5-S1",
+          "name": "Area",
+          "description": "Area of shapes.",
+          "learningObjectives": [
+            "Calculate areas",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 20,
+          "tags": [
+            "mensuration",
+            "imo",
+            "grade8"
+          ]
+        },
+        {
+          "code": "IMO-G8-T5-S2",
+          "name": "Volume",
+          "description": "Volume of solids.",
+          "learningObjectives": [
+            "Calculate volumes",
+            "Apply formulas"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 20,
+          "tags": [
+            "mensuration",
+            "imo",
+            "grade8"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IMO-G8-T6",
+      "name": "Data and Probability",
+      "description": "Statistics and probability.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 40,
+      "subtopics": [
+        {
+          "code": "IMO-G8-T6-S1",
+          "name": "Data Interpretation",
+          "description": "Graphs and statistics.",
+          "learningObjectives": [
+            "Interpret data",
+            "Calculate statistics"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 20,
+          "tags": [
+            "data",
+            "imo",
+            "grade8"
+          ]
+        },
+        {
+          "code": "IMO-G8-T6-S2",
+          "name": "Probability Basics",
+          "description": "Simple probability.",
+          "learningObjectives": [
+            "Calculate probability",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 20,
+          "tags": [
+            "probability",
+            "imo",
+            "grade8"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IMO-G8-T7",
+      "name": "Reasoning",
+      "description": "Mathematical reasoning.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 35,
+      "subtopics": [
+        {
+          "code": "IMO-G8-T7-S1",
+          "name": "Logical Reasoning",
+          "description": "Logic and proof.",
+          "learningObjectives": [
+            "Apply logic",
+            "Construct arguments"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 18,
+          "tags": [
+            "reasoning",
+            "imo",
+            "grade8"
+          ]
+        },
+        {
+          "code": "IMO-G8-T7-S2",
+          "name": "Problem Solving",
+          "description": "Multi-step problems.",
+          "learningObjectives": [
+            "Solve complex problems",
+            "Apply strategies"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 17,
+          "tags": [
+            "reasoning",
+            "imo",
+            "grade8"
+          ]
+        }
+      ]
+    }
+  ]
+}

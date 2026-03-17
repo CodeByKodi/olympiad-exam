@@ -1,0 +1,20 @@
+{
+  "packId": "imo-grade7-percentages-and-ratios-practice-01",
+  "exam": "imo",
+  "grade": 7,
+  "mode": "practice",
+  "title": "Percentages and Ratios Practice Test",
+  "topic": "Percentages and Ratios",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Percentages and Ratios"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

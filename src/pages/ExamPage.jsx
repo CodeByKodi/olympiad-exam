@@ -1,4 +1,4 @@
-import { useState, useEffect, useCallback } from 'react';
+import { useState, useEffect, useCallback, useMemo } from 'react';
 import { useParams, useSearchParams, useNavigate } from 'react-router-dom';
 import { EXAMS, TEST_MODES, MOCK_TEST_DURATION_MINUTES } from '../constants/exams';
 import { ExamHeader } from '../components/ExamHeader';
@@ -49,7 +49,7 @@ export function ExamPage() {
   const [restored, setRestored] = useState(false);
 
   const exam = EXAMS[examId?.toUpperCase()] || EXAMS.NSO;
-  const questions = data?.questions || [];
+  const questions = useMemo(() => data?.questions || [], [data?.questions]);
   const durationMinutes = data?.durationMinutes ?? MOCK_TEST_DURATION_MINUTES;
   const totalSeconds = parseDurationToSeconds(durationMinutes);
 
@@ -63,26 +63,33 @@ export function ExamPage() {
       inProgress.testId === testId &&
       inProgress.mode === mode;
     if (isSameAttempt) {
-      setAnswers(inProgress.answers || {});
-      setCurrentIndex(Math.min(inProgress.currentIndex ?? 0, questions.length - 1));
-      setMarkedForReview(new Set(inProgress.markedForReview || []));
-      if (!isPractice) {
-        const saved = inProgress.timeRemaining;
-        if (saved != null && saved > 0) {
-          setTimeRemaining(Math.floor(saved));
-        } else {
-          setTimeExpired(true);
+      queueMicrotask(() => {
+        setAnswers(inProgress.answers || {});
+        setCurrentIndex(Math.min(inProgress.currentIndex ?? 0, questions.length - 1));
+        setMarkedForReview(new Set(inProgress.markedForReview || []));
+        if (!isPractice) {
+          const saved = inProgress.timeRemaining;
+          if (saved != null && saved > 0) {
+            setTimeRemaining(Math.floor(saved));
+          } else {
+            setTimeExpired(true);
+          }
         }
-      }
+        setRestored(true);
+      });
     } else if (!isPractice) {
-      setTimeRemaining(totalSeconds);
+      queueMicrotask(() => {
+        setTimeRemaining(totalSeconds);
+        setRestored(true);
+      });
+    } else {
+      queueMicrotask(() => setRestored(true));
     }
-    setRestored(true);
   }, [examId, gradeId, testId, mode, questions.length, isPractice, totalSeconds, restored]);
 
   useEffect(() => {
     if (!isPractice && timeRemaining !== null && timeRemaining <= 0 && !timeExpired) {
-      setTimeExpired(true);
+      queueMicrotask(() => setTimeExpired(true));
     }
   }, [isPractice, timeRemaining, timeExpired]);
 
@@ -108,7 +115,7 @@ export function ExamPage() {
 
   useEffect(() => {
     if (timeExpired && !submitted) {
-      handleSubmit();
+      queueMicrotask(() => handleSubmit());
     }
   }, [timeExpired, submitted, handleSubmit]);
 
@@ -135,7 +142,7 @@ export function ExamPage() {
         startedAt: Date.now(),
       });
     }
-  }, [examId, gradeId, testId, mode, answers, currentIndex, markedForReview, timeRemaining]);
+  }, [examId, gradeId, testId, mode, answers, currentIndex, markedForReview, timeRemaining, questions.length]);
 
   const handleSelectAnswer = useCallback((qId, idx) => {
     setAnswers((prev) => ({ ...prev, [qId]: idx }));

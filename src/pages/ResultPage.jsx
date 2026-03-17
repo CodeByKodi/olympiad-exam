@@ -36,15 +36,20 @@ export function ResultPage() {
     ? fromState
     : (fromStorage || fromState);
 
+  const hasResult = !!fromState.summary && !!fromState.questions?.length;
+  const resultAnswers = fromState.answers;
+  const resultQuestions = fromState.questions;
+  const resultSummary = fromState.summary;
+
   useEffect(() => {
-    if (fromState.summary && fromState.questions?.length) {
+    if (hasResult && resultQuestions && resultSummary) {
       saveLastResult(examId, gradeId, testId, {
-        questions: fromState.questions,
-        answers: fromState.answers || {},
-        summary: fromState.summary,
+        questions: resultQuestions,
+        answers: resultAnswers || {},
+        summary: resultSummary,
       });
     }
-  }, [examId, gradeId, testId, !!fromState.summary]);
+  }, [examId, gradeId, testId, hasResult, resultAnswers, resultQuestions, resultSummary]);
 
   const exam = EXAMS[examId?.toUpperCase()] || EXAMS.NSO;
 

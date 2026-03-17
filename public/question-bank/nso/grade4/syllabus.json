@@ -1,0 +1,350 @@
+{
+  "exam": "nso",
+  "grade": 4,
+  "topics": [
+    {
+      "code": "NSO-G4-T1",
+      "name": "Matter",
+      "description": "States and properties.",
+      "weightage": "high",
+      "recommendedQuestionCount": 45,
+      "subtopics": [
+        {
+          "code": "NSO-G4-T1-S1",
+          "name": "States of Matter",
+          "description": "Solid, liquid, gas.",
+          "learningObjectives": [
+            "Describe states",
+            "Explain changes"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 22,
+          "tags": [
+            "matter",
+            "nso",
+            "grade4"
+          ]
+        },
+        {
+          "code": "NSO-G4-T1-S2",
+          "name": "Properties of Matter",
+          "description": "Mass, volume, shape.",
+          "learningObjectives": [
+            "Identify properties",
+            "Compare materials"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 23,
+          "tags": [
+            "matter",
+            "nso",
+            "grade4"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "NSO-G4-T2",
+      "name": "Force and Motion",
+      "description": "Forces and simple motion.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 35,
+      "subtopics": [
+        {
+          "code": "NSO-G4-T2-S1",
+          "name": "Types of Force",
+          "description": "Push, pull, friction.",
+          "learningObjectives": [
+            "Identify forces",
+            "Describe effects"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 18,
+          "tags": [
+            "force",
+            "nso",
+            "grade4"
+          ]
+        },
+        {
+          "code": "NSO-G4-T2-S2",
+          "name": "Simple Motion",
+          "description": "Speed and direction.",
+          "learningObjectives": [
+            "Describe motion",
+            "Compare speeds"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 17,
+          "tags": [
+            "motion",
+            "nso",
+            "grade4"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "NSO-G4-T3",
+      "name": "Light and Sound",
+      "description": "Light and sound basics.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 40,
+      "subtopics": [
+        {
+          "code": "NSO-G4-T3-S1",
+          "name": "Light",
+          "description": "Sources, shadows, reflection.",
+          "learningObjectives": [
+            "Identify light sources",
+            "Explain shadows"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 20,
+          "tags": [
+            "light",
+            "nso",
+            "grade4"
+          ]
+        },
+        {
+          "code": "NSO-G4-T3-S2",
+          "name": "Sound",
+          "description": "Sources and propagation.",
+          "learningObjectives": [
+            "Identify sound sources",
+            "Describe sound travel"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 20,
+          "tags": [
+            "sound",
+            "nso",
+            "grade4"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "NSO-G4-T4",
+      "name": "Energy",
+      "description": "Forms of energy.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 35,
+      "subtopics": [
+        {
+          "code": "NSO-G4-T4-S1",
+          "name": "Forms of Energy",
+          "description": "Heat, light, sound.",
+          "learningObjectives": [
+            "Identify energy forms",
+            "Describe conversion"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 18,
+          "tags": [
+            "energy",
+            "nso",
+            "grade4"
+          ]
+        },
+        {
+          "code": "NSO-G4-T4-S2",
+          "name": "Sources of Energy",
+          "description": "Sun, fuel, food.",
+          "learningObjectives": [
+            "List energy sources",
+            "Compare renewable/non-renewable"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 17,
+          "tags": [
+            "energy",
+            "nso",
+            "grade4"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "NSO-G4-T5",
+      "name": "Earth and Space",
+      "description": "Earth systems and space.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 40,
+      "subtopics": [
+        {
+          "code": "NSO-G4-T5-S1",
+          "name": "Earth",
+          "description": "Rocks, soil, water cycle.",
+          "learningObjectives": [
+            "Describe Earth layers",
+            "Explain water cycle"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 20,
+          "tags": [
+            "earth",
+            "nso",
+            "grade4"
+          ]
+        },
+        {
+          "code": "NSO-G4-T5-S2",
+          "name": "Space",
+          "description": "Solar system basics.",
+          "learningObjectives": [
+            "Identify planets",
+            "Describe Earth movement"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 20,
+          "tags": [
+            "space",
+            "nso",
+            "grade4"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "NSO-G4-T6",
+      "name": "Plants, Animals, and Body",
+      "description": "Living world and body.",
+      "weightage": "high",
+      "recommendedQuestionCount": 50,
+      "subtopics": [
+        {
+          "code": "NSO-G4-T6-S1",
+          "name": "Plants and Animals",
+          "description": "Life processes.",
+          "learningObjectives": [
+            "Describe life processes",
+            "Compare plants and animals"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 25,
+          "tags": [
+            "plants",
+            "animals",
+            "nso",
+            "grade4"
+          ]
+        },
+        {
+          "code": "NSO-G4-T6-S2",
+          "name": "Body Systems",
+          "description": "Digestive, respiratory basics.",
+          "learningObjectives": [
+            "Identify body systems",
+            "Describe functions"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 25,
+          "tags": [
+            "body",
+            "nso",
+            "grade4"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "NSO-G4-T7",
+      "name": "Environment",
+      "description": "Ecosystem and conservation.",
+      "weightage": "low",
+      "recommendedQuestionCount": 25,
+      "subtopics": [
+        {
+          "code": "NSO-G4-T7-S1",
+          "name": "Ecosystem",
+          "description": "Food chains and webs.",
+          "learningObjectives": [
+            "Describe food chain",
+            "Identify producers/consumers"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "environment",
+            "nso",
+            "grade4"
+          ]
+        },
+        {
+          "code": "NSO-G4-T7-S2",
+          "name": "Conservation",
+          "description": "Protecting environment.",
+          "learningObjectives": [
+            "Explain conservation",
+            "List ways to protect"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 10,
+          "tags": [
+            "environment",
+            "nso",
+            "grade4"
+          ]
+        }
+      ]
+    }
+  ]
+}

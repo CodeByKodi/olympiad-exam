@@ -1,15 +1,15 @@
 {
-  "packId": "isso-grade3-maps-geography-and-landforms-practice-02",
+  "packId": "isso-grade3-maps-practice-01",
   "exam": "isso",
   "grade": 3,
   "mode": "practice",
-  "title": "Maps, Geography, and Landforms Practice Test",
-  "topic": "Maps, Geography, and Landforms",
+  "title": "Maps Practice Test",
+  "topic": "Maps",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "Maps, Geography, and Landforms"
+      "Maps"
     ],
     "difficultyMix": {
       "easy": 15,

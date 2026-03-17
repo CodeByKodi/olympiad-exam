@@ -1,0 +1,20 @@
+{
+  "packId": "nso-grade6-force-and-motion-practice-01",
+  "exam": "nso",
+  "grade": 6,
+  "mode": "practice",
+  "title": "Force and Motion Practice Test",
+  "topic": "Force and Motion",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Force and Motion"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

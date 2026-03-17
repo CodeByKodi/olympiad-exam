@@ -15,7 +15,6 @@ import { EXAMS, GRADES } from '../constants/exams.js';
 export async function loadQuestionBank(examId, gradeId) {
   const map = new Map();
   const base = `question-bank/${examId}/grade${gradeId}/questions`;
-  const indexUrl = resolveStaticPath(`${base}/index.json`);
 
   try {
     const topicFiles = await getTopicFiles(examId, gradeId);
@@ -47,7 +46,7 @@ async function getTopicFiles(examId, gradeId) {
   return [];
 }
 
-function normalizeQuestion(q, examId, gradeId) {
+function normalizeQuestion(q, _examId, _gradeId) {
   return {
     id: String(q.id),
     questionText: q.questionText,

@@ -76,7 +76,7 @@ function main() {
       const path = join(examDir, `grade${grade}.json`);
       writeFileSync(path, JSON.stringify(syllabus, null, 2), 'utf-8');
       grades.push({ grade, file: `grade${grade}.json` });
-      const topicCount = syllabus.topics.reduce((s, t) => s + (t.subtopics?.length || 0) + 1, 0);
+      const _topicCount = syllabus.topics.reduce((s, t) => s + (t.subtopics?.length || 0) + 1, 0);
       console.log(`  ${exam}/grade${grade}.json (${syllabus.topics.length} topics)`);
     }
 

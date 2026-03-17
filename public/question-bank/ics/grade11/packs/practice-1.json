@@ -1,0 +1,20 @@
+{
+  "packId": "ics-grade11-programming-practice-01",
+  "exam": "ics",
+  "grade": 11,
+  "mode": "practice",
+  "title": "Programming Practice Test",
+  "topic": "Programming",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Programming"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

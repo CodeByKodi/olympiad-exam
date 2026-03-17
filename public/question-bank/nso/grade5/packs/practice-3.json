@@ -1,0 +1,20 @@
+{
+  "packId": "nso-grade5-energy-practice-01",
+  "exam": "nso",
+  "grade": 5,
+  "mode": "practice",
+  "title": "Energy Practice Test",
+  "topic": "Energy",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Energy"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "packId": "ics-grade5-hardware-practice-01",
+  "exam": "ics",
+  "grade": 5,
+  "mode": "practice",
+  "title": "Hardware Practice Test",
+  "topic": "Hardware",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Hardware"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

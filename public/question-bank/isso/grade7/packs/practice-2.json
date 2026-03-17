@@ -1,0 +1,20 @@
+{
+  "packId": "isso-grade7-history-practice-01",
+  "exam": "isso",
+  "grade": 7,
+  "mode": "practice",
+  "title": "History Practice Test",
+  "topic": "History",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "History"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

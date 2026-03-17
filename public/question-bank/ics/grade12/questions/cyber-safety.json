@@ -1,0 +1,839 @@
+[
+  {
+    "id": "ics-g12-cyber-safety-0112",
+    "exam": "ics",
+    "grade": "12",
+    "topic": "Cyber Safety",
+    "subtopic": "Cyber Safety Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which key selects all text?",
+    "image": "",
+    "options": [
+      "Ctrl+A or Cmd+A",
+      "Ctrl+B",
+      "Ctrl+C",
+      "Ctrl+S"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ctrl+A selects all text.",
+    "tags": [
+      "keyboard",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g12-cyber-safety-0113",
+    "exam": "ics",
+    "grade": "12",
+    "topic": "Cyber Safety",
+    "subtopic": "Cyber Safety Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which key opens a new document?",
+    "image": "",
+    "options": [
+      "Ctrl+N or Cmd+N",
+      "Ctrl+S",
+      "Ctrl+P",
+      "Ctrl+C"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ctrl+N opens a new document.",
+    "tags": [
+      "keyboard",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g12-cyber-safety-0114",
+    "exam": "ics",
+    "grade": "12",
+    "topic": "Cyber Safety",
+    "subtopic": "Cyber Safety Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What should we do if someone we don't know asks for our personal details online?",
+    "image": "",
+    "options": [
+      "Share everything",
+      "Tell a trusted adult and don't share",
+      "Ignore and block",
+      "Both B and C"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Tell a trusted adult and don't share.",
+    "tags": [
+      "internet-safety-and-digital-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g12-cyber-safety-0115",
+    "exam": "ics",
+    "grade": "12",
+    "topic": "Cyber Safety",
+    "subtopic": "Cyber Safety Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Why is it important to take breaks when using a computer?",
+    "image": "",
+    "options": [
+      "To waste time",
+      "To rest our eyes and body",
+      "No reason",
+      "To play more"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Breaks rest our eyes and prevent strain.",
+    "tags": [
+      "internet-safety-and-digital-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g12-cyber-safety-0116",
+    "exam": "ics",
+    "grade": "12",
+    "topic": "Cyber Safety",
+    "subtopic": "Cyber Safety Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What should we do if we see something strange or scary online?",
+    "image": "",
+    "options": [
+      "Keep looking",
+      "Tell a trusted adult",
+      "Share with friends",
+      "Ignore it"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tell a trusted adult.",
+    "tags": [
+      "internet-safety-and-digital-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g12-cyber-safety-0117",
+    "exam": "ics",
+    "grade": "12",
+    "topic": "Cyber Safety",
+    "subtopic": "Cyber Safety Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a strong password?",
+    "image": "",
+    "options": [
+      "123456",
+      "password",
+      "A mix of letters, numbers, and symbols",
+      "Our name"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Strong passwords mix letters, numbers, symbols.",
+    "tags": [
+      "internet-safety-and-digital-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g12-cyber-safety-0118",
+    "exam": "ics",
+    "grade": "12",
+    "topic": "Cyber Safety",
+    "subtopic": "Cyber Safety Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Why should we not click on pop-up ads from unknown sources?",
+    "image": "",
+    "options": [
+      "They are fun",
+      "They might be unsafe",
+      "No reason",
+      "They give free stuff"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Unknown pop-ups can be unsafe.",
+    "tags": [
+      "internet-safety-and-digital-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g12-cyber-safety-0119",
+    "exam": "ics",
+    "grade": "12",
+    "topic": "Cyber Safety",
+    "subtopic": "Cyber Safety Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call information that identifies us, like our name or address?",
+    "image": "",
+    "options": [
+      "Public info",
+      "Personal information",
+      "General knowledge",
+      "Fun facts"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Personal information identifies us.",
+    "tags": [
+      "internet-safety-and-digital-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g12-cyber-safety-0120",
+    "exam": "ics",
+    "grade": "12",
+    "topic": "Cyber Safety",
+    "subtopic": "Cyber Safety Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What should we do before downloading something from the internet?",
+    "image": "",
+    "options": [
+      "Download immediately",
+      "Ask a trusted adult",
+      "Share with everyone",
+      "Ignore it"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ask a trusted adult before downloading.",
+    "tags": [
+      "internet-safety-and-digital-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g12-cyber-safety-0121",
+    "exam": "ics",
+    "grade": "12",
+    "topic": "Cyber Safety",
+    "subtopic": "Cyber Safety Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the rules for staying safe online?",
+    "image": "",
+    "options": [
+      "Game rules",
+      "Internet safety rules",
+      "School rules",
+      "Traffic rules"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Internet safety rules help us stay safe.",
+    "tags": [
+      "internet-safety-and-digital-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g12-cyber-safety-0122",
+    "exam": "ics",
+    "grade": "12",
+    "topic": "Cyber Safety",
+    "subtopic": "Cyber Safety Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Why should we log out when we finish using a shared computer?",
+    "image": "",
+    "options": [
+      "To waste time",
+      "To keep our account safe",
+      "No reason",
+      "To slow down"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Logging out keeps our account safe.",
+    "tags": [
+      "internet-safety-and-digital-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g12-cyber-safety-0123",
+    "exam": "ics",
+    "grade": "12",
+    "topic": "Cyber Safety",
+    "subtopic": "Cyber Safety Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a secret word we use to access our account?",
+    "image": "",
+    "options": [
+      "Username",
+      "Password",
+      "Email",
+      "URL"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A password protects our account.",
+    "tags": [
+      "internet-safety-and-digital-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g12-cyber-safety-0124",
+    "exam": "ics",
+    "grade": "12",
+    "topic": "Cyber Safety",
+    "subtopic": "Cyber Safety Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What should we do if we receive a message from someone we don't know?",
+    "image": "",
+    "options": [
+      "Reply immediately",
+      "Tell a trusted adult and don't reply",
+      "Share our details",
+      "Forward to everyone"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tell a trusted adult and don't reply.",
+    "tags": [
+      "internet-safety-and-digital-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g12-cyber-safety-0125",
+    "exam": "ics",
+    "grade": "12",
+    "topic": "Cyber Safety",
+    "subtopic": "Cyber Safety Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How can we protect our eyes when using a computer?",
+    "image": "",
+    "options": [
+      "Sit very close",
+      "Take breaks and sit at proper distance",
+      "Use in dark room",
+      "Never blink"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Take breaks and sit at proper distance.",
+    "tags": [
+      "internet-safety-and-digital-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g12-cyber-safety-0126",
+    "exam": "ics",
+    "grade": "12",
+    "topic": "Cyber Safety",
+    "subtopic": "Cyber Safety Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the act of being kind and respectful online?",
+    "image": "",
+    "options": [
+      "Cyberbullying",
+      "Digital citizenship",
+      "Hacking",
+      "Gaming"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Digital citizenship means being kind online.",
+    "tags": [
+      "internet-safety-and-digital-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g12-cyber-safety-0127",
+    "exam": "ics",
+    "grade": "12",
+    "topic": "Cyber Safety",
+    "subtopic": "Cyber Safety Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Why should we not believe everything we read on the internet?",
+    "image": "",
+    "options": [
+      "The internet is always wrong",
+      "Some information may be false",
+      "Reading is boring",
+      "No reason"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Some information online may be false.",
+    "tags": [
+      "internet-safety-and-digital-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g12-cyber-safety-0128",
+    "exam": "ics",
+    "grade": "12",
+    "topic": "Cyber Safety",
+    "subtopic": "Cyber Safety Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a program that can harm our computer?",
+    "image": "",
+    "options": [
+      "Game",
+      "Virus",
+      "Browser",
+      "Calculator"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A virus can harm our computer.",
+    "tags": [
+      "internet-safety-and-digital-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g12-cyber-safety-0129",
+    "exam": "ics",
+    "grade": "12",
+    "topic": "Cyber Safety",
+    "subtopic": "Cyber Safety Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What should we do if our computer acts strangely or shows pop-ups?",
+    "image": "",
+    "options": [
+      "Ignore it",
+      "Tell a trusted adult",
+      "Click on everything",
+      "Turn off and never use"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tell a trusted adult.",
+    "tags": [
+      "internet-safety-and-digital-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g12-cyber-safety-0130",
+    "exam": "ics",
+    "grade": "12",
+    "topic": "Cyber Safety",
+    "subtopic": "Cyber Safety Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Why should we not share our password?",
+    "image": "",
+    "options": [
+      "It is fun",
+      "To keep our account safe",
+      "Everyone knows it",
+      "No reason"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Passwords keep our account safe.",
+    "tags": [
+      "safety",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g12-cyber-safety-0131",
+    "exam": "ics",
+    "grade": "12",
+    "topic": "Cyber Safety",
+    "subtopic": "Cyber Safety Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Why should we not share personal information online?",
+    "image": "",
+    "options": [
+      "It is boring",
+      "To stay safe",
+      "No one cares",
+      "It is fun"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sharing personal info can be unsafe.",
+    "tags": [
+      "safety",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g12-cyber-safety-0132",
+    "exam": "ics",
+    "grade": "12",
+    "topic": "Cyber Safety",
+    "subtopic": "Cyber Safety Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Why is good posture important when using a computer?",
+    "image": "",
+    "options": [
+      "To look good",
+      "To avoid back pain",
+      "No reason",
+      "To type faster"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Good posture prevents pain.",
+    "tags": [
+      "safety",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g12-cyber-safety-0133",
+    "exam": "ics",
+    "grade": "12",
+    "topic": "Cyber Safety",
+    "subtopic": "Cyber Safety Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What does CPU stand for?",
+    "image": "",
+    "options": [
+      "Central Processing Unit",
+      "Computer Personal Unit",
+      "Central Program Unit",
+      "Computer Processing Unit"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CPU means Central Processing Unit.",
+    "tags": [
+      "computer-parts",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g12-cyber-safety-0134",
+    "exam": "ics",
+    "grade": "12",
+    "topic": "Cyber Safety",
+    "subtopic": "Cyber Safety Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to store and carry files to another computer?",
+    "image": "",
+    "options": [
+      "Monitor",
+      "USB drive",
+      "Keyboard",
+      "Mouse"
+    ],
+    "correctAnswer": 1,
+    "explanation": "USB drives store and carry files.",
+    "tags": [
+      "storage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g12-cyber-safety-0135",
+    "exam": "ics",
+    "grade": "12",
+    "topic": "Cyber Safety",
+    "subtopic": "Cyber Safety Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What does the Save command do?",
+    "image": "",
+    "options": [
+      "Closes the file",
+      "Stores your work for later",
+      "Deletes the file",
+      "Prints the file"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Save stores your work.",
+    "tags": [
+      "basic-operations",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g12-cyber-safety-0136",
+    "exam": "ics",
+    "grade": "12",
+    "topic": "Cyber Safety",
+    "subtopic": "Cyber Safety Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a collection of files stored together?",
+    "image": "",
+    "options": [
+      "File",
+      "Folder",
+      "Desktop",
+      "Icon"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A folder holds files.",
+    "tags": [
+      "storage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g12-cyber-safety-0137",
+    "exam": "ics",
+    "grade": "12",
+    "topic": "Cyber Safety",
+    "subtopic": "Cyber Safety Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What does the Copy command do?",
+    "image": "",
+    "options": [
+      "Deletes text",
+      "Makes a duplicate to paste elsewhere",
+      "Saves the file",
+      "Prints the file"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Copy makes a duplicate.",
+    "tags": [
+      "basic-operations",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g12-cyber-safety-0138",
+    "exam": "ics",
+    "grade": "12",
+    "topic": "Cyber Safety",
+    "subtopic": "Cyber Safety Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which part stores files when the computer is off?",
+    "image": "",
+    "options": [
+      "Monitor",
+      "RAM",
+      "Hard disk",
+      "Keyboard"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The hard disk stores files permanently.",
+    "tags": [
+      "storage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g12-cyber-safety-0139",
+    "exam": "ics",
+    "grade": "12",
+    "topic": "Cyber Safety",
+    "subtopic": "Cyber Safety Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What should we do before closing a program with unsaved work?",
+    "image": "",
+    "options": [
+      "Nothing",
+      "Save our work",
+      "Delete everything",
+      "Shut down"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Always save before closing.",
+    "tags": [
+      "basic-operations",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g12-cyber-safety-0140",
+    "exam": "ics",
+    "grade": "12",
+    "topic": "Cyber Safety",
+    "subtopic": "Cyber Safety Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the bar at the top of a window?",
+    "image": "",
+    "options": [
+      "Status bar",
+      "Title bar",
+      "Menu bar",
+      "Toolbar"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The title bar shows the window name.",
+    "tags": [
+      "basic-operations",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g12-cyber-safety-0141",
+    "exam": "ics",
+    "grade": "12",
+    "topic": "Cyber Safety",
+    "subtopic": "Cyber Safety Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a list of options in a program?",
+    "image": "",
+    "options": [
+      "Icon",
+      "Folder",
+      "Menu",
+      "File"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A menu shows options.",
+    "tags": [
+      "basic-operations",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g12-cyber-safety-0142",
+    "exam": "ics",
+    "grade": "12",
+    "topic": "Cyber Safety",
+    "subtopic": "Cyber Safety Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a picture or icon that opens a program quickly?",
+    "image": "",
+    "options": [
+      "Folder",
+      "File",
+      "Shortcut",
+      "Menu"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A shortcut opens a program quickly.",
+    "tags": [
+      "basic-operations",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  }
+]

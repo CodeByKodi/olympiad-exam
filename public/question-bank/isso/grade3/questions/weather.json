@@ -1,0 +1,839 @@
+[
+  {
+    "id": "isso-g3-weather-0112",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Weather",
+    "subtopic": "Weather Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the customs and traditions of a group?",
+    "image": "",
+    "options": [
+      "Science",
+      "Culture",
+      "Math",
+      "Sports"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Culture includes customs.",
+    "tags": [
+      "economy-society-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-weather-0113",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Weather",
+    "subtopic": "Weather Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What Indian festival is known for lighting lamps?",
+    "image": "",
+    "options": [
+      "Holi",
+      "Diwali",
+      "Eid",
+      "Christmas"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Diwali is the festival of lights.",
+    "tags": [
+      "economy-society-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-weather-0114",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Weather",
+    "subtopic": "Weather Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the traditional clothes of a region?",
+    "image": "",
+    "options": [
+      "Uniform",
+      "Costume",
+      "Dress",
+      "Outfit"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Traditional clothes are costumes.",
+    "tags": [
+      "economy-society-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-weather-0115",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Weather",
+    "subtopic": "Weather Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the food that is special to a region?",
+    "image": "",
+    "options": [
+      "Fast food",
+      "Traditional food",
+      "Junk food",
+      "Frozen food"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Traditional food is special.",
+    "tags": [
+      "economy-society-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-weather-0116",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Weather",
+    "subtopic": "Weather Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the music and dance of a region?",
+    "image": "",
+    "options": [
+      "Pop music",
+      "Folk music",
+      "Rock music",
+      "Jazz"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Folk music and dance are traditional.",
+    "tags": [
+      "economy-society-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-weather-0117",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Weather",
+    "subtopic": "Weather Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a language spoken in a region?",
+    "image": "",
+    "options": [
+      "Foreign language",
+      "Regional language",
+      "Secret language",
+      "New language"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Regional languages are local.",
+    "tags": [
+      "economy-society-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-weather-0118",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Weather",
+    "subtopic": "Weather Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is art made by hand in traditional ways?",
+    "image": "",
+    "options": [
+      "Machine art",
+      "Handicraft",
+      "Digital art",
+      "Print art"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Handicrafts are made by hand.",
+    "tags": [
+      "economy-society-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-weather-0119",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Weather",
+    "subtopic": "Weather Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call helping people in need?",
+    "image": "",
+    "options": [
+      "Ignoring",
+      "Charity",
+      "Wasting",
+      "Hiding"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Charity helps people in need.",
+    "tags": [
+      "economy-society-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-weather-0120",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Weather",
+    "subtopic": "Weather Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call treating everyone fairly?",
+    "image": "",
+    "options": [
+      "Unfair",
+      "Equality",
+      "Bias",
+      "Favor"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Equality means treating everyone fairly.",
+    "tags": [
+      "economy-society-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-weather-0121",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Weather",
+    "subtopic": "Weather Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the rules we follow in a community?",
+    "image": "",
+    "options": [
+      "Suggestions",
+      "Laws",
+      "Ideas",
+      "Wishes"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Laws are rules we follow.",
+    "tags": [
+      "economy-society-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-weather-0122",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Weather",
+    "subtopic": "Weather Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call living together peacefully?",
+    "image": "",
+    "options": [
+      "Conflict",
+      "Harmony",
+      "Fight",
+      "War"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Harmony means peaceful living.",
+    "tags": [
+      "economy-society-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-weather-0123",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Weather",
+    "subtopic": "Weather Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call respecting people from different backgrounds?",
+    "image": "",
+    "options": [
+      "Prejudice",
+      "Tolerance",
+      "Hate",
+      "Ignore"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tolerance means respecting differences.",
+    "tags": [
+      "economy-society-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-weather-0124",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Weather",
+    "subtopic": "Weather Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a place where children learn?",
+    "image": "",
+    "options": [
+      "Hospital",
+      "Market",
+      "School",
+      "Park"
+    ],
+    "correctAnswer": 2,
+    "explanation": "School is where children learn.",
+    "tags": [
+      "economy-society-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-weather-0125",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Weather",
+    "subtopic": "Weather Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a person who teaches?",
+    "image": "",
+    "options": [
+      "Doctor",
+      "Teacher",
+      "Farmer",
+      "Driver"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Teachers help us learn.",
+    "tags": [
+      "economy-society-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-weather-0126",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Weather",
+    "subtopic": "Weather Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the right to go to school?",
+    "image": "",
+    "options": [
+      "Right to vote",
+      "Right to education",
+      "Right to food",
+      "Right to speak"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Every child has the right to education.",
+    "tags": [
+      "economy-society-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-weather-0127",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Weather",
+    "subtopic": "Weather Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a group of people living in an area?",
+    "image": "",
+    "options": [
+      "Family",
+      "Community",
+      "School",
+      "Office"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A community lives in an area.",
+    "tags": [
+      "economy-society-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-weather-0128",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Weather",
+    "subtopic": "Weather Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call working together for a common goal?",
+    "image": "",
+    "options": [
+      "Competition",
+      "Cooperation",
+      "Conflict",
+      "Ignoring"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cooperation means working together.",
+    "tags": [
+      "economy-society-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-weather-0129",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Weather",
+    "subtopic": "Weather Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the rules that a country follows?",
+    "image": "",
+    "options": [
+      "Story",
+      "Constitution",
+      "Poem",
+      "Song"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Constitution has the rules.",
+    "tags": [
+      "government",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-weather-0130",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Weather",
+    "subtopic": "Weather Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a place where people vote?",
+    "image": "",
+    "options": [
+      "School",
+      "Hospital",
+      "Polling station",
+      "Market"
+    ],
+    "correctAnswer": 2,
+    "explanation": "People vote at polling stations.",
+    "tags": [
+      "government",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-weather-0131",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Weather",
+    "subtopic": "Weather Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is a market?",
+    "image": "",
+    "options": [
+      "A school",
+      "A place to buy and sell",
+      "A hospital",
+      "A park"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A market is for buying and selling.",
+    "tags": [
+      "economy",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-weather-0132",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Weather",
+    "subtopic": "Weather Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a group of people who live together?",
+    "image": "",
+    "options": [
+      "Family",
+      "Society",
+      "School",
+      "Office"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Society is a group of people.",
+    "tags": [
+      "society",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-weather-0133",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Weather",
+    "subtopic": "Weather Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which type of family has many generations together?",
+    "image": "",
+    "options": [
+      "Nuclear family",
+      "Joint family",
+      "Single family",
+      "No family"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A joint family has many generations.",
+    "tags": [
+      "society",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-weather-0134",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Weather",
+    "subtopic": "Weather Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a building that displays old artifacts?",
+    "image": "",
+    "options": [
+      "Library",
+      "Museum",
+      "Hospital",
+      "School"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A museum shows old things.",
+    "tags": [
+      "places",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-weather-0135",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Weather",
+    "subtopic": "Weather Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which resource do humans need most?",
+    "image": "",
+    "options": [
+      "Plastic",
+      "Water",
+      "Glass",
+      "Steel"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Water is essential for life.",
+    "tags": [
+      "resources",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-weather-0136",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Weather",
+    "subtopic": "Weather Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which Indian festival is known for lighting lamps?",
+    "image": "",
+    "options": [
+      "Holi",
+      "Diwali",
+      "Eid",
+      "Christmas"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Diwali is the festival of lights.",
+    "tags": [
+      "culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-weather-0137",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Weather",
+    "subtopic": "Weather Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the money we use to buy things?",
+    "image": "",
+    "options": [
+      "Toy",
+      "Currency",
+      "Gift",
+      "Token"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currency is the money we use.",
+    "tags": [
+      "economy",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-weather-0138",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Weather",
+    "subtopic": "Weather Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a person who grows crops?",
+    "image": "",
+    "options": [
+      "Doctor",
+      "Teacher",
+      "Farmer",
+      "Driver"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Farmers grow crops.",
+    "tags": [
+      "economy",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-weather-0139",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Weather",
+    "subtopic": "Weather Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the customs and traditions of a group?",
+    "image": "",
+    "options": [
+      "Science",
+      "Culture",
+      "Math",
+      "Sports"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Culture includes customs.",
+    "tags": [
+      "culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-weather-0140",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Weather",
+    "subtopic": "Weather Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the system where people choose their leaders?",
+    "image": "",
+    "options": [
+      "Monarchy",
+      "Democracy",
+      "Dictatorship",
+      "Empire"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Democracy lets people choose.",
+    "tags": [
+      "government",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-weather-0141",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Weather",
+    "subtopic": "Weather Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the head of the Indian government?",
+    "image": "",
+    "options": [
+      "President",
+      "Prime Minister",
+      "Chief Minister",
+      "Mayor"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Prime Minister heads the government.",
+    "tags": [
+      "government",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-weather-0142",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Weather",
+    "subtopic": "Weather Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which right means we can say what we think?",
+    "image": "",
+    "options": [
+      "Right to education",
+      "Freedom of speech",
+      "Right to vote",
+      "Right to food"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Freedom of speech lets us express.",
+    "tags": [
+      "rights",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  }
+]

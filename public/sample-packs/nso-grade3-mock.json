@@ -1,0 +1,685 @@
+{
+  "packId": "nso-grade3-mock-01",
+  "exam": "nso",
+  "grade": 3,
+  "mode": "mock",
+  "title": "NSO Mock Test 1",
+  "questions": [
+    {
+      "id": "nso-g3-earth-environment-and-space-0145",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Earth, Environment, and Space",
+      "subtopic": "Earth",
+      "difficulty": "medium",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "Which is the largest ocean on Earth?",
+      "image": "",
+      "options": [
+        "Indian Ocean",
+        "Atlantic Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Pacific Ocean is the largest ocean on Earth.",
+      "tags": [
+        "earth-environment-and-space",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-human-body-and-food-0048",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Human Body and Food",
+      "subtopic": "Body Parts and Senses",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "Which food should we eat less of?",
+      "image": "",
+      "options": [
+        "Fruits",
+        "Vegetables",
+        "Junk food",
+        "Milk"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Junk food like chips and candy should be eaten less often.",
+      "tags": [
+        "human-body-and-food",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-human-body-and-food-0054",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Human Body and Food",
+      "subtopic": "Body Parts and Senses",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "Why should we eat a balanced diet?",
+      "image": "",
+      "options": [
+        "To get only sugar",
+        "To get all nutrients we need",
+        "To eat less",
+        "No reason"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A balanced diet gives us all the nutrients for growth and health.",
+      "tags": [
+        "human-body-and-food",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-plants-and-animals-0012",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Plants and Animals",
+      "subtopic": "Plants",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "What do carnivores eat?",
+      "image": "",
+      "options": [
+        "Only plants",
+        "Only other animals",
+        "Both plants and animals",
+        "Nothing"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Carnivores are animals that eat other animals.",
+      "tags": [
+        "plants-and-animals",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-earth-environment-and-space-0134",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Earth, Environment, and Space",
+      "subtopic": "Earth",
+      "difficulty": "medium",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "What helps a plant to make seeds?",
+      "image": "",
+      "options": [
+        "Roots",
+        "Leaves",
+        "Flowers",
+        "Stem"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Flowers produce seeds. Bees and wind help in pollination.",
+      "tags": [
+        "plants-and-animals",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-earth-environment-and-space-0126",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Earth, Environment, and Space",
+      "subtopic": "Earth",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "Is Earth flat or round?",
+      "image": "",
+      "options": [
+        "Flat",
+        "Round like a ball",
+        "Square",
+        "Triangle"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Earth is round like a ball (a sphere).",
+      "tags": [
+        "earth-and-space",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-matter-energy-and-force-0087",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Matter, Energy, and Force",
+      "subtopic": "Matter",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "What do magnets pull?",
+      "image": "",
+      "options": [
+        "Wood",
+        "Paper",
+        "Iron",
+        "Plastic"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Magnets attract objects made of iron.",
+      "tags": [
+        "force",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-matter-energy-and-force-0098",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Matter, Energy, and Force",
+      "subtopic": "Matter",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "Which direction does the Sun rise from?",
+      "image": "",
+      "options": [
+        "North",
+        "South",
+        "East",
+        "West"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Sun rises in the East and sets in the West.",
+      "tags": [
+        "earth-environment-and-space",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-plants-and-animals-0029",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Plants and Animals",
+      "subtopic": "Plants",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "Which animal has a long neck?",
+      "image": "",
+      "options": [
+        "Dog",
+        "Giraffe",
+        "Cat",
+        "Rabbit"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Giraffes have very long necks.",
+      "tags": [
+        "animals",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-plants-and-animals-0032",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Plants and Animals",
+      "subtopic": "Plants",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "What do honeybees make?",
+      "image": "",
+      "options": [
+        "Milk",
+        "Honey",
+        "Bread",
+        "Cheese"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bees collect nectar and make honey.",
+      "tags": [
+        "animals",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-plants-and-animals-0005",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Plants and Animals",
+      "subtopic": "Plants",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "Which animal gives us eggs?",
+      "image": "",
+      "options": [
+        "Cow",
+        "Hen",
+        "Goat",
+        "Dog"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Hens lay eggs that we eat.",
+      "tags": [
+        "plants-and-animals",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-human-body-and-food-0079",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Human Body and Food",
+      "subtopic": "Body Parts and Senses",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "What is the main source of energy on Earth?",
+      "image": "",
+      "options": [
+        "Moon",
+        "Sun",
+        "Stars",
+        "Clouds"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Sun is the main source of light and heat energy on Earth.",
+      "tags": [
+        "matter-energy-and-force",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-plants-and-animals-0022",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Plants and Animals",
+      "subtopic": "Plants",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "What do we call a baby cat?",
+      "image": "",
+      "options": [
+        "Puppy",
+        "Cub",
+        "Kitten",
+        "Chick"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A baby cat is called a kitten.",
+      "tags": [
+        "animals",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-plants-and-animals-0017",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Plants and Animals",
+      "subtopic": "Plants",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "Which part of a plant is usually green?",
+      "image": "",
+      "options": [
+        "Root",
+        "Seed",
+        "Leaf",
+        "Flower"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Leaves are usually green because they contain chlorophyll.",
+      "tags": [
+        "plants-and-animals",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-matter-energy-and-force-0097",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Matter, Energy, and Force",
+      "subtopic": "Matter",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "What should we do to keep our environment clean?",
+      "image": "",
+      "options": [
+        "Throw garbage everywhere",
+        "Reduce, reuse, recycle",
+        "Burn plastic",
+        "Nothing"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Reduce, reuse, and recycle help keep our environment clean.",
+      "tags": [
+        "earth-environment-and-space",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-plants-and-animals-0014",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Plants and Animals",
+      "subtopic": "Plants",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "How do plants get water from the soil?",
+      "image": "",
+      "options": [
+        "Through leaves",
+        "Through roots",
+        "Through flowers",
+        "Through seeds"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Roots absorb water from the soil and send it to the rest of the plant.",
+      "tags": [
+        "plants-and-animals",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-human-body-and-food-0058",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Human Body and Food",
+      "subtopic": "Body Parts and Senses",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "Where does food go first after we eat?",
+      "image": "",
+      "options": [
+        "Stomach",
+        "Mouth",
+        "Intestine",
+        "Heart"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Food first goes to our mouth when we eat.",
+      "tags": [
+        "human-body",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-matter-energy-and-force-0107",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Matter, Energy, and Force",
+      "subtopic": "Matter",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "Which helps reduce air pollution?",
+      "image": "",
+      "options": [
+        "Burning garbage",
+        "Planting trees",
+        "Using more cars",
+        "Throwing waste in rivers"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Trees absorb carbon dioxide and give us oxygen. They help reduce pollution.",
+      "tags": [
+        "earth-environment-and-space",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-earth-environment-and-space-0136",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Earth, Environment, and Space",
+      "subtopic": "Earth",
+      "difficulty": "medium",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "How many bones are in an adult human body?",
+      "image": "",
+      "options": [
+        "About 100",
+        "About 150",
+        "About 200",
+        "About 300"
+      ],
+      "correctAnswer": 2,
+      "explanation": "An adult human has about 206 bones in the body.",
+      "tags": [
+        "human-body-and-food",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-plants-and-animals-0028",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Plants and Animals",
+      "subtopic": "Plants",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "What helps a plant to stand upright?",
+      "image": "",
+      "options": [
+        "Leaves",
+        "Roots",
+        "Stem",
+        "Flowers"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The stem holds the plant upright.",
+      "tags": [
+        "plants",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-earth-environment-and-space-0123",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Earth, Environment, and Space",
+      "subtopic": "Earth",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "Which way is North on a compass?",
+      "image": "",
+      "options": [
+        "Where the Sun rises",
+        "Where the needle points",
+        "Down",
+        "Up"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A compass needle points toward North.",
+      "tags": [
+        "earth-and-space",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-human-body-and-food-0080",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Human Body and Food",
+      "subtopic": "Body Parts and Senses",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "Which has a fixed shape?",
+      "image": "",
+      "options": [
+        "Water",
+        "Air",
+        "Book",
+        "Juice"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A book is a solid and has a fixed shape.",
+      "tags": [
+        "matter-energy-and-force",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-human-body-and-food-0056",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Human Body and Food",
+      "subtopic": "Body Parts and Senses",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "Which sense organ do we use to taste food?",
+      "image": "",
+      "options": [
+        "Eyes",
+        "Ears",
+        "Nose",
+        "Tongue"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The tongue helps us taste sweet, sour, salty, and bitter.",
+      "tags": [
+        "human-body",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-human-body-and-food-0066",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Human Body and Food",
+      "subtopic": "Body Parts and Senses",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "Which object gives us light at night?",
+      "image": "",
+      "options": [
+        "Moon",
+        "Cloud",
+        "Stone",
+        "Tree"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Moon reflects sunlight and gives us light at night.",
+      "tags": [
+        "matter-energy-and-force",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-plants-and-animals-0040",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Plants and Animals",
+      "subtopic": "Plants",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "Which food helps build strong bones?",
+      "image": "",
+      "options": [
+        "Sugar",
+        "Milk",
+        "Oil",
+        "Candy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Milk has calcium which helps build strong bones.",
+      "tags": [
+        "human-body-and-food",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    }
+  ],
+  "durationMinutes": 30
+}

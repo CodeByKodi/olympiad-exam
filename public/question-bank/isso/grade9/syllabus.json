@@ -1,0 +1,312 @@
+{
+  "exam": "isso",
+  "grade": 9,
+  "topics": [
+    {
+      "code": "ISSO-G9-T1",
+      "name": "Geography",
+      "description": "Geography for Grade 9.",
+      "weightage": "high",
+      "recommendedQuestionCount": 40,
+      "subtopics": [
+        {
+          "code": "ISSO-G9-T1-S1",
+          "name": "Geography Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "geography",
+            "isso",
+            "isso",
+            "grade9"
+          ]
+        },
+        {
+          "code": "ISSO-G9-T1-S2",
+          "name": "Geography Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "geography",
+            "isso",
+            "isso",
+            "grade9"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ISSO-G9-T2",
+      "name": "History",
+      "description": "History for Grade 9.",
+      "weightage": "high",
+      "recommendedQuestionCount": 37,
+      "subtopics": [
+        {
+          "code": "ISSO-G9-T2-S1",
+          "name": "History Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "history",
+            "isso",
+            "isso",
+            "grade9"
+          ]
+        },
+        {
+          "code": "ISSO-G9-T2-S2",
+          "name": "History Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "history",
+            "isso",
+            "isso",
+            "grade9"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ISSO-G9-T3",
+      "name": "Civics",
+      "description": "Civics for Grade 9.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 34,
+      "subtopics": [
+        {
+          "code": "ISSO-G9-T3-S1",
+          "name": "Civics Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "civics",
+            "isso",
+            "isso",
+            "grade9"
+          ]
+        },
+        {
+          "code": "ISSO-G9-T3-S2",
+          "name": "Civics Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "civics",
+            "isso",
+            "isso",
+            "grade9"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ISSO-G9-T4",
+      "name": "Resources",
+      "description": "Resources for Grade 9.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 31,
+      "subtopics": [
+        {
+          "code": "ISSO-G9-T4-S1",
+          "name": "Resources Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "resources",
+            "isso",
+            "isso",
+            "grade9"
+          ]
+        },
+        {
+          "code": "ISSO-G9-T4-S2",
+          "name": "Resources Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "resources",
+            "isso",
+            "isso",
+            "grade9"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ISSO-G9-T5",
+      "name": "Government",
+      "description": "Government for Grade 9.",
+      "weightage": "low",
+      "recommendedQuestionCount": 28,
+      "subtopics": [
+        {
+          "code": "ISSO-G9-T5-S1",
+          "name": "Government Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "government",
+            "isso",
+            "isso",
+            "grade9"
+          ]
+        },
+        {
+          "code": "ISSO-G9-T5-S2",
+          "name": "Government Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "government",
+            "isso",
+            "isso",
+            "grade9"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ISSO-G9-T6",
+      "name": "Climate",
+      "description": "Climate for Grade 9.",
+      "weightage": "low",
+      "recommendedQuestionCount": 25,
+      "subtopics": [
+        {
+          "code": "ISSO-G9-T6-S1",
+          "name": "Climate Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "climate",
+            "isso",
+            "isso",
+            "grade9"
+          ]
+        },
+        {
+          "code": "ISSO-G9-T6-S2",
+          "name": "Climate Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "climate",
+            "isso",
+            "isso",
+            "grade9"
+          ]
+        }
+      ]
+    }
+  ]
+}

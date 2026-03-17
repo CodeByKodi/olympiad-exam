@@ -1,15 +1,15 @@
 {
-  "packId": "ieo-grade3-grammar-basics-practice-01",
+  "packId": "ieo-grade3-vocabulary-practice-01",
   "exam": "ieo",
   "grade": 3,
   "mode": "practice",
-  "title": "Grammar Basics Practice Test",
-  "topic": "Grammar Basics",
+  "title": "Vocabulary Practice Test",
+  "topic": "Vocabulary",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "Grammar Basics"
+      "Vocabulary"
     ],
     "difficultyMix": {
       "easy": 15,

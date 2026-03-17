@@ -1,8 +1,8 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, startTransition } from 'react';
 import { loadTestData } from '../utils/loadTestData';
 import { loadPracticePool, loadPracticePack, loadMockPack } from '../utils/loadLibraryTestData';
 import { normalizeCorrectAnswer } from '../utils/scoreUtils';
-import { useQuestionLibrary } from '../context/QuestionLibraryContext';
+import { useQuestionLibrary } from './useQuestionLibrary';
 import { TESTS_PER_EXAM } from '../constants/exams';
 
 /**
@@ -23,14 +23,15 @@ export function useTestData(examId, gradeId, testId, shuffleQuestions = false, s
 
   useEffect(() => {
     if (!examId || !gradeId || !testId) {
-      setLoading(false);
+      startTransition(() => setLoading(false));
       return;
     }
 
     let cancelled = false;
-    setLoading(true);
-    setError(null);
-
+    startTransition(() => {
+      setLoading(true);
+      setError(null);
+    });
     const load = async () => {
       let raw = null;
 

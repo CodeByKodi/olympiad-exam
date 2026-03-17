@@ -1,15 +1,15 @@
 {
-  "packId": "isso-grade3-earth-seasons-and-solar-system-practice-03",
+  "packId": "isso-grade3-earth-practice-01",
   "exam": "isso",
   "grade": 3,
   "mode": "practice",
-  "title": "Earth, Seasons, and Solar System Practice Test",
-  "topic": "Earth, Seasons, and Solar System",
+  "title": "Earth Practice Test",
+  "topic": "Earth",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "Earth, Seasons, and Solar System"
+      "Earth"
     ],
     "difficultyMix": {
       "easy": 15,

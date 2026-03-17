@@ -1,0 +1,8 @@
+{
+  "files": [
+    "os.json",
+    "applications.json",
+    "internet.json",
+    "digital-citizenship.json"
+  ]
+}

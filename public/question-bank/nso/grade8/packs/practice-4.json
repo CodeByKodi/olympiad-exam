@@ -1,0 +1,20 @@
+{
+  "packId": "nso-grade8-earth-and-environment-practice-01",
+  "exam": "nso",
+  "grade": 8,
+  "mode": "practice",
+  "title": "Earth and Environment Practice Test",
+  "topic": "Earth and Environment",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Earth and Environment"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

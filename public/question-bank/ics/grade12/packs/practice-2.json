@@ -1,0 +1,20 @@
+{
+  "packId": "ics-grade12-networks-practice-01",
+  "exam": "ics",
+  "grade": 12,
+  "mode": "practice",
+  "title": "Networks Practice Test",
+  "topic": "Networks",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Networks"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

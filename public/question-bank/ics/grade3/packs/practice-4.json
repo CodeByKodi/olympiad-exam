@@ -1,15 +1,15 @@
 {
-  "packId": "ics-grade3-internet-safety-and-digital-basics-practice-04",
+  "packId": "ics-grade3-keyboard-mouse-practice-01",
   "exam": "ics",
   "grade": 3,
   "mode": "practice",
-  "title": "Internet, Safety, and Digital Basics Practice Test",
-  "topic": "Internet, Safety, and Digital Basics",
+  "title": "Keyboard/Mouse Practice Test",
+  "topic": "Keyboard/Mouse",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "Internet, Safety, and Digital Basics"
+      "Keyboard/Mouse"
     ],
     "difficultyMix": {
       "easy": 15,

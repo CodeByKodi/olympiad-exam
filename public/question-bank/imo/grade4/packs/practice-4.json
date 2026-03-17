@@ -1,0 +1,20 @@
+{
+  "packId": "imo-grade4-geometry-practice-01",
+  "exam": "imo",
+  "grade": 4,
+  "mode": "practice",
+  "title": "Geometry Practice Test",
+  "topic": "Geometry",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Geometry"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

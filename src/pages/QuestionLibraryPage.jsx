@@ -1,13 +1,12 @@
 import { useState, useRef } from 'react';
-import { useQuestionLibrary } from '../context/QuestionLibraryContext';
+import { useQuestionLibrary } from '../hooks/useQuestionLibrary';
 import { validatePack, detectDuplicates } from '../utils/questionLibraryUtils';
-import * as libraryService from '../services/questionLibraryService';
 import { EXAMS } from '../constants/exams';
 import { LibrarySkeleton } from '../components/LibrarySkeleton';
 import styles from '../styles/QuestionLibraryPage.module.css';
 
 export function QuestionLibraryPage() {
-  const { packs, loading, error, reload, isAvailable, service } = useQuestionLibrary();
+  const { packs, loading, error, reload, service } = useQuestionLibrary();
   const [importing, setImporting] = useState(false);
   const [importProgress, setImportProgress] = useState(null);
   const [importResult, setImportResult] = useState(null);
@@ -30,7 +29,7 @@ export function QuestionLibraryPage() {
       let pack;
       try {
         pack = typeof content === 'string' ? JSON.parse(content) : content;
-      } catch (e) {
+      } catch {
         summary.failed++;
         summary.errors.push(`${label}: Invalid JSON`);
         return;
@@ -302,7 +301,7 @@ export function QuestionLibraryPage() {
                       <td>{formatDate(pack.importedAt)}</td>
                       <td>
                         {pack.isStarter ? (
-                          <span className={styles.starterBadge}>Starter</span>
+                          <span className={styles.starterBadge}>Built-in</span>
                         ) : (
                           <button
                             type="button"
@@ -360,7 +359,7 @@ export function QuestionLibraryPage() {
                   </div>
                   <div className={styles.packCardActions}>
                     {pack.isStarter ? (
-                      <span className={styles.starterBadge}>Starter</span>
+                      <span className={styles.starterBadge}>Built-in</span>
                     ) : (
                       <button
                         type="button"

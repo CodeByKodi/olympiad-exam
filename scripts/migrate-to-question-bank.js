@@ -62,7 +62,7 @@ function slugify(s) {
     .replace(/^-|-$/g, '') || 'general';
 }
 
-function toBankQuestion(q, exam, grade, packTopic, packMode) {
+function toBankQuestion(q, exam, grade, packTopic, _packMode) {
   const topicSlug = slugify(packTopic);
   const subtopic = q.topic || '';
   return {
@@ -126,7 +126,7 @@ function main() {
       if (!examTopics.has(topicSlug)) {
         examTopics.set(topicSlug, []);
       }
-      const topicList = examTopics.get(topicSlug);
+      const _topicList = examTopics.get(topicSlug);
 
       const packQuestionIds = [];
 

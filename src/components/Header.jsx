@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import { SettingsModal } from './SettingsModal';
 import { AdminBadge } from './AdminBadge';
 import { AdminToggleButton } from './AdminToggleButton';
-import { useRole } from '../context/RoleContext';
+import { useRole } from '../hooks/useRole';
 import styles from '../styles/Header.module.css';
 
 export function Header({ onDarkModeToggle, darkMode }) {

@@ -1,15 +1,15 @@
 {
-  "packId": "ics-grade3-computer-parts-and-devices-practice-01",
+  "packId": "ics-grade3-parts-of-computer-practice-01",
   "exam": "ics",
   "grade": 3,
   "mode": "practice",
-  "title": "Computer Parts and Devices Practice Test",
-  "topic": "Computer Parts and Devices",
+  "title": "Parts of Computer Practice Test",
+  "topic": "Parts of Computer",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "Computer Parts and Devices"
+      "Parts of Computer"
     ],
     "difficultyMix": {
       "easy": 15,

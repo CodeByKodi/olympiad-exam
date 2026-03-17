@@ -1,0 +1,20 @@
+{
+  "packId": "ieo-grade10-critical-reading-practice-01",
+  "exam": "ieo",
+  "grade": 10,
+  "mode": "practice",
+  "title": "Critical Reading Practice Test",
+  "topic": "Critical Reading",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Critical Reading"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

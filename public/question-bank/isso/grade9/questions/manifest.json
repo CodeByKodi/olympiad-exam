@@ -1,0 +1,9 @@
+{
+  "files": [
+    "geography.json",
+    "history.json",
+    "civics.json",
+    "resources.json",
+    "government.json"
+  ]
+}

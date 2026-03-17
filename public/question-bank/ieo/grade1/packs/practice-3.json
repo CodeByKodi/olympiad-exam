@@ -1,0 +1,20 @@
+{
+  "packId": "ieo-grade1-sentence-formation-practice-01",
+  "exam": "ieo",
+  "grade": 1,
+  "mode": "practice",
+  "title": "Sentence Formation Practice Test",
+  "topic": "Sentence Formation",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Sentence Formation"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

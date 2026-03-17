@@ -1,15 +1,15 @@
 {
-  "packId": "imo-grade3-time-money-and-measurement-practice-03",
+  "packId": "imo-grade3-patterns-practice-01",
   "exam": "imo",
   "grade": 3,
   "mode": "practice",
-  "title": "Time, Money, and Measurement Practice Test",
-  "topic": "Time, Money, and Measurement",
+  "title": "Patterns Practice Test",
+  "topic": "Patterns",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "Time, Money, and Measurement"
+      "Patterns"
     ],
     "difficultyMix": {
       "easy": 15,

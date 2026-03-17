@@ -1,5 +1,5 @@
 import { Navigate, useLocation } from 'react-router-dom';
-import { useRole } from '../context/RoleContext';
+import { useRole } from '../hooks/useRole';
 
 export function AdminRoute({ children }) {
   const { isAdmin } = useRole();

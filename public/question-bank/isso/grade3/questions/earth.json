@@ -1,0 +1,920 @@
+[
+  {
+    "id": "isso-g3-earth-0078",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Earth",
+    "subtopic": "Earth Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the four periods of the year?",
+    "image": "",
+    "options": [
+      "Months",
+      "Seasons",
+      "Weeks",
+      "Days"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Spring, summer, autumn, winter are seasons.",
+    "tags": [
+      "earth-seasons-and-solar-system",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-earth-0079",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Earth",
+    "subtopic": "Earth Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which season is the hottest?",
+    "image": "",
+    "options": [
+      "Winter",
+      "Spring",
+      "Summer",
+      "Autumn"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Summer is usually the hottest.",
+    "tags": [
+      "earth-seasons-and-solar-system",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-earth-0080",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Earth",
+    "subtopic": "Earth Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "When do we usually need warm clothes?",
+    "image": "",
+    "options": [
+      "Summer",
+      "Spring",
+      "Winter",
+      "Autumn"
+    ],
+    "correctAnswer": 2,
+    "explanation": "We need warm clothes in winter when it is cold.",
+    "tags": [
+      "earth-seasons-and-solar-system",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-earth-0081",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Earth",
+    "subtopic": "Earth Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is rain, snow, and hail?",
+    "image": "",
+    "options": [
+      "Wind",
+      "Precipitation",
+      "Sunshine",
+      "Clouds"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Precipitation is rain, snow, hail.",
+    "tags": [
+      "earth-seasons-and-solar-system",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-earth-0082",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Earth",
+    "subtopic": "Earth Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the air that moves?",
+    "image": "",
+    "options": [
+      "Water",
+      "Wind",
+      "Fire",
+      "Earth"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Wind is moving air.",
+    "tags": [
+      "earth-seasons-and-solar-system",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-earth-0083",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Earth",
+    "subtopic": "Earth Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the blanket of air around Earth?",
+    "image": "",
+    "options": [
+      "Ocean",
+      "Atmosphere",
+      "Land",
+      "Space"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The atmosphere surrounds Earth.",
+    "tags": [
+      "earth-seasons-and-solar-system",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-earth-0084",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Earth",
+    "subtopic": "Earth Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which gas do humans need to stay alive?",
+    "image": "",
+    "options": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Smoke",
+      "Dust"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Humans need oxygen from the air to stay alive.",
+    "tags": [
+      "earth-seasons-and-solar-system",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-earth-0085",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Earth",
+    "subtopic": "Earth Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is things we use from nature?",
+    "image": "",
+    "options": [
+      "Toys",
+      "Natural resources",
+      "Machines",
+      "Tools"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Natural resources come from nature.",
+    "tags": [
+      "earth-seasons-and-solar-system",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-earth-0086",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Earth",
+    "subtopic": "Earth Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is taking care of our environment?",
+    "image": "",
+    "options": [
+      "Pollution",
+      "Conservation",
+      "Destruction",
+      "Waste"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Conservation means protecting nature.",
+    "tags": [
+      "earth-seasons-and-solar-system",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-earth-0087",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Earth",
+    "subtopic": "Earth Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call harmful things in our air or water?",
+    "image": "",
+    "options": [
+      "Clean",
+      "Pollution",
+      "Fresh",
+      "Pure"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pollution harms our environment.",
+    "tags": [
+      "earth-seasons-and-solar-system",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-earth-0088",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Earth",
+    "subtopic": "Earth Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is using things again instead of throwing away?",
+    "image": "",
+    "options": [
+      "Waste",
+      "Recycle",
+      "Pollute",
+      "Destroy"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Recycling means using things again.",
+    "tags": [
+      "earth-seasons-and-solar-system",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-earth-0089",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Earth",
+    "subtopic": "Earth Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the planet closest to the Sun?",
+    "image": "",
+    "options": [
+      "Earth",
+      "Venus",
+      "Mercury",
+      "Mars"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Mercury is closest to the Sun.",
+    "tags": [
+      "earth-seasons-and-solar-system",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-earth-0090",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Earth",
+    "subtopic": "Earth Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Why do we have daytime and nighttime?",
+    "image": "",
+    "options": [
+      "Moon blocks sun",
+      "Earth spins on its axis",
+      "Sun moves away",
+      "Stars hide"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Earth's rotation causes day and night.",
+    "tags": [
+      "earth",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-earth-0091",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Earth",
+    "subtopic": "Earth Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What makes the seasons change?",
+    "image": "",
+    "options": [
+      "Moon",
+      "Earth's tilt",
+      "Stars",
+      "Wind"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Earth's tilt causes seasons.",
+    "tags": [
+      "earth",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-earth-0092",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Earth",
+    "subtopic": "Earth Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the Moon's path around Earth?",
+    "image": "",
+    "options": [
+      "Rotation",
+      "Orbit",
+      "Revolution",
+      "Spin"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Moon orbits Earth.",
+    "tags": [
+      "earth",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-earth-0093",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Earth",
+    "subtopic": "Earth Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which planet is home to humans?",
+    "image": "",
+    "options": [
+      "Mars",
+      "Venus",
+      "Earth",
+      "Jupiter"
+    ],
+    "correctAnswer": 2,
+    "explanation": "We live on Earth.",
+    "tags": [
+      "earth",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-earth-0094",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Earth",
+    "subtopic": "Earth Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the large round object that orbits Earth?",
+    "image": "",
+    "options": [
+      "Sun",
+      "Star",
+      "Moon",
+      "Planet"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Moon is Earth's satellite.",
+    "tags": [
+      "earth",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-earth-0095",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Earth",
+    "subtopic": "Earth Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call Earth's path around the Sun?",
+    "image": "",
+    "options": [
+      "Rotation",
+      "Orbit",
+      "Revolution",
+      "Spin"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Orbit is Earth's path around the Sun.",
+    "tags": [
+      "earth",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-earth-0096",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Earth",
+    "subtopic": "Earth Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which planet in our solar system is smallest?",
+    "image": "",
+    "options": [
+      "Earth",
+      "Mars",
+      "Mercury",
+      "Venus"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Mercury is the smallest planet.",
+    "tags": [
+      "earth",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-earth-0097",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Earth",
+    "subtopic": "Earth Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What causes the four seasons to change?",
+    "image": "",
+    "options": [
+      "Moon",
+      "Earth's tilt and orbit",
+      "Stars",
+      "Wind"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Earth's tilt and orbit cause seasons.",
+    "tags": [
+      "earth",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-earth-0098",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Earth",
+    "subtopic": "Earth Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the star at the center of our solar system?",
+    "image": "",
+    "options": [
+      "Moon",
+      "Sun",
+      "Mars",
+      "Venus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Sun is at the center.",
+    "tags": [
+      "earth",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-earth-0099",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Earth",
+    "subtopic": "Earth Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many planets orbit our Sun?",
+    "image": "",
+    "options": [
+      "Six",
+      "Seven",
+      "Eight",
+      "Nine"
+    ],
+    "correctAnswer": 2,
+    "explanation": "There are eight planets.",
+    "tags": [
+      "earth",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-earth-0100",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Earth",
+    "subtopic": "Earth Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call rain, snow, and hail?",
+    "image": "",
+    "options": [
+      "Wind",
+      "Precipitation",
+      "Sunshine",
+      "Clouds"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Precipitation is rain, snow, hail.",
+    "tags": [
+      "earth",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-earth-0101",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Earth",
+    "subtopic": "Earth Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the blanket of air around Earth?",
+    "image": "",
+    "options": [
+      "Ocean",
+      "Atmosphere",
+      "Land",
+      "Space"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The atmosphere surrounds Earth.",
+    "tags": [
+      "earth",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-earth-0102",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Earth",
+    "subtopic": "Earth Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a market?",
+    "image": "",
+    "options": [
+      "A school",
+      "A place to buy and sell",
+      "A hospital",
+      "A park"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A market is for buying and selling.",
+    "tags": [
+      "economy-society-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-earth-0103",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Earth",
+    "subtopic": "Earth Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the money we use to buy things?",
+    "image": "",
+    "options": [
+      "Toy",
+      "Currency",
+      "Gift",
+      "Token"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currency is the money we use.",
+    "tags": [
+      "economy-society-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-earth-0104",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Earth",
+    "subtopic": "Earth Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is a person who grows crops?",
+    "image": "",
+    "options": [
+      "Doctor",
+      "Teacher",
+      "Farmer",
+      "Driver"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Farmers grow crops.",
+    "tags": [
+      "economy-society-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-earth-0105",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Earth",
+    "subtopic": "Earth Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a person who makes things to sell?",
+    "image": "",
+    "options": [
+      "Buyer",
+      "Seller",
+      "Producer",
+      "Consumer"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Producers make things.",
+    "tags": [
+      "economy-society-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-earth-0106",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Earth",
+    "subtopic": "Earth Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a person who buys things?",
+    "image": "",
+    "options": [
+      "Producer",
+      "Consumer",
+      "Seller",
+      "Maker"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Consumers buy things.",
+    "tags": [
+      "economy-society-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-earth-0107",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Earth",
+    "subtopic": "Earth Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call exchanging goods without money?",
+    "image": "",
+    "options": [
+      "Buying",
+      "Selling",
+      "Barter",
+      "Giving"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Barter is exchange without money.",
+    "tags": [
+      "economy-society-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-earth-0108",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Earth",
+    "subtopic": "Earth Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the work people do to earn money?",
+    "image": "",
+    "options": [
+      "Play",
+      "Job",
+      "Rest",
+      "Sleep"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A job is work for money.",
+    "tags": [
+      "economy-society-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-earth-0109",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Earth",
+    "subtopic": "Earth Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a place where people make things?",
+    "image": "",
+    "options": [
+      "School",
+      "Hospital",
+      "Factory",
+      "Park"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Factories make things.",
+    "tags": [
+      "economy-society-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-earth-0110",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Earth",
+    "subtopic": "Earth Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the layer that protects us from the Sun's harmful rays?",
+    "image": "",
+    "options": [
+      "Cloud layer",
+      "Ozone layer",
+      "Water layer",
+      "Dust layer"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The ozone layer protects us.",
+    "tags": [
+      "earth-seasons-and-solar-system",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g3-earth-0111",
+    "exam": "isso",
+    "grade": "3",
+    "topic": "Earth",
+    "subtopic": "Earth Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the science of weather patterns?",
+    "image": "",
+    "options": [
+      "Biology",
+      "Meteorology",
+      "Geography",
+      "History"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Meteorology studies weather.",
+    "tags": [
+      "earth",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  }
+]

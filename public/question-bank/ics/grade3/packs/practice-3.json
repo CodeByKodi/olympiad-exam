@@ -1,15 +1,15 @@
 {
-  "packId": "ics-grade3-software-tools-and-basic-operations-practice-03",
+  "packId": "ics-grade3-input-output-practice-01",
   "exam": "ics",
   "grade": 3,
   "mode": "practice",
-  "title": "Software, Tools, and Basic Operations Practice Test",
-  "topic": "Software, Tools, and Basic Operations",
+  "title": "Input/Output Practice Test",
+  "topic": "Input/Output",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "Software, Tools, and Basic Operations"
+      "Input/Output"
     ],
     "difficultyMix": {
       "easy": 15,

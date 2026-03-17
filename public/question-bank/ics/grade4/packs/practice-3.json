@@ -1,0 +1,20 @@
+{
+  "packId": "ics-grade4-storage-practice-01",
+  "exam": "ics",
+  "grade": 4,
+  "mode": "practice",
+  "title": "Storage Practice Test",
+  "topic": "Storage",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Storage"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

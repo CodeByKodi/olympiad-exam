@@ -1,0 +1,312 @@
+{
+  "exam": "isso",
+  "grade": 5,
+  "topics": [
+    {
+      "code": "ISSO-G5-T1",
+      "name": "Geography",
+      "description": "Geography for Grade 5.",
+      "weightage": "high",
+      "recommendedQuestionCount": 40,
+      "subtopics": [
+        {
+          "code": "ISSO-G5-T1-S1",
+          "name": "Geography Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "geography",
+            "isso",
+            "isso",
+            "grade5"
+          ]
+        },
+        {
+          "code": "ISSO-G5-T1-S2",
+          "name": "Geography Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "geography",
+            "isso",
+            "isso",
+            "grade5"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ISSO-G5-T2",
+      "name": "Civics",
+      "description": "Civics for Grade 5.",
+      "weightage": "high",
+      "recommendedQuestionCount": 37,
+      "subtopics": [
+        {
+          "code": "ISSO-G5-T2-S1",
+          "name": "Civics Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "civics",
+            "isso",
+            "isso",
+            "grade5"
+          ]
+        },
+        {
+          "code": "ISSO-G5-T2-S2",
+          "name": "Civics Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "civics",
+            "isso",
+            "isso",
+            "grade5"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ISSO-G5-T3",
+      "name": "History",
+      "description": "History for Grade 5.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 34,
+      "subtopics": [
+        {
+          "code": "ISSO-G5-T3-S1",
+          "name": "History Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "history",
+            "isso",
+            "isso",
+            "grade5"
+          ]
+        },
+        {
+          "code": "ISSO-G5-T3-S2",
+          "name": "History Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "history",
+            "isso",
+            "isso",
+            "grade5"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ISSO-G5-T4",
+      "name": "Continents",
+      "description": "Continents for Grade 5.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 31,
+      "subtopics": [
+        {
+          "code": "ISSO-G5-T4-S1",
+          "name": "Continents Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "continents",
+            "isso",
+            "isso",
+            "grade5"
+          ]
+        },
+        {
+          "code": "ISSO-G5-T4-S2",
+          "name": "Continents Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "continents",
+            "isso",
+            "isso",
+            "grade5"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ISSO-G5-T5",
+      "name": "India",
+      "description": "India for Grade 5.",
+      "weightage": "low",
+      "recommendedQuestionCount": 28,
+      "subtopics": [
+        {
+          "code": "ISSO-G5-T5-S1",
+          "name": "India Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "india",
+            "isso",
+            "isso",
+            "grade5"
+          ]
+        },
+        {
+          "code": "ISSO-G5-T5-S2",
+          "name": "India Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "india",
+            "isso",
+            "isso",
+            "grade5"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ISSO-G5-T6",
+      "name": "Resources",
+      "description": "Resources for Grade 5.",
+      "weightage": "low",
+      "recommendedQuestionCount": 25,
+      "subtopics": [
+        {
+          "code": "ISSO-G5-T6-S1",
+          "name": "Resources Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "resources",
+            "isso",
+            "isso",
+            "grade5"
+          ]
+        },
+        {
+          "code": "ISSO-G5-T6-S2",
+          "name": "Resources Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "resources",
+            "isso",
+            "isso",
+            "grade5"
+          ]
+        }
+      ]
+    }
+  ]
+}

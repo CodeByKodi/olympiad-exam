@@ -1,15 +1,15 @@
 {
-  "packId": "imo-grade3-shapes-patterns-data-and-reasoning-practice-04",
+  "packId": "imo-grade3-shapes-practice-01",
   "exam": "imo",
   "grade": 3,
   "mode": "practice",
-  "title": "Shapes, Patterns, Data, and Reasoning Practice Test",
-  "topic": "Shapes, Patterns, Data, and Reasoning",
+  "title": "Shapes Practice Test",
+  "topic": "Shapes",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "Shapes, Patterns, Data, and Reasoning"
+      "Shapes"
     ],
     "difficultyMix": {
       "easy": 15,

@@ -1,0 +1,1001 @@
+[
+  {
+    "id": "ieo-g10-comprehension-0041",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Comprehension",
+    "subtopic": "Comprehension Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is a synonym for 'fast'?",
+    "image": "",
+    "options": [
+      "slow",
+      "quick",
+      "late",
+      "tired"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Quick means the same as fast.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-comprehension-0042",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Comprehension",
+    "subtopic": "Comprehension Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is an antonym for 'day'?",
+    "image": "",
+    "options": [
+      "morning",
+      "night",
+      "noon",
+      "evening"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Night is the opposite of day.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-comprehension-0043",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Comprehension",
+    "subtopic": "Comprehension Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which word means 'to make something bigger'?",
+    "image": "",
+    "options": [
+      "shrink",
+      "expand",
+      "reduce",
+      "small"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expand means to make something bigger.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-comprehension-0044",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Comprehension",
+    "subtopic": "Comprehension Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is a synonym for 'begin'?",
+    "image": "",
+    "options": [
+      "end",
+      "start",
+      "finish",
+      "stop"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Start means the same as begin.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-comprehension-0045",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Comprehension",
+    "subtopic": "Comprehension Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which spelling is correct for 'friend'?",
+    "image": "",
+    "options": [
+      "frend",
+      "friend",
+      "freind",
+      "frend"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Friend is spelled with 'i' before 'e'.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-comprehension-0046",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Comprehension",
+    "subtopic": "Comprehension Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is an antonym for 'full'?",
+    "image": "",
+    "options": [
+      "filled",
+      "empty",
+      "complete",
+      "whole"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Empty is the opposite of full.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-comprehension-0047",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Comprehension",
+    "subtopic": "Comprehension Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Rearrange to make a word: TCA",
+    "image": "",
+    "options": [
+      "ACT",
+      "CAT",
+      "TAC",
+      "ATC"
+    ],
+    "correctAnswer": 1,
+    "explanation": "C-A-T spells CAT.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-comprehension-0048",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Comprehension",
+    "subtopic": "Comprehension Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is a synonym for 'brave'?",
+    "image": "",
+    "options": [
+      "scared",
+      "courageous",
+      "weak",
+      "shy"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Courageous means the same as brave.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-comprehension-0049",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Comprehension",
+    "subtopic": "Comprehension Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is an antonym for 'hard'?",
+    "image": "",
+    "options": [
+      "difficult",
+      "soft",
+      "rough",
+      "tough"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Soft is the opposite of hard.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-comprehension-0050",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Comprehension",
+    "subtopic": "Comprehension Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which word means 'a place where we learn'?",
+    "image": "",
+    "options": [
+      "hospital",
+      "school",
+      "market",
+      "park"
+    ],
+    "correctAnswer": 1,
+    "explanation": "School is where we learn.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-comprehension-0051",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Comprehension",
+    "subtopic": "Comprehension Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Rearrange to make a word: OGOD",
+    "image": "",
+    "options": [
+      "DOGO",
+      "GOOD",
+      "OGOD",
+      "DOOG"
+    ],
+    "correctAnswer": 1,
+    "explanation": "G-O-O-D spells GOOD.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-comprehension-0052",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Comprehension",
+    "subtopic": "Comprehension Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is a synonym for 'cold'?",
+    "image": "",
+    "options": [
+      "hot",
+      "chilly",
+      "warm",
+      "boiling"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Chilly means the same as cold.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-comprehension-0053",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Comprehension",
+    "subtopic": "Comprehension Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is an antonym for 'above'?",
+    "image": "",
+    "options": [
+      "top",
+      "below",
+      "high",
+      "up"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Below is the opposite of above.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-comprehension-0054",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Comprehension",
+    "subtopic": "Comprehension Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which word means 'to look at something'?",
+    "image": "",
+    "options": [
+      "hear",
+      "touch",
+      "see",
+      "smell"
+    ],
+    "correctAnswer": 2,
+    "explanation": "See means to look at something with your eyes.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-comprehension-0055",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Comprehension",
+    "subtopic": "Comprehension Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Rearrange to make a word: LEABT",
+    "image": "",
+    "options": [
+      "TABLE",
+      "BATLE",
+      "TABEL",
+      "LATBE"
+    ],
+    "correctAnswer": 0,
+    "explanation": "T-A-B-L-E spells TABLE.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-comprehension-0056",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Comprehension",
+    "subtopic": "Comprehension Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is a synonym for 'smart'?",
+    "image": "",
+    "options": [
+      "silly",
+      "clever",
+      "dull",
+      "slow"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Clever means the same as smart.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-comprehension-0057",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Comprehension",
+    "subtopic": "Comprehension Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is an antonym for 'open'?",
+    "image": "",
+    "options": [
+      "wide",
+      "closed",
+      "free",
+      "clear"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Closed is the opposite of open.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-comprehension-0058",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Comprehension",
+    "subtopic": "Comprehension Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a baby dog?",
+    "image": "",
+    "options": [
+      "kitten",
+      "puppy",
+      "cub",
+      "chick"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A baby dog is called a puppy.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-comprehension-0059",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Comprehension",
+    "subtopic": "Comprehension Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Rearrange to make a word: OOSCHL",
+    "image": "",
+    "options": [
+      "SCHOOL",
+      "CHOOLS",
+      "SCHOOL",
+      "SCHOLO"
+    ],
+    "correctAnswer": 0,
+    "explanation": "S-C-H-O-O-L spells SCHOOL.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-comprehension-0060",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Comprehension",
+    "subtopic": "Comprehension Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is a synonym for 'finish'?",
+    "image": "",
+    "options": [
+      "start",
+      "complete",
+      "begin",
+      "continue"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Complete means the same as finish.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-comprehension-0061",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Comprehension",
+    "subtopic": "Comprehension Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which spelling is correct for 'receive'?",
+    "image": "",
+    "options": [
+      "recieve",
+      "receive",
+      "receve",
+      "receiv"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Receive has 'i' before 'e' except after 'c'.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-comprehension-0062",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Comprehension",
+    "subtopic": "Comprehension Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which spelling is correct for 'Wednesday'?",
+    "image": "",
+    "options": [
+      "wensday",
+      "wednesday",
+      "wednsday",
+      "wedsday"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Wednesday has a silent 'd' and is spelled W-E-D-N-E-S-D-A-Y.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-comprehension-0063",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Comprehension",
+    "subtopic": "Comprehension Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which word is a noun?",
+    "image": "",
+    "options": [
+      "run",
+      "happy",
+      "dog",
+      "quickly"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A noun names a person, place, or thing. Dog is a thing.",
+    "tags": [
+      "grammar-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-comprehension-0064",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Comprehension",
+    "subtopic": "Comprehension Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which word is a verb?",
+    "image": "",
+    "options": [
+      "book",
+      "jump",
+      "blue",
+      "table"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A verb shows action. Jump is an action.",
+    "tags": [
+      "grammar-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-comprehension-0065",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Comprehension",
+    "subtopic": "Comprehension Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Choose the correct article: ___ apple is red.",
+    "image": "",
+    "options": [
+      "A",
+      "An",
+      "The",
+      "No article"
+    ],
+    "correctAnswer": 1,
+    "explanation": "We use 'an' before words that start with a vowel sound.",
+    "tags": [
+      "grammar-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-comprehension-0066",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Comprehension",
+    "subtopic": "Comprehension Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the plural of 'book'?",
+    "image": "",
+    "options": [
+      "book",
+      "bookes",
+      "books",
+      "bookies"
+    ],
+    "correctAnswer": 2,
+    "explanation": "We add 's' to make most nouns plural. book → books.",
+    "tags": [
+      "grammar-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-comprehension-0067",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Comprehension",
+    "subtopic": "Comprehension Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which word is a pronoun?",
+    "image": "",
+    "options": [
+      "Ravi",
+      "he",
+      "school",
+      "play"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A pronoun replaces a noun. 'He' can replace a boy's name.",
+    "tags": [
+      "grammar-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-comprehension-0068",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Comprehension",
+    "subtopic": "Comprehension Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which word is an adjective?",
+    "image": "",
+    "options": [
+      "run",
+      "beautiful",
+      "eat",
+      "quickly"
+    ],
+    "correctAnswer": 1,
+    "explanation": "An adjective describes a noun. Beautiful describes something.",
+    "tags": [
+      "grammar-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-comprehension-0069",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Comprehension",
+    "subtopic": "Comprehension Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Choose the correct article: ___ umbrella is useful.",
+    "image": "",
+    "options": [
+      "A",
+      "An",
+      "The",
+      "No article"
+    ],
+    "correctAnswer": 1,
+    "explanation": "We use 'an' before 'umbrella' because it starts with a vowel sound.",
+    "tags": [
+      "grammar-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-comprehension-0070",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Comprehension",
+    "subtopic": "Comprehension Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the plural of 'child'?",
+    "image": "",
+    "options": [
+      "childs",
+      "children",
+      "childes",
+      "child"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Child has an irregular plural: children.",
+    "tags": [
+      "grammar-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-comprehension-0071",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Comprehension",
+    "subtopic": "Comprehension Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Fill in the blank: She ___ to school every day.",
+    "image": "",
+    "options": [
+      "go",
+      "goes",
+      "going",
+      "gone"
+    ],
+    "correctAnswer": 1,
+    "explanation": "With 'she', we use 'goes' (present tense).",
+    "tags": [
+      "grammar-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-comprehension-0072",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Comprehension",
+    "subtopic": "Comprehension Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a proper noun?",
+    "image": "",
+    "options": [
+      "city",
+      "Mumbai",
+      "place",
+      "town"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mumbai is a proper noun. It names a specific city.",
+    "tags": [
+      "grammar-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-comprehension-0073",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Comprehension",
+    "subtopic": "Comprehension Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Choose the correct preposition: The cat is ___ the table.",
+    "image": "",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The cat is on (top of) the table.",
+    "tags": [
+      "grammar-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-comprehension-0074",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Comprehension",
+    "subtopic": "Comprehension Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the past tense of 'play'?",
+    "image": "",
+    "options": [
+      "plays",
+      "playing",
+      "played",
+      "play"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The past tense of play is played.",
+    "tags": [
+      "grammar-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-comprehension-0075",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Comprehension",
+    "subtopic": "Comprehension Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the plural of 'tooth'?",
+    "image": "",
+    "options": [
+      "tooths",
+      "teeth",
+      "toothes",
+      "tooth"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tooth has an irregular plural: teeth.",
+    "tags": [
+      "grammar-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-comprehension-0076",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Comprehension",
+    "subtopic": "Comprehension Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Replace the noun with a pronoun: Riya is playing.",
+    "image": "",
+    "options": [
+      "It is playing.",
+      "She is playing.",
+      "He is playing.",
+      "They are playing."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Riya (girl) is replaced by 'she'.",
+    "tags": [
+      "grammar-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-comprehension-0077",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Comprehension",
+    "subtopic": "Comprehension Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which word describes how we do something?",
+    "image": "",
+    "options": [
+      "happy",
+      "quickly",
+      "big",
+      "red"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Quickly is an adverb. It describes how we do an action.",
+    "tags": [
+      "grammar-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  }
+]

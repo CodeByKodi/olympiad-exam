@@ -2,6 +2,7 @@
 /**
  * Validation script for Grade 3 Olympiad question packs.
  * Checks: 25 questions per pack, 4 options, correctAnswer 0-3, no duplicate ids, no duplicate questionText.
+ * CI-friendly output: use ::error format when GITHUB_ACTIONS is set.
  */
 
 import { readFileSync, readdirSync } from 'fs';
@@ -11,6 +12,7 @@ import { fileURLToPath } from 'url';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
 const PACKS_DIR = join(ROOT, 'public', 'starter-packs');
+const CI = process.env.GITHUB_ACTIONS === 'true';
 
 const EXAMS = ['nso', 'imo', 'ieo', 'ics', 'igko', 'isso'];
 const REQUIRED_FIELDS = ['id', 'questionText', 'image', 'options', 'correctAnswer', 'explanation', 'topic', 'difficulty'];
@@ -111,17 +113,24 @@ function main() {
           console.log(`✓ ${exam}/grade3/${file}`);
         }
       } catch (e) {
-        errors.push({ file: `${exam}/grade3/${file}`, errors: [e.message] });
+        const msg = e instanceof SyntaxError ? `malformed JSON: ${e.message}` : e.message;
+        errors.push({ file: `${exam}/grade3/${file}`, errors: [msg] });
       }
     }
   }
 
   if (errors.length > 0) {
     console.log('\n--- ERRORS ---');
+    let count = 0;
     for (const { file, errors: errs } of errors) {
-      console.log(`\n${file}:`);
-      errs.forEach((e) => console.log(`  - ${e}`));
+      const path = `public/starter-packs/${file}`;
+      for (const msg of errs) {
+        if (CI) console.log(`::error file=${path}::${msg.replace(/\n/g, ' ')}`);
+        console.log(`  ${path}: ${msg}`);
+        count++;
+      }
     }
+    console.log(`\n${count} error(s) found.`);
     process.exit(1);
   }
 

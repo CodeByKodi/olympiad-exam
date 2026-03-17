@@ -1,0 +1,20 @@
+{
+  "packId": "ics-grade12-cyber-safety-practice-01",
+  "exam": "ics",
+  "grade": 12,
+  "mode": "practice",
+  "title": "Cyber Safety Practice Test",
+  "topic": "Cyber Safety",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Cyber Safety"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

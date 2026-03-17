@@ -1,0 +1,261 @@
+{
+  "exam": "ics",
+  "grade": 7,
+  "topics": [
+    {
+      "code": "ICS-G7-T1",
+      "name": "OS",
+      "description": "OS for Grade 7.",
+      "weightage": "high",
+      "recommendedQuestionCount": 40,
+      "subtopics": [
+        {
+          "code": "ICS-G7-T1-S1",
+          "name": "OS Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "os",
+            "ics",
+            "ics",
+            "grade7"
+          ]
+        },
+        {
+          "code": "ICS-G7-T1-S2",
+          "name": "OS Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "os",
+            "ics",
+            "ics",
+            "grade7"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICS-G7-T2",
+      "name": "Applications",
+      "description": "Applications for Grade 7.",
+      "weightage": "high",
+      "recommendedQuestionCount": 37,
+      "subtopics": [
+        {
+          "code": "ICS-G7-T2-S1",
+          "name": "Applications Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "applications",
+            "ics",
+            "ics",
+            "grade7"
+          ]
+        },
+        {
+          "code": "ICS-G7-T2-S2",
+          "name": "Applications Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "applications",
+            "ics",
+            "ics",
+            "grade7"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICS-G7-T3",
+      "name": "Internet",
+      "description": "Internet for Grade 7.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 34,
+      "subtopics": [
+        {
+          "code": "ICS-G7-T3-S1",
+          "name": "Internet Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "internet",
+            "ics",
+            "ics",
+            "grade7"
+          ]
+        },
+        {
+          "code": "ICS-G7-T3-S2",
+          "name": "Internet Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "internet",
+            "ics",
+            "ics",
+            "grade7"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICS-G7-T4",
+      "name": "Digital Citizenship",
+      "description": "Digital Citizenship for Grade 7.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 31,
+      "subtopics": [
+        {
+          "code": "ICS-G7-T4-S1",
+          "name": "Digital Citizenship Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "digital citizenship",
+            "ics",
+            "ics",
+            "grade7"
+          ]
+        },
+        {
+          "code": "ICS-G7-T4-S2",
+          "name": "Digital Citizenship Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "digital citizenship",
+            "ics",
+            "ics",
+            "grade7"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICS-G7-T5",
+      "name": "Coding",
+      "description": "Coding for Grade 7.",
+      "weightage": "low",
+      "recommendedQuestionCount": 28,
+      "subtopics": [
+        {
+          "code": "ICS-G7-T5-S1",
+          "name": "Coding Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "coding",
+            "ics",
+            "ics",
+            "grade7"
+          ]
+        },
+        {
+          "code": "ICS-G7-T5-S2",
+          "name": "Coding Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "coding",
+            "ics",
+            "ics",
+            "grade7"
+          ]
+        }
+      ]
+    }
+  ]
+}

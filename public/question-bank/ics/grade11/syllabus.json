@@ -1,0 +1,210 @@
+{
+  "exam": "ics",
+  "grade": 11,
+  "topics": [
+    {
+      "code": "ICS-G11-T1",
+      "name": "Programming",
+      "description": "Programming for Grade 11.",
+      "weightage": "high",
+      "recommendedQuestionCount": 40,
+      "subtopics": [
+        {
+          "code": "ICS-G11-T1-S1",
+          "name": "Programming Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "programming",
+            "ics",
+            "ics",
+            "grade11"
+          ]
+        },
+        {
+          "code": "ICS-G11-T1-S2",
+          "name": "Programming Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "programming",
+            "ics",
+            "ics",
+            "grade11"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICS-G11-T2",
+      "name": "Networks",
+      "description": "Networks for Grade 11.",
+      "weightage": "high",
+      "recommendedQuestionCount": 37,
+      "subtopics": [
+        {
+          "code": "ICS-G11-T2-S1",
+          "name": "Networks Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "networks",
+            "ics",
+            "ics",
+            "grade11"
+          ]
+        },
+        {
+          "code": "ICS-G11-T2-S2",
+          "name": "Networks Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "networks",
+            "ics",
+            "ics",
+            "grade11"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICS-G11-T3",
+      "name": "Data",
+      "description": "Data for Grade 11.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 34,
+      "subtopics": [
+        {
+          "code": "ICS-G11-T3-S1",
+          "name": "Data Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "data",
+            "ics",
+            "ics",
+            "grade11"
+          ]
+        },
+        {
+          "code": "ICS-G11-T3-S2",
+          "name": "Data Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "data",
+            "ics",
+            "ics",
+            "grade11"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICS-G11-T4",
+      "name": "Cyber Safety",
+      "description": "Cyber Safety for Grade 11.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 31,
+      "subtopics": [
+        {
+          "code": "ICS-G11-T4-S1",
+          "name": "Cyber Safety Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "cyber safety",
+            "ics",
+            "ics",
+            "grade11"
+          ]
+        },
+        {
+          "code": "ICS-G11-T4-S2",
+          "name": "Cyber Safety Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "cyber safety",
+            "ics",
+            "ics",
+            "grade11"
+          ]
+        }
+      ]
+    }
+  ]
+}

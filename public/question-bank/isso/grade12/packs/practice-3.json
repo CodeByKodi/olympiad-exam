@@ -1,0 +1,20 @@
+{
+  "packId": "isso-grade12-geography-practice-01",
+  "exam": "isso",
+  "grade": 12,
+  "mode": "practice",
+  "title": "Geography Practice Test",
+  "topic": "Geography",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Geography"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

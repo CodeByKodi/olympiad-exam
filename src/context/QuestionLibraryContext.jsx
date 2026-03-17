@@ -1,4 +1,4 @@
-import { createContext, useContext, useState, useCallback, useEffect } from 'react';
+import { createContext, useState, useCallback, useEffect } from 'react';
 import * as libraryService from '../services/questionLibraryService';
 import { buildPracticePool, buildMockIndex, buildPracticeIndex } from '../utils/questionLibraryUtils';
 
@@ -133,23 +133,4 @@ export function QuestionLibraryProvider({ children }) {
   );
 }
 
-export function useQuestionLibrary() {
-  const ctx = useContext(QuestionLibraryContext);
-  if (!ctx) {
-    return {
-      packs: [],
-      loading: false,
-      error: null,
-      load: () => {},
-      reload: () => {},
-      isAvailable: false,
-      getPracticePool: () => [],
-      getPracticePacks: () => [],
-      getMockPacks: () => [],
-      hasLibraryPacks: () => false,
-      getPackByTestId: () => null,
-      service: null,
-    };
-  }
-  return ctx;
-}
+export { QuestionLibraryContext };

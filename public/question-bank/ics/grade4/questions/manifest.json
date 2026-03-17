@@ -1,0 +1,8 @@
+{
+  "files": [
+    "hardware.json",
+    "software.json",
+    "storage.json",
+    "internet.json"
+  ]
+}
