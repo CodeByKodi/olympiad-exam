@@ -1,0 +1,212 @@
+[
+  {
+    "id": "imo-g3-measurement-0001",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Measurement",
+    "subtopic": "Length",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "Which unit do we use to measure the length of a pencil?",
+    "image": "",
+    "options": [
+      "Kilogram",
+      "Litre",
+      "Centimetre",
+      "Rupee"
+    ],
+    "correctAnswer": 2,
+    "explanation": "We use centimetres (cm) to measure short lengths like a pencil.",
+    "tags": ["length", "measurement", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-measurement-0002",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Measurement",
+    "subtopic": "Length",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "One metre is equal to how many centimetres?",
+    "image": "",
+    "options": [
+      "10",
+      "50",
+      "100",
+      "1000"
+    ],
+    "correctAnswer": 2,
+    "explanation": "1 metre = 100 centimetres.",
+    "tags": ["length", "measurement", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-measurement-0003",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Measurement",
+    "subtopic": "Weight",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "Which unit do we use to measure the weight of a bag of rice?",
+    "image": "",
+    "options": [
+      "Metre",
+      "Kilogram",
+      "Litre",
+      "Centimetre"
+    ],
+    "correctAnswer": 1,
+    "explanation": "We use kilograms (kg) to measure weight of heavy things like rice.",
+    "tags": ["weight", "measurement", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-measurement-0004",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Measurement",
+    "subtopic": "Weight",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "How many grams are in 1 kilogram?",
+    "image": "",
+    "options": [
+      "10",
+      "100",
+      "500",
+      "1000"
+    ],
+    "correctAnswer": 3,
+    "explanation": "1 kilogram = 1000 grams.",
+    "tags": ["weight", "measurement", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-measurement-0005",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Measurement",
+    "subtopic": "Capacity",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "Which unit do we use to measure the amount of water in a bottle?",
+    "image": "",
+    "options": [
+      "Kilogram",
+      "Metre",
+      "Litre",
+      "Gram"
+    ],
+    "correctAnswer": 2,
+    "explanation": "We use litres (L) to measure liquids like water.",
+    "tags": ["capacity", "measurement", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-measurement-0006",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Measurement",
+    "subtopic": "Capacity",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "How many millilitres are in 1 litre?",
+    "image": "",
+    "options": [
+      "10",
+      "100",
+      "500",
+      "1000"
+    ],
+    "correctAnswer": 3,
+    "explanation": "1 litre = 1000 millilitres (ml).",
+    "tags": ["capacity", "measurement", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-measurement-0007",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Measurement",
+    "subtopic": "Temperature",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "What do we use to measure how hot or cold something is?",
+    "image": "",
+    "options": [
+      "Ruler",
+      "Thermometer",
+      "Scale",
+      "Clock"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A thermometer measures temperature in degrees Celsius.",
+    "tags": ["temperature", "measurement", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-measurement-0008",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Measurement",
+    "subtopic": "Time",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "One hour has how many minutes?",
+    "image": "",
+    "options": [
+      "30",
+      "60",
+      "100",
+      "12"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1 hour = 60 minutes.",
+    "tags": ["time", "measurement", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-measurement-0009",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Measurement",
+    "subtopic": "Time",
+    "difficulty": "medium",
+    "modes": ["practice", "mock"],
+    "questionText": "If school starts at 8:00 and ends at 12:00, how many hours is the school day?",
+    "image": "",
+    "options": [
+      "3 hours",
+      "4 hours",
+      "5 hours",
+      "6 hours"
+    ],
+    "correctAnswer": 1,
+    "explanation": "From 8:00 to 12:00 is 4 hours.",
+    "tags": ["time", "measurement", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-measurement-0010",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Measurement",
+    "subtopic": "Length",
+    "difficulty": "medium",
+    "modes": ["practice", "mock"],
+    "questionText": "A table is 150 cm long. How many metres is that?",
+    "image": "",
+    "options": [
+      "0.15 m",
+      "1.5 m",
+      "15 m",
+      "150 m"
+    ],
+    "correctAnswer": 1,
+    "explanation": "150 cm = 1.5 metres (since 100 cm = 1 m).",
+    "tags": ["length", "measurement", "imo", "grade3"],
+    "sourceType": "generated"
+  }
+]

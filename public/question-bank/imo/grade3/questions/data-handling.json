@@ -1,0 +1,212 @@
+[
+  {
+    "id": "imo-g3-data-0001",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "A pictograph uses ___ to show data.",
+    "image": "",
+    "options": [
+      "Numbers only",
+      "Pictures or symbols",
+      "Words only",
+      "Colours only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A pictograph uses pictures or symbols to represent data.",
+    "tags": ["data", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-data-0002",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "In a survey, 5 children like apples, 8 like bananas, and 3 like oranges. Which fruit is most liked?",
+    "image": "",
+    "options": [
+      "Apples",
+      "Bananas",
+      "Oranges",
+      "All equal"
+    ],
+    "correctAnswer": 1,
+    "explanation": "8 children like bananas, which is more than apples (5) and oranges (3).",
+    "tags": ["data", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-data-0003",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "How many children are there in total if 4 like red, 6 like blue, and 5 like green?",
+    "image": "",
+    "options": [
+      "10",
+      "11",
+      "15",
+      "20"
+    ],
+    "correctAnswer": 2,
+    "explanation": "4 + 6 + 5 = 15 children in total.",
+    "tags": ["data", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-data-0004",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "medium",
+    "modes": ["practice", "mock"],
+    "questionText": "In a class, 12 students have dogs, 8 have cats, and 5 have both. How many students have at least one pet?",
+    "image": "",
+    "options": [
+      "20",
+      "15",
+      "25",
+      "17"
+    ],
+    "correctAnswer": 1,
+    "explanation": "12 + 8 - 5 = 15 (we subtract 5 because they were counted twice).",
+    "tags": ["data", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-data-0005",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "What do we call a table that shows data in rows and columns?",
+    "image": "",
+    "options": [
+      "Pictograph",
+      "Data table",
+      "Graph",
+      "Chart"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A data table organizes information in rows and columns.",
+    "tags": ["data", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-data-0006",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "medium",
+    "modes": ["practice", "mock"],
+    "questionText": "The heights of 4 friends are: 120 cm, 125 cm, 118 cm, 130 cm. What is the tallest height?",
+    "image": "",
+    "options": [
+      "118 cm",
+      "120 cm",
+      "125 cm",
+      "130 cm"
+    ],
+    "correctAnswer": 3,
+    "explanation": "130 cm is the greatest number, so it is the tallest.",
+    "tags": ["data", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-data-0007",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "If each 🍎 represents 2 apples, how many apples does 🍎🍎🍎 represent?",
+    "image": "",
+    "options": [
+      "3",
+      "5",
+      "6",
+      "8"
+    ],
+    "correctAnswer": 2,
+    "explanation": "3 symbols × 2 apples each = 6 apples.",
+    "tags": ["data", "pictograph", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-data-0008",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "To find the most common item in data, we look for the ___ value.",
+    "image": "",
+    "options": [
+      "Smallest",
+      "Largest",
+      "Middle",
+      "First"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The largest value or highest count shows the most common item.",
+    "tags": ["data", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-data-0009",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "medium",
+    "modes": ["practice", "mock"],
+    "questionText": "Scores in a test: 8, 9, 7, 9, 10. What is the total of all scores?",
+    "image": "",
+    "options": [
+      "40",
+      "43",
+      "42",
+      "41"
+    ],
+    "correctAnswer": 1,
+    "explanation": "8 + 9 + 7 + 9 + 10 = 43.",
+    "tags": ["data", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-data-0010",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "What do we call collecting information by asking questions?",
+    "image": "",
+    "options": [
+      "Guessing",
+      "Survey",
+      "Counting",
+      "Drawing"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A survey is a way to collect data by asking questions.",
+    "tags": ["data", "imo", "grade3"],
+    "sourceType": "generated"
+  }
+]
