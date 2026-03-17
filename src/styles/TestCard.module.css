@@ -1,7 +1,7 @@
 .card {
   display: flex;
   flex-direction: column;
-  padding: var(--space-6);
+  padding: var(--space-4);
   background: var(--surface);
   border-radius: var(--radius-lg);
   border: 2px solid var(--border-color);
@@ -19,12 +19,12 @@
 
 .badge {
   display: inline-block;
-  padding: var(--space-1) var(--space-3);
+  padding: var(--space-1) var(--space-2);
   border-radius: var(--radius-sm);
   font-size: var(--text-xs);
   font-weight: var(--font-semibold);
   width: fit-content;
-  margin-bottom: var(--space-3);
+  margin-bottom: var(--space-2);
 }
 
 .badge.practice {
@@ -38,9 +38,9 @@
 }
 
 .title {
-  font-size: var(--text-lg);
+  font-size: var(--text-base);
   font-weight: var(--font-semibold);
-  margin: 0 0 var(--space-3);
+  margin: 0 0 var(--space-2);
 }
 
 .meta {

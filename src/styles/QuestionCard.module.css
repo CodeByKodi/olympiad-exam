@@ -1,7 +1,7 @@
 .card {
   background: var(--surface);
   border-radius: var(--radius-lg);
-  padding: var(--space-10);
+  padding: var(--space-6);
   border: 2px solid var(--border-color);
   box-shadow: 0 2px 12px rgba(0, 0, 0, 0.04);
 }
@@ -11,7 +11,7 @@
   align-items: center;
   justify-content: space-between;
   gap: var(--space-4);
-  margin-bottom: var(--space-6);
+  margin-bottom: var(--space-4);
   flex-wrap: wrap;
 }
 
@@ -43,15 +43,15 @@
 }
 
 .questionText {
-  font-size: 1.25rem;
+  font-size: var(--text-lg);
   font-weight: var(--font-medium);
-  line-height: 1.65;
+  line-height: 1.55;
   color: var(--text-primary);
-  margin-bottom: var(--space-6);
+  margin-bottom: var(--space-4);
 }
 
 .imageWrap {
-  margin-bottom: var(--space-8);
+  margin-bottom: var(--space-4);
   border-radius: var(--radius-md);
   overflow: hidden;
   border: 1px solid var(--border-color);
@@ -60,20 +60,26 @@
 
 .image {
   max-width: 100%;
-  max-height: 360px;
+  max-height: 240px;
   display: block;
   object-fit: contain;
 }
 
 .options {
-  display: flex;
-  flex-direction: column;
-  gap: var(--space-4);
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: var(--space-3);
+}
+
+@media (max-width: 640px) {
+  .options {
+    grid-template-columns: 1fr;
+  }
 }
 
 .explanation {
-  margin-top: var(--space-8);
-  padding: var(--space-6);
+  margin-top: var(--space-4);
+  padding: var(--space-4);
   background: var(--success-light);
   border-radius: var(--radius-md);
   border-left: 4px solid var(--success);

@@ -1,20 +1,20 @@
 .footer {
-  padding: 1.5rem 2rem;
+  padding: var(--space-4) var(--space-5);
   text-align: center;
   background: var(--surface);
   border-top: 1px solid var(--border-color);
   color: var(--text-secondary);
-  font-size: 0.9rem;
+  font-size: var(--text-sm);
 }
 
 .sub {
-  margin-top: 0.25rem;
-  font-size: 0.8rem;
+  margin-top: var(--space-1);
+  font-size: var(--text-xs);
   opacity: 0.8;
 }
 
 .copyright {
-  margin-top: 0.5rem;
-  font-size: 0.8rem;
+  margin-top: var(--space-2);
+  font-size: var(--text-xs);
   opacity: 0.7;
 }
