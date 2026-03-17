@@ -2,19 +2,18 @@ import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { SettingsModal } from './SettingsModal';
 import { AdminBadge } from './AdminBadge';
-import { AdminToggleButton } from './AdminToggleButton';
 import { useRole } from '../hooks/useRole';
 import styles from '../styles/Header.module.css';
 
 export function Header({ onDarkModeToggle, darkMode }) {
   const [settingsOpen, setSettingsOpen] = useState(false);
-  const { isAdmin } = useRole();
+  const { hasLibraryAccess, isLoggedIn, user, logout } = useRole();
 
   useEffect(() => {
     const handleKeyDown = (e) => {
       if (e.ctrlKey && e.shiftKey && e.key === 'A') {
         e.preventDefault();
-        window.location.hash = '#/admin-unlock';
+        window.location.hash = '#/login';
       }
     };
     window.addEventListener('keydown', handleKeyDown);
@@ -26,15 +25,30 @@ export function Header({ onDarkModeToggle, darkMode }) {
       <Link to="/" className={styles.logo}>
         <span className={styles.logoIcon}>🏆</span>
         <span className={styles.logoText}>Olympiad Practice</span>
-        {isAdmin && <AdminBadge />}
+        {hasLibraryAccess && <AdminBadge role={user?.role} />}
       </Link>
       <nav className={styles.nav}>
         <Link to="/" className={styles.navLink}>Home</Link>
-        {isAdmin && (
+        {hasLibraryAccess && (
           <>
             <Link to="/manage-questions" className={styles.navLink}>Questions</Link>
             <Link to="/question-library" className={styles.navLink}>Library</Link>
           </>
+        )}
+        {isLoggedIn ? (
+          <>
+            <span className={styles.userLabel}>{user?.displayName || user?.username}</span>
+            <button
+              type="button"
+              className={styles.logoutBtn}
+              onClick={logout}
+              title="Logout"
+            >
+              Logout
+            </button>
+          </>
+        ) : (
+          <Link to="/login" className={styles.navLink}>Login</Link>
         )}
         <button
           type="button"
@@ -54,7 +68,6 @@ export function Header({ onDarkModeToggle, darkMode }) {
         >
           {darkMode ? '☀️' : '🌙'}
         </button>
-        {isAdmin && <AdminToggleButton />}
       </nav>
       <SettingsModal open={settingsOpen} onClose={() => setSettingsOpen(false)} />
     </header>

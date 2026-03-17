@@ -1,5 +1,6 @@
 import styles from '../styles/AdminBadge.module.css';
 
-export function AdminBadge() {
-  return <span className={styles.badge}>ADMIN MODE</span>;
+export function AdminBadge({ role = 'admin' }) {
+  const label = role === 'teacher' ? 'Teacher' : 'Admin';
+  return <span className={styles.badge}>{label}</span>;
 }

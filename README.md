@@ -298,6 +298,18 @@ The app works as a PWA (Progressive Web App):
 - **Offline**: After first load, cached content (app + starter packs) works offline
 - **Indicator**: A banner appears when you're offline
 
+## Documentation
+
+| Document | Description |
+|----------|-------------|
+| [docs/RUNBOOK.md](docs/RUNBOOK.md) | Operations, troubleshooting, quick reference |
+| [docs/DEVELOPER_GUIDE.md](docs/DEVELOPER_GUIDE.md) | Architecture, data flow, development practices |
+| [docs/ADDING_QUESTIONS.md](docs/ADDING_QUESTIONS.md) | How to add questions automatically or manually |
+| [docs/DEPLOY_GITHUB_PAGES.md](docs/DEPLOY_GITHUB_PAGES.md) | Deploy to GitHub Pages step-by-step |
+| [docs/QUESTION_BANK_ARCHITECTURE.md](docs/QUESTION_BANK_ARCHITECTURE.md) | Question bank structure and pack format |
+
+---
+
 ## Tech stack
 
 - React 19, Vite 8

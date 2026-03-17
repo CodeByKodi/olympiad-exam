@@ -6,7 +6,7 @@ import { useRole } from '../hooks/useRole';
 import styles from '../styles/LandingPage.module.css';
 
 export function LandingPage() {
-  const { isAdmin } = useRole();
+  const { hasLibraryAccess } = useRole();
   const completed = getCompletedTests();
   const bestScores = getBestScores();
   const inProgress = getInProgressAttempt();
@@ -84,7 +84,7 @@ export function LandingPage() {
       <section className={styles.dashboard}>
         <div className={styles.dashboardHeader}>
           <h2 className={styles.sectionTitle}>Your Progress</h2>
-          {isAdmin && (
+          {hasLibraryAccess && (
             <div className={styles.dashboardLinks}>
               <Link to="/question-library" className={styles.manageLink}>
                 Question Library
