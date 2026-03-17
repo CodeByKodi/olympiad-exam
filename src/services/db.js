@@ -1,15 +1,17 @@
 /**
  * Shared IndexedDB database for Olympiad app.
  * Single DB with multiple stores for storage abstraction.
+ * Includes retry for transient failures (e.g. private browsing, quota).
  */
 
 const DB_NAME = 'olympiad-exam-db';
 const DB_VERSION = 2;
+const RETRY_ATTEMPTS = 3;
+const RETRY_DELAY_MS = 300;
 
 let db = null;
 
-export function openDB() {
-  if (db) return Promise.resolve(db);
+function openDBOnce() {
   return new Promise((resolve, reject) => {
     const req = indexedDB.open(DB_NAME, DB_VERSION);
     req.onerror = () => reject(req.error);
@@ -30,6 +32,23 @@ export function openDB() {
       }
     };
   });
+}
+
+export async function openDB() {
+  if (db) return db;
+  let lastError;
+  for (let attempt = 1; attempt <= RETRY_ATTEMPTS; attempt++) {
+    try {
+      const result = await openDBOnce();
+      return result;
+    } catch (e) {
+      lastError = e;
+      if (attempt < RETRY_ATTEMPTS) {
+        await new Promise((r) => setTimeout(r, RETRY_DELAY_MS));
+      }
+    }
+  }
+  throw lastError;
 }
 
 export function isAvailable() {

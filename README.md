@@ -1,6 +1,6 @@
 # Olympiad Mock Exam Platform
 
-A cross-platform Olympiad mock exam app for Grade 3 students. Works on **desktop browsers**, **GitHub Pages**, **Android**, and **iPhone/iPad** from a single codebase.
+An Olympiad mock exam app for Grade 3 students. Deploys to **GitHub Pages** and runs in any modern browser.
 
 ## Features
 
@@ -35,18 +35,15 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 npm run build
 ```
 
-Output goes to `dist/`. Preview with:
+Output goes to `dist/`. Preview locally with:
 
 ```bash
 npm run preview
 ```
 
-To test the GitHub Pages build locally (with repo subpath):
+Then open [http://localhost:4173](http://localhost:4173).
 
-```bash
-npm run build:pages
-npm run preview
-```
+> **Note:** Use `npm run build` (not `build:pages`) for local preview. `build:pages` uses a base path for GitHub Pages and will not load correctly at `http://localhost:4173/`.
 
 ---
 
@@ -181,14 +178,26 @@ Import, delete, enable/disable, and reload work without restart after deployment
 
 ---
 
-## Troubleshooting broken asset paths
+## Troubleshooting
+
+### Nothing loads at http://localhost:4173/
+
+You likely ran `npm run build:pages` instead of `npm run build`. The Pages build uses a base path (`/olympiad-exam/`) and assets won’t load when previewing at the root. Use:
+
+```bash
+npm run build
+npm run preview
+```
+
+Then open [http://localhost:4173](http://localhost:4173).
+
+### Broken asset paths on GitHub Pages
 
 If images or starter packs fail to load on GitHub Pages:
 
 1. **Check base path**: The workflow builds with `--base /${{ repo.name }}/`. Ensure your repo name matches the URL.
 2. **Check `config.js`**: Uses `import.meta.env.BASE_URL` from Vite. Do not hardcode paths like `/starter-packs/`.
 3. **Use helpers**: Use `resolveStaticPath()` or `getAssetPath()` from `src/config.js` for all static asset URLs.
-4. **Test locally**: Run `npm run build:pages && npm run preview` and verify paths at `http://localhost:4173/olympiad-exam/`.
 
 ---
 
@@ -211,17 +220,24 @@ If images or starter packs fail to load on GitHub Pages:
 | Script | Description |
 |--------|-------------|
 | `npm run dev` | Start dev server |
-| `npm run build` | Build for production (base: `./`) |
-| `npm run build:pages` | Build for GitHub Pages (base: `/olympiad-exam/`) |
+| `npm run build` | Build for production |
+| `npm run build:pages` | Build for GitHub Pages (used by CI) |
 | `npm run preview` | Preview production build |
-| `npm run preview:pages` | Build for Pages and preview |
-| `npm run cap:sync` | Build and sync to Android + iOS |
 
 ---
+
+## PWA & Offline
+
+The app works as a PWA (Progressive Web App):
+
+- **Install**: Add to home screen from the browser menu (Chrome, Safari, etc.)
+- **Offline**: After first load, cached content (app + starter packs) works offline
+- **Indicator**: A banner appears when you're offline
 
 ## Tech stack
 
 - React 19, Vite 8
 - React Router (HashRouter)
 - IndexedDB (browser storage)
+- Service worker (offline cache)
 - No backend, no server database

@@ -4,6 +4,7 @@
  */
 
 import { normalizeCorrectAnswer } from './scoreUtils.js';
+import { GRADE_CONFIG } from '../constants/exams.js';
 
 const EXAMS = ['nso', 'imo', 'ieo', 'ics', 'igko', 'isso'];
 const MODES = ['practice', 'mock'];
@@ -26,8 +27,9 @@ export function validatePack(pack) {
   if (!pack.exam || !EXAMS.includes(String(pack.exam).toLowerCase())) {
     errors.push(`exam must be one of: ${EXAMS.join(', ')}`);
   }
-  if (pack.grade == null || String(pack.grade) !== '3') {
-    errors.push('grade must be 3 (only Grade 3 supported)');
+  const gradeStr = pack.grade != null ? String(pack.grade) : '';
+  if (!gradeStr || !GRADE_CONFIG[gradeStr]) {
+    errors.push(`grade must be one of: ${Object.keys(GRADE_CONFIG).join(', ')}`);
   }
   if (!pack.mode || !MODES.includes(String(pack.mode).toLowerCase())) {
     errors.push('mode must be "practice" or "mock"');
@@ -49,9 +51,10 @@ export function validatePack(pack) {
   const ids = new Set();
   const texts = new Set();
 
+  const gradeForValidation = gradeStr && GRADE_CONFIG[gradeStr] ? gradeStr : '3';
   for (let i = 0; i < questions.length; i++) {
     const q = questions[i];
-    const err = validateQuestion(q);
+    const err = validateQuestion(q, gradeForValidation);
     if (err) {
       errors.push(`Question ${i + 1}: ${err}`);
     }
@@ -76,15 +79,18 @@ export function validatePack(pack) {
 /**
  * Validate a single question.
  * @param {Object} q
+ * @param {string} [gradeId] - Grade for options-per-question rule (default '3')
  * @returns {string|null}
  */
-function validateQuestion(q) {
+function validateQuestion(q, gradeId = '3') {
   if (!q || typeof q !== 'object') return 'Invalid question object';
   if (!q.questionText || typeof q.questionText !== 'string') return 'questionText is required';
   const opts = q.options ?? q.opts;
   if (!Array.isArray(opts) || opts.length < 2) return 'options must be an array with at least 2 items';
-  if (opts.length > 4) return 'options must have at most 4 items';
-  if (opts.length !== 4) return 'Grade 3 requires exactly 4 options per question';
+  const cfg = GRADE_CONFIG[gradeId];
+  const required = cfg?.optionsPerQuestion ?? 4;
+  if (opts.length > required) return `options must have at most ${required} items`;
+  if (opts.length !== required) return `Grade ${gradeId} requires exactly ${required} options per question`;
   const correct = q.correctAnswer;
   const optsLen = opts.length;
   const correctIdx = normalizeCorrectAnswer(correct, optsLen);

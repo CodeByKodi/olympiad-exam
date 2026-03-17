@@ -1,5 +1,5 @@
 /**
- * Resolve asset URLs for static hosting (Vite dev, GitHub Pages, Capacitor).
+ * Resolve asset URLs for static hosting (Vite dev, GitHub Pages).
  * Uses Vite base path for correct resolution under repo subpaths.
  */
 

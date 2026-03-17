@@ -1,5 +1,5 @@
 /**
- * Load test data from the Question Library (Electron).
+ * Load test data from the Question Library.
  * Used when library packs are available for the exam/grade/mode.
  */
 

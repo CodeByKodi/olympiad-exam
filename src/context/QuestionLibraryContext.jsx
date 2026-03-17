@@ -13,10 +13,11 @@ export function QuestionLibraryProvider({ children }) {
     setLoading(true);
     setError(null);
     try {
-      const { packs: list } = await libraryService.loadLibrary();
+      const { packs: list, warning } = await libraryService.reloadLibrary();
       setPacks(list || []);
+      if (warning) setError(warning);
     } catch (e) {
-      setError(e.message);
+      setError(e.message || 'Failed to load library');
       setPacks([]);
     } finally {
       setLoading(false);
@@ -27,10 +28,11 @@ export function QuestionLibraryProvider({ children }) {
     setLoading(true);
     setError(null);
     try {
-      const { packs: list } = await libraryService.reloadLibrary();
+      const { packs: list, warning } = await libraryService.reloadLibrary();
       setPacks(list || []);
+      if (warning) setError(warning);
     } catch (e) {
-      setError(e.message);
+      setError(e.message || 'Failed to reload library');
     } finally {
       setLoading(false);
     }

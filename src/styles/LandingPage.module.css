@@ -1,7 +1,7 @@
 .page {
-  max-width: 1100px;
+  max-width: 1200px;
   margin: 0 auto;
-  padding: var(--space-8);
+  padding: var(--space-8) var(--space-10);
 }
 
 .resumeBanner {
@@ -25,6 +25,36 @@
 .hero {
   text-align: center;
   margin-bottom: var(--space-10);
+  padding: var(--space-8);
+  background: var(--surface);
+  border-radius: var(--radius-xl);
+  border: 1px solid var(--border-color);
+  box-shadow: var(--shadow-sm);
+}
+
+.motivation {
+  margin-bottom: var(--space-10);
+}
+
+.motivationContent {
+  padding: var(--space-6);
+  background: var(--primary-soft);
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--primary-light);
+}
+
+.motivationTitle {
+  font-size: var(--text-xl);
+  font-weight: var(--font-semibold);
+  margin: 0 0 var(--space-2);
+  color: var(--text-primary);
+}
+
+.motivationDesc {
+  font-size: var(--text-base);
+  color: var(--text-secondary);
+  margin: 0;
+  line-height: 1.5;
 }
 
 .title {
@@ -41,6 +71,122 @@
   font-size: var(--text-lg);
   color: var(--text-secondary);
   margin: 0;
+}
+
+.features {
+  margin-bottom: var(--space-10);
+}
+
+.featureGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: var(--space-5);
+}
+
+.featureCard {
+  padding: var(--space-5);
+  background: var(--surface);
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--border-color);
+  text-align: center;
+  transition: box-shadow 0.2s, border-color 0.2s;
+}
+
+.featureCard:hover {
+  border-color: var(--primary-light);
+  box-shadow: var(--shadow-md);
+}
+
+.featureIcon {
+  font-size: 2rem;
+  display: block;
+  margin-bottom: var(--space-3);
+}
+
+.featureTitle {
+  font-size: var(--text-base);
+  font-weight: var(--font-semibold);
+  margin: 0 0 var(--space-2);
+  color: var(--text-primary);
+}
+
+.featureDesc {
+  font-size: var(--text-sm);
+  color: var(--text-secondary);
+  margin: 0;
+  line-height: 1.4;
+}
+
+.howItWorks {
+  margin-bottom: var(--space-10);
+}
+
+.steps {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--space-4);
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.step {
+  flex: 1;
+  min-width: 140px;
+  max-width: 200px;
+  padding: var(--space-5);
+  background: var(--surface);
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--border-color);
+  text-align: center;
+}
+
+.stepNum {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  background: var(--primary);
+  color: white;
+  border-radius: 50%;
+  font-weight: var(--font-bold);
+  font-size: var(--text-sm);
+  margin-bottom: var(--space-3);
+}
+
+.stepTitle {
+  font-size: var(--text-base);
+  font-weight: var(--font-semibold);
+  margin: 0 0 var(--space-1);
+  color: var(--text-primary);
+}
+
+.stepDesc {
+  font-size: var(--text-sm);
+  color: var(--text-secondary);
+  margin: 0;
+  line-height: 1.4;
+}
+
+.stepArrow {
+  flex: 0 0 auto;
+  padding-top: var(--space-8);
+  font-size: 1.5rem;
+  color: var(--primary);
+}
+
+@media (max-width: 640px) {
+  .stepArrow {
+    display: none;
+  }
+
+  .steps {
+    flex-direction: column;
+  }
+
+  .step {
+    max-width: none;
+  }
 }
 
 .dashboard {
@@ -111,6 +257,29 @@
 
 .exams {
   margin-top: var(--space-8);
+}
+
+.examsIntro {
+  font-size: var(--text-base);
+  color: var(--text-secondary);
+  margin: 0 0 var(--space-6);
+  line-height: 1.5;
+}
+
+.cta {
+  margin-top: var(--space-10);
+  padding: var(--space-6);
+  text-align: center;
+  background: var(--primary-soft);
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--primary-light);
+}
+
+.ctaText {
+  font-size: var(--text-lg);
+  font-weight: var(--font-medium);
+  color: var(--text-primary);
+  margin: 0;
 }
 
 .grid {

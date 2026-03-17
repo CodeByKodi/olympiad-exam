@@ -1,13 +1,18 @@
 import { useState, useEffect } from 'react';
 import styles from '../styles/QuestionFormModal.module.css';
+import { GRADE_CONFIG } from '../constants/exams.js';
+import { useModalA11y } from '../hooks/useModalA11y.js';
 
 const DIFFICULTIES = ['easy', 'medium', 'hard'];
 
-export function QuestionFormModal({ open, question, onSave, onCancel }) {
+export function QuestionFormModal({ open, question, gradeId = '3', onSave, onCancel }) {
+  const optionsCount = GRADE_CONFIG[gradeId]?.optionsPerQuestion ?? 4;
+  const optionLetters = Array.from({ length: optionsCount }, (_, i) => String.fromCharCode(65 + i));
+
   const [form, setForm] = useState({
     questionText: '',
     image: '',
-    options: ['', '', '', ''],
+    options: Array.from({ length: optionsCount }, () => ''),
     correctAnswer: 0,
     explanation: '',
     topic: '',
@@ -19,7 +24,7 @@ export function QuestionFormModal({ open, question, onSave, onCancel }) {
       setForm({
         questionText: question.questionText || '',
         image: question.image || '',
-        options: Array.from({ length: 4 }, (_, i) => question.options?.[i] ?? ''),
+        options: Array.from({ length: optionsCount }, (_, i) => question.options?.[i] ?? ''),
         correctAnswer: question.correctAnswer ?? 0,
         explanation: question.explanation || '',
         topic: question.topic || '',
@@ -29,25 +34,25 @@ export function QuestionFormModal({ open, question, onSave, onCancel }) {
       setForm({
         questionText: '',
         image: '',
-        options: ['', '', '', ''],
+        options: Array.from({ length: optionsCount }, () => ''),
         correctAnswer: 0,
         explanation: '',
         topic: '',
         difficulty: 'easy',
       });
     }
-  }, [question, open]);
+  }, [question, open, optionsCount]);
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    const opts = form.options.map((o) => (o ?? '').trim()).slice(0, 4);
+    const opts = form.options.map((o) => (o ?? '').trim()).slice(0, optionsCount);
     const filled = opts.filter(Boolean);
     if (filled.length < 2) {
       alert('At least 2 options are required');
       return;
     }
-    if (filled.length !== 4) {
-      alert('Grade 3 tests require exactly 4 options. Please fill all A, B, C, and D.');
+    if (filled.length !== optionsCount) {
+      alert(`Grade ${gradeId} tests require exactly ${optionsCount} options. Please fill all ${optionLetters.join(', ')}.`);
       return;
     }
     const correctIdx = Math.min(form.correctAnswer, opts.length - 1);
@@ -62,12 +67,26 @@ export function QuestionFormModal({ open, question, onSave, onCancel }) {
     });
   };
 
+  const { modalRef, overlayRef } = useModalA11y(open, onCancel);
+
   if (!open) return null;
 
   return (
-    <div className={styles.overlay} onClick={onCancel}>
-      <div className={styles.modal} onClick={(e) => e.stopPropagation()}>
-        <h3 className={styles.title}>{question ? 'Edit Question' : 'New Question'}</h3>
+    <div
+      ref={overlayRef}
+      className={styles.overlay}
+      onClick={onCancel}
+      role="presentation"
+    >
+      <div
+        ref={modalRef}
+        className={styles.modal}
+        onClick={(e) => e.stopPropagation()}
+        role="dialog"
+        aria-modal="true"
+        aria-labelledby="question-form-title"
+      >
+        <h3 id="question-form-title" className={styles.title}>{question ? 'Edit Question' : 'New Question'}</h3>
         <form onSubmit={handleSubmit} className={styles.form}>
           <label className={styles.label}>
             Question text *
@@ -84,10 +103,10 @@ export function QuestionFormModal({ open, question, onSave, onCancel }) {
               type="text"
               value={form.image}
               onChange={(e) => setForm((f) => ({ ...f, image: e.target.value }))}
-              placeholder="images/nso/grade3/q1.png"
+              placeholder={`images/nso/grade${gradeId}/q1.png`}
             />
           </label>
-          {['A', 'B', 'C', 'D'].map((letter, i) => (
+          {optionLetters.map((letter, i) => (
             <label key={i} className={styles.label}>
               Option {letter} *
               <input

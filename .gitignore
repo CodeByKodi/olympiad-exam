@@ -4,9 +4,9 @@ node_modules
 # Build output
 dist
 dist-ssr
-release
+dist-preview
 
-# Environment & secrets (never commit API keys, tokens, etc.)
+# Environment & secrets
 .env
 .env.local
 .env.*.local
@@ -20,24 +20,6 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
-
-# Capacitor – Android
-android/app/build
-android/app/capacitor.build.gradle
-android/.gradle
-android/local.properties
-*.apk
-*.aab
-
-# Capacitor – iOS
-ios/App/Pods
-ios/App/App.xcuserdata
-ios/App.xcworkspace/xcuserdata
-ios/DerivedData
-*.ipa
-
-# Electron
-out
 
 # Test & coverage
 coverage

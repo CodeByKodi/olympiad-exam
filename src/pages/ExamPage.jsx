@@ -8,6 +8,7 @@ import { PaletteDrawer } from '../components/PaletteDrawer';
 import { QuestionCard } from '../components/QuestionCard';
 import { BottomActionBar } from '../components/BottomActionBar';
 import { ConfirmSubmitModal } from '../components/ConfirmSubmitModal';
+import { ExamSkeleton } from '../components/ExamSkeleton';
 import { useTestData } from '../hooks/useTestData';
 import { calculateScoreSummary } from '../utils/scoreUtils';
 import {
@@ -162,11 +163,7 @@ export function ExamPage() {
   }, [questions, currentIndex]);
 
   if (loading) {
-    return (
-      <div className={styles.page}>
-        <div className={styles.loading}>Loading test...</div>
-      </div>
-    );
+    return <ExamSkeleton />;
   }
 
   if (error || questions.length === 0) {

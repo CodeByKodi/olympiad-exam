@@ -35,7 +35,14 @@ export function ExamHeader({
 
       <div className={styles.bar}>
         {progress != null && totalQuestions > 0 && (
-          <div className={styles.progressWrap}>
+          <div
+            className={styles.progressWrap}
+            role="progressbar"
+            aria-valuenow={progress}
+            aria-valuemin={0}
+            aria-valuemax={totalQuestions}
+            aria-label={`${progress} of ${totalQuestions} questions answered`}
+          >
             <div
               className={styles.progressFill}
               style={{ width: `${(progress / totalQuestions) * 100}%` }}
@@ -62,6 +69,7 @@ export function ExamHeader({
             type="button"
             className={styles.submitBtn}
             onClick={onSubmit}
+            aria-label="Submit test and view results"
           >
             Submit Test
           </button>

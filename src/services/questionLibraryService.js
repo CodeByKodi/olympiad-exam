@@ -1,54 +1,57 @@
 /**
  * Question Library Service - Static hosting (GitHub Pages, web).
  * Loads starter packs from static JSON and imported packs from IndexedDB.
- * No backend, no Electron - browser storage only.
+ * Browser storage only (IndexedDB). For GitHub Pages.
  */
 
 import { resolveStaticPath } from '../config.js';
 import * as libraryStorage from './libraryStorageService.js';
 import { buildPracticePool, buildMockIndex } from '../utils/questionLibraryUtils.js';
-import { EXAMS } from '../constants/exams.js';
+import { EXAMS, GRADES } from '../constants/exams.js';
 
 /**
  * Load starter packs from static JSON files.
- * Fetches index.json per exam/grade, then each test file.
+ * Iterates over enabled grades and exams. Each grade has its own folder; changes to one grade do not affect others.
  * @returns {Promise<Array>} Starter packs in library format
  */
 export async function loadStarterPacks() {
   const packs = [];
   const examIds = Object.keys(EXAMS).map((k) => EXAMS[k].id);
+  const enabledGradeIds = Object.values(GRADES).filter((g) => g.enabled).map((g) => g.id);
 
   for (const examId of examIds) {
-    const indexUrl = resolveStaticPath(`starter-packs/${examId}/grade3/index.json`);
-    try {
-      const res = await fetch(indexUrl);
-      if (!res.ok) continue;
-      const index = await res.json();
-      const tests = index.tests || [];
-      for (const t of tests) {
-        const testUrl = resolveStaticPath(`starter-packs/${examId}/grade3/test${t.id}.json`);
-        const testRes = await fetch(testUrl);
-        if (!testRes.ok) continue;
-        const data = await testRes.json();
-        const questions = data.questions || data;
-        const arr = Array.isArray(questions) ? questions : [];
-        const packId = `${examId}-grade3-test${t.id}`;
-        packs.push({
-          packId,
-          exam: examId,
-          grade: '3',
-          mode: 'mock',
-          title: data.title || t.title || `Test ${t.id}`,
-          questions: arr.map((q) => ({ ...q, id: String(q.id ?? '') })),
-          durationMinutes: data.durationMinutes ?? t.durationMinutes ?? Math.ceil(arr.length * 1.5),
-          questionCount: arr.length,
-          isStarter: true,
-          enabled: true,
-          fileName: `test${t.id}.json`,
-        });
+    for (const gradeId of enabledGradeIds) {
+      const indexUrl = resolveStaticPath(`starter-packs/${examId}/grade${gradeId}/index.json`);
+      try {
+        const res = await fetch(indexUrl);
+        if (!res.ok) continue;
+        const index = await res.json();
+        const tests = index.tests || [];
+        for (const t of tests) {
+          const testUrl = resolveStaticPath(`starter-packs/${examId}/grade${gradeId}/test${t.id}.json`);
+          const testRes = await fetch(testUrl);
+          if (!testRes.ok) continue;
+          const data = await testRes.json();
+          const questions = data.questions || data;
+          const arr = Array.isArray(questions) ? questions : [];
+          const packId = `${examId}-grade${gradeId}-test${t.id}`;
+          packs.push({
+            packId,
+            exam: examId,
+            grade: gradeId,
+            mode: 'mock',
+            title: data.title || t.title || `Test ${t.id}`,
+            questions: arr.map((q) => ({ ...q, id: String(q.id ?? '') })),
+            durationMinutes: data.durationMinutes ?? t.durationMinutes ?? Math.ceil(arr.length * 1.5),
+            questionCount: arr.length,
+            isStarter: true,
+            enabled: true,
+            fileName: `test${t.id}.json`,
+          });
+        }
+      } catch {
+        // Skip exam/grade if index or tests fail
       }
-    } catch {
-      // Skip exam if index or tests fail
     }
   }
 
@@ -88,15 +91,32 @@ export function mergeLibraries(starterPacks, importedPacks) {
 
 /**
  * Reload library: fetch starter packs + load imported, then merge.
- * @returns {Promise<{ packs: Array }>}
+ * Resilient: returns partial packs if one source fails (e.g. network or IndexedDB).
+ * @returns {Promise<{ packs: Array, warning?: string }>}
  */
 export async function reloadLibrary() {
-  const [starterPacks, importedPacks] = await Promise.all([
-    loadStarterPacks(),
-    loadImportedPacks(),
-  ]);
+  let starterPacks = [];
+  let importedPacks = [];
+  let warning = null;
+
+  try {
+    starterPacks = await loadStarterPacks();
+  } catch (e) {
+    console.warn('Failed to load starter packs:', e);
+    warning = 'Could not load built-in tests. You can still use imported packs.';
+  }
+
+  try {
+    importedPacks = await loadImportedPacks();
+  } catch (e) {
+    console.warn('Failed to load imported packs:', e);
+    warning = warning
+      ? 'Some packs could not be loaded. Try reloading.'
+      : 'Could not load imported packs. Built-in tests are still available.';
+  }
+
   const packs = mergeLibraries(starterPacks, importedPacks);
-  return { packs };
+  return { packs, warning };
 }
 
 /**

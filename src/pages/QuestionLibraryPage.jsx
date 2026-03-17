@@ -3,11 +3,13 @@ import { useQuestionLibrary } from '../context/QuestionLibraryContext';
 import { validatePack, detectDuplicates } from '../utils/questionLibraryUtils';
 import * as libraryService from '../services/questionLibraryService';
 import { EXAMS } from '../constants/exams';
+import { LibrarySkeleton } from '../components/LibrarySkeleton';
 import styles from '../styles/QuestionLibraryPage.module.css';
 
 export function QuestionLibraryPage() {
   const { packs, loading, error, reload, isAvailable, service } = useQuestionLibrary();
   const [importing, setImporting] = useState(false);
+  const [importProgress, setImportProgress] = useState(null);
   const [importResult, setImportResult] = useState(null);
   const [deleting, setDeleting] = useState(null);
   const [exporting, setExporting] = useState(null);
@@ -94,18 +96,21 @@ export function QuestionLibraryPage() {
   };
 
   const handleFileChange = async (e) => {
-    const files = e.target.files;
+    const files = Array.from(e.target.files || []);
     e.target.value = '';
-    if (!files?.length) return;
+    if (!files.length) return;
     setImporting(true);
+    setImportResult(null);
+    setImportProgress(files.length > 1 ? { total: files.length } : null);
     try {
-      const summary = await processFiles(Array.from(files));
+      const summary = await processFiles(files);
       setImportResult(summary);
       await reload();
     } catch (err) {
       setImportResult({ imported: 0, skipped: 0, failed: 1, errors: [err.message] });
     } finally {
       setImporting(false);
+      setImportProgress(null);
       e.target.value = '';
     }
   };
@@ -183,7 +188,11 @@ export function QuestionLibraryPage() {
             onClick={handleImport}
             disabled={importing}
           >
-            {importing ? 'Importing…' : '📥 Import Packs'}
+            {importing
+              ? importProgress
+                ? `Importing ${importProgress.total} files…`
+                : 'Importing…'
+              : '📥 Import Packs'}
           </button>
           <button
             type="button"
@@ -210,7 +219,14 @@ export function QuestionLibraryPage() {
         </div>
       )}
 
-      {error && <div className={styles.error}>{error}</div>}
+      {error && (
+        <div className={styles.errorBanner}>
+          <span>{error}</span>
+          <button type="button" className={styles.retryBtn} onClick={handleReload} disabled={loading}>
+            {loading ? 'Reloading…' : 'Retry'}
+          </button>
+        </div>
+      )}
 
       {packs.length > 0 && (
         <div className={styles.filters}>
@@ -238,11 +254,23 @@ export function QuestionLibraryPage() {
 
       <div className={styles.tableWrap}>
         {loading && packs.length === 0 ? (
-          <p className={styles.loading}>Loading library…</p>
+          <LibrarySkeleton />
         ) : packs.length === 0 ? (
-          <p className={styles.empty}>
-            No packs yet. Click &quot;Import Packs&quot; to add JSON question packs.
-          </p>
+          <div className={styles.emptyState}>
+            <span className={styles.emptyIcon}>📚</span>
+            <h3 className={styles.emptyTitle}>No question packs yet</h3>
+            <p className={styles.emptyText}>
+              Import JSON question packs to get started. Each pack should include exam, grade, mode, and a questions array.
+            </p>
+            <button
+              type="button"
+              className={styles.primaryBtn}
+              onClick={handleImport}
+              disabled={importing}
+            >
+              📥 Import Packs
+            </button>
+          </div>
         ) : (
           <>
             <div className={styles.tableDesktop}>

@@ -29,6 +29,7 @@ export function BottomActionBar({
           className={styles.secondaryBtn}
           onClick={onClearAnswer}
           disabled={!hasAnswer || disabled}
+          aria-label="Clear selected answer"
         >
           Clear Answer
         </button>
@@ -37,6 +38,7 @@ export function BottomActionBar({
           className={`${styles.secondaryBtn} ${isMarked ? styles.active : ''}`}
           onClick={onMarkForReview}
           disabled={disabled}
+          aria-label={isMarked ? 'Unmark for review' : 'Mark for review'}
         >
           {isMarked ? 'Unmark Review' : 'Mark for Review'}
         </button>
@@ -47,6 +49,7 @@ export function BottomActionBar({
           className={styles.submitBtn}
           onClick={onSubmit}
           disabled={disabled}
+          aria-label="Submit test and view results"
         >
           Submit Test
         </button>

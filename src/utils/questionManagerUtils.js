@@ -3,7 +3,7 @@
  * Load, save, reset, export, and validate question sets.
  */
 
-import { STORAGE_KEYS } from '../constants/exams.js';
+import { STORAGE_KEYS, GRADE_CONFIG } from '../constants/exams.js';
 import { TESTS_PER_EXAM } from '../constants/exams.js';
 import { resolveStaticPath } from '../config.js';
 
@@ -49,7 +49,10 @@ export async function loadQuestionSet(examId, gradeId, testId) {
   }
   const url = resolveStaticPath(`starter-packs/${examId}/grade${gradeId}/test${testId}.json`);
   const res = await fetch(url);
-  if (!res.ok) throw new Error(`Failed to load: ${url}`);
+  if (!res.ok) {
+    if (res.status === 404) return []; // Grade has no content yet; allow adding questions
+    throw new Error(`Failed to load: ${url}`);
+  }
   const data = await res.json();
   const questions = data.questions || data;
   const arr = Array.isArray(questions) ? questions : [];
@@ -118,9 +121,10 @@ export function exportQuestionSet(questions, filename, meta = {}) {
 /**
  * Parse and validate imported JSON. Accepts full test format or questions-only.
  * @param {string} jsonText
+ * @param {string} [gradeId] - Grade for validation rules (e.g. options per question)
  * @returns {{ valid: boolean, questions?: Array, error?: string }}
  */
-export function parseImportJson(jsonText) {
+export function parseImportJson(jsonText, gradeId = '3') {
   try {
     const data = JSON.parse(jsonText);
     const questions = data.questions ?? (Array.isArray(data) ? data : null);
@@ -128,7 +132,7 @@ export function parseImportJson(jsonText) {
       return { valid: false, error: 'JSON must contain a "questions" array or be an array of questions' };
     }
     for (let i = 0; i < questions.length; i++) {
-      const err = validateQuestion(questions[i]);
+      const err = validateQuestion(questions[i], gradeId);
       if (err) return { valid: false, error: `Question ${i + 1}: ${err}` };
     }
     return { valid: true, questions };
@@ -140,15 +144,18 @@ export function parseImportJson(jsonText) {
 /**
  * Validate a single question.
  * @param {Object} q
+ * @param {string} [gradeId] - Grade for options-per-question rule (default '3')
  * @returns {string|null} Error message or null if valid
  */
-export function validateQuestion(q) {
+export function validateQuestion(q, gradeId = '3') {
   if (!q || typeof q !== 'object') return 'Invalid question object';
   if (!q.questionText || typeof q.questionText !== 'string') return 'questionText is required';
   const opts = q.options ?? q.opts;
   if (!Array.isArray(opts) || opts.length < 2) return 'options must be an array with at least 2 items';
-  if (opts.length > 4) return 'options must have at most 4 items';
-  if (opts.length !== 4) return 'Grade 3 tests require exactly 4 options per question';
+  const cfg = GRADE_CONFIG[gradeId];
+  const required = cfg?.optionsPerQuestion ?? 4;
+  if (opts.length > required) return `options must have at most ${required} items`;
+  if (opts.length !== required) return `Grade ${gradeId} requires exactly ${required} options per question`;
   const correct = q.correctAnswer;
   if (correct == null || correct < 0 || correct >= opts.length) {
     return 'correctAnswer must be a valid index (0–' + (opts.length - 1) + ')';

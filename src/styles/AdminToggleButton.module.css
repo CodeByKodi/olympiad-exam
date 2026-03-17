@@ -1,0 +1,16 @@
+.exitBtn {
+  padding: var(--space-2) var(--space-4);
+  font-size: var(--text-sm);
+  font-weight: var(--font-medium);
+  color: var(--text-secondary);
+  background: transparent;
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.exitBtn:hover {
+  color: var(--text-primary);
+  border-color: var(--text-muted);
+}

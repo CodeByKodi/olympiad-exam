@@ -1,6 +1,6 @@
 /**
  * Storage Service - Cross-platform persistence abstraction.
- * Uses IndexedDB for web. Capacitor @capacitor/preferences can be added later.
+ * Uses IndexedDB for web (GitHub Pages).
  */
 
 import { openDB, isAvailable } from './db.js';

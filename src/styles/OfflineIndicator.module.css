@@ -1,0 +1,21 @@
+.banner {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: var(--space-3) var(--space-6);
+  background: var(--warning);
+  color: white;
+  font-size: var(--text-sm);
+  font-weight: var(--font-medium);
+  text-align: center;
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-2);
+}
+
+.icon {
+  font-size: 1.25rem;
+}

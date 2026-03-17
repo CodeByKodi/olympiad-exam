@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
 import { getSettings, saveSettings } from '../utils/storageUtils';
+import { useModalA11y } from '../hooks/useModalA11y';
 import styles from '../styles/SettingsModal.module.css';
 
 export function SettingsModal({ open, onClose }) {
@@ -19,12 +20,21 @@ export function SettingsModal({ open, onClose }) {
     onClose();
   };
 
+  const { modalRef, overlayRef } = useModalA11y(open, onClose);
+
   if (!open) return null;
 
   return (
-    <div className={styles.overlay} onClick={onClose}>
-      <div className={styles.modal} onClick={(e) => e.stopPropagation()}>
-        <h3 className={styles.title}>Practice Mode Settings</h3>
+    <div ref={overlayRef} className={styles.overlay} onClick={onClose} role="presentation">
+      <div
+        ref={modalRef}
+        className={styles.modal}
+        onClick={(e) => e.stopPropagation()}
+        role="dialog"
+        aria-modal="true"
+        aria-labelledby="settings-modal-title"
+      >
+        <h3 id="settings-modal-title" className={styles.title}>Practice Mode Settings</h3>
         <p className={styles.desc}>These apply when you take a test in Practice mode.</p>
         <label className={styles.checkbox}>
           <input

@@ -66,6 +66,13 @@ export const GRADES = {
   },
 };
 
+/** Grade-specific rules (options per question, etc.). Changes to one grade do not affect others. */
+export const GRADE_CONFIG = {
+  '3': { optionsPerQuestion: 4 },
+  '4': { optionsPerQuestion: 4 },
+  '5': { optionsPerQuestion: 5 },
+};
+
 export const TEST_MODES = {
   PRACTICE: 'practice',
   MOCK: 'mock',

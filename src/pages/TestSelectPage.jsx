@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { useParams } from 'react-router-dom';
+import { useParams, Link } from 'react-router-dom';
 import { EXAMS, TEST_MODES, TESTS_PER_EXAM } from '../constants/exams';
 import { TestCard } from '../components/TestCard';
 import { getTestMetadata } from '../utils/loadTestData';
@@ -69,7 +69,11 @@ export function TestSelectPage() {
               />
             ))
           ) : (
-            <p className={styles.emptyHint}>No practice questions yet. Import packs in the Library.</p>
+            <p className={styles.emptyHint}>
+              No practice questions yet.{' '}
+              <Link to="/question-library" className={styles.emptyLink}>Import packs in the Library</Link>
+              {' '}to get started.
+            </p>
           )}
         </div>
       </section>

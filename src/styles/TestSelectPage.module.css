@@ -51,3 +51,13 @@
   color: var(--text-secondary);
   font-size: var(--text-base);
 }
+
+.emptyLink {
+  color: var(--primary);
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+.emptyLink:hover {
+  text-decoration: none;
+}

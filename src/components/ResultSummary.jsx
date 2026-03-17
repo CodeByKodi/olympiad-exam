@@ -8,7 +8,12 @@ export function ResultSummary({ summary }) {
   const { label, variant } = getPerformanceLabel(percentage);
 
   return (
-    <div className={styles.container}>
+    <div
+      className={styles.container}
+      role="status"
+      aria-live="polite"
+      aria-label={`Score: ${percentage}%. ${correct} correct, ${wrong} wrong, ${unanswered} unanswered.`}
+    >
       <div className={`${styles.badge} ${styles[variant]}`}>{label}</div>
       <div className={styles.score}>
         <span className={styles.percentage}>{percentage}%</span>

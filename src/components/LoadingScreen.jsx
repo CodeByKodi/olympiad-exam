@@ -6,7 +6,7 @@ export function LoadingScreen() {
       <div className={styles.content}>
         <span className={styles.icon}>🏆</span>
         <h1 className={styles.title}>Olympiad Mock Exam</h1>
-        <p className={styles.subtitle}>Grade 3 Practice Platform</p>
+        <p className={styles.subtitle}>Practice Platform</p>
         <div className={styles.spinner} />
       </div>
     </div>

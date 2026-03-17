@@ -13,6 +13,7 @@ import {
   checkDuplicateInExam,
 } from '../utils/questionManagerUtils';
 import { QuestionFormModal } from '../components/QuestionFormModal';
+import { QuestionListSkeleton } from '../components/QuestionListSkeleton';
 import styles from '../styles/QuestionManagerPage.module.css';
 
 export function QuestionManagerPage() {
@@ -75,7 +76,7 @@ export function QuestionManagerPage() {
 
   const handleSaveQuestion = async (formData) => {
     setDuplicateError(null);
-    const err = validateQuestion(formData);
+    const err = validateQuestion(formData, gradeId);
     if (err) {
       alert(err);
       return;
@@ -133,7 +134,7 @@ export function QuestionManagerPage() {
     setDuplicateError(null);
     const reader = new FileReader();
     reader.onload = async () => {
-      const result = parseImportJson(reader.result);
+      const result = parseImportJson(reader.result, gradeId);
       if (!result.valid) {
         setImportError(result.error);
         return;
@@ -247,13 +248,26 @@ export function QuestionManagerPage() {
       )}
 
       {loading ? (
-        <div className={styles.loading}>Loading questions...</div>
+        <QuestionListSkeleton />
       ) : error ? (
         <div className={styles.errorBanner}>{error}</div>
       ) : (
         <div className={styles.questionList}>
           {questions.length === 0 ? (
-            <p className={styles.empty}>No questions. Add one to get started.</p>
+            <div className={styles.emptyState}>
+              <span className={styles.emptyIcon}>✏️</span>
+              <h3 className={styles.emptyTitle}>No questions in this test</h3>
+              <p className={styles.emptyText}>
+                Add your first question to get started. You can also import from a JSON file.
+              </p>
+              <button
+                type="button"
+                className={styles.primaryBtn}
+                onClick={() => { setEditingQuestion(null); setFormOpen(true); }}
+              >
+                New Question
+              </button>
+            </div>
           ) : (
             questions.map((q, index) => (
               <div key={q.id} className={styles.questionCard}>
@@ -282,6 +296,7 @@ export function QuestionManagerPage() {
       <QuestionFormModal
         open={formOpen}
         question={editingQuestion !== null ? questions[editingQuestion] : null}
+        gradeId={gradeId}
         onSave={handleSaveQuestion}
         onCancel={() => { setFormOpen(false); setEditingQuestion(null); }}
       />

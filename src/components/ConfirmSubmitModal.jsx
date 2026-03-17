@@ -1,12 +1,27 @@
+import { useModalA11y } from '../hooks/useModalA11y';
 import styles from '../styles/ConfirmSubmitModal.module.css';
 
 export function ConfirmSubmitModal({ open, onConfirm, onCancel, unansweredCount }) {
+  const { modalRef, overlayRef } = useModalA11y(open, onCancel);
+
   if (!open) return null;
 
   return (
-    <div className={styles.overlay} onClick={onCancel}>
-      <div className={styles.modal} onClick={(e) => e.stopPropagation()}>
-        <h3 className={styles.title}>Submit Test?</h3>
+    <div
+      ref={overlayRef}
+      className={styles.overlay}
+      onClick={onCancel}
+      role="presentation"
+    >
+      <div
+        ref={modalRef}
+        className={styles.modal}
+        onClick={(e) => e.stopPropagation()}
+        role="dialog"
+        aria-modal="true"
+        aria-labelledby="confirm-submit-title"
+      >
+        <h3 id="confirm-submit-title" className={styles.title}>Submit Test?</h3>
         <p className={styles.message}>
           {unansweredCount > 0
             ? `You have ${unansweredCount} unanswered question(s). Are you sure you want to submit?`

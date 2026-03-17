@@ -9,8 +9,11 @@ export function MainLayout() {
 
   return (
     <div className={`${styles.wrapper} ${darkMode ? styles.dark : ''}`}>
+      <a href="#main-content" className={styles.skipLink}>
+        Skip to main content
+      </a>
       <Header onDarkModeToggle={() => setDarkMode((d) => !d)} darkMode={darkMode} />
-      <main className={styles.main}>
+      <main id="main-content" className={styles.main} tabIndex={-1}>
         <Outlet />
       </main>
       <Footer />

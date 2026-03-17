@@ -9,7 +9,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const DATA_DIR = path.join(__dirname, '..', 'public', 'data');
+const DATA_DIR = path.join(__dirname, '..', 'public', 'starter-packs');
 
 const EXAMS = ['nso', 'imo', 'ieo', 'ics', 'igko', 'isso'];
 const TESTS_PER_EXAM = 5;

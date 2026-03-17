@@ -1,0 +1,25 @@
+.page {
+  min-height: 100vh;
+  padding: var(--space-8) var(--space-10);
+  max-width: 1320px;
+  margin: 0 auto;
+}
+
+.header {
+  margin-bottom: var(--space-8);
+}
+
+.content {
+  max-width: 800px;
+}
+
+.main {
+  margin-bottom: var(--space-6);
+}
+
+.options {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+  margin-top: var(--space-6);
+}
