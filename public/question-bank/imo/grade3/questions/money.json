@@ -1,0 +1,212 @@
+[
+  {
+    "id": "imo-g3-money-0001",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Money",
+    "subtopic": "Money",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "One rupee equals how many paise?",
+    "image": "",
+    "options": [
+      "10",
+      "50",
+      "100",
+      "1000"
+    ],
+    "correctAnswer": 2,
+    "explanation": "1 rupee = 100 paise.",
+    "tags": ["money", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-money-0002",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Money",
+    "subtopic": "Money",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "Ravi has 2 coins of ₹5 each. How much money does he have?",
+    "image": "",
+    "options": [
+      "₹5",
+      "₹7",
+      "₹10",
+      "₹15"
+    ],
+    "correctAnswer": 2,
+    "explanation": "2 × ₹5 = ₹10.",
+    "tags": ["money", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-money-0003",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Money",
+    "subtopic": "Money",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "A pencil costs ₹12. How much do 2 pencils cost?",
+    "image": "",
+    "options": [
+      "₹14",
+      "₹24",
+      "₹10",
+      "₹6"
+    ],
+    "correctAnswer": 1,
+    "explanation": "2 × ₹12 = ₹24.",
+    "tags": ["money", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-money-0004",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Money",
+    "subtopic": "Money",
+    "difficulty": "medium",
+    "modes": ["practice", "mock"],
+    "questionText": "Priya has ₹50. She buys a book for ₹35. How much money is left with her?",
+    "image": "",
+    "options": [
+      "₹15",
+      "₹25",
+      "₹85",
+      "₹20"
+    ],
+    "correctAnswer": 0,
+    "explanation": "₹50 - ₹35 = ₹15.",
+    "tags": ["money", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-money-0005",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Money",
+    "subtopic": "Money",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "Which is the smallest Indian currency note?",
+    "image": "",
+    "options": [
+      "₹10",
+      "₹20",
+      "₹50",
+      "₹100"
+    ],
+    "correctAnswer": 0,
+    "explanation": "₹10 is the smallest Indian currency note in common use.",
+    "tags": ["money", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-money-0006",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Money",
+    "subtopic": "Money",
+    "difficulty": "medium",
+    "modes": ["practice", "mock"],
+    "questionText": "An eraser costs ₹8 and a sharpener costs ₹5. How much do both cost together?",
+    "image": "",
+    "options": [
+      "₹3",
+      "₹13",
+      "₹40",
+      "₹14"
+    ],
+    "correctAnswer": 1,
+    "explanation": "₹8 + ₹5 = ₹13.",
+    "tags": ["money", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-money-0007",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Money",
+    "subtopic": "Money",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "50 paise + 50 paise = ?",
+    "image": "",
+    "options": [
+      "50 paise",
+      "1 rupee",
+      "2 rupees",
+      "100 paise"
+    ],
+    "correctAnswer": 1,
+    "explanation": "50 + 50 = 100 paise = 1 rupee.",
+    "tags": ["money", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-money-0008",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Money",
+    "subtopic": "Money",
+    "difficulty": "medium",
+    "modes": ["practice", "mock"],
+    "questionText": "A toy costs ₹45. Rohan has ₹30. How much more money does he need?",
+    "image": "",
+    "options": [
+      "₹15",
+      "₹75",
+      "₹25",
+      "₹10"
+    ],
+    "correctAnswer": 0,
+    "explanation": "₹45 - ₹30 = ₹15 more needed.",
+    "tags": ["money", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-money-0009",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Money",
+    "subtopic": "Money",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "Which symbol do we use for rupees?",
+    "image": "",
+    "options": [
+      "$",
+      "₹",
+      "€",
+      "#"
+    ],
+    "correctAnswer": 1,
+    "explanation": "₹ is the symbol for Indian Rupee.",
+    "tags": ["money", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-money-0010",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Money",
+    "subtopic": "Money",
+    "difficulty": "medium",
+    "modes": ["practice", "mock"],
+    "questionText": "Three friends share ₹60 equally. How much does each get?",
+    "image": "",
+    "options": [
+      "₹10",
+      "₹20",
+      "₹30",
+      "₹15"
+    ],
+    "correctAnswer": 1,
+    "explanation": "₹60 ÷ 3 = ₹20 each.",
+    "tags": ["money", "imo", "grade3"],
+    "sourceType": "generated"
+  }
+]

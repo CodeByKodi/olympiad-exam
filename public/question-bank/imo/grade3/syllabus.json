@@ -1,267 +1,600 @@
 {
   "exam": "imo",
   "grade": 3,
+  "sections": [
+    {
+      "code": "IMO-G3-S1",
+      "name": "Logical Reasoning",
+      "description": "Developing logical thinking skills.",
+      "topics": [
+        {
+          "code": "IMO-G3-S1-T1",
+          "name": "Patterns",
+          "description": "Number and shape patterns.",
+          "weightage": "medium",
+          "recommendedQuestionCount": 25,
+          "subtopics": [
+            {
+              "code": "IMO-G3-S1-T1-S1",
+              "name": "Number Patterns",
+              "description": "Sequences and extending patterns.",
+              "learningObjectives": ["Identify patterns", "Extend sequences"],
+              "difficultyRange": ["easy", "medium"],
+              "tags": ["patterns", "imo", "grade3"]
+            },
+            {
+              "code": "IMO-G3-S1-T1-S2",
+              "name": "Shape Patterns",
+              "description": "Visual and figure patterns.",
+              "learningObjectives": ["Identify shape patterns", "Complete patterns"],
+              "difficultyRange": ["easy", "medium"],
+              "tags": ["patterns", "imo", "grade3"]
+            }
+          ]
+        },
+        {
+          "code": "IMO-G3-S1-T2",
+          "name": "Analogy and Classification",
+          "description": "Identifying relationships and grouping.",
+          "weightage": "medium",
+          "recommendedQuestionCount": 20,
+          "subtopics": [
+            {
+              "code": "IMO-G3-S1-T2-S1",
+              "name": "Analogy",
+              "description": "Finding similar relationships.",
+              "learningObjectives": ["Identify analogies", "Complete analogies"],
+              "difficultyRange": ["easy", "medium"],
+              "tags": ["analogy", "imo", "grade3"]
+            },
+            {
+              "code": "IMO-G3-S1-T2-S2",
+              "name": "Classification",
+              "description": "Grouping by common attributes.",
+              "learningObjectives": ["Classify objects", "Identify odd one out"],
+              "difficultyRange": ["easy", "medium"],
+              "tags": ["classification", "imo", "grade3"]
+            }
+          ]
+        },
+        {
+          "code": "IMO-G3-S1-T3",
+          "name": "Alphabet Test",
+          "description": "Letter sequences and arrangements.",
+          "weightage": "low",
+          "recommendedQuestionCount": 15,
+          "subtopics": [
+            {
+              "code": "IMO-G3-S1-T3-S1",
+              "name": "Alphabet Order",
+              "description": "Position and sequence of letters.",
+              "learningObjectives": ["Know alphabet order", "Find letter positions"],
+              "difficultyRange": ["easy", "medium"],
+              "tags": ["alphabet", "imo", "grade3"]
+            }
+          ]
+        },
+        {
+          "code": "IMO-G3-S1-T4",
+          "name": "Coding-Decoding",
+          "description": "Pattern-based coding and decoding.",
+          "weightage": "medium",
+          "recommendedQuestionCount": 20,
+          "subtopics": [
+            {
+              "code": "IMO-G3-S1-T4-S1",
+              "name": "Simple Coding",
+              "description": "Letter and number coding.",
+              "learningObjectives": ["Decode simple patterns", "Apply coding rules"],
+              "difficultyRange": ["easy", "medium"],
+              "tags": ["coding", "imo", "grade3"]
+            }
+          ]
+        },
+        {
+          "code": "IMO-G3-S1-T5",
+          "name": "Ranking Test",
+          "description": "Position and order problems.",
+          "weightage": "low",
+          "recommendedQuestionCount": 15,
+          "subtopics": [
+            {
+              "code": "IMO-G3-S1-T5-S1",
+              "name": "Ranking",
+              "description": "Finding position from left, right, etc.",
+              "learningObjectives": ["Solve ranking problems", "Find positions"],
+              "difficultyRange": ["easy", "medium"],
+              "tags": ["ranking", "imo", "grade3"]
+            }
+          ]
+        },
+        {
+          "code": "IMO-G3-S1-T6",
+          "name": "Grouping of Figures and Figure Matrix",
+          "description": "Visual grouping and matrix completion.",
+          "weightage": "medium",
+          "recommendedQuestionCount": 20,
+          "subtopics": [
+            {
+              "code": "IMO-G3-S1-T6-S1",
+              "name": "Figure Matrix",
+              "description": "Completing figure matrices.",
+              "learningObjectives": ["Identify figure patterns", "Complete matrices"],
+              "difficultyRange": ["easy", "medium"],
+              "tags": ["figures", "imo", "grade3"]
+            }
+          ]
+        },
+        {
+          "code": "IMO-G3-S1-T7",
+          "name": "Mirror Images",
+          "description": "Identifying mirror reflections.",
+          "weightage": "low",
+          "recommendedQuestionCount": 10,
+          "subtopics": [
+            {
+              "code": "IMO-G3-S1-T7-S1",
+              "name": "Mirror Images",
+              "description": "Horizontal and vertical mirror images.",
+              "learningObjectives": ["Identify mirror images", "Draw reflections"],
+              "difficultyRange": ["easy", "medium"],
+              "tags": ["mirror", "imo", "grade3"]
+            }
+          ]
+        },
+        {
+          "code": "IMO-G3-S1-T8",
+          "name": "Geometrical Shapes",
+          "description": "2D and 3D shapes, properties.",
+          "weightage": "medium",
+          "recommendedQuestionCount": 25,
+          "subtopics": [
+            {
+              "code": "IMO-G3-S1-T8-S1",
+              "name": "2D Shapes",
+              "description": "Circles, squares, triangles, rectangles.",
+              "learningObjectives": ["Identify shapes", "Count sides and corners"],
+              "difficultyRange": ["easy", "medium"],
+              "tags": ["shapes", "geometry", "imo", "grade3"]
+            },
+            {
+              "code": "IMO-G3-S1-T8-S2",
+              "name": "3D Shapes",
+              "description": "Cubes, spheres, cylinders.",
+              "learningObjectives": ["Identify 3D shapes", "Describe properties"],
+              "difficultyRange": ["easy", "medium"],
+              "tags": ["shapes", "imo", "grade3"]
+            }
+          ]
+        },
+        {
+          "code": "IMO-G3-S1-T9",
+          "name": "Embedded Figures",
+          "description": "Finding hidden figures.",
+          "weightage": "low",
+          "recommendedQuestionCount": 10,
+          "subtopics": [
+            {
+              "code": "IMO-G3-S1-T9-S1",
+              "name": "Embedded Figures",
+              "description": "Identifying figures within figures.",
+              "learningObjectives": ["Find embedded shapes", "Count figures"],
+              "difficultyRange": ["easy", "medium"],
+              "tags": ["embedded", "imo", "grade3"]
+            }
+          ]
+        },
+        {
+          "code": "IMO-G3-S1-T10",
+          "name": "Possible Combinations",
+          "description": "Counting and listing combinations.",
+          "weightage": "low",
+          "recommendedQuestionCount": 10,
+          "subtopics": [
+            {
+              "code": "IMO-G3-S1-T10-S1",
+              "name": "Combinations",
+              "description": "Simple combination problems.",
+              "learningObjectives": ["List combinations", "Count possibilities"],
+              "difficultyRange": ["easy", "medium"],
+              "tags": ["combinations", "imo", "grade3"]
+            }
+          ]
+        },
+        {
+          "code": "IMO-G3-S1-T11",
+          "name": "Clock and Calendar",
+          "description": "Time and date problems.",
+          "weightage": "medium",
+          "recommendedQuestionCount": 20,
+          "subtopics": [
+            {
+              "code": "IMO-G3-S1-T11-S1",
+              "name": "Clock",
+              "description": "Reading time, elapsed time.",
+              "learningObjectives": ["Tell time", "Calculate elapsed time"],
+              "difficultyRange": ["easy", "medium"],
+              "tags": ["clock", "time", "imo", "grade3"]
+            },
+            {
+              "code": "IMO-G3-S1-T11-S2",
+              "name": "Calendar",
+              "description": "Days, dates, months.",
+              "learningObjectives": ["Read calendar", "Find dates"],
+              "difficultyRange": ["easy", "medium"],
+              "tags": ["calendar", "imo", "grade3"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IMO-G3-S2",
+      "name": "Mathematical Reasoning",
+      "description": "Core mathematical concepts and reasoning.",
+      "topics": [
+        {
+          "code": "IMO-G3-S2-T1",
+          "name": "Numerals",
+          "description": "Reading and writing numbers.",
+          "weightage": "high",
+          "recommendedQuestionCount": 25,
+          "subtopics": [
+            {
+              "code": "IMO-G3-S2-T1-S1",
+              "name": "Numerals",
+              "description": "3-digit and 4-digit numerals.",
+              "learningObjectives": ["Read numerals", "Write numerals"],
+              "difficultyRange": ["easy", "medium"],
+              "tags": ["numerals", "numbers", "imo", "grade3"]
+            }
+          ]
+        },
+        {
+          "code": "IMO-G3-S2-T2",
+          "name": "Number Names",
+          "description": "Number names in words.",
+          "weightage": "high",
+          "recommendedQuestionCount": 25,
+          "subtopics": [
+            {
+              "code": "IMO-G3-S2-T2-S1",
+              "name": "Number Names",
+              "description": "Converting between numerals and names.",
+              "learningObjectives": ["Read number names", "Write number names"],
+              "difficultyRange": ["easy", "medium"],
+              "tags": ["number-names", "numbers", "imo", "grade3"]
+            }
+          ]
+        },
+        {
+          "code": "IMO-G3-S2-T3",
+          "name": "Number Sense",
+          "description": "4-digit numbers, place value, comparison.",
+          "weightage": "high",
+          "recommendedQuestionCount": 40,
+          "subtopics": [
+            {
+              "code": "IMO-G3-S2-T3-S1",
+              "name": "Place Value",
+              "description": "Understanding place value for 4-digit numbers.",
+              "learningObjectives": ["Identify place value", "Expand numbers"],
+              "difficultyRange": ["easy", "medium", "hard"],
+              "tags": ["numbers", "place-value", "imo", "grade3"]
+            },
+            {
+              "code": "IMO-G3-S2-T3-S2",
+              "name": "Comparison",
+              "description": "Comparing and ordering numbers.",
+              "learningObjectives": ["Compare numbers", "Order numbers"],
+              "difficultyRange": ["easy", "medium"],
+              "tags": ["numbers", "imo", "grade3"]
+            }
+          ]
+        },
+        {
+          "code": "IMO-G3-S2-T4",
+          "name": "Computation Operations",
+          "description": "Addition, subtraction, multiplication, division.",
+          "weightage": "high",
+          "recommendedQuestionCount": 50,
+          "subtopics": [
+            {
+              "code": "IMO-G3-S2-T4-S1",
+              "name": "Addition and Subtraction",
+              "description": "Add and subtract within 1000.",
+              "learningObjectives": ["Add numbers", "Subtract numbers", "Solve word problems"],
+              "difficultyRange": ["easy", "medium", "hard"],
+              "tags": ["addition", "subtraction", "imo", "grade3"]
+            },
+            {
+              "code": "IMO-G3-S2-T4-S2",
+              "name": "Multiplication and Division",
+              "description": "Basic multiplication and division.",
+              "learningObjectives": ["Multiply", "Divide", "Solve problems"],
+              "difficultyRange": ["easy", "medium"],
+              "tags": ["multiplication", "division", "imo", "grade3"]
+            }
+          ]
+        },
+        {
+          "code": "IMO-G3-S2-T5",
+          "name": "Fractions",
+          "description": "Understanding fractions.",
+          "weightage": "medium",
+          "recommendedQuestionCount": 30,
+          "subtopics": [
+            {
+              "code": "IMO-G3-S2-T5-S1",
+              "name": "Fractions",
+              "description": "Half, quarter, simple fractions.",
+              "learningObjectives": ["Identify fractions", "Compare fractions"],
+              "difficultyRange": ["easy", "medium"],
+              "tags": ["fractions", "imo", "grade3"]
+            }
+          ]
+        },
+        {
+          "code": "IMO-G3-S2-T6",
+          "name": "Length",
+          "description": "Measuring length in standard units.",
+          "weightage": "medium",
+          "recommendedQuestionCount": 20,
+          "subtopics": [
+            {
+              "code": "IMO-G3-S2-T6-S1",
+              "name": "Length",
+              "description": "Metres, centimetres, conversion.",
+              "learningObjectives": ["Measure length", "Convert units"],
+              "difficultyRange": ["easy", "medium"],
+              "tags": ["length", "measurement", "imo", "grade3"]
+            }
+          ]
+        },
+        {
+          "code": "IMO-G3-S2-T7",
+          "name": "Weight",
+          "description": "Measuring weight.",
+          "weightage": "medium",
+          "recommendedQuestionCount": 20,
+          "subtopics": [
+            {
+              "code": "IMO-G3-S2-T7-S1",
+              "name": "Weight",
+              "description": "Kilograms, grams.",
+              "learningObjectives": ["Measure weight", "Compare weights"],
+              "difficultyRange": ["easy", "medium"],
+              "tags": ["weight", "measurement", "imo", "grade3"]
+            }
+          ]
+        },
+        {
+          "code": "IMO-G3-S2-T8",
+          "name": "Capacity",
+          "description": "Measuring capacity and volume.",
+          "weightage": "medium",
+          "recommendedQuestionCount": 20,
+          "subtopics": [
+            {
+              "code": "IMO-G3-S2-T8-S1",
+              "name": "Capacity",
+              "description": "Litres, millilitres.",
+              "learningObjectives": ["Measure capacity", "Compare volumes"],
+              "difficultyRange": ["easy", "medium"],
+              "tags": ["capacity", "measurement", "imo", "grade3"]
+            }
+          ]
+        },
+        {
+          "code": "IMO-G3-S2-T9",
+          "name": "Temperature",
+          "description": "Reading temperature.",
+          "weightage": "low",
+          "recommendedQuestionCount": 10,
+          "subtopics": [
+            {
+              "code": "IMO-G3-S2-T9-S1",
+              "name": "Temperature",
+              "description": "Celsius, hot and cold.",
+              "learningObjectives": ["Read temperature", "Compare temperatures"],
+              "difficultyRange": ["easy", "medium"],
+              "tags": ["temperature", "measurement", "imo", "grade3"]
+            }
+          ]
+        },
+        {
+          "code": "IMO-G3-S2-T10",
+          "name": "Time",
+          "description": "Hours, minutes, elapsed time.",
+          "weightage": "medium",
+          "recommendedQuestionCount": 25,
+          "subtopics": [
+            {
+              "code": "IMO-G3-S2-T10-S1",
+              "name": "Time",
+              "description": "Reading clock, time intervals.",
+              "learningObjectives": ["Tell time", "Calculate duration"],
+              "difficultyRange": ["easy", "medium"],
+              "tags": ["time", "imo", "grade3"]
+            }
+          ]
+        },
+        {
+          "code": "IMO-G3-S2-T11",
+          "name": "Money",
+          "description": "Rupees and paise, addition of money.",
+          "weightage": "medium",
+          "recommendedQuestionCount": 25,
+          "subtopics": [
+            {
+              "code": "IMO-G3-S2-T11-S1",
+              "name": "Money",
+              "description": "Coins, notes, making change.",
+              "learningObjectives": ["Count money", "Add money", "Make change"],
+              "difficultyRange": ["easy", "medium"],
+              "tags": ["money", "imo", "grade3"]
+            }
+          ]
+        },
+        {
+          "code": "IMO-G3-S2-T12",
+          "name": "Geometry",
+          "description": "Shapes, lines, angles.",
+          "weightage": "medium",
+          "recommendedQuestionCount": 35,
+          "subtopics": [
+            {
+              "code": "IMO-G3-S2-T12-S1",
+              "name": "2D and 3D Shapes",
+              "description": "Properties of shapes.",
+              "learningObjectives": ["Identify shapes", "Describe properties"],
+              "difficultyRange": ["easy", "medium"],
+              "tags": ["geometry", "shapes", "imo", "grade3"]
+            }
+          ]
+        },
+        {
+          "code": "IMO-G3-S2-T13",
+          "name": "Data Handling",
+          "description": "Pictographs, tables, simple graphs.",
+          "weightage": "medium",
+          "recommendedQuestionCount": 25,
+          "subtopics": [
+            {
+              "code": "IMO-G3-S2-T13-S1",
+              "name": "Data Handling",
+              "description": "Reading and interpreting data.",
+              "learningObjectives": ["Read pictographs", "Interpret data"],
+              "difficultyRange": ["easy", "medium"],
+              "tags": ["data", "imo", "grade3"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IMO-G3-S3",
+      "name": "Everyday Mathematics",
+      "description": "Syllabus as per Section 2. Application of mathematical concepts to real-world situations.",
+      "topics": []
+    },
+    {
+      "code": "IMO-G3-S4",
+      "name": "Achievers Section",
+      "description": "Higher Order Thinking Questions. Syllabus as per Section 2.",
+      "topics": []
+    }
+  ],
   "topics": [
     {
       "code": "IMO-G3-T1",
       "name": "Numbers",
-      "description": "Number sense and counting.",
+      "description": "Numerals, number names, number sense (4-digit). Maps to Section 2.",
       "weightage": "high",
       "recommendedQuestionCount": 45,
+      "sectionRef": "IMO-G3-S2",
       "subtopics": [
         {
           "code": "IMO-G3-T1-S1",
           "name": "Counting and Numbers",
-          "description": "Number recognition.",
-          "learningObjectives": [
-            "Count objects",
-            "Read and write numbers"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
+          "description": "Number recognition and place value.",
+          "learningObjectives": ["Count objects", "Read and write numbers", "Understand place value"],
+          "difficultyRange": ["easy", "medium"],
           "recommendedQuestionCount": 22,
-          "tags": [
-            "numbers",
-            "imo",
-            "grade3"
-          ]
+          "tags": ["numbers", "imo", "grade3"]
         },
         {
           "code": "IMO-G3-T1-S2",
           "name": "Number Operations",
           "description": "Basic operations.",
-          "learningObjectives": [
-            "Add and subtract",
-            "Solve word problems"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
+          "learningObjectives": ["Add and subtract", "Solve word problems"],
+          "difficultyRange": ["easy", "medium"],
           "recommendedQuestionCount": 23,
-          "tags": [
-            "numbers",
-            "imo",
-            "grade3"
-          ]
+          "tags": ["numbers", "imo", "grade3"]
         }
       ]
     },
     {
       "code": "IMO-G3-T2",
       "name": "Addition and Subtraction",
-      "description": "Basic operations.",
+      "description": "Computation operations. Maps to Section 2.",
       "weightage": "high",
       "recommendedQuestionCount": 50,
+      "sectionRef": "IMO-G3-S2",
       "subtopics": [
         {
           "code": "IMO-G3-T2-S1",
           "name": "Addition",
           "description": "Adding numbers.",
-          "learningObjectives": [
-            "Add within 100",
-            "Solve addition problems"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
+          "learningObjectives": ["Add within 1000", "Solve addition problems"],
+          "difficultyRange": ["easy", "medium"],
           "recommendedQuestionCount": 25,
-          "tags": [
-            "addition",
-            "imo",
-            "grade3"
-          ]
+          "tags": ["addition", "imo", "grade3"]
         },
         {
           "code": "IMO-G3-T2-S2",
           "name": "Subtraction",
           "description": "Subtracting numbers.",
-          "learningObjectives": [
-            "Subtract within 100",
-            "Solve subtraction problems"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
+          "learningObjectives": ["Subtract within 1000", "Solve subtraction problems"],
+          "difficultyRange": ["easy", "medium"],
           "recommendedQuestionCount": 25,
-          "tags": [
-            "subtraction",
-            "imo",
-            "grade3"
-          ]
+          "tags": ["subtraction", "imo", "grade3"]
         }
       ]
     },
     {
       "code": "IMO-G3-T3",
       "name": "Patterns",
-      "description": "Number and shape patterns.",
+      "description": "Number and shape patterns. Section 1 - Logical Reasoning.",
       "weightage": "medium",
       "recommendedQuestionCount": 30,
+      "sectionRef": "IMO-G3-S1",
       "subtopics": [
         {
           "code": "IMO-G3-T3-S1",
           "name": "Number Patterns",
           "description": "Sequences.",
-          "learningObjectives": [
-            "Identify patterns",
-            "Extend sequences"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
+          "learningObjectives": ["Identify patterns", "Extend sequences"],
+          "difficultyRange": ["easy", "medium"],
           "recommendedQuestionCount": 15,
-          "tags": [
-            "patterns",
-            "imo",
-            "grade3"
-          ]
+          "tags": ["patterns", "imo", "grade3"]
         },
         {
           "code": "IMO-G3-T3-S2",
           "name": "Shape Patterns",
           "description": "Visual patterns.",
-          "learningObjectives": [
-            "Identify shape patterns",
-            "Complete patterns"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
+          "learningObjectives": ["Identify shape patterns", "Complete patterns"],
+          "difficultyRange": ["easy", "medium"],
           "recommendedQuestionCount": 15,
-          "tags": [
-            "patterns",
-            "imo",
-            "grade3"
-          ]
+          "tags": ["patterns", "imo", "grade3"]
         }
       ]
     },
     {
       "code": "IMO-G3-T4",
       "name": "Shapes",
-      "description": "Basic geometry.",
+      "description": "Geometrical shapes. Section 1 & 2.",
       "weightage": "medium",
       "recommendedQuestionCount": 35,
+      "sectionRef": "IMO-G3-S1",
       "subtopics": [
         {
           "code": "IMO-G3-T4-S1",
           "name": "2D Shapes",
           "description": "Circles, squares, triangles.",
-          "learningObjectives": [
-            "Identify shapes",
-            "Count sides and corners"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
+          "learningObjectives": ["Identify shapes", "Count sides and corners"],
+          "difficultyRange": ["easy", "medium"],
           "recommendedQuestionCount": 18,
-          "tags": [
-            "shapes",
-            "imo",
-            "grade3"
-          ]
+          "tags": ["shapes", "imo", "grade3"]
         },
         {
           "code": "IMO-G3-T4-S2",
           "name": "3D Shapes",
           "description": "Cubes, spheres.",
-          "learningObjectives": [
-            "Identify 3D shapes",
-            "Describe properties"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
+          "learningObjectives": ["Identify 3D shapes", "Describe properties"],
+          "difficultyRange": ["easy", "medium"],
           "recommendedQuestionCount": 17,
-          "tags": [
-            "shapes",
-            "imo",
-            "grade3"
-          ]
-        }
-      ]
-    },
-    {
-      "code": "IMO-G3-T5",
-      "name": "Time and Money",
-      "description": "Practical math.",
-      "weightage": "medium",
-      "recommendedQuestionCount": 35,
-      "subtopics": [
-        {
-          "code": "IMO-G3-T5-S1",
-          "name": "Time",
-          "description": "Hours and minutes.",
-          "learningObjectives": [
-            "Tell time",
-            "Describe daily schedule"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
-          "recommendedQuestionCount": 18,
-          "tags": [
-            "time",
-            "imo",
-            "grade3"
-          ]
-        },
-        {
-          "code": "IMO-G3-T5-S2",
-          "name": "Money",
-          "description": "Coins and notes.",
-          "learningObjectives": [
-            "Identify money",
-            "Count money"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
-          "recommendedQuestionCount": 17,
-          "tags": [
-            "money",
-            "imo",
-            "grade3"
-          ]
-        }
-      ]
-    },
-    {
-      "code": "IMO-G3-T6",
-      "name": "Simple Reasoning",
-      "description": "Logical thinking.",
-      "weightage": "low",
-      "recommendedQuestionCount": 15,
-      "subtopics": [
-        {
-          "code": "IMO-G3-T6-S1",
-          "name": "Logical Reasoning",
-          "description": "Simple logic.",
-          "learningObjectives": [
-            "Solve simple puzzles",
-            "Identify relationships"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
-          "recommendedQuestionCount": 15,
-          "tags": [
-            "reasoning",
-            "imo",
-            "grade3"
-          ]
+          "tags": ["shapes", "imo", "grade3"]
         }
       ]
     }

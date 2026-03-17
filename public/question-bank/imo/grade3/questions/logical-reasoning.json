@@ -1,0 +1,212 @@
+[
+  {
+    "id": "imo-g3-logical-0001",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Logical Reasoning",
+    "subtopic": "Analogy and Classification",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "Dog is to puppy as cat is to ___?",
+    "image": "",
+    "options": [
+      "Cub",
+      "Kitten",
+      "Calf",
+      "Chick"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A baby dog is a puppy, and a baby cat is a kitten.",
+    "tags": ["analogy", "logical-reasoning", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-logical-0002",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Logical Reasoning",
+    "subtopic": "Analogy and Classification",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "Which one is different: Apple, Banana, Carrot, Orange?",
+    "image": "",
+    "options": [
+      "Apple",
+      "Banana",
+      "Carrot",
+      "Orange"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Carrot is a vegetable. Apple, Banana, and Orange are fruits.",
+    "tags": ["classification", "logical-reasoning", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-logical-0003",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Logical Reasoning",
+    "subtopic": "Coding-Decoding",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "If A=1, B=2, C=3, what is the value of CAT?",
+    "image": "",
+    "options": [
+      "24",
+      "24 (3+1+20)",
+      "6",
+      "3120"
+    ],
+    "correctAnswer": 0,
+    "explanation": "C=3, A=1, T=20. 3+1+20=24.",
+    "tags": ["coding", "logical-reasoning", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-logical-0004",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Logical Reasoning",
+    "subtopic": "Alphabet Test",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "Which letter comes exactly in the middle of the alphabet?",
+    "image": "",
+    "options": [
+      "L",
+      "M",
+      "N",
+      "O"
+    ],
+    "correctAnswer": 1,
+    "explanation": "M is the 13th letter. There are 26 letters, so M is in the middle.",
+    "tags": ["alphabet", "logical-reasoning", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-logical-0005",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Logical Reasoning",
+    "subtopic": "Ranking Test",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "In a queue of 5 children, Riya is 2nd from the front. What is her position from the back?",
+    "image": "",
+    "options": [
+      "2nd",
+      "3rd",
+      "4th",
+      "5th"
+    ],
+    "correctAnswer": 2,
+    "explanation": "In a queue of 5, 2nd from front means 4th from back.",
+    "tags": ["ranking", "logical-reasoning", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-logical-0006",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Logical Reasoning",
+    "subtopic": "Analogy and Classification",
+    "difficulty": "medium",
+    "modes": ["practice", "mock"],
+    "questionText": "Pen is to write as knife is to ___?",
+    "image": "",
+    "options": [
+      "Eat",
+      "Cut",
+      "Draw",
+      "Read"
+    ],
+    "correctAnswer": 1,
+    "explanation": "We use a pen to write and a knife to cut.",
+    "tags": ["analogy", "logical-reasoning", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-logical-0007",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Logical Reasoning",
+    "subtopic": "Analogy and Classification",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "Which one is different: Square, Circle, Triangle, Rectangle?",
+    "image": "",
+    "options": [
+      "Square",
+      "Circle",
+      "Triangle",
+      "Rectangle"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Circle has no corners. Square, Triangle, and Rectangle have corners.",
+    "tags": ["classification", "logical-reasoning", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-logical-0008",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Logical Reasoning",
+    "subtopic": "Clock and Calendar",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "How many days are in a week?",
+    "image": "",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswer": 2,
+    "explanation": "There are 7 days in a week: Sunday to Saturday.",
+    "tags": ["calendar", "logical-reasoning", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-logical-0009",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Logical Reasoning",
+    "subtopic": "Clock and Calendar",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "How many months are in a year?",
+    "image": "",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "correctAnswer": 2,
+    "explanation": "There are 12 months in a year.",
+    "tags": ["calendar", "logical-reasoning", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-logical-0010",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Logical Reasoning",
+    "subtopic": "Possible Combinations",
+    "difficulty": "medium",
+    "modes": ["practice", "mock"],
+    "questionText": "You have a red shirt and a blue shirt. You have black pants and white pants. How many different outfits can you make?",
+    "image": "",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Red+Black, Red+White, Blue+Black, Blue+White = 4 outfits.",
+    "tags": ["combinations", "logical-reasoning", "imo", "grade3"],
+    "sourceType": "generated"
+  }
+]
