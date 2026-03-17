@@ -10,9 +10,9 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "build:gh-pages": "vite build --base /olympiad-exam/",
+    "build:pages": "vite build --base /olympiad-exam/",
     "preview": "vite preview",
-    "deploy": "npm run build:gh-pages && npx gh-pages -d dist",
+    "preview:pages": "npm run build:pages && vite preview",
     "lint": "eslint .",
     "generate": "node scripts/generate-questions.js",
     "validate": "node scripts/validate-questions.js",
@@ -44,7 +44,6 @@
     "eslint": "^9.39.4",
     "eslint-plugin-react-hooks": "^7.0.1",
     "eslint-plugin-react-refresh": "^0.5.2",
-    "gh-pages": "^6.3.0",
     "globals": "^17.4.0",
     "vite": "^8.0.0",
     "wait-on": "^8.0.1"

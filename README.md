@@ -41,62 +41,93 @@ Output goes to `dist/`. Preview with:
 npm run preview
 ```
 
----
-
-## Deploy to GitHub Pages
-
-### 1. Configure repository
-
-Update `package.json` homepage to match your repo:
-
-```json
-"homepage": "https://YOUR_USERNAME.github.io/olympiad-exam"
-```
-
-### 2. Build for GitHub Pages
-
-The build uses a base path for the repo subpath:
+To test the GitHub Pages build locally (with repo subpath):
 
 ```bash
-npm run build:gh-pages
+npm run build:pages
+npm run preview
 ```
 
-This runs `vite build --base /olympiad-exam/` so assets load correctly at `https://username.github.io/olympiad-exam/`.
+---
 
-### 3. Deploy
+## Deploy to GitHub Pages (GitHub Actions)
+
+Deployment is **automatic** via GitHub Actions. Push to `main` and the app deploys to GitHub Pages.
+
+### 1. Enable GitHub Pages
+
+1. Go to your repo on GitHub
+2. **Settings** → **Pages**
+3. Under **Build and deployment**:
+   - **Source**: select **GitHub Actions**
+
+### 2. Push to main
+
+Push any commit to the `main` branch. The workflow at `.github/workflows/deploy.yml` will:
+
+1. Install dependencies
+2. Build the app with the correct base path (`/repo-name/`)
+3. Deploy to GitHub Pages
+
+### 3. Where the site appears
+
+After deployment, your site will be at:
+
+```
+https://YOUR_USERNAME.github.io/olympiad-exam/
+```
+
+(Replace `YOUR_USERNAME` with your GitHub username and `olympiad-exam` with your repo name.)
+
+### 4. Manual deployment
+
+You can also trigger deployment manually:
+
+1. Go to **Actions** in your repo
+2. Select **Deploy to GitHub Pages**
+3. Click **Run workflow**
+
+### 5. Verify deployment
+
+- Check the **Actions** tab for workflow status
+- Visit `https://YOUR_USERNAME.github.io/olympiad-exam/` once the workflow completes
+- Test routes: `#/`, `#/exam/nso`, `#/library`
+
+---
+
+## Changing the repo name or base path
+
+If you rename your repository, the base path updates automatically. The workflow uses `${{ github.event.repository.name }}` so the build always uses the correct subpath.
+
+For local testing with a different base path:
 
 ```bash
-npm run deploy
+npx vite build --base /your-repo-name/
 ```
 
-This builds and pushes the `dist/` folder to the `gh-pages` branch. GitHub Pages will serve it.
+---
 
-### 4. Enable GitHub Pages
+## GitHub Pages routing
 
-In your repo: **Settings → Pages → Source** → select **Deploy from a branch**.
+The app uses **HashRouter** so all routes work on static hosting:
 
-Choose branch `gh-pages` and folder `/ (root)`.
+| Route | Description |
+|-------|-------------|
+| `#/` | Home |
+| `#/exam/nso` | Grade selection |
+| `#/exam/nso/grade/3` | Test selection |
+| `#/exam/nso/grade/3/tests` | Redirects to test selection |
+| `#/exam/nso/grade/3/test/1` | Take test |
+| `#/library` or `#/question-library` | Question Library |
+| `#/manage-questions` | Question Manager |
 
-Your app will be at: `https://YOUR_USERNAME.github.io/olympiad-exam/`
+Deep links work: `https://yoursite.github.io/olympiad-exam/#/exam/nso/grade/3`
+
+Refresh and direct navigation work correctly in GitHub Pages mode.
 
 ---
 
-## GitHub Pages Routing
-
-The app uses **HashRouter** so routes work on static hosting:
-
-- `#/` – Home
-- `#/exam/nso` – Grade selection
-- `#/exam/nso/grade/3` – Test selection
-- `#/exam/nso/grade/3/test/1` – Take test
-- `#/library` or `#/question-library` – Question Library
-- `#/manage-questions` – Question Manager
-
-Deep linking works: `https://yoursite.github.io/olympiad-exam/#/exam/nso/grade/3`
-
----
-
-## Starter Packs
+## Starter packs
 
 Built-in tests are stored as static JSON in `public/starter-packs/`:
 
@@ -112,48 +143,22 @@ public/starter-packs/
 └── ...
 ```
 
-### Format
+### How they load
 
-**index.json** (per exam/grade):
+- **Local dev**: Fetched from `./starter-packs/...` (Vite serves from `public/`)
+- **GitHub Pages**: Fetched from `https://yoursite.github.io/olympiad-exam/starter-packs/...`
 
-```json
-{
-  "tests": [
-    { "id": "1", "title": "NSO Grade 3 Test 1", "durationMinutes": 15, "questionCount": 10 },
-    ...
-  ]
-}
-```
-
-**test1.json**:
-
-```json
-{
-  "title": "NSO Grade 3 Test 1",
-  "durationMinutes": 15,
-  "questionCount": 10,
-  "questions": [
-    {
-      "id": "nso-grade3-test1-q1",
-      "questionText": "Question text...",
-      "options": ["A", "B", "C", "D"],
-      "correctAnswer": 0,
-      "explanation": "...",
-      "topic": "Topic name"
-    }
-  ]
-}
-```
+All paths use `resolveStaticPath()` from `src/config.js`, which respects `import.meta.env.BASE_URL` set by Vite.
 
 ### Adding new starter packs
 
 1. Add JSON files under `public/starter-packs/{exam}/grade3/`
 2. Update `index.json` with the new test metadata
-3. Rebuild and deploy
+3. Push to `main` – deployment is automatic
 
 ---
 
-## Imported Packs (IndexedDB)
+## Imported packs (IndexedDB)
 
 Imported packs are stored in the browser using **IndexedDB**. They persist across sessions but are not synced to a server.
 
@@ -163,109 +168,60 @@ Imported packs are stored in the browser using **IndexedDB**. They persist acros
 2. Click **Import Packs**
 3. Select one or more JSON files (file picker)
 4. Packs are validated and saved to IndexedDB
-5. The library refreshes immediately
+5. The library refreshes immediately (no restart)
 
-### Pack format
+### Merged library
 
-```json
-{
-  "packId": "nso-grade3-mock-01",
-  "exam": "nso",
-  "grade": 3,
-  "mode": "mock",
-  "title": "NSO Grade 3 Mock Test 1",
-  "durationMinutes": 15,
-  "questions": [
-    {
-      "id": "nso-g3-q1",
-      "questionText": "Question text here",
-      "image": "",
-      "options": ["A", "B", "C", "D"],
-      "correctAnswer": 0,
-      "explanation": "Explanation here",
-      "topic": "Topic name",
-      "difficulty": "easy"
-    }
-  ]
-}
-```
+The app merges:
 
-### Validation
+- **Starter packs** – from static JSON in the repo
+- **Imported packs** – from IndexedDB
 
-- `packId` – optional
-- `exam` – one of: nso, imo, ieo, ics, igko, isso
-- `grade` – 3 (only Grade 3 supported)
-- `mode` – "practice" or "mock"
-- `questions` – array of questions
-- Each question: 4 options, valid `correctAnswer`, no duplicate ids or `questionText`
-
-### Library actions
-
-- **Delete** – Removes imported pack from IndexedDB (starter packs cannot be deleted)
-- **Enable/Disable** – Toggles whether the pack appears in the pool
-- **Export** – Downloads the pack as JSON
-- **Reload Library** – Rebuilds from starter packs + IndexedDB
+Import, delete, enable/disable, and reload work without restart after deployment.
 
 ---
 
-## Local Data Persistence
+## Troubleshooting broken asset paths
 
-All data is stored in the browser:
+If images or starter packs fail to load on GitHub Pages:
 
-| Data | Storage | Notes |
-|------|---------|-------|
-| Imported packs | IndexedDB | `question_packs` store |
-| Enabled/disabled state | IndexedDB | `library_index` store |
-| Completed attempts | IndexedDB | `kv` store |
-| Best scores | IndexedDB | `kv` store |
-| In-progress session | IndexedDB | `kv` store |
-| Settings | IndexedDB | `kv` store |
-| Dark mode | IndexedDB | `kv` store |
-| Question Manager edits | localStorage | Overrides built-in tests |
-
-Data persists until the user clears site data or uses a different browser/device.
+1. **Check base path**: The workflow builds with `--base /${{ repo.name }}/`. Ensure your repo name matches the URL.
+2. **Check `config.js`**: Uses `import.meta.env.BASE_URL` from Vite. Do not hardcode paths like `/starter-packs/`.
+3. **Use helpers**: Use `resolveStaticPath()` or `getAssetPath()` from `src/config.js` for all static asset URLs.
+4. **Test locally**: Run `npm run build:pages && npm run preview` and verify paths at `http://localhost:4173/olympiad-exam/`.
 
 ---
 
-## Services
+## Local data persistence
 
-- **storageService** – IndexedDB key-value operations
-- **questionLibraryService** – Starter packs, imported packs, merge, import/export
-- **libraryStorageService** – IndexedDB for question packs
-- **attemptService** – In-progress and completed attempts
-- **settingsService** – User preferences
-
----
-
-## Capacitor – Android & iOS
-
-The project includes Capacitor for native wrapping.
-
-```bash
-npm run cap:sync      # Build and sync to native projects
-npm run cap:android   # Open Android Studio
-npm run cap:ios       # Open Xcode
-```
+| Data | Storage |
+|------|---------|
+| Imported packs | IndexedDB |
+| Enabled/disabled state | IndexedDB |
+| Completed attempts | IndexedDB |
+| Best scores | IndexedDB |
+| In-progress session | IndexedDB |
+| Settings, dark mode | IndexedDB |
+| Question Manager edits | localStorage |
 
 ---
 
-## npm Scripts
+## npm scripts
 
 | Script | Description |
 |--------|-------------|
 | `npm run dev` | Start dev server |
 | `npm run build` | Build for production (base: `./`) |
-| `npm run build:gh-pages` | Build for GitHub Pages (base: `/olympiad-exam/`) |
-| `npm run deploy` | Build and deploy to GitHub Pages |
+| `npm run build:pages` | Build for GitHub Pages (base: `/olympiad-exam/`) |
 | `npm run preview` | Preview production build |
+| `npm run preview:pages` | Build for Pages and preview |
 | `npm run cap:sync` | Build and sync to Android + iOS |
 
 ---
 
-## Tech Stack
+## Tech stack
 
-- React 19
-- Vite 8
+- React 19, Vite 8
 - React Router (HashRouter)
 - IndexedDB (browser storage)
 - No backend, no server database
