@@ -10,50 +10,68 @@ import { buildPracticePool, buildMockIndex } from '../utils/questionLibraryUtils
 import { EXAMS, GRADES } from '../constants/exams.js';
 
 /**
+ * Load packs for a single exam/grade. Returns [] if no bank or empty.
+ * @param {string} examId
+ * @param {string} gradeId
+ * @returns {Promise<Array>}
+ */
+async function loadPacksForExamGrade(examId, gradeId) {
+  const hasBank = await questionBankService.hasQuestionBank(examId, gradeId);
+  if (!hasBank) return [];
+
+  const [bank, packDefs] = await Promise.all([
+    questionBankService.loadQuestionBank(examId, gradeId),
+    questionBankService.loadPackDefinitions(examId, gradeId),
+  ]);
+
+  if (bank.size === 0 || packDefs.length === 0) return [];
+
+  const packs = [];
+  for (const def of packDefs) {
+    const packId = `${examId}-grade${gradeId}-${def.packId?.replace(/^[^-]+-grade\d+-/, '') || def.packId}`;
+    const mode = (def.mode || 'mock').toLowerCase();
+    const isMock = mode === 'mock';
+    const questionCount = isMock ? (def.questionIds?.length || 0) : (def.questionCount || 25);
+    packs.push({
+      packId,
+      exam: examId,
+      grade: gradeId,
+      mode: isMock ? 'mock' : 'practice',
+      title: def.title || packId,
+      topic: def.topic,
+      questionCount,
+      durationMinutes: def.durationMinutes ?? Math.ceil(questionCount * 1.2),
+      isStarter: true,
+      enabled: true,
+      isQuestionBank: true,
+      _bankDef: def,
+      _bank: bank,
+    });
+  }
+  return packs;
+}
+
+/**
  * Load packs from question bank (scalable architecture).
+ * Loads all exam/grade combinations in parallel for faster startup.
  * @returns {Promise<Array>} Packs in library format
  */
 async function loadQuestionBankPacks() {
-  const packs = [];
   const examIds = Object.keys(EXAMS).map((k) => EXAMS[k].id);
   const enabledGradeIds = Object.values(GRADES).filter((g) => g.enabled).map((g) => g.id);
 
+  const pairs = [];
   for (const examId of examIds) {
     for (const gradeId of enabledGradeIds) {
-      const hasBank = await questionBankService.hasQuestionBank(examId, gradeId);
-      if (!hasBank) continue;
-
-      const [bank, packDefs] = await Promise.all([
-        questionBankService.loadQuestionBank(examId, gradeId),
-        questionBankService.loadPackDefinitions(examId, gradeId),
-      ]);
-
-      if (bank.size === 0 || packDefs.length === 0) continue;
-
-      for (const def of packDefs) {
-        const packId = `${examId}-grade${gradeId}-${def.packId?.replace(/^[^-]+-grade\d+-/, '') || def.packId}`;
-        const mode = (def.mode || 'mock').toLowerCase();
-        const isMock = mode === 'mock';
-        const questionCount = isMock ? (def.questionIds?.length || 0) : (def.questionCount || 25);
-        packs.push({
-          packId,
-          exam: examId,
-          grade: gradeId,
-          mode: isMock ? 'mock' : 'practice',
-          title: def.title || packId,
-          topic: def.topic,
-          questionCount,
-          durationMinutes: def.durationMinutes ?? Math.ceil(questionCount * 1.2),
-          isStarter: true,
-          enabled: true,
-          isQuestionBank: true,
-          _bankDef: def,
-          _bank: bank,
-        });
-      }
+      pairs.push({ examId, gradeId });
     }
   }
-  return packs;
+
+  const results = await Promise.all(
+    pairs.map(({ examId, gradeId }) => loadPacksForExamGrade(examId, gradeId))
+  );
+
+  return results.flat();
 }
 
 /**
@@ -87,9 +105,12 @@ export function mergeLibraries(builtInPacks, importedPacks) {
   return Array.from(byKey.values());
 }
 
+const LIBRARY_LOAD_TIMEOUT_MS = 30000;
+
 /**
  * Reload library: fetch question bank (built-in) + load imported, then merge.
  * Resilient: returns partial packs if one source fails (e.g. network or IndexedDB).
+ * Uses a timeout to avoid indefinite hangs; partial results are returned on timeout.
  * @returns {Promise<{ packs: Array, warning?: string }>}
  */
 export async function reloadLibrary() {
@@ -98,10 +119,17 @@ export async function reloadLibrary() {
   let warning = null;
 
   try {
-    builtInPacks = await loadQuestionBankPacks();
+    builtInPacks = await Promise.race([
+      loadQuestionBankPacks(),
+      new Promise((_, reject) =>
+        setTimeout(() => reject(new Error('Library load timeout')), LIBRARY_LOAD_TIMEOUT_MS)
+      ),
+    ]);
   } catch (e) {
     console.warn('Failed to load question bank:', e);
-    warning = 'Could not load built-in tests. You can still use imported packs.';
+    warning = e?.message === 'Library load timeout'
+      ? 'Built-in tests took too long to load. Try reloading or check your connection.'
+      : 'Could not load built-in tests. You can still use imported packs.';
   }
 
   try {
