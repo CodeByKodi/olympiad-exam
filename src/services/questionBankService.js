@@ -133,11 +133,14 @@ export function resolvePracticePack(packDef, bank, seed = Date.now()) {
       selected.push(shuffled[i]);
     }
   }
-  while (selected.length < count && pool.length > 0) {
-    const idx = Math.floor(rng() * pool.length);
-    const q = pool[idx];
-    if (!selected.includes(q)) selected.push(q);
-    if (selected.length >= count) break;
+  const selectedSet = new Set(selected);
+  while (selected.length < count) {
+    const remaining = pool.filter((q) => !selectedSet.has(q));
+    if (remaining.length === 0) break;
+    const idx = Math.floor(rng() * remaining.length);
+    const q = remaining[idx];
+    selected.push(q);
+    selectedSet.add(q);
   }
   return shuffle(selected, rng);
 }

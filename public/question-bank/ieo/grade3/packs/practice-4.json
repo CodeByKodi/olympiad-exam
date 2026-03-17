@@ -1,15 +1,17 @@
 {
-  "packId": "ieo-grade3-spelling-practice-01",
+  "packId": "ieo-grade3-mixed-practice-01",
   "exam": "ieo",
   "grade": 3,
   "mode": "practice",
-  "title": "Spelling Practice Test",
-  "topic": "Spelling",
+  "title": "Mixed Topics Practice Test",
+  "topic": "Mixed",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "Spelling"
+      "Simple Grammar",
+      "Vocabulary",
+      "Sentence Formation"
     ],
     "difficultyMix": {
       "easy": 15,
