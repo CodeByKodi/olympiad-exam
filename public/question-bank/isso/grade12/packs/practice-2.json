@@ -1,0 +1,20 @@
+{
+  "packId": "isso-grade12-civics-practice-01",
+  "exam": "isso",
+  "grade": 12,
+  "mode": "practice",
+  "title": "Civics Practice Test",
+  "topic": "Civics",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Civics"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

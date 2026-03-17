@@ -49,28 +49,34 @@ export const EXAMS = {
 };
 
 export const GRADES = {
-  '3': {
-    id: '3',
-    name: 'Grade 3',
-    enabled: true,
-  },
-  '4': {
-    id: '4',
-    name: 'Grade 4',
-    enabled: false,
-  },
-  '5': {
-    id: '5',
-    name: 'Grade 5',
-    enabled: false,
-  },
+  '1': { id: '1', name: 'Grade 1', enabled: true },
+  '2': { id: '2', name: 'Grade 2', enabled: true },
+  '3': { id: '3', name: 'Grade 3', enabled: true },
+  '4': { id: '4', name: 'Grade 4', enabled: true },
+  '5': { id: '5', name: 'Grade 5', enabled: true },
+  '6': { id: '6', name: 'Grade 6', enabled: true },
+  '7': { id: '7', name: 'Grade 7', enabled: true },
+  '8': { id: '8', name: 'Grade 8', enabled: true },
+  '9': { id: '9', name: 'Grade 9', enabled: true },
+  '10': { id: '10', name: 'Grade 10', enabled: true },
+  '11': { id: '11', name: 'Grade 11', enabled: true },
+  '12': { id: '12', name: 'Grade 12', enabled: true },
 };
 
 /** Grade-specific rules (options per question, etc.). Changes to one grade do not affect others. */
 export const GRADE_CONFIG = {
+  '1': { optionsPerQuestion: 4 },
+  '2': { optionsPerQuestion: 4 },
   '3': { optionsPerQuestion: 4 },
   '4': { optionsPerQuestion: 4 },
-  '5': { optionsPerQuestion: 5 },
+  '5': { optionsPerQuestion: 4 },
+  '6': { optionsPerQuestion: 4 },
+  '7': { optionsPerQuestion: 4 },
+  '8': { optionsPerQuestion: 4 },
+  '9': { optionsPerQuestion: 4 },
+  '10': { optionsPerQuestion: 4 },
+  '11': { optionsPerQuestion: 4 },
+  '12': { optionsPerQuestion: 4 },
 };
 
 export const TEST_MODES = {

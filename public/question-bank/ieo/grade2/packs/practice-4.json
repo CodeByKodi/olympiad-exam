@@ -1,0 +1,20 @@
+{
+  "packId": "ieo-grade2-spelling-practice-01",
+  "exam": "ieo",
+  "grade": 2,
+  "mode": "practice",
+  "title": "Spelling Practice Test",
+  "topic": "Spelling",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Spelling"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

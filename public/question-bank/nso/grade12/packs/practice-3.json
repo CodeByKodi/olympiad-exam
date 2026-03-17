@@ -1,0 +1,20 @@
+{
+  "packId": "nso-grade12-biology-basics-practice-01",
+  "exam": "nso",
+  "grade": 12,
+  "mode": "practice",
+  "title": "Biology Basics Practice Test",
+  "topic": "Biology Basics",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Biology Basics"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

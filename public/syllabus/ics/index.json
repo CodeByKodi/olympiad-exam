@@ -1,0 +1,54 @@
+{
+  "exam": "ics",
+  "title": "International Computer Science Olympiad",
+  "grades": [
+    {
+      "grade": 1,
+      "file": "grade1.json"
+    },
+    {
+      "grade": 2,
+      "file": "grade2.json"
+    },
+    {
+      "grade": 3,
+      "file": "grade3.json"
+    },
+    {
+      "grade": 4,
+      "file": "grade4.json"
+    },
+    {
+      "grade": 5,
+      "file": "grade5.json"
+    },
+    {
+      "grade": 6,
+      "file": "grade6.json"
+    },
+    {
+      "grade": 7,
+      "file": "grade7.json"
+    },
+    {
+      "grade": 8,
+      "file": "grade8.json"
+    },
+    {
+      "grade": 9,
+      "file": "grade9.json"
+    },
+    {
+      "grade": 10,
+      "file": "grade10.json"
+    },
+    {
+      "grade": 11,
+      "file": "grade11.json"
+    },
+    {
+      "grade": 12,
+      "file": "grade12.json"
+    }
+  ]
+}

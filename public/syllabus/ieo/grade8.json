@@ -1,0 +1,263 @@
+{
+  "exam": "ieo",
+  "grade": 8,
+  "title": "English Grade 8 Syllabus",
+  "description": "Grade 8 english.",
+  "topics": [
+    {
+      "code": "IEO-G8-T1",
+      "name": "Grammar",
+      "description": "Grammar for Grade 8.",
+      "weightage": "high",
+      "recommendedQuestionCount": 40,
+      "subtopics": [
+        {
+          "code": "IEO-G8-T1-S1",
+          "name": "Grammar Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "grammar",
+            "ieo",
+            "ieo",
+            "grade8"
+          ]
+        },
+        {
+          "code": "IEO-G8-T1-S2",
+          "name": "Grammar Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "grammar",
+            "ieo",
+            "ieo",
+            "grade8"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IEO-G8-T2",
+      "name": "Vocabulary",
+      "description": "Vocabulary for Grade 8.",
+      "weightage": "high",
+      "recommendedQuestionCount": 37,
+      "subtopics": [
+        {
+          "code": "IEO-G8-T2-S1",
+          "name": "Vocabulary Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "vocabulary",
+            "ieo",
+            "ieo",
+            "grade8"
+          ]
+        },
+        {
+          "code": "IEO-G8-T2-S2",
+          "name": "Vocabulary Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "vocabulary",
+            "ieo",
+            "ieo",
+            "grade8"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IEO-G8-T3",
+      "name": "Comprehension",
+      "description": "Comprehension for Grade 8.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 34,
+      "subtopics": [
+        {
+          "code": "IEO-G8-T3-S1",
+          "name": "Comprehension Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "comprehension",
+            "ieo",
+            "ieo",
+            "grade8"
+          ]
+        },
+        {
+          "code": "IEO-G8-T3-S2",
+          "name": "Comprehension Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "comprehension",
+            "ieo",
+            "ieo",
+            "grade8"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IEO-G8-T4",
+      "name": "Idioms",
+      "description": "Idioms for Grade 8.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 31,
+      "subtopics": [
+        {
+          "code": "IEO-G8-T4-S1",
+          "name": "Idioms Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "idioms",
+            "ieo",
+            "ieo",
+            "grade8"
+          ]
+        },
+        {
+          "code": "IEO-G8-T4-S2",
+          "name": "Idioms Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "idioms",
+            "ieo",
+            "ieo",
+            "grade8"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IEO-G8-T5",
+      "name": "Writing",
+      "description": "Writing for Grade 8.",
+      "weightage": "low",
+      "recommendedQuestionCount": 28,
+      "subtopics": [
+        {
+          "code": "IEO-G8-T5-S1",
+          "name": "Writing Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "writing",
+            "ieo",
+            "ieo",
+            "grade8"
+          ]
+        },
+        {
+          "code": "IEO-G8-T5-S2",
+          "name": "Writing Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "writing",
+            "ieo",
+            "ieo",
+            "grade8"
+          ]
+        }
+      ]
+    }
+  ]
+}

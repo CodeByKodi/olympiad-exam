@@ -1,0 +1,920 @@
+[
+  {
+    "id": "igko-g9-countries-0078",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Countries",
+    "subtopic": "Countries Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a day when we remember a great person?",
+    "image": "",
+    "options": [
+      "Birthday",
+      "Memorial day",
+      "Holiday",
+      "Weekend"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Memorial days honor great people.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g9-countries-0079",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Countries",
+    "subtopic": "Countries Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the customs and beliefs of a group?",
+    "image": "",
+    "options": [
+      "Science",
+      "Culture",
+      "Math",
+      "Sports"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Culture includes customs and beliefs.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g9-countries-0080",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Countries",
+    "subtopic": "Countries Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which festival is known for exchanging gifts?",
+    "image": "",
+    "options": [
+      "Holi",
+      "Diwali",
+      "Eid",
+      "Christmas"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Christmas is known for gift exchange.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g9-countries-0081",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Countries",
+    "subtopic": "Countries Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a language spoken by many people in a region?",
+    "image": "",
+    "options": [
+      "Foreign language",
+      "Regional language",
+      "Secret language",
+      "New language"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Regional languages are spoken in areas.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g9-countries-0082",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Countries",
+    "subtopic": "Countries Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a building where we worship?",
+    "image": "",
+    "options": [
+      "School",
+      "Hospital",
+      "Temple or church",
+      "Market"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Temples and churches are places of worship.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g9-countries-0083",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Countries",
+    "subtopic": "Countries Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call art made by hand in traditional ways?",
+    "image": "",
+    "options": [
+      "Machine art",
+      "Handicraft",
+      "Digital art",
+      "Print art"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Handicrafts are made by hand.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g9-countries-0084",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Countries",
+    "subtopic": "Countries Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which festival celebrates the harvest?",
+    "image": "",
+    "options": [
+      "Diwali",
+      "Pongal",
+      "Holi",
+      "Christmas"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pongal celebrates the harvest.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g9-countries-0085",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Countries",
+    "subtopic": "Countries Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a special meal shared during festivals?",
+    "image": "",
+    "options": [
+      "Snack",
+      "Feast",
+      "Breakfast",
+      "Lunch"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A feast is a special meal.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g9-countries-0086",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Countries",
+    "subtopic": "Countries Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the way people celebrate their beliefs?",
+    "image": "",
+    "options": [
+      "Science",
+      "Religion",
+      "Sports",
+      "Art"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Religion shapes celebrations.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g9-countries-0087",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Countries",
+    "subtopic": "Countries Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the Sun?",
+    "image": "",
+    "options": [
+      "A planet",
+      "A star",
+      "A moon",
+      "A comet"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Sun is a star.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g9-countries-0088",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Countries",
+    "subtopic": "Countries Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is a person who travels to space?",
+    "image": "",
+    "options": [
+      "Pilot",
+      "Astronaut",
+      "Sailor",
+      "Driver"
+    ],
+    "correctAnswer": 1,
+    "explanation": "An astronaut travels to space.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g9-countries-0089",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Countries",
+    "subtopic": "Countries Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What planet do we live on?",
+    "image": "",
+    "options": [
+      "Moon",
+      "Sun",
+      "Earth",
+      "Mars"
+    ],
+    "correctAnswer": 2,
+    "explanation": "We live on Earth.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g9-countries-0090",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Countries",
+    "subtopic": "Countries Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is Earth's natural satellite?",
+    "image": "",
+    "options": [
+      "Sun",
+      "Star",
+      "Moon",
+      "Planet"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Moon is Earth's satellite.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g9-countries-0091",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Countries",
+    "subtopic": "Countries Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the closest star to Earth?",
+    "image": "",
+    "options": [
+      "Moon",
+      "Sun",
+      "Mars",
+      "Venus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Sun is the closest star.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g9-countries-0092",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Countries",
+    "subtopic": "Countries Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the path of the Moon around Earth?",
+    "image": "",
+    "options": [
+      "Rotation",
+      "Orbit",
+      "Revolution",
+      "Spin"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Moon orbits Earth.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g9-countries-0093",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Countries",
+    "subtopic": "Countries Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What causes day and night on Earth?",
+    "image": "",
+    "options": [
+      "The Moon moves",
+      "Earth spins on its axis",
+      "The Sun moves",
+      "Stars appear"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Earth's rotation causes day and night.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g9-countries-0094",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Countries",
+    "subtopic": "Countries Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the study of stars and space called?",
+    "image": "",
+    "options": [
+      "Biology",
+      "Astronomy",
+      "Geography",
+      "History"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Astronomy studies stars and space.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g9-countries-0095",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Countries",
+    "subtopic": "Countries Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is a vehicle that goes to space?",
+    "image": "",
+    "options": [
+      "Car",
+      "Rocket",
+      "Ship",
+      "Plane"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Rockets go to space.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g9-countries-0096",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Countries",
+    "subtopic": "Countries Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the force that pulls us toward Earth?",
+    "image": "",
+    "options": [
+      "Magnetism",
+      "Gravity",
+      "Wind",
+      "Water"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Gravity pulls us toward Earth.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g9-countries-0097",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Countries",
+    "subtopic": "Countries Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the news and events happening now?",
+    "image": "",
+    "options": [
+      "History",
+      "Current affairs",
+      "Future",
+      "Past"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Current affairs are present events.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g9-countries-0098",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Countries",
+    "subtopic": "Countries Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a person who leads a country?",
+    "image": "",
+    "options": [
+      "Teacher",
+      "Doctor",
+      "Leader or President",
+      "Driver"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Leaders or presidents lead countries.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g9-countries-0099",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Countries",
+    "subtopic": "Countries Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a place where we get news?",
+    "image": "",
+    "options": [
+      "School",
+      "Hospital",
+      "News source",
+      "Park"
+    ],
+    "correctAnswer": 2,
+    "explanation": "News comes from news sources.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g9-countries-0100",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Countries",
+    "subtopic": "Countries Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a sport played with a bat and ball?",
+    "image": "",
+    "options": [
+      "Football",
+      "Cricket",
+      "Tennis",
+      "Swimming"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cricket uses bat and ball.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g9-countries-0101",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Countries",
+    "subtopic": "Countries Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a competition where people run?",
+    "image": "",
+    "options": [
+      "Swimming",
+      "Race",
+      "Jumping",
+      "Cycling"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A race is a running competition.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g9-countries-0102",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Countries",
+    "subtopic": "Countries Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the Olympic Games?",
+    "image": "",
+    "options": [
+      "School event",
+      "International sports event",
+      "Local game",
+      "Family game"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Olympics are international sports.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g9-countries-0103",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Countries",
+    "subtopic": "Countries Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a person who wins a competition?",
+    "image": "",
+    "options": [
+      "Loser",
+      "Winner",
+      "Player",
+      "Spectator"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The winner is the one who wins.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g9-countries-0104",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Countries",
+    "subtopic": "Countries Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a medal given to the first place?",
+    "image": "",
+    "options": [
+      "Bronze",
+      "Silver",
+      "Gold",
+      "Copper"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Gold medal is for first place.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g9-countries-0105",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Countries",
+    "subtopic": "Countries Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a book that tells us about the world?",
+    "image": "",
+    "options": [
+      "Storybook",
+      "Atlas",
+      "Comic",
+      "Novel"
+    ],
+    "correctAnswer": 1,
+    "explanation": "An atlas has maps of the world.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g9-countries-0106",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Countries",
+    "subtopic": "Countries Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a person who writes books?",
+    "image": "",
+    "options": [
+      "Painter",
+      "Author",
+      "Singer",
+      "Dancer"
+    ],
+    "correctAnswer": 1,
+    "explanation": "An author writes books.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g9-countries-0107",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Countries",
+    "subtopic": "Countries Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a person who discovers new things?",
+    "image": "",
+    "options": [
+      "Teacher",
+      "Inventor",
+      "Driver",
+      "Farmer"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Inventors discover new things.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g9-countries-0108",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Countries",
+    "subtopic": "Countries Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the study of living things?",
+    "image": "",
+    "options": [
+      "Physics",
+      "Biology",
+      "Chemistry",
+      "Math"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Biology studies living things.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g9-countries-0109",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Countries",
+    "subtopic": "Countries Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a machine that helps us compute?",
+    "image": "",
+    "options": [
+      "Television",
+      "Computer",
+      "Radio",
+      "Refrigerator"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A computer helps us compute.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g9-countries-0110",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Countries",
+    "subtopic": "Countries Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the study of numbers?",
+    "image": "",
+    "options": [
+      "Science",
+      "Math",
+      "History",
+      "Geography"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Math is the study of numbers.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g9-countries-0111",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Countries",
+    "subtopic": "Countries Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a person who travels to new places?",
+    "image": "",
+    "options": [
+      "Teacher",
+      "Explorer",
+      "Driver",
+      "Farmer"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Explorers travel to new places.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  }
+]

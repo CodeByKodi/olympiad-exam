@@ -174,8 +174,8 @@ export function buildMockIndex(packs) {
   return (packs || []).map((p) => ({
     id: p.packId,
     title: p.title || p.packId,
-    questionCount: (p.questions || []).length,
-    durationMinutes: p.durationMinutes ?? Math.ceil((p.questions?.length || 0) * 1.5),
+    questionCount: p.questionCount ?? (p.questions || []).length ?? (p._bankDef?.questionIds?.length || 0),
+    durationMinutes: p.durationMinutes ?? Math.ceil((p.questionCount || p.questions?.length || 0) * 1.2),
   }));
 }
 
@@ -189,7 +189,7 @@ export function buildPracticeIndex(packs) {
     id: p.packId,
     title: p.title || p.packId,
     topic: p.topic,
-    questionCount: (p.questions || []).length,
-    durationMinutes: p.durationMinutes ?? Math.ceil((p.questions?.length || 0) * 1.5),
+    questionCount: p.questionCount ?? (p.questions || []).length ?? (p._bankDef?.questionCount || 25),
+    durationMinutes: p.durationMinutes ?? Math.ceil((p.questionCount || p.questions?.length || 25) * 1.2),
   }));
 }

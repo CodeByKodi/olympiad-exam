@@ -1,0 +1,9 @@
+{
+  "files": [
+    "directions.json",
+    "maps.json",
+    "earth.json",
+    "weather.json",
+    "environment.json"
+  ]
+}

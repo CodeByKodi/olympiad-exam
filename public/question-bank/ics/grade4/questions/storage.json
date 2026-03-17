@@ -1,0 +1,920 @@
+[
+  {
+    "id": "ics-g4-storage-0078",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Storage",
+    "subtopic": "Storage Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which device prints documents on paper?",
+    "image": "",
+    "options": [
+      "Monitor",
+      "Keyboard",
+      "Printer",
+      "Scanner"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A printer prints on paper.",
+    "tags": [
+      "input-output",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-storage-0079",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Storage",
+    "subtopic": "Storage Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a device that puts information into the computer?",
+    "image": "",
+    "options": [
+      "Output device",
+      "Input device",
+      "Storage device",
+      "Display device"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Input devices put data in.",
+    "tags": [
+      "input-output",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-storage-0080",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Storage",
+    "subtopic": "Storage Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which device takes paper documents into the computer?",
+    "image": "",
+    "options": [
+      "Printer",
+      "Modem",
+      "Scanner",
+      "Monitor"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A scanner copies documents.",
+    "tags": [
+      "input-output",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-storage-0081",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Storage",
+    "subtopic": "Storage Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to take a picture of the screen?",
+    "image": "",
+    "options": [
+      "Camera",
+      "Screenshot",
+      "Printer",
+      "Scanner"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Screenshot captures the screen.",
+    "tags": [
+      "input-output-storage-and-uses",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-storage-0082",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Storage",
+    "subtopic": "Storage Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which key selects all text in a document?",
+    "image": "",
+    "options": [
+      "Ctrl+A or Cmd+A",
+      "Ctrl+B",
+      "Ctrl+C",
+      "Ctrl+S"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ctrl+A selects all text.",
+    "tags": [
+      "input-output-storage-and-uses",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-storage-0083",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Storage",
+    "subtopic": "Storage Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What key opens a new document?",
+    "image": "",
+    "options": [
+      "Ctrl+N or Cmd+N",
+      "Ctrl+S",
+      "Ctrl+P",
+      "Ctrl+C"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ctrl+N opens a new document.",
+    "tags": [
+      "input-output-storage-and-uses",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-storage-0084",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Storage",
+    "subtopic": "Storage Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which part of the computer stores information when it is turned off?",
+    "image": "",
+    "options": [
+      "Monitor",
+      "RAM",
+      "Hard disk",
+      "Keyboard"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The hard disk stores files permanently.",
+    "tags": [
+      "software-tools-and-basic-operations",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-storage-0085",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Storage",
+    "subtopic": "Storage Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to open and view websites?",
+    "image": "",
+    "options": [
+      "Calculator",
+      "Web browser",
+      "Paint",
+      "Notepad"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A browser lets you visit websites.",
+    "tags": [
+      "software-tools-and-basic-operations",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-storage-0086",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Storage",
+    "subtopic": "Storage Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the address of a website?",
+    "image": "",
+    "options": [
+      "URL",
+      "USB",
+      "CPU",
+      "RAM"
+    ],
+    "correctAnswer": 0,
+    "explanation": "URL is a website address.",
+    "tags": [
+      "software-tools-and-basic-operations",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-storage-0087",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Storage",
+    "subtopic": "Storage Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which key do we use to add a space between words?",
+    "image": "",
+    "options": [
+      "Enter",
+      "Tab",
+      "Space",
+      "Shift"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Space adds a space between words.",
+    "tags": [
+      "software-tools-and-basic-operations",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-storage-0088",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Storage",
+    "subtopic": "Storage Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the key that makes letters uppercase?",
+    "image": "",
+    "options": [
+      "Enter",
+      "Caps Lock",
+      "Tab",
+      "Space"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Caps Lock makes uppercase letters.",
+    "tags": [
+      "software-tools-and-basic-operations",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-storage-0089",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Storage",
+    "subtopic": "Storage Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What key do we hold to type a capital letter?",
+    "image": "",
+    "options": [
+      "Enter",
+      "Shift",
+      "Space",
+      "Tab"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Shift helps type capital letters.",
+    "tags": [
+      "software-tools-and-basic-operations",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-storage-0090",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Storage",
+    "subtopic": "Storage Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call saving a copy of a file with a new name?",
+    "image": "",
+    "options": [
+      "Copy",
+      "Save As",
+      "Delete",
+      "Move"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Save As saves with a new name.",
+    "tags": [
+      "software-tools-and-basic-operations",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-storage-0091",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Storage",
+    "subtopic": "Storage Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call removing a file from the computer?",
+    "image": "",
+    "options": [
+      "Copy",
+      "Move",
+      "Delete",
+      "Save"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Delete removes a file.",
+    "tags": [
+      "software-tools-and-basic-operations",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-storage-0092",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Storage",
+    "subtopic": "Storage Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What key do we press to save a file?",
+    "image": "",
+    "options": [
+      "Ctrl+S or Cmd+S",
+      "Ctrl+N",
+      "Ctrl+P",
+      "Ctrl+C"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ctrl+S saves the file.",
+    "tags": [
+      "software-tools-and-basic-operations",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-storage-0093",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Storage",
+    "subtopic": "Storage Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call making a copy of a file in another location?",
+    "image": "",
+    "options": [
+      "Move",
+      "Delete",
+      "Copy",
+      "Cut"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Copy makes a duplicate.",
+    "tags": [
+      "software-tools-and-basic-operations",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-storage-0094",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Storage",
+    "subtopic": "Storage Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is software?",
+    "image": "",
+    "options": [
+      "Physical parts of computer",
+      "Programs that run on computer",
+      "The screen",
+      "The power cable"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Software is the programs we use.",
+    "tags": [
+      "software",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-storage-0095",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Storage",
+    "subtopic": "Storage Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a mistake in a computer program?",
+    "image": "",
+    "options": [
+      "Bug",
+      "Virus",
+      "Error",
+      "Glitch"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A bug is a mistake in a program.",
+    "tags": [
+      "software",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-storage-0096",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Storage",
+    "subtopic": "Storage Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is a web browser used for?",
+    "image": "",
+    "options": [
+      "Playing games only",
+      "Viewing websites on the internet",
+      "Printing documents",
+      "Typing only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A browser lets you visit websites.",
+    "tags": [
+      "internet",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-storage-0097",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Storage",
+    "subtopic": "Storage Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is a URL?",
+    "image": "",
+    "options": [
+      "A type of file",
+      "A website address",
+      "A keyboard key",
+      "A printer part"
+    ],
+    "correctAnswer": 1,
+    "explanation": "URL is a website address.",
+    "tags": [
+      "internet",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-storage-0098",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Storage",
+    "subtopic": "Storage Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to connect to the internet?",
+    "image": "",
+    "options": [
+      "Printer",
+      "Modem or WiFi",
+      "Keyboard",
+      "Monitor"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Modem or WiFi connects to internet.",
+    "tags": [
+      "internet",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-storage-0099",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Storage",
+    "subtopic": "Storage Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to draw on a computer?",
+    "image": "",
+    "options": [
+      "Calculator",
+      "Paint",
+      "Notepad",
+      "Browser"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Paint is for drawing.",
+    "tags": [
+      "software",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-storage-0100",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Storage",
+    "subtopic": "Storage Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What can we do with email?",
+    "image": "",
+    "options": [
+      "Playing games",
+      "Sending messages over internet",
+      "Printing documents",
+      "Typing only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Email sends messages.",
+    "tags": [
+      "internet",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-storage-0101",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Storage",
+    "subtopic": "Storage Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What are the main uses of the internet?",
+    "image": "",
+    "options": [
+      "Only games",
+      "Only email",
+      "Searching, learning, and communication",
+      "Nothing useful"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The internet helps us search and learn.",
+    "tags": [
+      "internet",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-storage-0102",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Storage",
+    "subtopic": "Storage Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a program that helps us write?",
+    "image": "",
+    "options": [
+      "Calculator",
+      "Word processor",
+      "Paint",
+      "Browser"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Word processor is for writing.",
+    "tags": [
+      "software",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-storage-0103",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Storage",
+    "subtopic": "Storage Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Why should we not share our password with others?",
+    "image": "",
+    "options": [
+      "It is fun",
+      "To keep our account safe",
+      "Everyone knows it",
+      "No reason"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Passwords keep our account safe.",
+    "tags": [
+      "internet-safety-and-digital-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-storage-0104",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Storage",
+    "subtopic": "Storage Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Why must we protect our personal information online?",
+    "image": "",
+    "options": [
+      "It is boring",
+      "To stay safe",
+      "No one cares",
+      "It is fun"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sharing personal info can be unsafe.",
+    "tags": [
+      "internet-safety-and-digital-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-storage-0105",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Storage",
+    "subtopic": "Storage Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Why should we sit properly while using a computer?",
+    "image": "",
+    "options": [
+      "To look good",
+      "To avoid back pain",
+      "No reason",
+      "To type faster"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Good posture prevents pain.",
+    "tags": [
+      "internet-safety-and-digital-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-storage-0106",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Storage",
+    "subtopic": "Storage Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What should we do before closing a program with work we want to keep?",
+    "image": "",
+    "options": [
+      "Nothing",
+      "Save our work",
+      "Delete everything",
+      "Shut down"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Always save before closing.",
+    "tags": [
+      "internet-safety-and-digital-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-storage-0107",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Storage",
+    "subtopic": "Storage Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we need to connect to the internet?",
+    "image": "",
+    "options": [
+      "Printer",
+      "Modem or WiFi",
+      "Keyboard",
+      "Monitor"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Modem or WiFi connects to internet.",
+    "tags": [
+      "internet-safety-and-digital-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-storage-0108",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Storage",
+    "subtopic": "Storage Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is a web browser?",
+    "image": "",
+    "options": [
+      "A game",
+      "A program to view websites",
+      "A type of printer",
+      "A type of keyboard"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A browser lets you visit websites.",
+    "tags": [
+      "internet-safety-and-digital-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-storage-0109",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Storage",
+    "subtopic": "Storage Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a website's address?",
+    "image": "",
+    "options": [
+      "A type of file",
+      "A website address",
+      "A keyboard key",
+      "A printer part"
+    ],
+    "correctAnswer": 1,
+    "explanation": "URL is a website address.",
+    "tags": [
+      "internet-safety-and-digital-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-storage-0110",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Storage",
+    "subtopic": "Storage Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use email for?",
+    "image": "",
+    "options": [
+      "Playing games",
+      "Sending messages over internet",
+      "Printing documents",
+      "Typing only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Email sends messages.",
+    "tags": [
+      "internet-safety-and-digital-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-storage-0111",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Storage",
+    "subtopic": "Storage Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What are some uses of the internet?",
+    "image": "",
+    "options": [
+      "Only games",
+      "Only email",
+      "Searching, learning, and communication",
+      "Nothing useful"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The internet helps us search and learn.",
+    "tags": [
+      "internet-safety-and-digital-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  }
+]

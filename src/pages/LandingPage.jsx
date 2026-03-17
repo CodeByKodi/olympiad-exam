@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom';
 import { EXAMS } from '../constants/exams';
 import { getBestScores, getCompletedTests, getInProgressAttempt } from '../utils/storageUtils';
 import { ExamCard } from '../components/ExamCard';
-import { useRole } from '../context/RoleContext';
+import { useRole } from '../hooks/useRole';
 import styles from '../styles/LandingPage.module.css';
 
 export function LandingPage() {

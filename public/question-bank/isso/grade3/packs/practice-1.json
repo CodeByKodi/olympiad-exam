@@ -1,0 +1,20 @@
+{
+  "packId": "isso-grade3-directions-practice-01",
+  "exam": "isso",
+  "grade": 3,
+  "mode": "practice",
+  "title": "Directions Practice Test",
+  "topic": "Directions",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Directions"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

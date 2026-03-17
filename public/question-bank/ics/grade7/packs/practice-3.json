@@ -1,0 +1,20 @@
+{
+  "packId": "ics-grade7-internet-practice-01",
+  "exam": "ics",
+  "grade": 7,
+  "mode": "practice",
+  "title": "Internet Practice Test",
+  "topic": "Internet",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Internet"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

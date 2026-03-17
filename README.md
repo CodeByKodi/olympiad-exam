@@ -47,47 +47,84 @@ Then open [http://localhost:4173](http://localhost:4173).
 
 ---
 
+## Development workflow
+
+```
+create branch → push → review preview link → merge to main → production auto-deploy
+```
+
+### 1. Create a branch
+
+```bash
+git checkout -b feat/my-feature
+```
+
+### 2. Push your branch
+
+```bash
+git push -u origin feat/my-feature
+```
+
+### 3. Review preview link
+
+The **CI (Verify + Preview)** workflow runs on every push and pull request:
+
+- **Tests** – Lint, unit tests, data validation
+- **Build** – Production build
+- **Preview** – Deploys to Surge.sh (when `SURGE_TOKEN` is configured)
+
+Check the **Actions** tab for the workflow run. If `SURGE_TOKEN` is set, you'll get a preview URL like:
+
+- PR: `https://olympiad-exam-pr-42.surge.sh`
+- Branch: `https://olympiad-exam-feat-my-feature.surge.sh`
+
+### 4. Merge to main
+
+After review, merge via pull request. **Only `main` deploys to production.**
+
+### 5. Production auto-deploy
+
+The **Deploy to Production** workflow runs when code is pushed to `main`:
+
+1. **Verify** – Same checks as CI
+2. **Deploy** – Deploys to GitHub Pages
+
+---
+
 ## Deploy to GitHub Pages (GitHub Actions)
 
-Deployment is **automatic** via GitHub Actions. Push to `main` and the app deploys to GitHub Pages.
+### Environments
 
-### 1. Enable GitHub Pages
+| Environment | Trigger | URL |
+|-------------|---------|-----|
+| **Preview** | Push to branch, pull request | `https://olympiad-exam-pr-*.surge.sh` or `https://olympiad-exam-*.surge.sh` |
+| **Production** | Push to `main` | `https://YOUR_USERNAME.github.io/olympiad-exam/` |
+
+### Enable GitHub Pages (production)
 
 1. Go to your repo on GitHub
 2. **Settings** → **Pages**
 3. Under **Build and deployment**:
    - **Source**: select **GitHub Actions**
 
-### 2. Push to main
+### Enable preview deployments (optional)
 
-Push any commit to the `main` branch. The workflow at `.github/workflows/deploy.yml` will:
+1. Create a free account at [surge.sh](https://surge.sh)
+2. Run `npx surge login` locally to get your token
+3. Add **SURGE_TOKEN** as a repository secret: **Settings** → **Secrets and variables** → **Actions**
 
-1. Install dependencies
-2. Build the app with the correct base path (`/repo-name/`)
-3. Deploy to GitHub Pages
+Without `SURGE_TOKEN`, CI still runs verify + build; only the preview deploy step is skipped.
 
-### 3. Where the site appears
-
-After deployment, your site will be at:
-
-```
-https://YOUR_USERNAME.github.io/olympiad-exam/
-```
-
-(Replace `YOUR_USERNAME` with your GitHub username and `olympiad-exam` with your repo name.)
-
-### 4. Manual deployment
-
-You can also trigger deployment manually:
+### Manual production deployment
 
 1. Go to **Actions** in your repo
-2. Select **Deploy to GitHub Pages**
+2. Select **Deploy to Production**
 3. Click **Run workflow**
 
-### 5. Verify deployment
+### Verify deployment
 
 - Check the **Actions** tab for workflow status
-- Visit `https://YOUR_USERNAME.github.io/olympiad-exam/` once the workflow completes
+- Visit `https://YOUR_USERNAME.github.io/olympiad-exam/` once the deploy workflow completes
 - Test routes: `#/`, `#/exam/nso`, `#/library`
 
 ---
@@ -215,6 +252,29 @@ If images or starter packs fail to load on GitHub Pages:
 
 ---
 
+## Quality gate
+
+Deployment to GitHub Pages runs only after all checks pass:
+
+1. **Lint** – ESLint
+2. **Unit tests** – Vitest
+3. **Data validation** – Question bank and syllabus JSON
+4. **Production build** – Vite build
+
+### Run locally before pushing
+
+```bash
+npm run lint          # Lint
+npm run test          # Unit tests (watch mode)
+npm run test:run      # Unit tests (single run)
+npm run validate:data # Validate question-bank and syllabus
+npm run build         # Production build
+```
+
+If any step fails, deployment stops. Fix errors and push again.
+
+---
+
 ## npm scripts
 
 | Script | Description |
@@ -223,6 +283,10 @@ If images or starter packs fail to load on GitHub Pages:
 | `npm run build` | Build for production |
 | `npm run build:pages` | Build for GitHub Pages (used by CI) |
 | `npm run preview` | Preview production build |
+| `npm run test` | Run unit tests (watch mode) |
+| `npm run test:run` | Run unit tests (single run) |
+| `npm run lint` | Run ESLint |
+| `npm run validate:data` | Validate question-bank and syllabus data |
 
 ---
 

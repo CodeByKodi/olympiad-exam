@@ -1,0 +1,20 @@
+{
+  "packId": "igko-grade4-monuments-practice-01",
+  "exam": "igko",
+  "grade": 4,
+  "mode": "practice",
+  "title": "Monuments Practice Test",
+  "topic": "Monuments",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Monuments"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

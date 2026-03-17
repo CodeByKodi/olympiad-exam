@@ -1,0 +1,20 @@
+{
+  "packId": "ieo-grade6-nouns-practice-01",
+  "exam": "ieo",
+  "grade": 6,
+  "mode": "practice",
+  "title": "Nouns Practice Test",
+  "topic": "Nouns",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Nouns"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

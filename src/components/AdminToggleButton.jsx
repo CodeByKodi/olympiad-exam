@@ -1,5 +1,5 @@
 import { useNavigate } from 'react-router-dom';
-import { useRole } from '../context/RoleContext';
+import { useRole } from '../hooks/useRole';
 import styles from '../styles/AdminToggleButton.module.css';
 
 export function AdminToggleButton() {

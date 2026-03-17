@@ -1,0 +1,20 @@
+{
+  "packId": "nso-grade11-physics-basics-practice-01",
+  "exam": "nso",
+  "grade": 11,
+  "mode": "practice",
+  "title": "Physics Basics Practice Test",
+  "topic": "Physics Basics",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Physics Basics"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

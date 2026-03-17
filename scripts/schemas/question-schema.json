@@ -1,0 +1,28 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Olympiad Question",
+  "type": "object",
+  "required": ["id", "exam", "grade", "topic", "questionText", "options", "correctAnswer", "explanation"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z]+-g[0-9]+-[a-z0-9-]+-[0-9]+$" },
+    "exam": { "type": "string", "enum": ["nso", "imo", "ieo", "ics", "igko", "isso"] },
+    "grade": { "type": ["integer", "string"] },
+    "topic": { "type": "string" },
+    "subtopic": { "type": "string" },
+    "difficulty": { "type": "string", "enum": ["easy", "medium", "hard"] },
+    "modes": {
+      "type": "array",
+      "items": { "type": "string", "enum": ["practice", "mock"] },
+      "default": ["practice", "mock"]
+    },
+    "questionText": { "type": "string" },
+    "image": { "type": "string", "default": "" },
+    "options": { "type": "array", "items": { "type": "string" }, "minItems": 2 },
+    "correctAnswer": { "type": "integer", "minimum": 0 },
+    "explanation": { "type": "string" },
+    "learningObjective": { "type": "string" },
+    "tags": { "type": "array", "items": { "type": "string" } },
+    "sourceType": { "type": "string", "enum": ["generated", "curated", "imported"], "default": "generated" },
+    "syllabusCode": { "type": "string" }
+  }
+}

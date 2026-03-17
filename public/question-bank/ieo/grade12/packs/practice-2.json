@@ -1,0 +1,20 @@
+{
+  "packId": "ieo-grade12-comprehension-practice-01",
+  "exam": "ieo",
+  "grade": 12,
+  "mode": "practice",
+  "title": "Comprehension Practice Test",
+  "topic": "Comprehension",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Comprehension"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

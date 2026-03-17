@@ -4,7 +4,7 @@ import styles from '../styles/ResultSummary.module.css';
 export function ResultSummary({ summary }) {
   if (!summary) return null;
 
-  const { total, correct, wrong, unanswered, percentage } = summary;
+  const { correct, wrong, unanswered, percentage } = summary;
   const { label, variant } = getPerformanceLabel(percentage);
 
   return (

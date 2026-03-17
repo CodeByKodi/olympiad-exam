@@ -1,0 +1,686 @@
+{
+  "packId": "nso-grade3-plants-and-animals-practice-01",
+  "exam": "nso",
+  "grade": 3,
+  "mode": "practice",
+  "title": "Plants and Animals Practice Test",
+  "topic": "Plants and Animals",
+  "questions": [
+    {
+      "id": "nso-g3-plants-and-animals-0022",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Plants and Animals",
+      "subtopic": "Plants",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "What do we call a baby cat?",
+      "image": "",
+      "options": [
+        "Puppy",
+        "Cub",
+        "Kitten",
+        "Chick"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A baby cat is called a kitten.",
+      "tags": [
+        "animals",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-plants-and-animals-0020",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Plants and Animals",
+      "subtopic": "Plants",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "Which animal lays eggs in water?",
+      "image": "",
+      "options": [
+        "Dog",
+        "Frog",
+        "Cat",
+        "Rabbit"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Frogs lay eggs in water. The eggs hatch into tadpoles.",
+      "tags": [
+        "plants-and-animals",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-plants-and-animals-0014",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Plants and Animals",
+      "subtopic": "Plants",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "How do plants get water from the soil?",
+      "image": "",
+      "options": [
+        "Through leaves",
+        "Through roots",
+        "Through flowers",
+        "Through seeds"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Roots absorb water from the soil and send it to the rest of the plant.",
+      "tags": [
+        "plants-and-animals",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-plants-and-animals-0015",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Plants and Animals",
+      "subtopic": "Plants",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "Which animal has stripes?",
+      "image": "",
+      "options": [
+        "Crow",
+        "Zebra",
+        "Bear",
+        "Deer"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Zebras have black and white stripes on their bodies.",
+      "tags": [
+        "plants-and-animals",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-plants-and-animals-0017",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Plants and Animals",
+      "subtopic": "Plants",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "Which part of a plant is usually green?",
+      "image": "",
+      "options": [
+        "Root",
+        "Seed",
+        "Leaf",
+        "Flower"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Leaves are usually green because they contain chlorophyll.",
+      "tags": [
+        "plants-and-animals",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-plants-and-animals-0002",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Plants and Animals",
+      "subtopic": "Plants",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "What do we call a baby frog?",
+      "image": "",
+      "options": [
+        "Puppy",
+        "Tadpole",
+        "Cub",
+        "Chick"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A baby frog is called a tadpole.",
+      "tags": [
+        "plants-and-animals",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-plants-and-animals-0013",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Plants and Animals",
+      "subtopic": "Plants",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "Which of these is a non-living thing?",
+      "image": "",
+      "options": [
+        "Cat",
+        "Rose",
+        "Stone",
+        "Ant"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A stone is non-living. It does not grow, move, or need food.",
+      "tags": [
+        "plants-and-animals",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-plants-and-animals-0027",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Plants and Animals",
+      "subtopic": "Plants",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "Where do rabbits live?",
+      "image": "",
+      "options": [
+        "In water",
+        "In burrows",
+        "In nests",
+        "In hives"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rabbits live in burrows (holes in the ground).",
+      "tags": [
+        "animals",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-plants-and-animals-0008",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Plants and Animals",
+      "subtopic": "Plants",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "Where do fish live?",
+      "image": "",
+      "options": [
+        "On land",
+        "In water",
+        "In trees",
+        "Underground"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fish live in water. They have gills to breathe underwater.",
+      "tags": [
+        "plants-and-animals",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-plants-and-animals-0011",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Plants and Animals",
+      "subtopic": "Plants",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "Which animal can fly?",
+      "image": "",
+      "options": [
+        "Fish",
+        "Elephant",
+        "Butterfly",
+        "Snake"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Butterflies have wings and can fly.",
+      "tags": [
+        "plants-and-animals",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-plants-and-animals-0006",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Plants and Animals",
+      "subtopic": "Plants",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "What do herbivores eat?",
+      "image": "",
+      "options": [
+        "Only meat",
+        "Only plants",
+        "Both plants and meat",
+        "Nothing"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Herbivores are animals that eat only plants.",
+      "tags": [
+        "plants-and-animals",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-plants-and-animals-0004",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Plants and Animals",
+      "subtopic": "Plants",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "Where do plants make their food?",
+      "image": "",
+      "options": [
+        "Roots",
+        "Leaves",
+        "Flowers",
+        "Seeds"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Leaves use sunlight, water, and air to make food for the plant.",
+      "tags": [
+        "plants-and-animals",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-plants-and-animals-0023",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Plants and Animals",
+      "subtopic": "Plants",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "Which of these can grow and reproduce?",
+      "image": "",
+      "options": [
+        "Stone",
+        "Plastic",
+        "Flower",
+        "Metal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Flowers are living and can grow and reproduce.",
+      "tags": [
+        "living-and-non-living",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-plants-and-animals-0016",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Plants and Animals",
+      "subtopic": "Plants",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "What do bees collect from flowers?",
+      "image": "",
+      "options": [
+        "Water",
+        "Nectar",
+        "Soil",
+        "Leaves"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bees collect nectar from flowers to make honey.",
+      "tags": [
+        "plants-and-animals",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-plants-and-animals-0025",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Plants and Animals",
+      "subtopic": "Plants",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "Which animal eats only meat?",
+      "image": "",
+      "options": [
+        "Cow",
+        "Lion",
+        "Rabbit",
+        "Horse"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lions are carnivores that eat only meat.",
+      "tags": [
+        "animals",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-plants-and-animals-0010",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Plants and Animals",
+      "subtopic": "Plants",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "What do we call the home of a bird?",
+      "image": "",
+      "options": [
+        "Den",
+        "Nest",
+        "Hive",
+        "Burrow"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Birds build nests to lay eggs and raise their babies.",
+      "tags": [
+        "plants-and-animals",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-plants-and-animals-0039",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Plants and Animals",
+      "subtopic": "Plants",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "Where does digestion of food start?",
+      "image": "",
+      "options": [
+        "Stomach",
+        "Mouth",
+        "Intestine",
+        "Liver"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Digestion starts in the mouth when we chew food.",
+      "tags": [
+        "human-body-and-food",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-plants-and-animals-0019",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Plants and Animals",
+      "subtopic": "Plants",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "Which animal has a long trunk?",
+      "image": "",
+      "options": [
+        "Lion",
+        "Elephant",
+        "Tiger",
+        "Bear"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Elephants have a long trunk that they use to drink and pick things.",
+      "tags": [
+        "plants-and-animals",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-plants-and-animals-0001",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Plants and Animals",
+      "subtopic": "Plants",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "Which part of a plant absorbs water from the soil?",
+      "image": "",
+      "options": [
+        "Leaf",
+        "Flower",
+        "Root",
+        "Stem"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Roots absorb water and minerals from the soil.",
+      "tags": [
+        "plants-and-animals",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-plants-and-animals-0038",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Plants and Animals",
+      "subtopic": "Plants",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "Which organ helps us breathe?",
+      "image": "",
+      "options": [
+        "Heart",
+        "Stomach",
+        "Lungs",
+        "Brain"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Lungs help us breathe in oxygen and breathe out carbon dioxide.",
+      "tags": [
+        "human-body-and-food",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-plants-and-animals-0003",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Plants and Animals",
+      "subtopic": "Plants",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "Which of these is a living thing?",
+      "image": "",
+      "options": [
+        "Rock",
+        "Table",
+        "Tree",
+        "Chair"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Trees are living things that grow and need food, water, and air.",
+      "tags": [
+        "plants-and-animals",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-plants-and-animals-0034",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Plants and Animals",
+      "subtopic": "Plants",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "Which animal eats other animals?",
+      "image": "",
+      "options": [
+        "Cow",
+        "Deer",
+        "Tiger",
+        "Goat"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Tigers are carnivores that eat other animals.",
+      "tags": [
+        "animals",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-plants-and-animals-0005",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Plants and Animals",
+      "subtopic": "Plants",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "Which animal gives us eggs?",
+      "image": "",
+      "options": [
+        "Cow",
+        "Hen",
+        "Goat",
+        "Dog"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Hens lay eggs that we eat.",
+      "tags": [
+        "plants-and-animals",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-plants-and-animals-0032",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Plants and Animals",
+      "subtopic": "Plants",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "What do honeybees make?",
+      "image": "",
+      "options": [
+        "Milk",
+        "Honey",
+        "Bread",
+        "Cheese"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bees collect nectar and make honey.",
+      "tags": [
+        "animals",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    },
+    {
+      "id": "nso-g3-plants-and-animals-0009",
+      "exam": "nso",
+      "grade": "3",
+      "topic": "Plants and Animals",
+      "subtopic": "Plants",
+      "difficulty": "easy",
+      "modes": [
+        "practice",
+        "mock"
+      ],
+      "questionText": "Which animal has a shell on its back?",
+      "image": "",
+      "options": [
+        "Frog",
+        "Snake",
+        "Tortoise",
+        "Rabbit"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A tortoise has a hard shell on its back for protection.",
+      "tags": [
+        "plants-and-animals",
+        "grade3"
+      ],
+      "sourceType": "migrated"
+    }
+  ],
+  "durationMinutes": 25
+}

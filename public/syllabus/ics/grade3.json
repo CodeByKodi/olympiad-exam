@@ -1,0 +1,204 @@
+{
+  "exam": "ics",
+  "grade": 3,
+  "title": "Computer Science Grade 3 Syllabus",
+  "description": "Grade 3 computer science.",
+  "topics": [
+    {
+      "code": "ICS-G3-T1",
+      "name": "Parts of Computer",
+      "description": "Parts of Computer for Grade 3.",
+      "weightage": "high",
+      "recommendedQuestionCount": 40,
+      "subtopics": [
+        {
+          "code": "ICS-G3-T1-S1",
+          "name": "Parts of Computer Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "parts of computer",
+            "ics",
+            "ics",
+            "grade3"
+          ]
+        },
+        {
+          "code": "ICS-G3-T1-S2",
+          "name": "Parts of Computer Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "parts of computer",
+            "ics",
+            "ics",
+            "grade3"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICS-G3-T2",
+      "name": "Uses",
+      "description": "Uses for Grade 3.",
+      "weightage": "high",
+      "recommendedQuestionCount": 37,
+      "subtopics": [
+        {
+          "code": "ICS-G3-T2-S1",
+          "name": "Uses Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "uses",
+            "ics",
+            "ics",
+            "grade3"
+          ]
+        },
+        {
+          "code": "ICS-G3-T2-S2",
+          "name": "Uses Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "uses",
+            "ics",
+            "ics",
+            "grade3"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICS-G3-T3",
+      "name": "Input/Output",
+      "description": "Input/Output for Grade 3.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 34,
+      "subtopics": [
+        {
+          "code": "ICS-G3-T3-S1",
+          "name": "Input/Output Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "input/output",
+            "ics",
+            "ics",
+            "grade3"
+          ]
+        },
+        {
+          "code": "ICS-G3-T3-S2",
+          "name": "Input/Output Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "input/output",
+            "ics",
+            "ics",
+            "grade3"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICS-G3-T4",
+      "name": "Keyboard/Mouse",
+      "description": "Keyboard/Mouse for Grade 3.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 31,
+      "subtopics": [
+        {
+          "code": "ICS-G3-T4-S1",
+          "name": "Keyboard/Mouse Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "keyboard/mouse",
+            "ics",
+            "ics",
+            "grade3"
+          ]
+        },
+        {
+          "code": "ICS-G3-T4-S2",
+          "name": "Keyboard/Mouse Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "keyboard/mouse",
+            "ics",
+            "ics",
+            "grade3"
+          ]
+        }
+      ]
+    }
+  ]
+}

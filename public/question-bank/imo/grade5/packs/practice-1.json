@@ -1,0 +1,20 @@
+{
+  "packId": "imo-grade5-numbers-and-operations-practice-01",
+  "exam": "imo",
+  "grade": 5,
+  "mode": "practice",
+  "title": "Numbers and Operations Practice Test",
+  "topic": "Numbers and Operations",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Numbers and Operations"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

@@ -1,4 +1,3 @@
-import { indexToLabel } from '../utils/answerUtils';
 import styles from '../styles/QuestionPalette.module.css';
 
 export function QuestionPalette({

@@ -1,44 +1,78 @@
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
-import { EXAMS, TEST_MODES, TESTS_PER_EXAM } from '../constants/exams';
+import { EXAMS, TEST_MODES } from '../constants/exams';
 import { TestCard } from '../components/TestCard';
-import { getTestMetadata } from '../utils/loadTestData';
-import { useQuestionLibrary } from '../context/QuestionLibraryContext';
+import { useQuestionLibrary } from '../hooks/useQuestionLibrary';
+import { resolveStaticPath } from '../config';
+import * as libraryService from '../services/questionLibraryService';
 import styles from '../styles/TestSelectPage.module.css';
+
+/** Sample pack paths for import when no built-in content exists. */
+const SAMPLE_PACKS = {
+  practice: 'sample-packs/nso-grade3-practice.json',
+  mock: 'sample-packs/nso-grade3-mock.json',
+};
+
+function getSamplePackDownloadUrl(mode = 'practice') {
+  const relPath = SAMPLE_PACKS[mode] || SAMPLE_PACKS.practice;
+  const path = resolveStaticPath(relPath);
+  const clean = path.startsWith('./') ? path.slice(1) : path;
+  return `${window.location.origin}${clean.startsWith('/') ? '' : '/'}${clean}`;
+}
 
 export function TestSelectPage() {
   const { examId, gradeId } = useParams();
   const exam = EXAMS[examId?.toUpperCase()] || EXAMS.NSO;
-  const [testMeta, setTestMeta] = useState({});
-  const { getMockPacks, getPracticePacks, hasLibraryPacks } = useQuestionLibrary();
+  const { getMockPacks, getPracticePacks, hasLibraryPacks, loading, reload } = useQuestionLibrary();
+  const [importingSample, setImportingSample] = useState(false);
+
+  const handleImportSample = async (mode) => {
+    setImportingSample(true);
+    try {
+      const url = getSamplePackDownloadUrl(mode);
+      const res = await fetch(url);
+      if (!res.ok) throw new Error('Failed to fetch sample');
+      const data = await res.json();
+      // Adapt sample to current exam/grade so it appears on this page
+      const adapted = {
+        ...data,
+        exam: exam.id,
+        grade: Number(gradeId) || 3,
+        packId: `${exam.id}-grade${gradeId}-${mode === 'mock' ? 'mock-01' : 'plants-animals-practice-01'}`,
+      };
+      const result = await libraryService.importPack(JSON.stringify(adapted), true);
+      if (result.ok) await reload();
+      else throw new Error(result.error);
+    } catch (e) {
+      alert(e.message || 'Import failed');
+    } finally {
+      setImportingSample(false);
+    }
+  };
 
   const hasPracticePacks = hasLibraryPacks(exam.id, gradeId, 'practice');
   const hasMockPacks = hasLibraryPacks(exam.id, gradeId, 'mock');
   const mockPacks = getMockPacks(exam.id, gradeId);
   const practicePacks = hasPracticePacks ? getPracticePacks(exam.id, gradeId) : [];
 
-  useEffect(() => {
-    if (hasPracticePacks || hasMockPacks) return;
-    const load = async () => {
-      const meta = {};
-      for (const t of TESTS_PER_EXAM) {
-        try {
-          const m = await getTestMetadata(exam.id, gradeId, t.id);
-          meta[t.id] = m;
-        } catch {
-          meta[t.id] = { questionCount: 10, durationMinutes: 15 };
-        }
-      }
-      setTestMeta(meta);
-    };
-    load();
-  }, [exam.id, gradeId, hasPracticePacks, hasMockPacks]);
+  const emptyContent = !hasPracticePacks && !hasMockPacks;
 
   return (
     <div className={styles.page}>
       <div className={styles.header}>
         <h1 className={styles.title}>{exam.fullName} — Grade {gradeId}</h1>
         <p className={styles.subtitle}>Choose a test mode and test</p>
+        {loading && (
+          <p className={styles.loadingHint}>Loading content…</p>
+        )}
+        {!loading && emptyContent && (
+          <p className={styles.loadingHint}>
+            <button type="button" className={styles.reloadBtn} onClick={reload}>
+              Reload library
+            </button>
+            {' '}if content should be available.
+          </p>
+        )}
       </div>
 
       <section className={styles.section}>
@@ -74,20 +108,26 @@ export function TestSelectPage() {
                 </div>
               ));
             })()
-          ) : !hasPracticePacks ? (
-            TESTS_PER_EXAM.map((t) => (
-              <TestCard
-                key={`practice-${t.id}`}
-                examId={exam.id}
-                gradeId={gradeId}
-                testId={t.id}
-                mode={TEST_MODES.PRACTICE}
-                questionCount={testMeta[t.id]?.questionCount ?? 10}
-                durationMinutes={testMeta[t.id]?.durationMinutes ?? 15}
-                title={t.title}
-              />
-            ))
-          ) : practicePacks.length === 0 ? (
+          ) : !loading && !hasPracticePacks ? (
+            <p className={styles.emptyHint}>
+              No practice content for this grade yet.{' '}
+              <Link to="/question-library" className={styles.emptyLink}>Import packs in the Library</Link>
+              ,{' '}
+              <button
+                type="button"
+                className={styles.emptyLink}
+                onClick={() => handleImportSample('practice')}
+                disabled={importingSample}
+              >
+                import a sample pack
+              </button>
+              , or{' '}
+              <a href={getSamplePackDownloadUrl()} download="sample-practice-pack.json" className={styles.emptyLink}>
+                download a sample
+              </a>
+              {' '}to get started.
+            </p>
+          ) : !loading && practicePacks.length === 0 ? (
             <p className={styles.emptyHint}>
               No practice questions yet.{' '}
               <Link to="/question-library" className={styles.emptyLink}>Import packs in the Library</Link>
@@ -114,20 +154,26 @@ export function TestSelectPage() {
                 title={p.title}
               />
             ))
-          ) : (
-            TESTS_PER_EXAM.map((t) => (
-              <TestCard
-                key={`mock-${t.id}`}
-                examId={exam.id}
-                gradeId={gradeId}
-                testId={t.id}
-                mode={TEST_MODES.MOCK}
-                questionCount={testMeta[t.id]?.questionCount ?? 10}
-                durationMinutes={testMeta[t.id]?.durationMinutes ?? 15}
-                title={t.title}
-              />
-            ))
-          )}
+          ) : !loading ? (
+            <p className={styles.emptyHint}>
+              No mock tests for this grade yet.{' '}
+              <Link to="/question-library" className={styles.emptyLink}>Import packs in the Library</Link>
+              ,{' '}
+              <button
+                type="button"
+                className={styles.emptyLink}
+                onClick={() => handleImportSample('mock')}
+                disabled={importingSample}
+              >
+                import a sample mock pack
+              </button>
+              , or{' '}
+              <a href={getSamplePackDownloadUrl('mock')} download="sample-mock-pack.json" className={styles.emptyLink}>
+                download a sample
+              </a>
+              {' '}to add mock tests.
+            </p>
+          ) : null}
         </div>
       </section>
     </div>

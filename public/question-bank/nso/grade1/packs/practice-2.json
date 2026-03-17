@@ -1,0 +1,20 @@
+{
+  "packId": "nso-grade1-plants-practice-01",
+  "exam": "nso",
+  "grade": 1,
+  "mode": "practice",
+  "title": "Plants Practice Test",
+  "topic": "Plants",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Plants"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

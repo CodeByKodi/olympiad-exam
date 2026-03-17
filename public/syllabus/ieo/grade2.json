@@ -1,0 +1,253 @@
+{
+  "exam": "ieo",
+  "grade": 2,
+  "title": "English Grade 2 Syllabus",
+  "description": "Grade 2 english.",
+  "topics": [
+    {
+      "code": "IEO-G2-T1",
+      "name": "Vocabulary",
+      "description": "Vocabulary for Grade 2.",
+      "weightage": "high",
+      "recommendedQuestionCount": 40,
+      "subtopics": [
+        {
+          "code": "IEO-G2-T1-S1",
+          "name": "Vocabulary Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "vocabulary",
+            "ieo",
+            "ieo",
+            "grade2"
+          ]
+        },
+        {
+          "code": "IEO-G2-T1-S2",
+          "name": "Vocabulary Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "vocabulary",
+            "ieo",
+            "ieo",
+            "grade2"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IEO-G2-T2",
+      "name": "Simple Grammar",
+      "description": "Simple Grammar for Grade 2.",
+      "weightage": "high",
+      "recommendedQuestionCount": 37,
+      "subtopics": [
+        {
+          "code": "IEO-G2-T2-S1",
+          "name": "Simple Grammar Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "simple grammar",
+            "ieo",
+            "ieo",
+            "grade2"
+          ]
+        },
+        {
+          "code": "IEO-G2-T2-S2",
+          "name": "Simple Grammar Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "simple grammar",
+            "ieo",
+            "ieo",
+            "grade2"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IEO-G2-T3",
+      "name": "Sentence Formation",
+      "description": "Sentence Formation for Grade 2.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 34,
+      "subtopics": [
+        {
+          "code": "IEO-G2-T3-S1",
+          "name": "Sentence Formation Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "sentence formation",
+            "ieo",
+            "ieo",
+            "grade2"
+          ]
+        },
+        {
+          "code": "IEO-G2-T3-S2",
+          "name": "Sentence Formation Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "sentence formation",
+            "ieo",
+            "ieo",
+            "grade2"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IEO-G2-T4",
+      "name": "Spelling",
+      "description": "Spelling for Grade 2.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 31,
+      "subtopics": [
+        {
+          "code": "IEO-G2-T4-S1",
+          "name": "Spelling Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "spelling",
+            "ieo",
+            "ieo",
+            "grade2"
+          ]
+        },
+        {
+          "code": "IEO-G2-T4-S2",
+          "name": "Spelling Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "spelling",
+            "ieo",
+            "ieo",
+            "grade2"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IEO-G2-T5",
+      "name": "Everyday English",
+      "description": "Everyday English for Grade 2.",
+      "weightage": "low",
+      "recommendedQuestionCount": 28,
+      "subtopics": [
+        {
+          "code": "IEO-G2-T5-S1",
+          "name": "Everyday English Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "everyday english",
+            "ieo",
+            "ieo",
+            "grade2"
+          ]
+        },
+        {
+          "code": "IEO-G2-T5-S2",
+          "name": "Everyday English Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "everyday english",
+            "ieo",
+            "ieo",
+            "grade2"
+          ]
+        }
+      ]
+    }
+  ]
+}

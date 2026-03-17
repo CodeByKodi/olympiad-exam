@@ -1,0 +1,1001 @@
+[
+  {
+    "id": "igko-g2-world-0041",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "World",
+    "subtopic": "World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What ocean is between Africa and Australia?",
+    "image": "",
+    "options": [
+      "Atlantic",
+      "Indian",
+      "Pacific",
+      "Arctic"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Indian Ocean is between them.",
+    "tags": [
+      "continents-oceans-and-geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g2-world-0042",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "World",
+    "subtopic": "World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the study of the Earth's surface?",
+    "image": "",
+    "options": [
+      "History",
+      "Geography",
+      "Science",
+      "Math"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Geography studies the Earth.",
+    "tags": [
+      "continents-oceans-and-geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g2-world-0043",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "World",
+    "subtopic": "World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a drawing of the earth or a part of it?",
+    "image": "",
+    "options": [
+      "Picture",
+      "Map",
+      "Photo",
+      "Painting"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A map shows the earth.",
+    "tags": [
+      "continents-oceans-and-geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g2-world-0044",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "World",
+    "subtopic": "World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to find directions?",
+    "image": "",
+    "options": [
+      "Watch",
+      "Compass",
+      "Ruler",
+      "Pen"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A compass shows directions.",
+    "tags": [
+      "continents-oceans-and-geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g2-world-0045",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "World",
+    "subtopic": "World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What direction does the Sun rise from?",
+    "image": "",
+    "options": [
+      "North",
+      "South",
+      "East",
+      "West"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Sun rises in the East.",
+    "tags": [
+      "continents-oceans-and-geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g2-world-0046",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "World",
+    "subtopic": "World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What direction does the Sun set in?",
+    "image": "",
+    "options": [
+      "North",
+      "South",
+      "East",
+      "West"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Sun sets in the West.",
+    "tags": [
+      "continents-oceans-and-geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g2-world-0047",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "World",
+    "subtopic": "World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the capital of India?",
+    "image": "",
+    "options": [
+      "Mumbai",
+      "Kolkata",
+      "New Delhi",
+      "Chennai"
+    ],
+    "correctAnswer": 2,
+    "explanation": "New Delhi is the capital.",
+    "tags": [
+      "continents-oceans-and-geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g2-world-0048",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "World",
+    "subtopic": "World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the capital of Japan?",
+    "image": "",
+    "options": [
+      "Beijing",
+      "Seoul",
+      "Tokyo",
+      "Bangkok"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Tokyo is the capital of Japan.",
+    "tags": [
+      "continents-oceans-and-geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g2-world-0049",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "World",
+    "subtopic": "World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the capital of China?",
+    "image": "",
+    "options": [
+      "Shanghai",
+      "Beijing",
+      "Hong Kong",
+      "Tokyo"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Beijing is the capital.",
+    "tags": [
+      "continents-oceans-and-geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g2-world-0050",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "World",
+    "subtopic": "World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the capital of England?",
+    "image": "",
+    "options": [
+      "Paris",
+      "London",
+      "Berlin",
+      "Rome"
+    ],
+    "correctAnswer": 1,
+    "explanation": "London is the capital.",
+    "tags": [
+      "continents-oceans-and-geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g2-world-0051",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "World",
+    "subtopic": "World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What country has the Taj Mahal?",
+    "image": "",
+    "options": [
+      "China",
+      "India",
+      "Pakistan",
+      "Bangladesh"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Taj Mahal is in India.",
+    "tags": [
+      "continents-oceans-and-geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g2-world-0052",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "World",
+    "subtopic": "World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What country has the Great Wall?",
+    "image": "",
+    "options": [
+      "India",
+      "Japan",
+      "China",
+      "Korea"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Great Wall is in China.",
+    "tags": [
+      "continents-oceans-and-geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g2-world-0053",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "World",
+    "subtopic": "World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What country has the Eiffel Tower?",
+    "image": "",
+    "options": [
+      "Italy",
+      "Germany",
+      "France",
+      "Spain"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Eiffel Tower is in France.",
+    "tags": [
+      "continents-oceans-and-geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g2-world-0054",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "World",
+    "subtopic": "World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is a drawing that shows roads and places?",
+    "image": "",
+    "options": [
+      "Painting",
+      "Map",
+      "Photo",
+      "Drawing"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A map shows roads and places.",
+    "tags": [
+      "continents-oceans-and-geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g2-world-0055",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "World",
+    "subtopic": "World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What continent is India in?",
+    "image": "",
+    "options": [
+      "Africa",
+      "Europe",
+      "Asia",
+      "Australia"
+    ],
+    "correctAnswer": 2,
+    "explanation": "India is in Asia.",
+    "tags": [
+      "continents-oceans-and-geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g2-world-0056",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "World",
+    "subtopic": "World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What ocean is the coldest?",
+    "image": "",
+    "options": [
+      "Atlantic",
+      "Indian",
+      "Pacific",
+      "Arctic"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Arctic Ocean is the coldest.",
+    "tags": [
+      "continents-oceans-and-geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g2-world-0057",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "World",
+    "subtopic": "World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is a model of the Earth shaped like a ball?",
+    "image": "",
+    "options": [
+      "Map",
+      "Globe",
+      "Compass",
+      "Chart"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A globe is a model of Earth.",
+    "tags": [
+      "continents-oceans-and-geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g2-world-0058",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "World",
+    "subtopic": "World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which continent has the Sahara Desert?",
+    "image": "",
+    "options": [
+      "Asia",
+      "Europe",
+      "Africa",
+      "Australia"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Sahara is in Africa.",
+    "tags": [
+      "continents-oceans-and-geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g2-world-0059",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "World",
+    "subtopic": "World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the four main directions?",
+    "image": "",
+    "options": [
+      "Cardinal directions",
+      "Side directions",
+      "Main directions",
+      "Basic directions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "North, South, East, West are cardinal directions.",
+    "tags": [
+      "continents-oceans-and-geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g2-world-0060",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "World",
+    "subtopic": "World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which day is Independence Day in India?",
+    "image": "",
+    "options": [
+      "January 26",
+      "August 15",
+      "October 2",
+      "December 25"
+    ],
+    "correctAnswer": 1,
+    "explanation": "August 15 is Independence Day.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g2-world-0061",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "World",
+    "subtopic": "World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What day is Gandhi Jayanti?",
+    "image": "",
+    "options": [
+      "August 15",
+      "January 26",
+      "October 2",
+      "December 25"
+    ],
+    "correctAnswer": 2,
+    "explanation": "October 2 is Gandhi Jayanti.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g2-world-0062",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "World",
+    "subtopic": "World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What day is Children's Day in India?",
+    "image": "",
+    "options": [
+      "August 15",
+      "November 14",
+      "October 2",
+      "January 26"
+    ],
+    "correctAnswer": 1,
+    "explanation": "November 14 is Children's Day.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g2-world-0063",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "World",
+    "subtopic": "World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What day is Republic Day in India?",
+    "image": "",
+    "options": [
+      "January 26",
+      "August 15",
+      "October 2",
+      "December 25"
+    ],
+    "correctAnswer": 0,
+    "explanation": "January 26 is Republic Day.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g2-world-0064",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "World",
+    "subtopic": "World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which festival is known as the festival of lights?",
+    "image": "",
+    "options": [
+      "Holi",
+      "Diwali",
+      "Eid",
+      "Christmas"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Diwali is the festival of lights.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g2-world-0065",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "World",
+    "subtopic": "World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What festival is celebrated with colors?",
+    "image": "",
+    "options": [
+      "Diwali",
+      "Holi",
+      "Eid",
+      "Christmas"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Holi is the festival of colors.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g2-world-0066",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "World",
+    "subtopic": "World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What festival marks the birth of Jesus?",
+    "image": "",
+    "options": [
+      "Diwali",
+      "Holi",
+      "Eid",
+      "Christmas"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Christmas marks Jesus's birth.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g2-world-0067",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "World",
+    "subtopic": "World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What festival is celebrated with fasting?",
+    "image": "",
+    "options": [
+      "Diwali",
+      "Holi",
+      "Eid",
+      "Christmas"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Eid is celebrated with fasting.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g2-world-0068",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "World",
+    "subtopic": "World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we light during Diwali?",
+    "image": "",
+    "options": [
+      "Candles",
+      "Diyas and lamps",
+      "Fireworks only",
+      "Nothing"
+    ],
+    "correctAnswer": 1,
+    "explanation": "We light diyas and lamps during Diwali.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g2-world-0069",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "World",
+    "subtopic": "World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which festival is celebrated in spring with colors?",
+    "image": "",
+    "options": [
+      "Diwali",
+      "Holi",
+      "Eid",
+      "Christmas"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Holi is the spring festival of colors.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g2-world-0070",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "World",
+    "subtopic": "World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a special day for celebration?",
+    "image": "",
+    "options": [
+      "Weekday",
+      "Festival",
+      "Holiday",
+      "Both B and C"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Festivals and holidays are special days.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g2-world-0071",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "World",
+    "subtopic": "World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the stories passed down from older generations?",
+    "image": "",
+    "options": [
+      "News",
+      "Folklore",
+      "Movies",
+      "Songs"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Folklore includes traditional stories.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g2-world-0072",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "World",
+    "subtopic": "World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the traditional clothes of a region?",
+    "image": "",
+    "options": [
+      "Uniform",
+      "Costume",
+      "Dress",
+      "Outfit"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Traditional clothes are costumes.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g2-world-0073",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "World",
+    "subtopic": "World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the food that is special to a region?",
+    "image": "",
+    "options": [
+      "Fast food",
+      "Traditional food",
+      "Junk food",
+      "Frozen food"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Traditional food is special to a region.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g2-world-0074",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "World",
+    "subtopic": "World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the music and dance of a region?",
+    "image": "",
+    "options": [
+      "Pop music",
+      "Folk music",
+      "Rock music",
+      "Jazz"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Folk music and dance are traditional.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g2-world-0075",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "World",
+    "subtopic": "World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which month is Diwali usually celebrated in?",
+    "image": "",
+    "options": [
+      "January",
+      "March",
+      "October or November",
+      "December"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Diwali is in October or November.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g2-world-0076",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "World",
+    "subtopic": "World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a day when we remember a great person?",
+    "image": "",
+    "options": [
+      "Birthday",
+      "Memorial day",
+      "Holiday",
+      "Weekend"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Memorial days honor great people.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g2-world-0077",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "World",
+    "subtopic": "World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the customs and beliefs of a group?",
+    "image": "",
+    "options": [
+      "Science",
+      "Culture",
+      "Math",
+      "Sports"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Culture includes customs and beliefs.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  }
+]

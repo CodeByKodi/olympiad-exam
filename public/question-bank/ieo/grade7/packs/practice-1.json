@@ -1,0 +1,20 @@
+{
+  "packId": "ieo-grade7-grammar-practice-01",
+  "exam": "ieo",
+  "grade": 7,
+  "mode": "practice",
+  "title": "Grammar Practice Test",
+  "topic": "Grammar",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Grammar"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

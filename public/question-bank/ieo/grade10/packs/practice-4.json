@@ -1,0 +1,20 @@
+{
+  "packId": "ieo-grade10-contextual-usage-practice-01",
+  "exam": "ieo",
+  "grade": 10,
+  "mode": "practice",
+  "title": "Contextual Usage Practice Test",
+  "topic": "Contextual Usage",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Contextual Usage"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

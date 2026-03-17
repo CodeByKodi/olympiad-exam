@@ -1,4 +1,4 @@
-import { createContext, useContext, useState, useCallback, useEffect } from 'react';
+import { createContext, useState, useCallback, useEffect } from 'react';
 import * as roleService from '../services/roleService';
 
 const RoleContext = createContext(null);
@@ -45,16 +45,4 @@ export function RoleProvider({ children }) {
   );
 }
 
-export function useRole() {
-  const ctx = useContext(RoleContext);
-  if (!ctx) {
-    return {
-      role: 'user',
-      isAdmin: false,
-      setAdmin: () => {},
-      clearAdmin: () => {},
-      refreshRole: () => {},
-    };
-  }
-  return ctx;
-}
+export { RoleContext };

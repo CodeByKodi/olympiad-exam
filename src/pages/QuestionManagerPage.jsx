@@ -50,8 +50,10 @@ export function QuestionManagerPage() {
 
   useEffect(() => {
     let cancelled = false;
-    setLoading(true);
-    setError(null);
+    queueMicrotask(() => {
+      setLoading(true);
+      setError(null);
+    });
     loadQuestionSet(examId, gradeId, testId)
       .then((qs) => {
         if (!cancelled) setQuestions(qs);
@@ -70,7 +72,7 @@ export function QuestionManagerPage() {
 
   useEffect(() => {
     if (questions.length > 0 && testId) {
-      setTestCounts((c) => ({ ...c, [testId]: questions.length }));
+      queueMicrotask(() => setTestCounts((c) => ({ ...c, [testId]: questions.length })));
     }
   }, [questions.length, testId]);
 
@@ -294,6 +296,7 @@ export function QuestionManagerPage() {
       )}
 
       <QuestionFormModal
+        key={formOpen ? (editingQuestion !== null ? questions[editingQuestion]?.id ?? `edit-${editingQuestion}` : 'new') : 'closed'}
         open={formOpen}
         question={editingQuestion !== null ? questions[editingQuestion] : null}
         gradeId={gradeId}

@@ -1,0 +1,20 @@
+{
+  "packId": "isso-grade12-economy-practice-01",
+  "exam": "isso",
+  "grade": 12,
+  "mode": "practice",
+  "title": "Economy Practice Test",
+  "topic": "Economy",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Economy"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

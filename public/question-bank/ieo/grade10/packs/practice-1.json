@@ -1,0 +1,20 @@
+{
+  "packId": "ieo-grade10-advanced-grammar-practice-01",
+  "exam": "ieo",
+  "grade": 10,
+  "mode": "practice",
+  "title": "Advanced Grammar Practice Test",
+  "topic": "Advanced Grammar",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Advanced Grammar"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

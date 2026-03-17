@@ -1,0 +1,20 @@
+{
+  "packId": "isso-grade3-maps-practice-01",
+  "exam": "isso",
+  "grade": 3,
+  "mode": "practice",
+  "title": "Maps Practice Test",
+  "topic": "Maps",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Maps"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

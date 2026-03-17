@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { useRole } from '../context/RoleContext';
+import { useRole } from '../hooks/useRole';
 import { ADMIN_KEY } from '../config/admin';
 import styles from '../styles/AdminUnlockPage.module.css';
 

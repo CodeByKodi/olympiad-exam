@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "imo-g3-addition-and-subtraction-0041",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Addition and Subtraction",
+    "subtopic": "Addition",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 4 × 8?",
+    "image": "",
+    "options": [
+      "12",
+      "28",
+      "32",
+      "36"
+    ],
+    "correctAnswer": 2,
+    "explanation": "4 × 8 = 32.",
+    "tags": [
+      "multiplication-division-and-fractions",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-addition-and-subtraction-0042",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Addition and Subtraction",
+    "subtopic": "Addition",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 35 ÷ 5?",
+    "image": "",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswer": 2,
+    "explanation": "35 ÷ 5 = 7.",
+    "tags": [
+      "multiplication-division-and-fractions",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-addition-and-subtraction-0043",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Addition and Subtraction",
+    "subtopic": "Addition",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What does 2/3 mean?",
+    "image": "",
+    "options": [
+      "2 out of 3 parts",
+      "3 out of 2 parts",
+      "2 plus 3",
+      "2 minus 3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "2/3 means 2 out of 3 equal parts.",
+    "tags": [
+      "multiplication-division-and-fractions",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-addition-and-subtraction-0044",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Addition and Subtraction",
+    "subtopic": "Addition",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 9 × 4?",
+    "image": "",
+    "options": [
+      "32",
+      "36",
+      "40",
+      "45"
+    ],
+    "correctAnswer": 1,
+    "explanation": "9 × 4 = 36.",
+    "tags": [
+      "multiplication-division-and-fractions",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-addition-and-subtraction-0045",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Addition and Subtraction",
+    "subtopic": "Addition",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 42 ÷ 6?",
+    "image": "",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correctAnswer": 1,
+    "explanation": "42 ÷ 6 = 7.",
+    "tags": [
+      "multiplication-division-and-fractions",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-addition-and-subtraction-0046",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Addition and Subtraction",
+    "subtopic": "Addition",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "If 1 pizza is cut into 8 equal slices, how many slices make half?",
+    "image": "",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Half of 8 slices is 4 slices.",
+    "tags": [
+      "multiplication-division-and-fractions",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-addition-and-subtraction-0047",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Addition and Subtraction",
+    "subtopic": "Addition",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 3 × 9?",
+    "image": "",
+    "options": [
+      "24",
+      "27",
+      "30",
+      "36"
+    ],
+    "correctAnswer": 1,
+    "explanation": "3 × 9 = 27.",
+    "tags": [
+      "multiplication-division-and-fractions",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-addition-and-subtraction-0048",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Addition and Subtraction",
+    "subtopic": "Addition",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 56 ÷ 8?",
+    "image": "",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correctAnswer": 1,
+    "explanation": "56 ÷ 8 = 7.",
+    "tags": [
+      "multiplication-division-and-fractions",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-addition-and-subtraction-0049",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Addition and Subtraction",
+    "subtopic": "Addition",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 8 × 5?",
+    "image": "",
+    "options": [
+      "35",
+      "40",
+      "45",
+      "50"
+    ],
+    "correctAnswer": 1,
+    "explanation": "8 × 5 = 40.",
+    "tags": [
+      "multiplication-division-and-fractions",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-addition-and-subtraction-0050",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Addition and Subtraction",
+    "subtopic": "Addition",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many 4s are in 24?",
+    "image": "",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correctAnswer": 2,
+    "explanation": "24 ÷ 4 = 6. There are 6 fours in 24.",
+    "tags": [
+      "multiplication-division-and-fractions",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-addition-and-subtraction-0051",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Addition and Subtraction",
+    "subtopic": "Addition",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 1/2 + 1/2?",
+    "image": "",
+    "options": [
+      "1/4",
+      "1/2",
+      "1",
+      "2"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Half plus half equals one whole.",
+    "tags": [
+      "multiplication-division-and-fractions",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-addition-and-subtraction-0052",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Addition and Subtraction",
+    "subtopic": "Addition",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 10 × 3?",
+    "image": "",
+    "options": [
+      "13",
+      "30",
+      "33",
+      "300"
+    ],
+    "correctAnswer": 1,
+    "explanation": "10 × 3 = 30.",
+    "tags": [
+      "multiplication-division-and-fractions",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-addition-and-subtraction-0053",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Addition and Subtraction",
+    "subtopic": "Addition",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "There are 32 apples in 4 baskets. How many in each basket?",
+    "image": "",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correctAnswer": 2,
+    "explanation": "32 ÷ 4 = 8 apples per basket.",
+    "tags": [
+      "multiplication-division-and-fractions",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-addition-and-subtraction-0054",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Addition and Subtraction",
+    "subtopic": "Addition",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 5 × 6?",
+    "image": "",
+    "options": [
+      "11",
+      "25",
+      "30",
+      "35"
+    ],
+    "correctAnswer": 2,
+    "explanation": "5 × 6 = 30.",
+    "tags": [
+      "multiplication-division-and-fractions",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-addition-and-subtraction-0055",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Addition and Subtraction",
+    "subtopic": "Addition",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which fraction equals 1?",
+    "image": "",
+    "options": [
+      "1/2",
+      "2/2",
+      "1/4",
+      "3/4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "2/2 = 1. Two halves make one whole.",
+    "tags": [
+      "multiplication-division-and-fractions",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-addition-and-subtraction-0056",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Addition and Subtraction",
+    "subtopic": "Addition",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many minutes are in 1 hour?",
+    "image": "",
+    "options": [
+      "30",
+      "60",
+      "90",
+      "100"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1 hour = 60 minutes.",
+    "tags": [
+      "time-money-and-measurement",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-addition-and-subtraction-0057",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Addition and Subtraction",
+    "subtopic": "Addition",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many paise make 1 rupee?",
+    "image": "",
+    "options": [
+      "10",
+      "50",
+      "100",
+      "1000"
+    ],
+    "correctAnswer": 2,
+    "explanation": "100 paise = 1 rupee.",
+    "tags": [
+      "time-money-and-measurement",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-addition-and-subtraction-0058",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Addition and Subtraction",
+    "subtopic": "Addition",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the standard unit of length?",
+    "image": "",
+    "options": [
+      "Kilogram",
+      "Litre",
+      "Metre",
+      "Rupee"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Metre is the standard unit for measuring length.",
+    "tags": [
+      "time-money-and-measurement",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-addition-and-subtraction-0059",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Addition and Subtraction",
+    "subtopic": "Addition",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many hours are in 1 day?",
+    "image": "",
+    "options": [
+      "12",
+      "20",
+      "24",
+      "30"
+    ],
+    "correctAnswer": 2,
+    "explanation": "1 day = 24 hours.",
+    "tags": [
+      "time-money-and-measurement",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-addition-and-subtraction-0060",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Addition and Subtraction",
+    "subtopic": "Addition",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "If a pencil costs ₹5, how much do 3 pencils cost?",
+    "image": "",
+    "options": [
+      "₹8",
+      "₹15",
+      "₹18",
+      "₹20"
+    ],
+    "correctAnswer": 1,
+    "explanation": "3 × 5 = ₹15.",
+    "tags": [
+      "time-money-and-measurement",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-addition-and-subtraction-0061",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Addition and Subtraction",
+    "subtopic": "Addition",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many centimetres are in 1 metre?",
+    "image": "",
+    "options": [
+      "10",
+      "50",
+      "100",
+      "1000"
+    ],
+    "correctAnswer": 2,
+    "explanation": "1 metre = 100 centimetres.",
+    "tags": [
+      "time-money-and-measurement",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-addition-and-subtraction-0062",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Addition and Subtraction",
+    "subtopic": "Addition",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many days are in 1 week?",
+    "image": "",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswer": 2,
+    "explanation": "1 week = 7 days.",
+    "tags": [
+      "time-money-and-measurement",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-addition-and-subtraction-0063",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Addition and Subtraction",
+    "subtopic": "Addition",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Riya has ₹20. She buys a toy for ₹12. How much is left?",
+    "image": "",
+    "options": [
+      "₹6",
+      "₹8",
+      "₹10",
+      "₹12"
+    ],
+    "correctAnswer": 1,
+    "explanation": "20 − 12 = ₹8.",
+    "tags": [
+      "time-money-and-measurement",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-addition-and-subtraction-0064",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Addition and Subtraction",
+    "subtopic": "Addition",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to measure weight?",
+    "image": "",
+    "options": [
+      "Ruler",
+      "Thermometer",
+      "Clock",
+      "Scale"
+    ],
+    "correctAnswer": 3,
+    "explanation": "A scale or balance measures weight.",
+    "tags": [
+      "time-money-and-measurement",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-addition-and-subtraction-0065",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Addition and Subtraction",
+    "subtopic": "Addition",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many months are in 1 year?",
+    "image": "",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "correctAnswer": 2,
+    "explanation": "1 year = 12 months.",
+    "tags": [
+      "time-money-and-measurement",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-addition-and-subtraction-0066",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Addition and Subtraction",
+    "subtopic": "Addition",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which coin is worth the most?",
+    "image": "",
+    "options": [
+      "50 paise",
+      "₹1",
+      "₹2",
+      "₹5"
+    ],
+    "correctAnswer": 3,
+    "explanation": "₹5 is worth the most among these.",
+    "tags": [
+      "time-money-and-measurement",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-addition-and-subtraction-0067",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Addition and Subtraction",
+    "subtopic": "Addition",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 2 metres in centimetres?",
+    "image": "",
+    "options": [
+      "20",
+      "200",
+      "2000",
+      "2"
+    ],
+    "correctAnswer": 1,
+    "explanation": "2 m = 2 × 100 = 200 cm.",
+    "tags": [
+      "time-money-and-measurement",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-addition-and-subtraction-0068",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Addition and Subtraction",
+    "subtopic": "Addition",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "If it is 3:00 now, what time will it be in 2 hours?",
+    "image": "",
+    "options": [
+      "1:00",
+      "4:00",
+      "5:00",
+      "6:00"
+    ],
+    "correctAnswer": 2,
+    "explanation": "3:00 + 2 hours = 5:00.",
+    "tags": [
+      "time-money-and-measurement",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-addition-and-subtraction-0069",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Addition and Subtraction",
+    "subtopic": "Addition",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many 50 paise coins make ₹1?",
+    "image": "",
+    "options": [
+      "1",
+      "2",
+      "5",
+      "10"
+    ],
+    "correctAnswer": 1,
+    "explanation": "2 × 50 paise = 100 paise = ₹1.",
+    "tags": [
+      "time-money-and-measurement",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-addition-and-subtraction-0070",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Addition and Subtraction",
+    "subtopic": "Addition",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is longer: 1 metre or 100 centimetres?",
+    "image": "",
+    "options": [
+      "1 metre",
+      "100 cm",
+      "Both equal",
+      "Cannot tell"
+    ],
+    "correctAnswer": 2,
+    "explanation": "1 m = 100 cm. They are the same length.",
+    "tags": [
+      "time-money-and-measurement",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-addition-and-subtraction-0071",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Addition and Subtraction",
+    "subtopic": "Addition",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many seconds are in 1 minute?",
+    "image": "",
+    "options": [
+      "30",
+      "60",
+      "90",
+      "100"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1 minute = 60 seconds.",
+    "tags": [
+      "time-money-and-measurement",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-addition-and-subtraction-0072",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Addition and Subtraction",
+    "subtopic": "Addition",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "A book costs ₹45. How much do 2 books cost?",
+    "image": "",
+    "options": [
+      "₹47",
+      "₹90",
+      "₹95",
+      "₹100"
+    ],
+    "correctAnswer": 1,
+    "explanation": "2 × 45 = ₹90.",
+    "tags": [
+      "time-money-and-measurement",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-addition-and-subtraction-0073",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Addition and Subtraction",
+    "subtopic": "Addition",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What unit do we use to measure liquids?",
+    "image": "",
+    "options": [
+      "Metre",
+      "Kilogram",
+      "Litre",
+      "Gram"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Litre is used to measure liquids like milk and water.",
+    "tags": [
+      "time-money-and-measurement",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-addition-and-subtraction-0074",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Addition and Subtraction",
+    "subtopic": "Addition",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What day comes after Tuesday?",
+    "image": "",
+    "options": [
+      "Monday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Wednesday comes after Tuesday.",
+    "tags": [
+      "time-money-and-measurement",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-addition-and-subtraction-0075",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Addition and Subtraction",
+    "subtopic": "Addition",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How much is ₹10 + ₹5 + ₹2?",
+    "image": "",
+    "options": [
+      "₹15",
+      "₹17",
+      "₹20",
+      "₹22"
+    ],
+    "correctAnswer": 1,
+    "explanation": "10 + 5 + 2 = ₹17.",
+    "tags": [
+      "time-money-and-measurement",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-addition-and-subtraction-0076",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Addition and Subtraction",
+    "subtopic": "Addition",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many minutes are in 2 hours?",
+    "image": "",
+    "options": [
+      "60",
+      "90",
+      "120",
+      "200"
+    ],
+    "correctAnswer": 2,
+    "explanation": "2 × 60 = 120 minutes.",
+    "tags": [
+      "time-money-and-measurement",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-addition-and-subtraction-0077",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Addition and Subtraction",
+    "subtopic": "Addition",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is heavier: 1 kg or 500 g?",
+    "image": "",
+    "options": [
+      "1 kg",
+      "500 g",
+      "Both equal",
+      "Cannot tell"
+    ],
+    "correctAnswer": 0,
+    "explanation": "1 kg = 1000 g, which is more than 500 g.",
+    "tags": [
+      "time-money-and-measurement",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-addition-and-subtraction-0078",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Addition and Subtraction",
+    "subtopic": "Addition",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many weeks are in 1 month?",
+    "image": "",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": 2,
+    "explanation": "About 4 weeks in a month.",
+    "tags": [
+      "time-money-and-measurement",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-addition-and-subtraction-0079",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Addition and Subtraction",
+    "subtopic": "Addition",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Vikram had ₹30. He spent ₹18. How much does he have left?",
+    "image": "",
+    "options": [
+      "₹10",
+      "₹12",
+      "₹15",
+      "₹18"
+    ],
+    "correctAnswer": 1,
+    "explanation": "30 − 18 = ₹12.",
+    "tags": [
+      "time-money-and-measurement",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-addition-and-subtraction-0080",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Addition and Subtraction",
+    "subtopic": "Addition",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many sides does a triangle have?",
+    "image": "",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A triangle has 3 sides.",
+    "tags": [
+      "shapes-patterns-data-and-reasoning",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  }
+]

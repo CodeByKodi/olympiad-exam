@@ -1,0 +1,349 @@
+{
+  "exam": "isso",
+  "grade": 1,
+  "topics": [
+    {
+      "code": "ISSO-G1-T1",
+      "name": "Directions",
+      "description": "Directions for Grade 1.",
+      "weightage": "high",
+      "recommendedQuestionCount": 40,
+      "subtopics": [
+        {
+          "code": "ISSO-G1-T1-S1",
+          "name": "Directions Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "directions",
+            "isso",
+            "isso",
+            "grade1"
+          ]
+        },
+        {
+          "code": "ISSO-G1-T1-S2",
+          "name": "Directions Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "directions",
+            "isso",
+            "isso",
+            "grade1"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ISSO-G1-T2",
+      "name": "Maps",
+      "description": "Maps for Grade 1.",
+      "weightage": "high",
+      "recommendedQuestionCount": 37,
+      "subtopics": [
+        {
+          "code": "ISSO-G1-T2-S1",
+          "name": "Maps Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "maps",
+            "isso",
+            "isso",
+            "grade1"
+          ]
+        },
+        {
+          "code": "ISSO-G1-T2-S2",
+          "name": "Maps Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "maps",
+            "isso",
+            "isso",
+            "grade1"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ISSO-G1-T3",
+      "name": "Earth",
+      "description": "Earth for Grade 1.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 34,
+      "subtopics": [
+        {
+          "code": "ISSO-G1-T3-S1",
+          "name": "Earth Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "earth",
+            "isso",
+            "isso",
+            "grade1"
+          ]
+        },
+        {
+          "code": "ISSO-G1-T3-S2",
+          "name": "Earth Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "earth",
+            "isso",
+            "isso",
+            "grade1"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ISSO-G1-T4",
+      "name": "Weather",
+      "description": "Weather for Grade 1.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 31,
+      "subtopics": [
+        {
+          "code": "ISSO-G1-T4-S1",
+          "name": "Weather Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "weather",
+            "isso",
+            "isso",
+            "grade1"
+          ]
+        },
+        {
+          "code": "ISSO-G1-T4-S2",
+          "name": "Weather Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "weather",
+            "isso",
+            "isso",
+            "grade1"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ISSO-G1-T5",
+      "name": "Environment",
+      "description": "Environment for Grade 1.",
+      "weightage": "low",
+      "recommendedQuestionCount": 28,
+      "subtopics": [
+        {
+          "code": "ISSO-G1-T5-S1",
+          "name": "Environment Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "environment",
+            "isso",
+            "isso",
+            "grade1"
+          ]
+        },
+        {
+          "code": "ISSO-G1-T5-S2",
+          "name": "Environment Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "environment",
+            "isso",
+            "isso",
+            "grade1"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ISSO-G1-T6",
+      "name": "Landforms",
+      "description": "Landforms for Grade 1.",
+      "weightage": "low",
+      "recommendedQuestionCount": 25,
+      "subtopics": [
+        {
+          "code": "ISSO-G1-T6-S1",
+          "name": "Landforms Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "landforms",
+            "isso",
+            "isso",
+            "grade1"
+          ]
+        },
+        {
+          "code": "ISSO-G1-T6-S2",
+          "name": "Landforms Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "landforms",
+            "isso",
+            "isso",
+            "grade1"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ISSO-G1-T7",
+      "name": "Family",
+      "description": "Family for Grade 1.",
+      "weightage": "low",
+      "recommendedQuestionCount": 22,
+      "subtopics": [
+        {
+          "code": "ISSO-G1-T7-S1",
+          "name": "Family Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "family",
+            "isso",
+            "isso",
+            "grade1"
+          ]
+        },
+        {
+          "code": "ISSO-G1-T7-S2",
+          "name": "Family Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "family",
+            "isso",
+            "isso",
+            "grade1"
+          ]
+        }
+      ]
+    }
+  ]
+}

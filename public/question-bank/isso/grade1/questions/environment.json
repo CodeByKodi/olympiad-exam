@@ -1,0 +1,218 @@
+[
+  {
+    "id": "isso-g1-environment-0143",
+    "exam": "isso",
+    "grade": "1",
+    "topic": "Environment",
+    "subtopic": "Environment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call taking care of our environment?",
+    "image": "",
+    "options": [
+      "Pollution",
+      "Conservation",
+      "Destruction",
+      "Waste"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Conservation means protecting nature.",
+    "tags": [
+      "environment",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g1-environment-0144",
+    "exam": "isso",
+    "grade": "1",
+    "topic": "Environment",
+    "subtopic": "Environment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call using things again instead of throwing away?",
+    "image": "",
+    "options": [
+      "Waste",
+      "Recycle",
+      "Pollute",
+      "Destroy"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Recycling means using things again.",
+    "tags": [
+      "environment",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g1-environment-0145",
+    "exam": "isso",
+    "grade": "1",
+    "topic": "Environment",
+    "subtopic": "Environment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the right to choose our leaders?",
+    "image": "",
+    "options": [
+      "Right to education",
+      "Right to vote",
+      "Right to food",
+      "Right to speak"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The right to vote lets us choose.",
+    "tags": [
+      "rights",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g1-environment-0146",
+    "exam": "isso",
+    "grade": "1",
+    "topic": "Environment",
+    "subtopic": "Environment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a family with only parents and children?",
+    "image": "",
+    "options": [
+      "Joint family",
+      "Nuclear family",
+      "Big family",
+      "Old family"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A nuclear family has parents and children.",
+    "tags": [
+      "society",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g1-environment-0147",
+    "exam": "isso",
+    "grade": "1",
+    "topic": "Environment",
+    "subtopic": "Environment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the book that has our country's rules?",
+    "image": "",
+    "options": [
+      "Storybook",
+      "Constitution",
+      "Diary",
+      "Textbook"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Constitution has our rules.",
+    "tags": [
+      "government",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g1-environment-0148",
+    "exam": "isso",
+    "grade": "1",
+    "topic": "Environment",
+    "subtopic": "Environment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call things we use from nature?",
+    "image": "",
+    "options": [
+      "Toys",
+      "Natural resources",
+      "Machines",
+      "Tools"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Natural resources come from nature.",
+    "tags": [
+      "resources",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g1-environment-0149",
+    "exam": "isso",
+    "grade": "1",
+    "topic": "Environment",
+    "subtopic": "Environment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a place where we keep books to read?",
+    "image": "",
+    "options": [
+      "Museum",
+      "Library",
+      "Hospital",
+      "Market"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A library has books to read.",
+    "tags": [
+      "places",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "isso-g1-environment-0150",
+    "exam": "isso",
+    "grade": "1",
+    "topic": "Environment",
+    "subtopic": "Environment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a place where sick people go?",
+    "image": "",
+    "options": [
+      "School",
+      "Hospital",
+      "Market",
+      "Park"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A hospital treats sick people.",
+    "tags": [
+      "places",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  }
+]

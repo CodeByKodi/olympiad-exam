@@ -1,0 +1,300 @@
+{
+  "exam": "imo",
+  "grade": 4,
+  "topics": [
+    {
+      "code": "IMO-G4-T1",
+      "name": "Numbers and Operations",
+      "description": "Place value, operations.",
+      "weightage": "high",
+      "recommendedQuestionCount": 50,
+      "subtopics": [
+        {
+          "code": "IMO-G4-T1-S1",
+          "name": "Place Value",
+          "description": "Understanding place value.",
+          "learningObjectives": [
+            "Read large numbers",
+            "Compare numbers"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 25,
+          "tags": [
+            "numbers",
+            "imo",
+            "grade4"
+          ]
+        },
+        {
+          "code": "IMO-G4-T1-S2",
+          "name": "Operations",
+          "description": "Multiplication and division.",
+          "learningObjectives": [
+            "Multiply and divide",
+            "Solve multi-step problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 25,
+          "tags": [
+            "operations",
+            "imo",
+            "grade4"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IMO-G4-T2",
+      "name": "Fractions and Decimals",
+      "description": "Rational numbers.",
+      "weightage": "high",
+      "recommendedQuestionCount": 50,
+      "subtopics": [
+        {
+          "code": "IMO-G4-T2-S1",
+          "name": "Fractions",
+          "description": "Understanding fractions.",
+          "learningObjectives": [
+            "Compare fractions",
+            "Add/subtract fractions"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 25,
+          "tags": [
+            "fractions",
+            "imo",
+            "grade4"
+          ]
+        },
+        {
+          "code": "IMO-G4-T2-S2",
+          "name": "Decimals",
+          "description": "Decimal operations.",
+          "learningObjectives": [
+            "Convert fractions to decimals",
+            "Operate with decimals"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 25,
+          "tags": [
+            "decimals",
+            "imo",
+            "grade4"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IMO-G4-T3",
+      "name": "Measurement",
+      "description": "Length, weight, capacity.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 40,
+      "subtopics": [
+        {
+          "code": "IMO-G4-T3-S1",
+          "name": "Units",
+          "description": "Metric units.",
+          "learningObjectives": [
+            "Convert units",
+            "Solve measurement problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 20,
+          "tags": [
+            "measurement",
+            "imo",
+            "grade4"
+          ]
+        },
+        {
+          "code": "IMO-G4-T3-S2",
+          "name": "Perimeter and Area",
+          "description": "Basic geometry.",
+          "learningObjectives": [
+            "Calculate perimeter",
+            "Calculate area"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 20,
+          "tags": [
+            "measurement",
+            "imo",
+            "grade4"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IMO-G4-T4",
+      "name": "Geometry",
+      "description": "Shapes and properties.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 45,
+      "subtopics": [
+        {
+          "code": "IMO-G4-T4-S1",
+          "name": "2D and 3D Shapes",
+          "description": "Geometric properties.",
+          "learningObjectives": [
+            "Identify properties",
+            "Calculate angles basics"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 22,
+          "tags": [
+            "geometry",
+            "imo",
+            "grade4"
+          ]
+        },
+        {
+          "code": "IMO-G4-T4-S2",
+          "name": "Symmetry",
+          "description": "Line symmetry.",
+          "learningObjectives": [
+            "Identify symmetry",
+            "Draw symmetric figures"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 23,
+          "tags": [
+            "geometry",
+            "imo",
+            "grade4"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IMO-G4-T5",
+      "name": "Data Handling",
+      "description": "Graphs and charts.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 35,
+      "subtopics": [
+        {
+          "code": "IMO-G4-T5-S1",
+          "name": "Data Representation",
+          "description": "Bar graphs, charts.",
+          "learningObjectives": [
+            "Read graphs",
+            "Interpret data"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 18,
+          "tags": [
+            "data",
+            "imo",
+            "grade4"
+          ]
+        },
+        {
+          "code": "IMO-G4-T5-S2",
+          "name": "Averages",
+          "description": "Mean, median.",
+          "learningObjectives": [
+            "Calculate average",
+            "Interpret data"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 17,
+          "tags": [
+            "data",
+            "imo",
+            "grade4"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IMO-G4-T6",
+      "name": "Logical Reasoning",
+      "description": "Problem solving.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 40,
+      "subtopics": [
+        {
+          "code": "IMO-G4-T6-S1",
+          "name": "Patterns",
+          "description": "Number and shape patterns.",
+          "learningObjectives": [
+            "Identify patterns",
+            "Extend sequences"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 20,
+          "tags": [
+            "reasoning",
+            "imo",
+            "grade4"
+          ]
+        },
+        {
+          "code": "IMO-G4-T6-S2",
+          "name": "Logical Problems",
+          "description": "Logic puzzles.",
+          "learningObjectives": [
+            "Solve logic problems",
+            "Apply reasoning"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 20,
+          "tags": [
+            "reasoning",
+            "imo",
+            "grade4"
+          ]
+        }
+      ]
+    }
+  ]
+}

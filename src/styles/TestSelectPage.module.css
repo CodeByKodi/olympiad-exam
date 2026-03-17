@@ -21,6 +21,27 @@
   margin: 0;
 }
 
+.loadingHint {
+  font-size: var(--text-sm);
+  color: var(--text-secondary);
+  margin: var(--space-2) 0 0;
+  font-style: italic;
+}
+
+.reloadBtn {
+  background: none;
+  border: none;
+  padding: 0;
+  font: inherit;
+  color: var(--primary);
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.reloadBtn:hover {
+  text-decoration: none;
+}
+
 .section {
   margin-bottom: var(--space-6);
 }
@@ -87,4 +108,18 @@
 
 .emptyLink:hover {
   text-decoration: none;
+}
+
+.emptyLink:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+/* Inline button styled as link */
+button.emptyLink {
+  background: none;
+  border: none;
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
 }

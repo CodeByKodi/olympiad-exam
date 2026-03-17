@@ -1,66 +1,58 @@
 /**
  * Question Library Service - Static hosting (GitHub Pages, web).
- * Loads starter packs from static JSON and imported packs from IndexedDB.
+ * Loads from question bank (primary) plus imported packs from IndexedDB.
  * Browser storage only (IndexedDB). For GitHub Pages.
  */
 
-import { resolveStaticPath } from '../config.js';
 import * as libraryStorage from './libraryStorageService.js';
+import * as questionBankService from './questionBankService.js';
 import { buildPracticePool, buildMockIndex } from '../utils/questionLibraryUtils.js';
 import { EXAMS, GRADES } from '../constants/exams.js';
 
 /**
- * Load starter packs from static JSON files.
- * Iterates over enabled grades and exams. Each grade has its own folder; changes to one grade do not affect others.
- * @returns {Promise<Array>} Starter packs in library format
+ * Load packs from question bank (scalable architecture).
+ * @returns {Promise<Array>} Packs in library format
  */
-export async function loadStarterPacks() {
+async function loadQuestionBankPacks() {
   const packs = [];
   const examIds = Object.keys(EXAMS).map((k) => EXAMS[k].id);
   const enabledGradeIds = Object.values(GRADES).filter((g) => g.enabled).map((g) => g.id);
 
   for (const examId of examIds) {
     for (const gradeId of enabledGradeIds) {
-      const indexUrl = resolveStaticPath(`starter-packs/${examId}/grade${gradeId}/index.json`);
-      try {
-        const res = await fetch(indexUrl);
-        if (!res.ok) continue;
-        const index = await res.json();
-        const tests = Array.isArray(index) ? index : (index.tests || []);
-        for (const t of tests) {
-          const fileId = t.id || t;
-          const fileIdStr = typeof fileId === 'string' ? fileId : String(fileId);
-          const fileName = fileIdStr.includes('-') ? `${fileIdStr}.json` : `test${fileIdStr}.json`;
-          const testUrl = resolveStaticPath(`starter-packs/${examId}/grade${gradeId}/${fileName}`);
-          const testRes = await fetch(testUrl);
-          if (!testRes.ok) continue;
-          const data = await testRes.json();
-          const questions = data.questions || data;
-          const arr = Array.isArray(questions) ? questions : [];
-          const packId = `${examId}-grade${gradeId}-${fileIdStr}`;
-          const mode = (t.mode || data.mode || 'mock').toLowerCase();
-          packs.push({
-            packId,
-            exam: examId,
-            grade: gradeId,
-            mode: mode === 'practice' ? 'practice' : 'mock',
-            title: data.title || t.title || `Test ${fileIdStr}`,
-            topic: t.topic || data.topic,
-            questions: arr.map((q) => ({ ...q, id: String(q.id ?? '') })),
-            durationMinutes: data.durationMinutes ?? t.durationMinutes ?? Math.ceil(arr.length * 1.5),
-            questionCount: arr.length,
-            isStarter: true,
-            enabled: true,
-            fileName,
-            fileId: fileIdStr,
-          });
-        }
-      } catch {
-        // Skip exam/grade if index or tests fail
+      const hasBank = await questionBankService.hasQuestionBank(examId, gradeId);
+      if (!hasBank) continue;
+
+      const [bank, packDefs] = await Promise.all([
+        questionBankService.loadQuestionBank(examId, gradeId),
+        questionBankService.loadPackDefinitions(examId, gradeId),
+      ]);
+
+      if (bank.size === 0 || packDefs.length === 0) continue;
+
+      for (const def of packDefs) {
+        const packId = `${examId}-grade${gradeId}-${def.packId?.replace(/^[^-]+-grade\d+-/, '') || def.packId}`;
+        const mode = (def.mode || 'mock').toLowerCase();
+        const isMock = mode === 'mock';
+        const questionCount = isMock ? (def.questionIds?.length || 0) : (def.questionCount || 25);
+        packs.push({
+          packId,
+          exam: examId,
+          grade: gradeId,
+          mode: isMock ? 'mock' : 'practice',
+          title: def.title || packId,
+          topic: def.topic,
+          questionCount,
+          durationMinutes: def.durationMinutes ?? Math.ceil(questionCount * 1.2),
+          isStarter: true,
+          enabled: true,
+          isQuestionBank: true,
+          _bankDef: def,
+          _bank: bank,
+        });
       }
     }
   }
-
   return packs;
 }
 
@@ -78,15 +70,15 @@ export async function loadImportedPacks() {
 }
 
 /**
- * Merge starter packs and imported packs.
+ * Merge built-in packs (question bank) and imported packs.
  * Imported packs take precedence for same exam/grade/mode (different packIds).
- * @param {Array} starterPacks
+ * @param {Array} builtInPacks
  * @param {Array} importedPacks
  * @returns {Array} Merged packs
  */
-export function mergeLibraries(starterPacks, importedPacks) {
+export function mergeLibraries(builtInPacks, importedPacks) {
   const byKey = new Map();
-  for (const p of starterPacks || []) {
+  for (const p of builtInPacks || []) {
     byKey.set(p.packId, { ...p });
   }
   for (const p of importedPacks || []) {
@@ -96,19 +88,19 @@ export function mergeLibraries(starterPacks, importedPacks) {
 }
 
 /**
- * Reload library: fetch starter packs + load imported, then merge.
+ * Reload library: fetch question bank (built-in) + load imported, then merge.
  * Resilient: returns partial packs if one source fails (e.g. network or IndexedDB).
  * @returns {Promise<{ packs: Array, warning?: string }>}
  */
 export async function reloadLibrary() {
-  let starterPacks = [];
+  let builtInPacks = [];
   let importedPacks = [];
   let warning = null;
 
   try {
-    starterPacks = await loadStarterPacks();
+    builtInPacks = await loadQuestionBankPacks();
   } catch (e) {
-    console.warn('Failed to load starter packs:', e);
+    console.warn('Failed to load question bank:', e);
     warning = 'Could not load built-in tests. You can still use imported packs.';
   }
 
@@ -121,7 +113,7 @@ export async function reloadLibrary() {
       : 'Could not load imported packs. Built-in tests are still available.';
   }
 
-  const packs = mergeLibraries(starterPacks, importedPacks);
+  const packs = mergeLibraries(builtInPacks, importedPacks);
   return { packs, warning };
 }
 
@@ -138,7 +130,7 @@ export async function loadLibrary() {
  * @param {boolean} skipDuplicates
  * @returns {Promise<{ ok: boolean, pack?: Object, error?: string }>}
  */
-export async function saveImportedPack(content, skipDuplicates = false) {
+export async function saveImportedPack(content, _skipDuplicates = false) {
   try {
     const pack = typeof content === 'string' ? JSON.parse(content) : content;
     const saved = await libraryStorage.savePack(pack);
@@ -159,8 +151,8 @@ export async function importPack(content, skipDuplicates = false) {
  * Delete imported pack from IndexedDB.
  */
 export async function deletePack(pack) {
-  if (pack.isStarter) {
-    return { ok: false, error: 'Cannot delete starter packs' };
+  if (pack.isStarter || pack.isQuestionBank) {
+    return { ok: false, error: 'Cannot delete built-in packs' };
   }
   try {
     await libraryStorage.deletePack(pack.packId);
@@ -171,10 +163,10 @@ export async function deletePack(pack) {
 }
 
 /**
- * Toggle pack enabled/disabled (imported packs only; starter always enabled).
+ * Toggle pack enabled/disabled (imported packs only; built-in always enabled).
  */
 export async function togglePackEnabled(pack, enabled) {
-  if (pack.isStarter) return { ok: true };
+  if (pack.isStarter || pack.isQuestionBank) return { ok: true };
   try {
     await libraryStorage.setPackEnabled(pack.packId, enabled);
     return { ok: true };
@@ -183,28 +175,30 @@ export async function togglePackEnabled(pack, enabled) {
   }
 }
 
-function getStarterFileId(pack) {
-  if (pack.fileId) return pack.fileId;
-  const m = pack.packId?.match(/test(\d+)$/);
-  return m ? `test${m[1]}` : '1';
-}
-
 /**
  * Get pack content for export.
  */
 export async function getPackContent(pack) {
-  if (pack.isStarter) {
-    const fileId = getStarterFileId(pack);
-    const fileName = fileId.includes('-') ? `${fileId}.json` : `test${fileId}.json`;
-    const url = resolveStaticPath(`starter-packs/${pack.exam}/grade${pack.grade}/${fileName}`);
-    try {
-      const res = await fetch(url);
-      if (!res.ok) return { ok: false, error: 'Pack not found' };
-      const data = await res.json();
-      return { ok: true, content: JSON.stringify(data, null, 2) };
-    } catch (e) {
-      return { ok: false, error: e.message };
+  if (pack.isQuestionBank && pack._bankDef && pack._bank) {
+    const def = pack._bankDef;
+    const bank = pack._bank;
+    let questions = [];
+    if (def.mode === 'mock' && def.questionIds) {
+      questions = questionBankService.resolveMockPack(def, bank);
+    } else if (def.mode === 'practice' && def.selectionRules) {
+      questions = questionBankService.resolvePracticePack(def, bank);
     }
+    const content = {
+      packId: pack.packId,
+      exam: pack.exam,
+      grade: pack.grade,
+      mode: pack.mode,
+      title: def.title,
+      topic: def.topic,
+      questions,
+      durationMinutes: def.durationMinutes ?? Math.ceil(questions.length * 1.2),
+    };
+    return { ok: true, content: JSON.stringify(content, null, 2) };
   }
   try {
     const p = await libraryStorage.getPack(pack.packId);
@@ -218,18 +212,28 @@ export async function getPackContent(pack) {
  * Load pack data (questions etc.) for taking a test.
  */
 export async function loadPackData(pack) {
-  if (pack.isStarter) {
-    const fileId = getStarterFileId(pack);
-    const fileName = fileId.includes('-') ? `${fileId}.json` : `test${fileId}.json`;
-    const url = resolveStaticPath(`starter-packs/${pack.exam}/grade${pack.grade}/${fileName}`);
-    try {
-      const res = await fetch(url);
-      if (!res.ok) return { ok: false, error: 'Pack not found' };
-      const data = await res.json();
-      return { ok: true, pack: { ...data, packId: pack.packId, exam: pack.exam, grade: pack.grade, mode: pack.mode } };
-    } catch (e) {
-      return { ok: false, error: e.message };
+  if (pack.isQuestionBank && pack._bankDef && pack._bank) {
+    const def = pack._bankDef;
+    const bank = pack._bank;
+    let questions = [];
+    if (def.mode === 'mock' && def.questionIds) {
+      questions = questionBankService.resolveMockPack(def, bank);
+    } else if (def.mode === 'practice' && def.selectionRules) {
+      questions = questionBankService.resolvePracticePack(def, bank);
     }
+    return {
+      ok: true,
+      pack: {
+        packId: pack.packId,
+        exam: pack.exam,
+        grade: pack.grade,
+        mode: pack.mode,
+        title: def.title,
+        topic: def.topic,
+        questions,
+        durationMinutes: def.durationMinutes ?? Math.ceil(questions.length * 1.2),
+      },
+    };
   }
   try {
     const p = await libraryStorage.getPack(pack.packId);

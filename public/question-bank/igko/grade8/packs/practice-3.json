@@ -1,0 +1,20 @@
+{
+  "packId": "igko-grade8-countries-practice-01",
+  "exam": "igko",
+  "grade": 8,
+  "mode": "practice",
+  "title": "Countries Practice Test",
+  "topic": "Countries",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Countries"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

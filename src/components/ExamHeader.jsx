@@ -8,7 +8,7 @@ export function ExamHeader({
   mode,
   timeRemaining,
   timeExpired,
-  onPause,
+  onPause: _onPause,
   onMarkForReview,
   onSubmit,
   isMarked,

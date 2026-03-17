@@ -1,0 +1,20 @@
+{
+  "packId": "ics-grade9-applications-practice-01",
+  "exam": "ics",
+  "grade": 9,
+  "mode": "practice",
+  "title": "Applications Practice Test",
+  "topic": "Applications",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Applications"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

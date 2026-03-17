@@ -1,0 +1,204 @@
+{
+  "exam": "nso",
+  "grade": 7,
+  "title": "NSO Grade 7 Syllabus",
+  "description": "Grade 7 science: basics physics, chemistry, biology, intermediate concepts.",
+  "topics": [
+    {
+      "code": "NSO-G7-T1",
+      "name": "Physics Basics",
+      "description": "Motion, force, energy.",
+      "weightage": "high",
+      "recommendedQuestionCount": 50,
+      "subtopics": [
+        {
+          "code": "NSO-G7-T1-S1",
+          "name": "Motion and Force",
+          "description": "Physics concepts.",
+          "learningObjectives": [
+            "Apply physics principles",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 25,
+          "tags": [
+            "physics",
+            "nso",
+            "grade7"
+          ]
+        },
+        {
+          "code": "NSO-G7-T1-S2",
+          "name": "Heat and Electricity",
+          "description": "Energy forms.",
+          "learningObjectives": [
+            "Explain concepts",
+            "Apply to situations"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 25,
+          "tags": [
+            "physics",
+            "nso",
+            "grade7"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "NSO-G7-T2",
+      "name": "Chemistry Basics",
+      "description": "Matter and reactions.",
+      "weightage": "high",
+      "recommendedQuestionCount": 50,
+      "subtopics": [
+        {
+          "code": "NSO-G7-T2-S1",
+          "name": "Matter and Changes",
+          "description": "Chemical concepts.",
+          "learningObjectives": [
+            "Describe reactions",
+            "Balance equations"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 25,
+          "tags": [
+            "chemistry",
+            "nso",
+            "grade7"
+          ]
+        },
+        {
+          "code": "NSO-G7-T2-S2",
+          "name": "Acids, Bases, and Salts",
+          "description": "Chemical properties.",
+          "learningObjectives": [
+            "Identify types",
+            "Explain properties"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 25,
+          "tags": [
+            "chemistry",
+            "nso",
+            "grade7"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "NSO-G7-T3",
+      "name": "Biology Basics",
+      "description": "Life sciences.",
+      "weightage": "high",
+      "recommendedQuestionCount": 55,
+      "subtopics": [
+        {
+          "code": "NSO-G7-T3-S1",
+          "name": "Cells and Organisms",
+          "description": "Life processes.",
+          "learningObjectives": [
+            "Describe cell biology",
+            "Explain life processes"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 28,
+          "tags": [
+            "biology",
+            "nso",
+            "grade7"
+          ]
+        },
+        {
+          "code": "NSO-G7-T3-S2",
+          "name": "Human Body and Health",
+          "description": "Body systems.",
+          "learningObjectives": [
+            "Describe systems",
+            "Explain health"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 27,
+          "tags": [
+            "biology",
+            "nso",
+            "grade7"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "NSO-G7-T4",
+      "name": "Earth and Environment",
+      "description": "Earth science.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 40,
+      "subtopics": [
+        {
+          "code": "NSO-G7-T4-S1",
+          "name": "Earth Science",
+          "description": "Earth processes.",
+          "learningObjectives": [
+            "Describe Earth systems",
+            "Explain phenomena"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 20,
+          "tags": [
+            "earth",
+            "nso",
+            "grade7"
+          ]
+        },
+        {
+          "code": "NSO-G7-T4-S2",
+          "name": "Environment",
+          "description": "Ecology and conservation.",
+          "learningObjectives": [
+            "Explain ecology",
+            "Discuss conservation"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 20,
+          "tags": [
+            "environment",
+            "nso",
+            "grade7"
+          ]
+        }
+      ]
+    }
+  ]
+}

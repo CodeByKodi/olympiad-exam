@@ -1,0 +1,20 @@
+{
+  "packId": "ics-grade12-data-practice-01",
+  "exam": "ics",
+  "grade": 12,
+  "mode": "practice",
+  "title": "Data Practice Test",
+  "topic": "Data",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Data"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

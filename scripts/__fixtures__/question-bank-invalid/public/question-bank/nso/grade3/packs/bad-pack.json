@@ -1,0 +1,8 @@
+{
+  "packId": "bad",
+  "exam": "imo",
+  "grade": 3,
+  "mode": "mock",
+  "title": "Bad",
+  "questionIds": ["nonexistent-id"]
+}

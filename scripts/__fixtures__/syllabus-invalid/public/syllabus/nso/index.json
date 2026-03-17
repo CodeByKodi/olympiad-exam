@@ -1,0 +1,8 @@
+{
+  "exam": "nso",
+  "title": "Test",
+  "grades": [
+    {"grade": 1, "file": "grade1.json"},
+    {"grade": 2, "file": "missing-grade.json"}
+  ]
+}

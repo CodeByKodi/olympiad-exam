@@ -1,0 +1,301 @@
+{
+  "exam": "nso",
+  "grade": 6,
+  "topics": [
+    {
+      "code": "NSO-G6-T1",
+      "name": "Matter",
+      "description": "Atoms and molecules intro.",
+      "weightage": "high",
+      "recommendedQuestionCount": 50,
+      "subtopics": [
+        {
+          "code": "NSO-G6-T1-S1",
+          "name": "Structure of Matter",
+          "description": "Elements and compounds.",
+          "learningObjectives": [
+            "Describe matter structure",
+            "Identify elements"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 25,
+          "tags": [
+            "matter",
+            "nso",
+            "grade6"
+          ]
+        },
+        {
+          "code": "NSO-G6-T1-S2",
+          "name": "Changes in Matter",
+          "description": "Physical and chemical.",
+          "learningObjectives": [
+            "Distinguish changes",
+            "Balance equations basics"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 25,
+          "tags": [
+            "matter",
+            "nso",
+            "grade6"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "NSO-G6-T2",
+      "name": "Force and Motion",
+      "description": "Laws of motion basics.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 45,
+      "subtopics": [
+        {
+          "code": "NSO-G6-T2-S1",
+          "name": "Motion",
+          "description": "Speed, velocity, acceleration.",
+          "learningObjectives": [
+            "Calculate speed",
+            "Describe motion types"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 22,
+          "tags": [
+            "motion",
+            "nso",
+            "grade6"
+          ]
+        },
+        {
+          "code": "NSO-G6-T2-S2",
+          "name": "Forces",
+          "description": "Newton laws intro.",
+          "learningObjectives": [
+            "State Newton laws",
+            "Apply to examples"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 23,
+          "tags": [
+            "force",
+            "nso",
+            "grade6"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "NSO-G6-T3",
+      "name": "Light, Sound, and Energy",
+      "description": "Waves and energy.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 45,
+      "subtopics": [
+        {
+          "code": "NSO-G6-T3-S1",
+          "name": "Light and Sound",
+          "description": "Wave properties.",
+          "learningObjectives": [
+            "Describe wave properties",
+            "Explain reflection/refraction"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 22,
+          "tags": [
+            "light",
+            "sound",
+            "nso",
+            "grade6"
+          ]
+        },
+        {
+          "code": "NSO-G6-T3-S2",
+          "name": "Energy",
+          "description": "Forms and conservation.",
+          "learningObjectives": [
+            "Explain energy conservation",
+            "Describe conversions"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 23,
+          "tags": [
+            "energy",
+            "nso",
+            "grade6"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "NSO-G6-T4",
+      "name": "Earth and Space",
+      "description": "Earth science.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 45,
+      "subtopics": [
+        {
+          "code": "NSO-G6-T4-S1",
+          "name": "Earth",
+          "description": "Structure and processes.",
+          "learningObjectives": [
+            "Describe Earth structure",
+            "Explain plate tectonics basics"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 22,
+          "tags": [
+            "earth",
+            "nso",
+            "grade6"
+          ]
+        },
+        {
+          "code": "NSO-G6-T4-S2",
+          "name": "Space",
+          "description": "Universe basics.",
+          "learningObjectives": [
+            "Describe solar system",
+            "Explain astronomical phenomena"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 23,
+          "tags": [
+            "space",
+            "nso",
+            "grade6"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "NSO-G6-T5",
+      "name": "Living World",
+      "description": "Cells and organisms.",
+      "weightage": "high",
+      "recommendedQuestionCount": 55,
+      "subtopics": [
+        {
+          "code": "NSO-G6-T5-S1",
+          "name": "Cell Basics",
+          "description": "Cell structure and function.",
+          "learningObjectives": [
+            "Describe cell structure",
+            "Compare plant/animal cells"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 28,
+          "tags": [
+            "cells",
+            "nso",
+            "grade6"
+          ]
+        },
+        {
+          "code": "NSO-G6-T5-S2",
+          "name": "Body Systems",
+          "description": "Organ systems.",
+          "learningObjectives": [
+            "Describe organ systems",
+            "Explain coordination"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 27,
+          "tags": [
+            "body",
+            "nso",
+            "grade6"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "NSO-G6-T6",
+      "name": "Environment",
+      "description": "Ecology basics.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 35,
+      "subtopics": [
+        {
+          "code": "NSO-G6-T6-S1",
+          "name": "Ecology",
+          "description": "Ecosystems and biodiversity.",
+          "learningObjectives": [
+            "Describe ecosystems",
+            "Explain biodiversity"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 18,
+          "tags": [
+            "environment",
+            "nso",
+            "grade6"
+          ]
+        },
+        {
+          "code": "NSO-G6-T6-S2",
+          "name": "Conservation",
+          "description": "Environmental protection.",
+          "learningObjectives": [
+            "Explain conservation",
+            "Discuss sustainability"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 17,
+          "tags": [
+            "environment",
+            "nso",
+            "grade6"
+          ]
+        }
+      ]
+    }
+  ]
+}

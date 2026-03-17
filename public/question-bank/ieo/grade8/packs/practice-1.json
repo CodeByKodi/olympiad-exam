@@ -1,0 +1,20 @@
+{
+  "packId": "ieo-grade8-grammar-practice-01",
+  "exam": "ieo",
+  "grade": 8,
+  "mode": "practice",
+  "title": "Grammar Practice Test",
+  "topic": "Grammar",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Grammar"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

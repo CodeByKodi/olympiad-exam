@@ -1,0 +1,1001 @@
+[
+  {
+    "id": "ics-g4-software-0041",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Software",
+    "subtopic": "Software Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a device that sends data into the computer?",
+    "image": "",
+    "options": [
+      "Output device",
+      "Input device",
+      "Storage device",
+      "Display device"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Input devices put data into the computer.",
+    "tags": [
+      "input-output-storage-and-uses",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-software-0042",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Software",
+    "subtopic": "Software Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which device shows what we type on the screen?",
+    "image": "",
+    "options": [
+      "Keyboard",
+      "Monitor",
+      "CPU",
+      "Printer"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The monitor displays output.",
+    "tags": [
+      "input-output-storage-and-uses",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-software-0043",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Software",
+    "subtopic": "Software Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a device that shows information from the computer?",
+    "image": "",
+    "options": [
+      "Input device",
+      "Output device",
+      "Storage device",
+      "Processing device"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Output devices show information from the computer.",
+    "tags": [
+      "input-output-storage-and-uses",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-software-0044",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Software",
+    "subtopic": "Software Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which device helps us print documents on paper?",
+    "image": "",
+    "options": [
+      "Monitor",
+      "Keyboard",
+      "Printer",
+      "Scanner"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A printer prints on paper.",
+    "tags": [
+      "input-output-storage-and-uses",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-software-0045",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Software",
+    "subtopic": "Software Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to save files and carry them to another computer?",
+    "image": "",
+    "options": [
+      "Monitor",
+      "USB drive",
+      "Keyboard",
+      "Mouse"
+    ],
+    "correctAnswer": 1,
+    "explanation": "USB drives store and carry files.",
+    "tags": [
+      "input-output-storage-and-uses",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-software-0046",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Software",
+    "subtopic": "Software Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What does the Save command do in a program?",
+    "image": "",
+    "options": [
+      "Closes the file",
+      "Stores your work for later",
+      "Deletes the file",
+      "Prints the file"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Save stores your work.",
+    "tags": [
+      "input-output-storage-and-uses",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-software-0047",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Software",
+    "subtopic": "Software Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call moving a file from one folder to another?",
+    "image": "",
+    "options": [
+      "Copy",
+      "Cut",
+      "Move",
+      "Delete"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Move puts a file in another folder.",
+    "tags": [
+      "input-output-storage-and-uses",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-software-0048",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Software",
+    "subtopic": "Software Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which key removes the character before the cursor?",
+    "image": "",
+    "options": [
+      "Delete",
+      "Backspace",
+      "Enter",
+      "Shift"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Backspace deletes the character before.",
+    "tags": [
+      "input-output-storage-and-uses",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-software-0049",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Software",
+    "subtopic": "Software Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which key removes the character after the cursor?",
+    "image": "",
+    "options": [
+      "Backspace",
+      "Delete",
+      "Enter",
+      "Shift"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Delete removes the character after.",
+    "tags": [
+      "input-output-storage-and-uses",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-software-0050",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Software",
+    "subtopic": "Software Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a picture we can add to a document?",
+    "image": "",
+    "options": [
+      "Icon",
+      "Image",
+      "Folder",
+      "File"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Images are pictures in documents.",
+    "tags": [
+      "input-output-storage-and-uses",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-software-0051",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Software",
+    "subtopic": "Software Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What key takes us to the next tab or field?",
+    "image": "",
+    "options": [
+      "Enter",
+      "Tab",
+      "Space",
+      "Shift"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tab moves to the next field.",
+    "tags": [
+      "input-output-storage-and-uses",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-software-0052",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Software",
+    "subtopic": "Software Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What happens when we use the Copy command?",
+    "image": "",
+    "options": [
+      "Deletes text",
+      "Makes a duplicate to paste elsewhere",
+      "Saves the file",
+      "Prints the file"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Copy makes a duplicate.",
+    "tags": [
+      "input-output-storage-and-uses",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-software-0053",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Software",
+    "subtopic": "Software Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which key do we press to paste copied text?",
+    "image": "",
+    "options": [
+      "Ctrl+V or Cmd+V",
+      "Ctrl+C",
+      "Ctrl+X",
+      "Ctrl+S"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ctrl+V pastes.",
+    "tags": [
+      "input-output-storage-and-uses",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-software-0054",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Software",
+    "subtopic": "Software Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the programs that run on a computer?",
+    "image": "",
+    "options": [
+      "Hardware",
+      "Software",
+      "Monitor",
+      "Keyboard"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Software is the programs we use.",
+    "tags": [
+      "input-output-storage-and-uses",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-software-0055",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Software",
+    "subtopic": "Software Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call an error in a computer program?",
+    "image": "",
+    "options": [
+      "Bug",
+      "Virus",
+      "Error",
+      "Glitch"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A bug is a mistake in a program.",
+    "tags": [
+      "input-output-storage-and-uses",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-software-0056",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Software",
+    "subtopic": "Software Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to draw pictures on a computer?",
+    "image": "",
+    "options": [
+      "Calculator",
+      "Paint",
+      "Notepad",
+      "Browser"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Paint is for drawing.",
+    "tags": [
+      "input-output-storage-and-uses",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-software-0057",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Software",
+    "subtopic": "Software Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use a web browser for?",
+    "image": "",
+    "options": [
+      "Playing games only",
+      "Viewing websites on the internet",
+      "Printing documents",
+      "Typing only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A browser lets you visit websites.",
+    "tags": [
+      "input-output-storage-and-uses",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-software-0058",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Software",
+    "subtopic": "Software Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a program that helps us write documents?",
+    "image": "",
+    "options": [
+      "Calculator",
+      "Word processor",
+      "Paint",
+      "Browser"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Word processor is for writing.",
+    "tags": [
+      "input-output-storage-and-uses",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-software-0059",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Software",
+    "subtopic": "Software Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is a website address called?",
+    "image": "",
+    "options": [
+      "URL",
+      "USB",
+      "CPU",
+      "RAM"
+    ],
+    "correctAnswer": 0,
+    "explanation": "URL is a website address.",
+    "tags": [
+      "input-output-storage-and-uses",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-software-0060",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Software",
+    "subtopic": "Software Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is email used for?",
+    "image": "",
+    "options": [
+      "Playing games",
+      "Sending messages over the internet",
+      "Printing documents",
+      "Typing only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Email sends messages.",
+    "tags": [
+      "input-output-storage-and-uses",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-software-0061",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Software",
+    "subtopic": "Software Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use the internet for?",
+    "image": "",
+    "options": [
+      "Only games",
+      "Only email",
+      "Searching, learning, and communication",
+      "Nothing useful"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The internet helps us search and learn.",
+    "tags": [
+      "input-output-storage-and-uses",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-software-0062",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Software",
+    "subtopic": "Software Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What must we do if we have unsaved work before closing?",
+    "image": "",
+    "options": [
+      "Nothing",
+      "Save our work",
+      "Delete everything",
+      "Shut down"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Always save before closing.",
+    "tags": [
+      "input-output-storage-and-uses",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-software-0063",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Software",
+    "subtopic": "Software Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What are the programs on a computer called?",
+    "image": "",
+    "options": [
+      "Physical parts of computer",
+      "Programs that run on computer",
+      "The screen",
+      "The power cable"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Software is the programs we use.",
+    "tags": [
+      "software-tools-and-basic-operations",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-software-0064",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Software",
+    "subtopic": "Software Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What are the physical parts of a computer called?",
+    "image": "",
+    "options": [
+      "Software",
+      "Hardware",
+      "Programs",
+      "Applications"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hardware is the physical parts.",
+    "tags": [
+      "software-tools-and-basic-operations",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-software-0065",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Software",
+    "subtopic": "Software Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which program helps us do math calculations?",
+    "image": "",
+    "options": [
+      "Paint",
+      "Calculator",
+      "Browser",
+      "Notepad"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Calculator is for math.",
+    "tags": [
+      "software-tools-and-basic-operations",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-software-0066",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Software",
+    "subtopic": "Software Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which program helps us write simple text?",
+    "image": "",
+    "options": [
+      "Paint",
+      "Calculator",
+      "Notepad",
+      "Browser"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Notepad is a simple text editor where you can type and save notes.",
+    "tags": [
+      "software-tools-and-basic-operations",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-software-0067",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Software",
+    "subtopic": "Software Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the blinking line or arrow that shows where we are on screen?",
+    "image": "",
+    "options": [
+      "A key",
+      "A cursor",
+      "A type of file",
+      "A printer"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The cursor shows where we are.",
+    "tags": [
+      "software-tools-and-basic-operations",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-software-0068",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Software",
+    "subtopic": "Software Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the small pictures we click to open programs?",
+    "image": "",
+    "options": [
+      "Folder",
+      "File",
+      "Icon",
+      "Menu"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Icons are small pictures we click.",
+    "tags": [
+      "software-tools-and-basic-operations",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-software-0069",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Software",
+    "subtopic": "Software Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the first screen we see after the computer starts?",
+    "image": "",
+    "options": [
+      "Folder",
+      "File",
+      "Desktop",
+      "Icon"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The desktop is the first screen we see.",
+    "tags": [
+      "software-tools-and-basic-operations",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-software-0070",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Software",
+    "subtopic": "Software Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a place where we store many files together?",
+    "image": "",
+    "options": [
+      "File",
+      "Folder",
+      "Desktop",
+      "Icon"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A folder holds files.",
+    "tags": [
+      "software-tools-and-basic-operations",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-software-0071",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Software",
+    "subtopic": "Software Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What does the Cut command do?",
+    "image": "",
+    "options": [
+      "Copies text",
+      "Removes text to paste elsewhere",
+      "Saves the file",
+      "Prints the file"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cut removes text to paste elsewhere.",
+    "tags": [
+      "software-tools-and-basic-operations",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-software-0072",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Software",
+    "subtopic": "Software Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which key creates a new line when typing?",
+    "image": "",
+    "options": [
+      "Space",
+      "Enter",
+      "Tab",
+      "Shift"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Enter creates a new line.",
+    "tags": [
+      "software-tools-and-basic-operations",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-software-0073",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Software",
+    "subtopic": "Software Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the bar at the top of a window?",
+    "image": "",
+    "options": [
+      "Status bar",
+      "Title bar",
+      "Menu bar",
+      "Toolbar"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The title bar shows the window name.",
+    "tags": [
+      "software-tools-and-basic-operations",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-software-0074",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Software",
+    "subtopic": "Software Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a list of options we can choose from in a program?",
+    "image": "",
+    "options": [
+      "Icon",
+      "Folder",
+      "Menu",
+      "File"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A menu shows options.",
+    "tags": [
+      "software-tools-and-basic-operations",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-software-0075",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Software",
+    "subtopic": "Software Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a picture or link that opens a program quickly?",
+    "image": "",
+    "options": [
+      "Folder",
+      "File",
+      "Shortcut",
+      "Menu"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A shortcut opens a program quickly.",
+    "tags": [
+      "software-tools-and-basic-operations",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-software-0076",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Software",
+    "subtopic": "Software Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which key do we press to cancel an action?",
+    "image": "",
+    "options": [
+      "Enter",
+      "Shift",
+      "Escape",
+      "Tab"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Escape cancels or closes.",
+    "tags": [
+      "software-tools-and-basic-operations",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ics-g4-software-0077",
+    "exam": "ics",
+    "grade": "4",
+    "topic": "Software",
+    "subtopic": "Software Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the part of the computer that does calculations?",
+    "image": "",
+    "options": [
+      "Monitor",
+      "Keyboard",
+      "CPU",
+      "Mouse"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The CPU does calculations.",
+    "tags": [
+      "software-tools-and-basic-operations",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  }
+]

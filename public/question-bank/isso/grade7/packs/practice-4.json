@@ -1,0 +1,20 @@
+{
+  "packId": "isso-grade7-resources-practice-01",
+  "exam": "isso",
+  "grade": 7,
+  "mode": "practice",
+  "title": "Resources Practice Test",
+  "topic": "Resources",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Resources"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

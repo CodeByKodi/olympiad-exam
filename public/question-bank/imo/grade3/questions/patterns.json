@@ -1,0 +1,812 @@
+[
+  {
+    "id": "imo-g3-patterns-0081",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Patterns",
+    "subtopic": "Number Patterns",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What comes next: 2, 4, 6, 8, __?",
+    "image": "",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The pattern adds 2 each time. 8 + 2 = 10.",
+    "tags": [
+      "shapes-patterns-data-and-reasoning",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-patterns-0082",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Patterns",
+    "subtopic": "Number Patterns",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many corners does a square have?",
+    "image": "",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A square has 4 corners (vertices).",
+    "tags": [
+      "shapes-patterns-data-and-reasoning",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-patterns-0083",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Patterns",
+    "subtopic": "Number Patterns",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What shape has no corners?",
+    "image": "",
+    "options": [
+      "Square",
+      "Triangle",
+      "Circle",
+      "Rectangle"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A circle has no corners. It is round.",
+    "tags": [
+      "shapes-patterns-data-and-reasoning",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-patterns-0084",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Patterns",
+    "subtopic": "Number Patterns",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What comes next: 5, 10, 15, 20, __?",
+    "image": "",
+    "options": [
+      "22",
+      "24",
+      "25",
+      "30"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The pattern adds 5 each time. 20 + 5 = 25.",
+    "tags": [
+      "shapes-patterns-data-and-reasoning",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-patterns-0085",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Patterns",
+    "subtopic": "Number Patterns",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "In a bar chart, what do the bars show?",
+    "image": "",
+    "options": [
+      "Colors",
+      "Numbers or amounts",
+      "Names only",
+      "Nothing"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bars in a bar chart show numbers or amounts.",
+    "tags": [
+      "shapes-patterns-data-and-reasoning",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-patterns-0086",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Patterns",
+    "subtopic": "Number Patterns",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many sides does a rectangle have?",
+    "image": "",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A rectangle has 4 sides.",
+    "tags": [
+      "shapes-patterns-data-and-reasoning",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-patterns-0087",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Patterns",
+    "subtopic": "Number Patterns",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What comes next: 1, 3, 5, 7, __?",
+    "image": "",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Odd numbers. 7 + 2 = 9.",
+    "tags": [
+      "shapes-patterns-data-and-reasoning",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-patterns-0088",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Patterns",
+    "subtopic": "Number Patterns",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "If 3 + 5 = 8, what is 5 + 3?",
+    "image": "",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswer": 3,
+    "explanation": "5 + 3 = 8. Order does not matter in addition.",
+    "tags": [
+      "shapes-patterns-data-and-reasoning",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-patterns-0089",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Patterns",
+    "subtopic": "Number Patterns",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What shape is a ball?",
+    "image": "",
+    "options": [
+      "Circle",
+      "Square",
+      "Sphere",
+      "Triangle"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A ball is round like a sphere.",
+    "tags": [
+      "shapes-patterns-data-and-reasoning",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-patterns-0090",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Patterns",
+    "subtopic": "Number Patterns",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What comes next: 10, 20, 30, 40, __?",
+    "image": "",
+    "options": [
+      "45",
+      "50",
+      "55",
+      "60"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The pattern adds 10 each time. 40 + 10 = 50.",
+    "tags": [
+      "shapes-patterns-data-and-reasoning",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-patterns-0091",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Patterns",
+    "subtopic": "Number Patterns",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many days are in 2 weeks?",
+    "image": "",
+    "options": [
+      "7",
+      "12",
+      "14",
+      "21"
+    ],
+    "correctAnswer": 2,
+    "explanation": "2 × 7 = 14 days.",
+    "tags": [
+      "shapes-patterns-data-and-reasoning",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-patterns-0092",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Patterns",
+    "subtopic": "Number Patterns",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which shape has all sides equal?",
+    "image": "",
+    "options": [
+      "Rectangle",
+      "Square",
+      "Triangle",
+      "Circle"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A square has all 4 sides equal.",
+    "tags": [
+      "shapes-patterns-data-and-reasoning",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-patterns-0093",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Patterns",
+    "subtopic": "Number Patterns",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "If 4 children share 12 apples equally, how many does each get?",
+    "image": "",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "correctAnswer": 1,
+    "explanation": "12 ÷ 4 = 3 apples each.",
+    "tags": [
+      "shapes-patterns-data-and-reasoning",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-patterns-0094",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Patterns",
+    "subtopic": "Number Patterns",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many faces does a cube have?",
+    "image": "",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A cube has 6 faces.",
+    "tags": [
+      "shapes-patterns-data-and-reasoning",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-patterns-0095",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Patterns",
+    "subtopic": "Number Patterns",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is the largest: 3-digit number?",
+    "image": "",
+    "options": [
+      "99",
+      "100",
+      "999",
+      "1000"
+    ],
+    "correctAnswer": 2,
+    "explanation": "999 is the largest 3-digit number.",
+    "tags": [
+      "shapes-patterns-data-and-reasoning",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-patterns-0096",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Patterns",
+    "subtopic": "Number Patterns",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What comes next: 100, 90, 80, 70, __?",
+    "image": "",
+    "options": [
+      "65",
+      "60",
+      "55",
+      "50"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The pattern subtracts 10 each time. 70 − 10 = 60.",
+    "tags": [
+      "shapes-patterns-data-and-reasoning",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-patterns-0097",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Patterns",
+    "subtopic": "Number Patterns",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which shape can roll?",
+    "image": "",
+    "options": [
+      "Cube",
+      "Cylinder",
+      "Square",
+      "Triangle"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A cylinder can roll because it is round.",
+    "tags": [
+      "shapes-patterns-data-and-reasoning",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-patterns-0098",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Patterns",
+    "subtopic": "Number Patterns",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many corners does a triangle have?",
+    "image": "",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A triangle has 3 corners.",
+    "tags": [
+      "shapes-patterns-data-and-reasoning",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-patterns-0099",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Patterns",
+    "subtopic": "Number Patterns",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What comes next: 3, 6, 9, 12, __?",
+    "image": "",
+    "options": [
+      "14",
+      "15",
+      "16",
+      "18"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The pattern adds 3 each time. 12 + 3 = 15.",
+    "tags": [
+      "patterns",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-patterns-0100",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Patterns",
+    "subtopic": "Number Patterns",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What comes next: 20, 18, 16, 14, __?",
+    "image": "",
+    "options": [
+      "12",
+      "13",
+      "15",
+      "16"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The pattern subtracts 2 each time. 14 − 2 = 12.",
+    "tags": [
+      "patterns",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-patterns-0101",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Patterns",
+    "subtopic": "Number Patterns",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What comes next: 1, 4, 7, 10, __?",
+    "image": "",
+    "options": [
+      "12",
+      "13",
+      "14",
+      "15"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The pattern adds 3 each time. 10 + 3 = 13.",
+    "tags": [
+      "patterns",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-patterns-0102",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Patterns",
+    "subtopic": "Number Patterns",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What comes next: 100, 95, 90, 85, __?",
+    "image": "",
+    "options": [
+      "80",
+      "82",
+      "84",
+      "90"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The pattern subtracts 5 each time. 85 − 5 = 80.",
+    "tags": [
+      "patterns",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-patterns-0103",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Patterns",
+    "subtopic": "Number Patterns",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which shape has 6 sides?",
+    "image": "",
+    "options": [
+      "Pentagon",
+      "Hexagon",
+      "Octagon",
+      "Triangle"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A hexagon has 6 sides.",
+    "tags": [
+      "shapes-patterns-data-and-reasoning",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-patterns-0104",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Patterns",
+    "subtopic": "Number Patterns",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What comes next: 2, 4, 8, 16, __?",
+    "image": "",
+    "options": [
+      "18",
+      "20",
+      "24",
+      "32"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Each number doubles. 16 × 2 = 32.",
+    "tags": [
+      "shapes-patterns-data-and-reasoning",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-patterns-0105",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Patterns",
+    "subtopic": "Number Patterns",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What comes next: A, C, E, G, __?",
+    "image": "",
+    "options": [
+      "H",
+      "I",
+      "J",
+      "K"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Skip one letter. After G comes I.",
+    "tags": [
+      "shapes-patterns-data-and-reasoning",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-patterns-0106",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Patterns",
+    "subtopic": "Number Patterns",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many sides does a pentagon have?",
+    "image": "",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A pentagon has 5 sides.",
+    "tags": [
+      "shapes-patterns-data-and-reasoning",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-patterns-0107",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Patterns",
+    "subtopic": "Number Patterns",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "If 1 = 3 and 2 = 6, what is 3?",
+    "image": "",
+    "options": [
+      "6",
+      "8",
+      "9",
+      "12"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Pattern: multiply by 3. 3 × 3 = 9.",
+    "tags": [
+      "shapes-patterns-data-and-reasoning",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-patterns-0108",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Patterns",
+    "subtopic": "Number Patterns",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What comes next: 1, 2, 4, 7, 11, __?",
+    "image": "",
+    "options": [
+      "14",
+      "15",
+      "16",
+      "17"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Add 1, 2, 3, 4, 5. 11 + 5 = 16.",
+    "tags": [
+      "shapes-patterns-data-and-reasoning",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-patterns-0109",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Patterns",
+    "subtopic": "Number Patterns",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 500 − 125?",
+    "image": "",
+    "options": [
+      "375",
+      "385",
+      "425",
+      "475"
+    ],
+    "correctAnswer": 0,
+    "explanation": "500 − 125 = 375.",
+    "tags": [
+      "numbers-and-operations",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "imo-g3-patterns-0110",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Patterns",
+    "subtopic": "Number Patterns",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many tens are in 360?",
+    "image": "",
+    "options": [
+      "3",
+      "6",
+      "36",
+      "360"
+    ],
+    "correctAnswer": 2,
+    "explanation": "360 has 36 tens.",
+    "tags": [
+      "numbers-and-operations",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  }
+]

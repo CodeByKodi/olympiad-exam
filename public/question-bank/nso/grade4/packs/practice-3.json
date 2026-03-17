@@ -1,0 +1,20 @@
+{
+  "packId": "nso-grade4-light-and-sound-practice-01",
+  "exam": "nso",
+  "grade": 4,
+  "mode": "practice",
+  "title": "Light and Sound Practice Test",
+  "topic": "Light and Sound",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Light and Sound"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

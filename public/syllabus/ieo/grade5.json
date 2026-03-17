@@ -1,0 +1,314 @@
+{
+  "exam": "ieo",
+  "grade": 5,
+  "title": "English Grade 5 Syllabus",
+  "description": "Grade 5 english.",
+  "topics": [
+    {
+      "code": "IEO-G5-T1",
+      "name": "Nouns",
+      "description": "Nouns for Grade 5.",
+      "weightage": "high",
+      "recommendedQuestionCount": 40,
+      "subtopics": [
+        {
+          "code": "IEO-G5-T1-S1",
+          "name": "Nouns Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "nouns",
+            "ieo",
+            "ieo",
+            "grade5"
+          ]
+        },
+        {
+          "code": "IEO-G5-T1-S2",
+          "name": "Nouns Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "nouns",
+            "ieo",
+            "ieo",
+            "grade5"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IEO-G5-T2",
+      "name": "Pronouns",
+      "description": "Pronouns for Grade 5.",
+      "weightage": "high",
+      "recommendedQuestionCount": 37,
+      "subtopics": [
+        {
+          "code": "IEO-G5-T2-S1",
+          "name": "Pronouns Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "pronouns",
+            "ieo",
+            "ieo",
+            "grade5"
+          ]
+        },
+        {
+          "code": "IEO-G5-T2-S2",
+          "name": "Pronouns Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "pronouns",
+            "ieo",
+            "ieo",
+            "grade5"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IEO-G5-T3",
+      "name": "Verbs",
+      "description": "Verbs for Grade 5.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 34,
+      "subtopics": [
+        {
+          "code": "IEO-G5-T3-S1",
+          "name": "Verbs Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "verbs",
+            "ieo",
+            "ieo",
+            "grade5"
+          ]
+        },
+        {
+          "code": "IEO-G5-T3-S2",
+          "name": "Verbs Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "verbs",
+            "ieo",
+            "ieo",
+            "grade5"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IEO-G5-T4",
+      "name": "Adjectives",
+      "description": "Adjectives for Grade 5.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 31,
+      "subtopics": [
+        {
+          "code": "IEO-G5-T4-S1",
+          "name": "Adjectives Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "adjectives",
+            "ieo",
+            "ieo",
+            "grade5"
+          ]
+        },
+        {
+          "code": "IEO-G5-T4-S2",
+          "name": "Adjectives Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "adjectives",
+            "ieo",
+            "ieo",
+            "grade5"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IEO-G5-T5",
+      "name": "Tenses",
+      "description": "Tenses for Grade 5.",
+      "weightage": "low",
+      "recommendedQuestionCount": 28,
+      "subtopics": [
+        {
+          "code": "IEO-G5-T5-S1",
+          "name": "Tenses Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "tenses",
+            "ieo",
+            "ieo",
+            "grade5"
+          ]
+        },
+        {
+          "code": "IEO-G5-T5-S2",
+          "name": "Tenses Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "tenses",
+            "ieo",
+            "ieo",
+            "grade5"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IEO-G5-T6",
+      "name": "Comprehension",
+      "description": "Comprehension for Grade 5.",
+      "weightage": "low",
+      "recommendedQuestionCount": 25,
+      "subtopics": [
+        {
+          "code": "IEO-G5-T6-S1",
+          "name": "Comprehension Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "comprehension",
+            "ieo",
+            "ieo",
+            "grade5"
+          ]
+        },
+        {
+          "code": "IEO-G5-T6-S2",
+          "name": "Comprehension Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "comprehension",
+            "ieo",
+            "ieo",
+            "grade5"
+          ]
+        }
+      ]
+    }
+  ]
+}

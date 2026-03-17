@@ -1,0 +1,20 @@
+{
+  "packId": "ieo-grade7-idioms-practice-01",
+  "exam": "ieo",
+  "grade": 7,
+  "mode": "practice",
+  "title": "Idioms Practice Test",
+  "topic": "Idioms",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Idioms"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

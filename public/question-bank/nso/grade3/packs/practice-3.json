@@ -1,0 +1,20 @@
+{
+  "packId": "nso-grade3-matter-energy-and-force-practice-01",
+  "exam": "nso",
+  "grade": 3,
+  "mode": "practice",
+  "title": "Matter, Energy, and Force Practice Test",
+  "topic": "Matter, Energy, and Force",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Matter, Energy, and Force"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

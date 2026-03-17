@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "nso-g11-physics-basics-0001",
+    "exam": "nso",
+    "grade": "11",
+    "topic": "Physics Basics",
+    "subtopic": "Mechanics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call water when it turns into gas?",
+    "image": "",
+    "options": [
+      "Ice",
+      "Steam",
+      "Rain",
+      "Snow"
+    ],
+    "correctAnswer": 1,
+    "explanation": "When water is heated, it turns into steam (water vapor).",
+    "tags": [
+      "matter",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g11-physics-basics-0002",
+    "exam": "nso",
+    "grade": "11",
+    "topic": "Physics Basics",
+    "subtopic": "Mechanics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What makes a ball fall when we drop it?",
+    "image": "",
+    "options": [
+      "Wind",
+      "Gravity",
+      "Light",
+      "Sound"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Gravity pulls the ball toward the Earth.",
+    "tags": [
+      "force",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g11-physics-basics-0003",
+    "exam": "nso",
+    "grade": "11",
+    "topic": "Physics Basics",
+    "subtopic": "Mechanics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to measure temperature?",
+    "image": "",
+    "options": [
+      "Ruler",
+      "Thermometer",
+      "Clock",
+      "Scale"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A thermometer measures how hot or cold something is.",
+    "tags": [
+      "matter",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g11-physics-basics-0004",
+    "exam": "nso",
+    "grade": "11",
+    "topic": "Physics Basics",
+    "subtopic": "Mechanics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which state of matter has no fixed shape?",
+    "image": "",
+    "options": [
+      "Solid",
+      "Liquid",
+      "Both solid and liquid",
+      "Neither"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Liquids and gases have no fixed shape.",
+    "tags": [
+      "matter",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g11-physics-basics-0005",
+    "exam": "nso",
+    "grade": "11",
+    "topic": "Physics Basics",
+    "subtopic": "Mechanics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which can flow and take the shape of its container?",
+    "image": "",
+    "options": [
+      "Rock",
+      "Wood",
+      "Water",
+      "Iron"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Water is a liquid. It flows and takes the shape of its container.",
+    "tags": [
+      "matter",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g11-physics-basics-0006",
+    "exam": "nso",
+    "grade": "11",
+    "topic": "Physics Basics",
+    "subtopic": "Mechanics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What happens when we cool water below 0°C?",
+    "image": "",
+    "options": [
+      "It boils",
+      "It freezes",
+      "It disappears",
+      "Nothing"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Water freezes into ice when cooled below 0°C.",
+    "tags": [
+      "matter",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g11-physics-basics-0007",
+    "exam": "nso",
+    "grade": "11",
+    "topic": "Physics Basics",
+    "subtopic": "Mechanics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do magnets pull?",
+    "image": "",
+    "options": [
+      "Wood",
+      "Paper",
+      "Iron",
+      "Plastic"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Magnets attract objects made of iron.",
+    "tags": [
+      "force",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g11-physics-basics-0008",
+    "exam": "nso",
+    "grade": "11",
+    "topic": "Physics Basics",
+    "subtopic": "Mechanics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a gas we cannot see?",
+    "image": "",
+    "options": [
+      "Water",
+      "Air",
+      "Ice",
+      "Stone"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Air is a mixture of gases we cannot see.",
+    "tags": [
+      "matter",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g11-physics-basics-0009",
+    "exam": "nso",
+    "grade": "11",
+    "topic": "Physics Basics",
+    "subtopic": "Mechanics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to measure length?",
+    "image": "",
+    "options": [
+      "Thermometer",
+      "Ruler",
+      "Clock",
+      "Scale"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A ruler measures length in centimetres.",
+    "tags": [
+      "matter",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g11-physics-basics-0010",
+    "exam": "nso",
+    "grade": "11",
+    "topic": "Physics Basics",
+    "subtopic": "Mechanics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we breathe in from the air?",
+    "image": "",
+    "options": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Smoke",
+      "Dust"
+    ],
+    "correctAnswer": 1,
+    "explanation": "We breathe in oxygen from the air. It is essential for life.",
+    "tags": [
+      "earth-environment-and-space",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g11-physics-basics-0011",
+    "exam": "nso",
+    "grade": "11",
+    "topic": "Physics Basics",
+    "subtopic": "Mechanics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which planet do we live on?",
+    "image": "",
+    "options": [
+      "Moon",
+      "Sun",
+      "Earth",
+      "Mars"
+    ],
+    "correctAnswer": 2,
+    "explanation": "We live on Earth. It is the only planet with life.",
+    "tags": [
+      "earth-environment-and-space",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g11-physics-basics-0012",
+    "exam": "nso",
+    "grade": "11",
+    "topic": "Physics Basics",
+    "subtopic": "Mechanics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What causes day and night?",
+    "image": "",
+    "options": [
+      "The Moon moves",
+      "Earth spins on its axis",
+      "The Sun moves",
+      "Stars appear"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Earth spins on its axis. When our side faces the Sun it is day.",
+    "tags": [
+      "earth-environment-and-space",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g11-physics-basics-0013",
+    "exam": "nso",
+    "grade": "11",
+    "topic": "Physics Basics",
+    "subtopic": "Mechanics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a source of fresh water?",
+    "image": "",
+    "options": [
+      "Sea",
+      "River",
+      "Ocean",
+      "All of these"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Rivers are a source of fresh water. Seas and oceans have salty water.",
+    "tags": [
+      "earth-environment-and-space",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g11-physics-basics-0014",
+    "exam": "nso",
+    "grade": "11",
+    "topic": "Physics Basics",
+    "subtopic": "Mechanics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many seasons are there in a year?",
+    "image": "",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "correctAnswer": 2,
+    "explanation": "There are four seasons: spring, summer, autumn, and winter.",
+    "tags": [
+      "earth-environment-and-space",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g11-physics-basics-0015",
+    "exam": "nso",
+    "grade": "11",
+    "topic": "Physics Basics",
+    "subtopic": "Mechanics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What falls from clouds when it rains?",
+    "image": "",
+    "options": [
+      "Snow",
+      "Hail",
+      "Rain drops",
+      "Dust"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Rain drops fall from clouds when water vapor condenses.",
+    "tags": [
+      "earth-environment-and-space",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g11-physics-basics-0016",
+    "exam": "nso",
+    "grade": "11",
+    "topic": "Physics Basics",
+    "subtopic": "Mechanics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is the closest star to Earth?",
+    "image": "",
+    "options": [
+      "Moon",
+      "Sun",
+      "Mars",
+      "Venus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Sun is the closest star to Earth. It is a ball of hot gas.",
+    "tags": [
+      "earth-environment-and-space",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g11-physics-basics-0017",
+    "exam": "nso",
+    "grade": "11",
+    "topic": "Physics Basics",
+    "subtopic": "Mechanics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What should we do to keep our environment clean?",
+    "image": "",
+    "options": [
+      "Throw garbage everywhere",
+      "Reduce, reuse, recycle",
+      "Burn plastic",
+      "Nothing"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Reduce, reuse, and recycle help keep our environment clean.",
+    "tags": [
+      "earth-environment-and-space",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g11-physics-basics-0018",
+    "exam": "nso",
+    "grade": "11",
+    "topic": "Physics Basics",
+    "subtopic": "Mechanics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which direction does the Sun rise from?",
+    "image": "",
+    "options": [
+      "North",
+      "South",
+      "East",
+      "West"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Sun rises in the East and sets in the West.",
+    "tags": [
+      "earth-environment-and-space",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g11-physics-basics-0019",
+    "exam": "nso",
+    "grade": "11",
+    "topic": "Physics Basics",
+    "subtopic": "Mechanics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use a map for?",
+    "image": "",
+    "options": [
+      "To eat",
+      "To find places",
+      "To sleep",
+      "To play"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A map helps us find places and understand locations.",
+    "tags": [
+      "earth-environment-and-space",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g11-physics-basics-0020",
+    "exam": "nso",
+    "grade": "11",
+    "topic": "Physics Basics",
+    "subtopic": "Mechanics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "When do we see the Moon?",
+    "image": "",
+    "options": [
+      "Only at noon",
+      "At night and sometimes during day",
+      "Never",
+      "Only in summer"
+    ],
+    "correctAnswer": 1,
+    "explanation": "We usually see the Moon at night. Sometimes we see it during the day too.",
+    "tags": [
+      "earth-environment-and-space",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g11-physics-basics-0021",
+    "exam": "nso",
+    "grade": "11",
+    "topic": "Physics Basics",
+    "subtopic": "Mechanics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is pollution?",
+    "image": "",
+    "options": [
+      "Clean air",
+      "Harmful substances in our environment",
+      "Fresh water",
+      "Green plants"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pollution is when harmful substances dirty our air, water, or land.",
+    "tags": [
+      "earth-environment-and-space",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g11-physics-basics-0022",
+    "exam": "nso",
+    "grade": "11",
+    "topic": "Physics Basics",
+    "subtopic": "Mechanics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which season is usually the hottest?",
+    "image": "",
+    "options": [
+      "Winter",
+      "Spring",
+      "Summer",
+      "Autumn"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Summer is usually the hottest season of the year.",
+    "tags": [
+      "earth-environment-and-space",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g11-physics-basics-0023",
+    "exam": "nso",
+    "grade": "11",
+    "topic": "Physics Basics",
+    "subtopic": "Mechanics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What shape is the Earth?",
+    "image": "",
+    "options": [
+      "Flat",
+      "Square",
+      "Round like a ball",
+      "Triangle"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Earth is round like a ball. It is called a sphere.",
+    "tags": [
+      "earth-environment-and-space",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g11-physics-basics-0024",
+    "exam": "nso",
+    "grade": "11",
+    "topic": "Physics Basics",
+    "subtopic": "Mechanics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Why should we save water?",
+    "image": "",
+    "options": [
+      "Water is unlimited",
+      "Fresh water is limited and precious",
+      "We do not need water",
+      "No reason"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fresh water is limited. We should save it for ourselves and future generations.",
+    "tags": [
+      "earth-environment-and-space",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g11-physics-basics-0025",
+    "exam": "nso",
+    "grade": "11",
+    "topic": "Physics Basics",
+    "subtopic": "Mechanics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call moving air?",
+    "image": "",
+    "options": [
+      "Water",
+      "Wind",
+      "Fire",
+      "Earth"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Wind is moving air. We can feel it on a windy day.",
+    "tags": [
+      "earth-environment-and-space",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g11-physics-basics-0026",
+    "exam": "nso",
+    "grade": "11",
+    "topic": "Physics Basics",
+    "subtopic": "Mechanics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a natural resource?",
+    "image": "",
+    "options": [
+      "Plastic",
+      "Wood from trees",
+      "Glass",
+      "Steel"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Wood from trees is a natural resource. We get it from nature.",
+    "tags": [
+      "earth-environment-and-space",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g11-physics-basics-0027",
+    "exam": "nso",
+    "grade": "11",
+    "topic": "Physics Basics",
+    "subtopic": "Mechanics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which helps reduce air pollution?",
+    "image": "",
+    "options": [
+      "Burning garbage",
+      "Planting trees",
+      "Using more cars",
+      "Throwing waste in rivers"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trees absorb carbon dioxide and give us oxygen. They help reduce pollution.",
+    "tags": [
+      "earth-environment-and-space",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g11-physics-basics-0028",
+    "exam": "nso",
+    "grade": "11",
+    "topic": "Physics Basics",
+    "subtopic": "Mechanics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is a globe?",
+    "image": "",
+    "options": [
+      "A flat map",
+      "A model of the Earth",
+      "A picture of the Moon",
+      "A toy"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A globe is a round model of the Earth. It shows land and water.",
+    "tags": [
+      "earth-environment-and-space",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g11-physics-basics-0029",
+    "exam": "nso",
+    "grade": "11",
+    "topic": "Physics Basics",
+    "subtopic": "Mechanics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which season is usually the coldest?",
+    "image": "",
+    "options": [
+      "Summer",
+      "Spring",
+      "Winter",
+      "Autumn"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Winter is usually the coldest season of the year.",
+    "tags": [
+      "earth-environment-and-space",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g11-physics-basics-0030",
+    "exam": "nso",
+    "grade": "11",
+    "topic": "Physics Basics",
+    "subtopic": "Mechanics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What gas do plants give out that we breathe?",
+    "image": "",
+    "options": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Nitrogen",
+      "Smoke"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Plants give out oxygen during the day, which we breathe.",
+    "tags": [
+      "air-and-water",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g11-physics-basics-0031",
+    "exam": "nso",
+    "grade": "11",
+    "topic": "Physics Basics",
+    "subtopic": "Mechanics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which nutrient helps our muscles grow?",
+    "image": "",
+    "options": [
+      "Sugar",
+      "Protein",
+      "Fat",
+      "Salt"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Protein from eggs and meat helps muscles grow.",
+    "tags": [
+      "food-and-nutrition",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g11-physics-basics-0032",
+    "exam": "nso",
+    "grade": "11",
+    "topic": "Physics Basics",
+    "subtopic": "Mechanics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we need to form a shadow?",
+    "image": "",
+    "options": [
+      "Sound and object",
+      "Light and object",
+      "Water only",
+      "Air only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A shadow forms when light is blocked by an object.",
+    "tags": [
+      "light",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g11-physics-basics-0033",
+    "exam": "nso",
+    "grade": "11",
+    "topic": "Physics Basics",
+    "subtopic": "Mechanics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How long does Earth take to spin once?",
+    "image": "",
+    "options": [
+      "One hour",
+      "One day",
+      "One week",
+      "One month"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Earth takes about 24 hours to spin once on its axis.",
+    "tags": [
+      "earth-and-space",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g11-physics-basics-0034",
+    "exam": "nso",
+    "grade": "11",
+    "topic": "Physics Basics",
+    "subtopic": "Mechanics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Where does the Sun set?",
+    "image": "",
+    "options": [
+      "North",
+      "South",
+      "East",
+      "West"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Sun sets in the West.",
+    "tags": [
+      "earth-and-space",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g11-physics-basics-0035",
+    "exam": "nso",
+    "grade": "11",
+    "topic": "Physics Basics",
+    "subtopic": "Mechanics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Through what does sound travel to reach our ears?",
+    "image": "",
+    "options": [
+      "Light",
+      "Air",
+      "Vacuum",
+      "Nothing"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sound travels through air to reach our ears.",
+    "tags": [
+      "sound",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g11-physics-basics-0036",
+    "exam": "nso",
+    "grade": "11",
+    "topic": "Physics Basics",
+    "subtopic": "Mechanics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is salty water?",
+    "image": "",
+    "options": [
+      "River",
+      "Sea",
+      "Lake",
+      "Pond"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sea water is salty. Rivers and lakes have fresh water.",
+    "tags": [
+      "air-and-water",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g11-physics-basics-0037",
+    "exam": "nso",
+    "grade": "11",
+    "topic": "Physics Basics",
+    "subtopic": "Mechanics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which food has Vitamin C?",
+    "image": "",
+    "options": [
+      "Rice",
+      "Orange",
+      "Bread",
+      "Butter"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Oranges and citrus fruits are rich in Vitamin C.",
+    "tags": [
+      "food-and-nutrition",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g11-physics-basics-0038",
+    "exam": "nso",
+    "grade": "11",
+    "topic": "Physics Basics",
+    "subtopic": "Mechanics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we see in the sky during the day?",
+    "image": "",
+    "options": [
+      "Stars",
+      "Moon only",
+      "Sun",
+      "Planets"
+    ],
+    "correctAnswer": 2,
+    "explanation": "We see the Sun in the sky during the day.",
+    "tags": [
+      "earth-and-space",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g11-physics-basics-0039",
+    "exam": "nso",
+    "grade": "11",
+    "topic": "Physics Basics",
+    "subtopic": "Mechanics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the Moon?",
+    "image": "",
+    "options": [
+      "A star",
+      "A planet",
+      "A satellite of Earth",
+      "A comet"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Moon is Earth's natural satellite. It orbits Earth.",
+    "tags": [
+      "earth-and-space",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g11-physics-basics-0040",
+    "exam": "nso",
+    "grade": "11",
+    "topic": "Physics Basics",
+    "subtopic": "Mechanics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Why should we eat fruits daily?",
+    "image": "",
+    "options": [
+      "They are cheap",
+      "They give vitamins and energy",
+      "They are sweet",
+      "No reason"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fruits give us vitamins, minerals, and energy.",
+    "tags": [
+      "food-and-nutrition",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  }
+]

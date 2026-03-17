@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "ieo-g10-advanced-grammar-0001",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Advanced Grammar",
+    "subtopic": "Advanced Grammar Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Choose the correct article: ___ sun is bright.",
+    "image": "",
+    "options": [
+      "A",
+      "An",
+      "The",
+      "No article"
+    ],
+    "correctAnswer": 2,
+    "explanation": "We use 'the' for unique things like the sun.",
+    "tags": [
+      "grammar-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-advanced-grammar-0002",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Advanced Grammar",
+    "subtopic": "Advanced Grammar Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the plural of 'box'?",
+    "image": "",
+    "options": [
+      "boxs",
+      "boxies",
+      "boxes",
+      "box"
+    ],
+    "correctAnswer": 2,
+    "explanation": "For words ending in x, we add 'es'. box → boxes.",
+    "tags": [
+      "grammar-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-advanced-grammar-0003",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Advanced Grammar",
+    "subtopic": "Advanced Grammar Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Fill in the blank: They ___ football yesterday.",
+    "image": "",
+    "options": [
+      "play",
+      "plays",
+      "played",
+      "playing"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Yesterday means past. We use 'played'.",
+    "tags": [
+      "grammar-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-advanced-grammar-0004",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Advanced Grammar",
+    "subtopic": "Advanced Grammar Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the opposite of 'hot'?",
+    "image": "",
+    "options": [
+      "warm",
+      "cold",
+      "cool",
+      "freezing"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The opposite of hot is cold.",
+    "tags": [
+      "grammar-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-advanced-grammar-0005",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Advanced Grammar",
+    "subtopic": "Advanced Grammar Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Choose the correct preposition: The bird flew ___ the sky.",
+    "image": "",
+    "options": [
+      "under",
+      "in",
+      "below",
+      "over"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The bird flew in the sky.",
+    "tags": [
+      "grammar-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-advanced-grammar-0006",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Advanced Grammar",
+    "subtopic": "Advanced Grammar Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which sentence is correct?",
+    "image": "",
+    "options": [
+      "I am go to school.",
+      "I am going to school.",
+      "I going to school.",
+      "I going school."
+    ],
+    "correctAnswer": 1,
+    "explanation": "I am going to school is correct. Present continuous tense.",
+    "tags": [
+      "grammar-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-advanced-grammar-0007",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Advanced Grammar",
+    "subtopic": "Advanced Grammar Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the plural of 'mouse'?",
+    "image": "",
+    "options": [
+      "mouses",
+      "mice",
+      "mouse",
+      "mousies"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mouse has an irregular plural: mice.",
+    "tags": [
+      "grammar-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-advanced-grammar-0008",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Advanced Grammar",
+    "subtopic": "Advanced Grammar Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which word is a common noun?",
+    "image": "",
+    "options": [
+      "India",
+      "Delhi",
+      "country",
+      "Ganga"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Country is a common noun. It does not name a specific place.",
+    "tags": [
+      "grammar-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-advanced-grammar-0009",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Advanced Grammar",
+    "subtopic": "Advanced Grammar Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Fill in the blank: We ___ our homework every day.",
+    "image": "",
+    "options": [
+      "do",
+      "does",
+      "doing",
+      "done"
+    ],
+    "correctAnswer": 0,
+    "explanation": "With 'we', we use 'do' (present tense).",
+    "tags": [
+      "grammar-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-advanced-grammar-0010",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Advanced Grammar",
+    "subtopic": "Advanced Grammar Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which pronoun would replace 'the boys'?",
+    "image": "",
+    "options": [
+      "he",
+      "she",
+      "they",
+      "it"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The boys (more than one) is replaced by 'they'.",
+    "tags": [
+      "grammar-basics",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-advanced-grammar-0011",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Advanced Grammar",
+    "subtopic": "Advanced Grammar Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a complete sentence?",
+    "image": "",
+    "options": [
+      "The big.",
+      "The dog runs.",
+      "Runs fast.",
+      "In the park."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A sentence needs a subject (dog) and verb (runs).",
+    "tags": [
+      "sentence-skills-and-writing",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-advanced-grammar-0012",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Advanced Grammar",
+    "subtopic": "Advanced Grammar Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Arrange: school / to / I / go / every / day",
+    "image": "",
+    "options": [
+      "I go to school every day.",
+      "Go I to school every day.",
+      "I every day go to school.",
+      "School I go to every day."
+    ],
+    "correctAnswer": 0,
+    "explanation": "I go to school every day is the correct order.",
+    "tags": [
+      "sentence-skills-and-writing",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-advanced-grammar-0013",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Advanced Grammar",
+    "subtopic": "Advanced Grammar Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which sentence has correct punctuation?",
+    "image": "",
+    "options": [
+      "What is your name",
+      "What is your name?",
+      "what is your name?",
+      "What is your name."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Questions end with a question mark.",
+    "tags": [
+      "sentence-skills-and-writing",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-advanced-grammar-0014",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Advanced Grammar",
+    "subtopic": "Advanced Grammar Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Arrange: likes / Ravi / to / read / books",
+    "image": "",
+    "options": [
+      "Ravi likes to read books.",
+      "Likes Ravi to read books.",
+      "Ravi read likes to books.",
+      "Books Ravi likes to read."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ravi likes to read books is the correct order.",
+    "tags": [
+      "sentence-skills-and-writing",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-advanced-grammar-0015",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Advanced Grammar",
+    "subtopic": "Advanced Grammar Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which word should start with a capital letter?",
+    "image": "",
+    "options": [
+      "dog",
+      "monday",
+      "india",
+      "book"
+    ],
+    "correctAnswer": 2,
+    "explanation": "India is a proper noun and needs a capital letter.",
+    "tags": [
+      "sentence-skills-and-writing",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-advanced-grammar-0016",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Advanced Grammar",
+    "subtopic": "Advanced Grammar Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Choose the correct sentence.",
+    "image": "",
+    "options": [
+      "She don't like milk.",
+      "She doesn't like milk.",
+      "She doesn't likes milk.",
+      "She not like milk."
+    ],
+    "correctAnswer": 1,
+    "explanation": "With 'she', we use 'doesn't' and the base form 'like'.",
+    "tags": [
+      "sentence-skills-and-writing",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-advanced-grammar-0017",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Advanced Grammar",
+    "subtopic": "Advanced Grammar Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Arrange: the / cat / is / sleeping / under / table / the",
+    "image": "",
+    "options": [
+      "The cat is sleeping under the table.",
+      "Cat the is sleeping under table the.",
+      "The cat sleeping is under the table.",
+      "Under the table the cat is sleeping."
+    ],
+    "correctAnswer": 0,
+    "explanation": "The cat is sleeping under the table is correct.",
+    "tags": [
+      "sentence-skills-and-writing",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-advanced-grammar-0018",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Advanced Grammar",
+    "subtopic": "Advanced Grammar Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which sentence needs an exclamation mark?",
+    "image": "",
+    "options": [
+      "I am going home.",
+      "What a beautiful day.",
+      "The sky is blue.",
+      "Birds can fly."
+    ],
+    "correctAnswer": 1,
+    "explanation": "What a beautiful day! shows strong feeling.",
+    "tags": [
+      "sentence-skills-and-writing",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-advanced-grammar-0019",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Advanced Grammar",
+    "subtopic": "Advanced Grammar Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Arrange: playing / children / are / in / the / park",
+    "image": "",
+    "options": [
+      "Children are playing in the park.",
+      "Playing children are in the park.",
+      "The park children are playing in.",
+      "Are children playing in the park."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Children are playing in the park is correct.",
+    "tags": [
+      "sentence-skills-and-writing",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-advanced-grammar-0020",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Advanced Grammar",
+    "subtopic": "Advanced Grammar Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which sentence is a question?",
+    "image": "",
+    "options": [
+      "Close the door.",
+      "Where is my bag?",
+      "The sun is hot.",
+      "I like ice cream."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Where is my bag? asks something and ends with ?",
+    "tags": [
+      "sentence-skills-and-writing",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-advanced-grammar-0021",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Advanced Grammar",
+    "subtopic": "Advanced Grammar Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Arrange: my / name / is / Priya",
+    "image": "",
+    "options": [
+      "My name is Priya.",
+      "Name my is Priya.",
+      "Priya is my name.",
+      "Is my name Priya."
+    ],
+    "correctAnswer": 0,
+    "explanation": "My name is Priya is the correct order.",
+    "tags": [
+      "sentence-skills-and-writing",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-advanced-grammar-0022",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Advanced Grammar",
+    "subtopic": "Advanced Grammar Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which sentence has a mistake?",
+    "image": "",
+    "options": [
+      "I have two books.",
+      "She has three pencil.",
+      "He runs fast.",
+      "They play together."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Three pencil should be three pencils (plural).",
+    "tags": [
+      "sentence-skills-and-writing",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-advanced-grammar-0023",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Advanced Grammar",
+    "subtopic": "Advanced Grammar Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Arrange: eat / I / breakfast / morning / every",
+    "image": "",
+    "options": [
+      "I eat breakfast every morning.",
+      "Eat I breakfast every morning.",
+      "I breakfast eat every morning.",
+      "Every morning I eat breakfast."
+    ],
+    "correctAnswer": 0,
+    "explanation": "I eat breakfast every morning is correct.",
+    "tags": [
+      "sentence-skills-and-writing",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-advanced-grammar-0024",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Advanced Grammar",
+    "subtopic": "Advanced Grammar Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a command or request?",
+    "image": "",
+    "options": [
+      "The dog is barking.",
+      "Please help me.",
+      "Birds fly in the sky.",
+      "I am happy."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Please help me is a request.",
+    "tags": [
+      "sentence-skills-and-writing",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-advanced-grammar-0025",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Advanced Grammar",
+    "subtopic": "Advanced Grammar Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Arrange: blue / is / the / sky",
+    "image": "",
+    "options": [
+      "The sky is blue.",
+      "Sky the is blue.",
+      "Blue is the sky.",
+      "Is the sky blue."
+    ],
+    "correctAnswer": 0,
+    "explanation": "The sky is blue is the correct order.",
+    "tags": [
+      "sentence-skills-and-writing",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-advanced-grammar-0026",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Advanced Grammar",
+    "subtopic": "Advanced Grammar Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which sentence uses 'their' correctly?",
+    "image": "",
+    "options": [
+      "Their going to school.",
+      "That is their book.",
+      "Their is a cat.",
+      "I like their."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Their shows ownership. That is their book.",
+    "tags": [
+      "sentence-skills-and-writing",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-advanced-grammar-0027",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Advanced Grammar",
+    "subtopic": "Advanced Grammar Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Arrange: birthday / is / today / my",
+    "image": "",
+    "options": [
+      "Today is my birthday.",
+      "My birthday is today.",
+      "Is today my birthday.",
+      "Birthday my is today."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Today is my birthday is correct.",
+    "tags": [
+      "sentence-skills-and-writing",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-advanced-grammar-0028",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Advanced Grammar",
+    "subtopic": "Advanced Grammar Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which sentence needs a full stop?",
+    "image": "",
+    "options": [
+      "What is that",
+      "Help me",
+      "I love my family",
+      "Where are you going"
+    ],
+    "correctAnswer": 2,
+    "explanation": "I love my family is a statement and needs a full stop.",
+    "tags": [
+      "sentence-skills-and-writing",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-advanced-grammar-0029",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Advanced Grammar",
+    "subtopic": "Advanced Grammar Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Arrange: water / drink / we / should / enough",
+    "image": "",
+    "options": [
+      "We should drink enough water.",
+      "Should we drink enough water.",
+      "We drink should enough water.",
+      "Enough water we should drink."
+    ],
+    "correctAnswer": 0,
+    "explanation": "We should drink enough water is correct.",
+    "tags": [
+      "sentence-skills-and-writing",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-advanced-grammar-0030",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Advanced Grammar",
+    "subtopic": "Advanced Grammar Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which sentence uses correct grammar for 'he'?",
+    "image": "",
+    "options": [
+      "He don't like tea.",
+      "He doesn't like tea.",
+      "He doesn't likes tea.",
+      "He not like tea."
+    ],
+    "correctAnswer": 1,
+    "explanation": "He doesn't like tea is correct.",
+    "tags": [
+      "sentence-skills-and-writing",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-advanced-grammar-0031",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Advanced Grammar",
+    "subtopic": "Advanced Grammar Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Arrange: flowers / garden / in / the / are / beautiful",
+    "image": "",
+    "options": [
+      "The flowers in the garden are beautiful.",
+      "Flowers the in garden the are beautiful.",
+      "Beautiful are the flowers in the garden.",
+      "In the garden the flowers are beautiful."
+    ],
+    "correctAnswer": 0,
+    "explanation": "The flowers in the garden are beautiful is correct.",
+    "tags": [
+      "sentence-skills-and-writing",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-advanced-grammar-0032",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Advanced Grammar",
+    "subtopic": "Advanced Grammar Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which word completes: ___ am a student.",
+    "image": "",
+    "options": [
+      "You",
+      "He",
+      "I",
+      "They"
+    ],
+    "correctAnswer": 2,
+    "explanation": "I am a student. I refers to the speaker.",
+    "tags": [
+      "sentence-skills-and-writing",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-advanced-grammar-0033",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Advanced Grammar",
+    "subtopic": "Advanced Grammar Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Arrange: mother / my / cooks / food / delicious",
+    "image": "",
+    "options": [
+      "My mother cooks delicious food.",
+      "Mother my cooks delicious food.",
+      "My mother delicious cooks food.",
+      "Cooks my mother delicious food."
+    ],
+    "correctAnswer": 0,
+    "explanation": "My mother cooks delicious food is correct.",
+    "tags": [
+      "sentence-skills-and-writing",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-advanced-grammar-0034",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Advanced Grammar",
+    "subtopic": "Advanced Grammar Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which sentence has correct capitalization?",
+    "image": "",
+    "options": [
+      "i live in delhi.",
+      "I live in Delhi.",
+      "I Live In Delhi.",
+      "i live in delhi."
+    ],
+    "correctAnswer": 1,
+    "explanation": "I and Delhi need capital letters.",
+    "tags": [
+      "sentence-skills-and-writing",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-advanced-grammar-0035",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Advanced Grammar",
+    "subtopic": "Advanced Grammar Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Arrange: sun / rises / the / in / east / the",
+    "image": "",
+    "options": [
+      "The sun rises in the east.",
+      "Sun the rises in the east.",
+      "The sun in the east rises.",
+      "Rises the sun in the east."
+    ],
+    "correctAnswer": 0,
+    "explanation": "The sun rises in the east is correct.",
+    "tags": [
+      "sentence-skills-and-writing",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-advanced-grammar-0036",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Advanced Grammar",
+    "subtopic": "Advanced Grammar Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we say when we meet someone in the morning?",
+    "image": "",
+    "options": [
+      "Good night",
+      "Good morning",
+      "Goodbye",
+      "Thank you"
+    ],
+    "correctAnswer": 1,
+    "explanation": "We say Good morning when we meet someone in the morning.",
+    "tags": [
+      "reading-comprehension-and-everyday-english",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-advanced-grammar-0037",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Advanced Grammar",
+    "subtopic": "Advanced Grammar Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we say when someone helps us?",
+    "image": "",
+    "options": [
+      "Sorry",
+      "Please",
+      "Thank you",
+      "Hello"
+    ],
+    "correctAnswer": 2,
+    "explanation": "We say Thank you when someone helps us.",
+    "tags": [
+      "reading-comprehension-and-everyday-english",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-advanced-grammar-0038",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Advanced Grammar",
+    "subtopic": "Advanced Grammar Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is a synonym for 'happy'?",
+    "image": "",
+    "options": [
+      "sad",
+      "joyful",
+      "angry",
+      "tired"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Joyful means the same as happy.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-advanced-grammar-0039",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Advanced Grammar",
+    "subtopic": "Advanced Grammar Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is an antonym for 'big'?",
+    "image": "",
+    "options": [
+      "large",
+      "huge",
+      "small",
+      "giant"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Small is the opposite of big.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g10-advanced-grammar-0040",
+    "exam": "ieo",
+    "grade": "10",
+    "topic": "Advanced Grammar",
+    "subtopic": "Advanced Grammar Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which spelling is correct for 'beautiful'?",
+    "image": "",
+    "options": [
+      "beutiful",
+      "beautiful",
+      "beautifull",
+      "beautifel"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Beautiful is spelled with 'beau' and 'tiful'.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  }
+]
