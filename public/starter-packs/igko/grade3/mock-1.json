@@ -1,0 +1,386 @@
+{
+  "packId": "igko-grade3-mock-01",
+  "exam": "igko",
+  "grade": 3,
+  "mode": "mock",
+  "topic": "Mixed",
+  "title": "IGKO Mock Test 1",
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "igko-g3-m1-q1",
+      "questionText": "How many continents exist in the world?",
+      "image": "",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 2,
+      "explanation": "There are 7 continents.",
+      "topic": "Geography",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m1-q2",
+      "questionText": "Which ocean is the biggest?",
+      "image": "",
+      "options": [
+        "Atlantic",
+        "Indian",
+        "Pacific",
+        "Arctic"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Pacific is the largest.",
+      "topic": "Geography",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m1-q3",
+      "questionText": "What is the national bird of India?",
+      "image": "",
+      "options": [
+        "Crow",
+        "Peacock",
+        "Parrot",
+        "Sparrow"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Peacock is the national bird.",
+      "topic": "National Symbols",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m1-q4",
+      "questionText": "Which sport is India's national game?",
+      "image": "",
+      "options": [
+        "Cricket",
+        "Hockey",
+        "Football",
+        "Tennis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Hockey is the national game.",
+      "topic": "National Symbols",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m1-q5",
+      "questionText": "What does a red traffic light tell us to do?",
+      "image": "",
+      "options": [
+        "Go",
+        "Stop",
+        "Slow",
+        "Ready"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Red means stop.",
+      "topic": "Signs",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m1-q6",
+      "questionText": "Which day does India celebrate Independence Day?",
+      "image": "",
+      "options": [
+        "January 26",
+        "August 15",
+        "October 2",
+        "December 25"
+      ],
+      "correctAnswer": 1,
+      "explanation": "August 15 is Independence Day.",
+      "topic": "Important Days",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m1-q7",
+      "questionText": "Which festival is the festival of lights?",
+      "image": "",
+      "options": [
+        "Holi",
+        "Diwali",
+        "Eid",
+        "Christmas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Diwali is the festival of lights.",
+      "topic": "Festivals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m1-q8",
+      "questionText": "Which city is the capital of India?",
+      "image": "",
+      "options": [
+        "Mumbai",
+        "Kolkata",
+        "New Delhi",
+        "Chennai"
+      ],
+      "correctAnswer": 2,
+      "explanation": "New Delhi is the capital.",
+      "topic": "Capitals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m1-q9",
+      "questionText": "What is the Sun?",
+      "image": "",
+      "options": [
+        "A planet",
+        "A star",
+        "A moon",
+        "A comet"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Sun is a star.",
+      "topic": "Space",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m1-q10",
+      "questionText": "What do we call a person who travels to space?",
+      "image": "",
+      "options": [
+        "Pilot",
+        "Astronaut",
+        "Sailor",
+        "Driver"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An astronaut travels to space.",
+      "topic": "Space",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m1-q11",
+      "questionText": "Which country has the Taj Mahal?",
+      "image": "",
+      "options": [
+        "China",
+        "India",
+        "Pakistan",
+        "Bangladesh"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Taj Mahal is in India.",
+      "topic": "Monuments",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m1-q12",
+      "questionText": "Which country has the Great Wall?",
+      "image": "",
+      "options": [
+        "India",
+        "Japan",
+        "China",
+        "Korea"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Great Wall is in China.",
+      "topic": "Monuments",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m1-q13",
+      "questionText": "Which tool helps us find north, south, east, and west?",
+      "image": "",
+      "options": [
+        "Watch",
+        "Compass",
+        "Ruler",
+        "Pen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A compass shows directions.",
+      "topic": "Geography",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m1-q14",
+      "questionText": "In which direction does the Sun set?",
+      "image": "",
+      "options": [
+        "North",
+        "South",
+        "East",
+        "West"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Sun sets in the West.",
+      "topic": "Geography",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m1-q15",
+      "questionText": "What is the national animal of India?",
+      "image": "",
+      "options": [
+        "Lion",
+        "Tiger",
+        "Elephant",
+        "Deer"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Tiger is the national animal.",
+      "topic": "National Symbols",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m1-q16",
+      "questionText": "What is the national flower of India?",
+      "image": "",
+      "options": [
+        "Rose",
+        "Lotus",
+        "Sunflower",
+        "Jasmine"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Lotus is the national flower.",
+      "topic": "National Symbols",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m1-q17",
+      "questionText": "Which is the smallest continent?",
+      "image": "",
+      "options": [
+        "Europe",
+        "Antarctica",
+        "Australia",
+        "South America"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Australia is the smallest continent.",
+      "topic": "Geography",
+      "difficulty": "medium"
+    },
+    {
+      "id": "igko-g3-m1-q18",
+      "questionText": "Which festival is celebrated with colors?",
+      "image": "",
+      "options": [
+        "Diwali",
+        "Holi",
+        "Eid",
+        "Christmas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Holi is the festival of colors.",
+      "topic": "Festivals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m1-q19",
+      "questionText": "What do we call a drawing of the earth?",
+      "image": "",
+      "options": [
+        "Picture",
+        "Map",
+        "Photo",
+        "Painting"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A map shows the earth.",
+      "topic": "Geography",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m1-q20",
+      "questionText": "What is the capital of Japan?",
+      "image": "",
+      "options": [
+        "Beijing",
+        "Seoul",
+        "Tokyo",
+        "Bangkok"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Tokyo is the capital of Japan.",
+      "topic": "Capitals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m1-q21",
+      "questionText": "What do we call the study of the Earth's surface?",
+      "image": "",
+      "options": [
+        "History",
+        "Geography",
+        "Science",
+        "Math"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Geography studies the Earth.",
+      "topic": "Geography",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m1-q22",
+      "questionText": "What is our home planet called?",
+      "image": "",
+      "options": [
+        "Venus",
+        "Mars",
+        "Earth",
+        "Jupiter"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Our home planet is Earth.",
+      "topic": "Space",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m1-q23",
+      "questionText": "What do we call Earth's natural satellite?",
+      "image": "",
+      "options": [
+        "Sun",
+        "Star",
+        "Moon",
+        "Planet"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Moon is Earth's satellite.",
+      "topic": "Space",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m1-q24",
+      "questionText": "Which country has the Eiffel Tower?",
+      "image": "",
+      "options": [
+        "Italy",
+        "Germany",
+        "France",
+        "Spain"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Eiffel Tower is in France.",
+      "topic": "Monuments",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m1-q25",
+      "questionText": "Which day is Gandhi Jayanti?",
+      "image": "",
+      "options": [
+        "August 15",
+        "January 26",
+        "October 2",
+        "December 25"
+      ],
+      "correctAnswer": 2,
+      "explanation": "October 2 is Gandhi Jayanti.",
+      "topic": "Important Days",
+      "difficulty": "easy"
+    }
+  ]
+}

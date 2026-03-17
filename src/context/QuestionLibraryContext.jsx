@@ -1,6 +1,6 @@
 import { createContext, useContext, useState, useCallback, useEffect } from 'react';
 import * as libraryService from '../services/questionLibraryService';
-import { buildPracticePool, buildMockIndex } from '../utils/questionLibraryUtils';
+import { buildPracticePool, buildMockIndex, buildPracticeIndex } from '../utils/questionLibraryUtils';
 
 const QuestionLibraryContext = createContext(null);
 
@@ -70,6 +70,20 @@ export function QuestionLibraryProvider({ children }) {
     [packs]
   );
 
+  const getPracticePacks = useCallback(
+    (examId, gradeId) => {
+      const enabled = packs.filter(
+        (p) =>
+          p.enabled !== false &&
+          p.exam === examId &&
+          String(p.grade) === String(gradeId) &&
+          p.mode === 'practice'
+      );
+      return buildPracticeIndex(enabled);
+    },
+    [packs]
+  );
+
   const hasLibraryPacks = useCallback(
     (examId, gradeId, mode) => {
       return packs.some(
@@ -105,6 +119,7 @@ export function QuestionLibraryProvider({ children }) {
     reload,
     isAvailable: libraryService.isAvailable(),
     getPracticePool,
+    getPracticePacks,
     getMockPacks,
     hasLibraryPacks,
     getPackByTestId,
@@ -129,6 +144,7 @@ export function useQuestionLibrary() {
       reload: () => {},
       isAvailable: false,
       getPracticePool: () => [],
+      getPracticePacks: () => [],
       getMockPacks: () => [],
       hasLibraryPacks: () => false,
       getPackByTestId: () => null,

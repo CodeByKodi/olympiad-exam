@@ -1,34 +1,48 @@
-{
-  "tests": [
-    {
-      "id": "1",
-      "title": "NSO Grade 3 Test 1",
-      "durationMinutes": 15,
-      "questionCount": 10
-    },
-    {
-      "id": "2",
-      "title": "NSO Grade 3 Test 2",
-      "durationMinutes": 15,
-      "questionCount": 10
-    },
-    {
-      "id": "3",
-      "title": "NSO Grade 3 Test 3",
-      "durationMinutes": 15,
-      "questionCount": 10
-    },
-    {
-      "id": "4",
-      "title": "NSO Grade 3 Test 4",
-      "durationMinutes": 15,
-      "questionCount": 10
-    },
-    {
-      "id": "5",
-      "title": "NSO Grade 3 Test 5",
-      "durationMinutes": 15,
-      "questionCount": 10
-    }
-  ]
-}
+[
+  {
+    "id": "practice-1",
+    "title": "Plants and Animals Practice Test",
+    "mode": "practice",
+    "topic": "Plants and Animals",
+    "questionCount": 25,
+    "durationMinutes": 25
+  },
+  {
+    "id": "practice-2",
+    "title": "Human Body and Food Practice Test",
+    "mode": "practice",
+    "topic": "Human Body and Food",
+    "questionCount": 25,
+    "durationMinutes": 25
+  },
+  {
+    "id": "practice-3",
+    "title": "Matter, Energy, and Force Practice Test",
+    "mode": "practice",
+    "topic": "Matter, Energy, and Force",
+    "questionCount": 25,
+    "durationMinutes": 25
+  },
+  {
+    "id": "practice-4",
+    "title": "Earth, Environment, and Space Practice Test",
+    "mode": "practice",
+    "topic": "Earth, Environment, and Space",
+    "questionCount": 25,
+    "durationMinutes": 25
+  },
+  {
+    "id": "mock-1",
+    "title": "NSO Mock Test 1",
+    "mode": "mock",
+    "questionCount": 25,
+    "durationMinutes": 30
+  },
+  {
+    "id": "mock-2",
+    "title": "NSO Mock Test 2",
+    "mode": "mock",
+    "questionCount": 25,
+    "durationMinutes": 30
+  }
+]

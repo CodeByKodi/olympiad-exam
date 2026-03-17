@@ -1,0 +1,386 @@
+{
+  "packId": "isso-grade3-practice-03",
+  "exam": "isso",
+  "grade": 3,
+  "mode": "practice",
+  "topic": "Earth, Seasons, and Solar System",
+  "title": "Earth, Seasons, and Solar System Practice Test",
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "isso-g3-p3-q1",
+      "questionText": "Why does Earth have day and night?",
+      "image": "",
+      "options": [
+        "Moon blocks sun",
+        "Earth spins on its axis",
+        "Sun moves away",
+        "Stars hide"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Earth's rotation causes day and night.",
+      "topic": "Earth",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p3-q2",
+      "questionText": "What makes the seasons change on Earth?",
+      "image": "",
+      "options": [
+        "Moon",
+        "Earth's tilt",
+        "Stars",
+        "Wind"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Earth's tilt causes seasons.",
+      "topic": "Seasons",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p3-q3",
+      "questionText": "What is the Moon's path around Earth?",
+      "image": "",
+      "options": [
+        "Rotation",
+        "Orbit",
+        "Revolution",
+        "Spin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Moon orbits Earth.",
+      "topic": "Earth and moon",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p3-q4",
+      "questionText": "On which planet do humans live?",
+      "image": "",
+      "options": [
+        "Mars",
+        "Venus",
+        "Earth",
+        "Jupiter"
+      ],
+      "correctAnswer": 2,
+      "explanation": "We live on Earth.",
+      "topic": "Earth",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p3-q5",
+      "questionText": "What is the name of Earth's natural satellite?",
+      "image": "",
+      "options": [
+        "Sun",
+        "Star",
+        "Moon",
+        "Planet"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Moon is Earth's satellite.",
+      "topic": "Earth and moon",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p3-q6",
+      "questionText": "What is Earth's path around the Sun?",
+      "image": "",
+      "options": [
+        "Rotation",
+        "Orbit",
+        "Revolution",
+        "Spin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Orbit is Earth's path around the Sun.",
+      "topic": "Earth",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p3-q7",
+      "questionText": "What makes seasons change throughout the year?",
+      "image": "",
+      "options": [
+        "Moon",
+        "Earth's tilt and orbit",
+        "Stars",
+        "Wind"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Earth's tilt and orbit cause seasons.",
+      "topic": "Seasons",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p3-q8",
+      "questionText": "What planet in our solar system is smallest?",
+      "image": "",
+      "options": [
+        "Earth",
+        "Mars",
+        "Mercury",
+        "Venus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mercury is the smallest planet.",
+      "topic": "Solar system",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p3-q9",
+      "questionText": "Which resource do humans need most to survive?",
+      "image": "",
+      "options": [
+        "Plastic",
+        "Water",
+        "Glass",
+        "Steel"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Water is essential for life.",
+      "topic": "Resources",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p3-q10",
+      "questionText": "What is the science of weather patterns?",
+      "image": "",
+      "options": [
+        "Biology",
+        "Meteorology",
+        "Geography",
+        "History"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Meteorology studies weather.",
+      "topic": "Weather",
+      "difficulty": "medium"
+    },
+    {
+      "id": "isso-g3-p3-q11",
+      "questionText": "What is the star at the center of our solar system?",
+      "image": "",
+      "options": [
+        "Moon",
+        "Sun",
+        "Mars",
+        "Venus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Sun is at the center.",
+      "topic": "Solar system",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p3-q12",
+      "questionText": "How many planets are in our solar system?",
+      "image": "",
+      "options": [
+        "Six",
+        "Seven",
+        "Eight",
+        "Nine"
+      ],
+      "correctAnswer": 2,
+      "explanation": "There are eight planets.",
+      "topic": "Solar system",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p3-q13",
+      "questionText": "What do we call the four periods of the year?",
+      "image": "",
+      "options": [
+        "Months",
+        "Seasons",
+        "Weeks",
+        "Days"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Spring, summer, autumn, winter are seasons.",
+      "topic": "Seasons",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p3-q14",
+      "questionText": "Which season is the hottest?",
+      "image": "",
+      "options": [
+        "Winter",
+        "Spring",
+        "Summer",
+        "Autumn"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Summer is usually the hottest.",
+      "topic": "Seasons",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p3-q15",
+      "questionText": "When do we usually need warm clothes?",
+      "image": "",
+      "options": [
+        "Summer",
+        "Spring",
+        "Winter",
+        "Autumn"
+      ],
+      "correctAnswer": 2,
+      "explanation": "We need warm clothes in winter when it is cold.",
+      "topic": "Seasons",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p3-q16",
+      "questionText": "What is rain, snow, and hail?",
+      "image": "",
+      "options": [
+        "Wind",
+        "Precipitation",
+        "Sunshine",
+        "Clouds"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Precipitation is rain, snow, hail.",
+      "topic": "Weather",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p3-q17",
+      "questionText": "What do we call the air that moves?",
+      "image": "",
+      "options": [
+        "Water",
+        "Wind",
+        "Fire",
+        "Earth"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Wind is moving air.",
+      "topic": "Weather",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p3-q18",
+      "questionText": "What is the blanket of air around Earth?",
+      "image": "",
+      "options": [
+        "Ocean",
+        "Atmosphere",
+        "Land",
+        "Space"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The atmosphere surrounds Earth.",
+      "topic": "Earth",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p3-q19",
+      "questionText": "Which gas do humans need to stay alive?",
+      "image": "",
+      "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Smoke",
+        "Dust"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Humans need oxygen from the air to stay alive.",
+      "topic": "Earth",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p3-q20",
+      "questionText": "What do we call the layer that protects us from the Sun's harmful rays?",
+      "image": "",
+      "options": [
+        "Cloud layer",
+        "Ozone layer",
+        "Water layer",
+        "Dust layer"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The ozone layer protects us.",
+      "topic": "Earth",
+      "difficulty": "medium"
+    },
+    {
+      "id": "isso-g3-p3-q21",
+      "questionText": "What is things we use from nature?",
+      "image": "",
+      "options": [
+        "Toys",
+        "Natural resources",
+        "Machines",
+        "Tools"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Natural resources come from nature.",
+      "topic": "Resources",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p3-q22",
+      "questionText": "What is taking care of our environment?",
+      "image": "",
+      "options": [
+        "Pollution",
+        "Conservation",
+        "Destruction",
+        "Waste"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Conservation means protecting nature.",
+      "topic": "Environment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p3-q23",
+      "questionText": "What do we call harmful things in our air or water?",
+      "image": "",
+      "options": [
+        "Clean",
+        "Pollution",
+        "Fresh",
+        "Pure"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pollution harms our environment.",
+      "topic": "Environment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p3-q24",
+      "questionText": "What is using things again instead of throwing away?",
+      "image": "",
+      "options": [
+        "Waste",
+        "Recycle",
+        "Pollute",
+        "Destroy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Recycling means using things again.",
+      "topic": "Environment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p3-q25",
+      "questionText": "What do we call the planet closest to the Sun?",
+      "image": "",
+      "options": [
+        "Earth",
+        "Venus",
+        "Mercury",
+        "Mars"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mercury is closest to the Sun.",
+      "topic": "Solar system",
+      "difficulty": "easy"
+    }
+  ]
+}

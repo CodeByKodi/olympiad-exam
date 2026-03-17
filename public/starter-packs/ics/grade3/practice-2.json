@@ -1,0 +1,386 @@
+{
+  "packId": "ics-grade3-practice-02",
+  "exam": "ics",
+  "grade": 3,
+  "mode": "practice",
+  "topic": "Input, Output, Storage, and Uses",
+  "title": "Input, Output, Storage, and Uses Practice Test",
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "ics-g3-p2-q1",
+      "questionText": "What do we call a device that sends data into the computer?",
+      "image": "",
+      "options": [
+        "Output device",
+        "Input device",
+        "Storage device",
+        "Display device"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Input devices put data into the computer.",
+      "topic": "Input, Output, Storage, and Uses",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p2-q2",
+      "questionText": "Which device shows what we type on the screen?",
+      "image": "",
+      "options": [
+        "Keyboard",
+        "Monitor",
+        "CPU",
+        "Printer"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The monitor displays output.",
+      "topic": "Input, Output, Storage, and Uses",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p2-q3",
+      "questionText": "What do we call a device that shows information from the computer?",
+      "image": "",
+      "options": [
+        "Input device",
+        "Output device",
+        "Storage device",
+        "Processing device"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Output devices show information from the computer.",
+      "topic": "Input, Output, Storage, and Uses",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p2-q4",
+      "questionText": "Which device helps us print documents on paper?",
+      "image": "",
+      "options": [
+        "Monitor",
+        "Keyboard",
+        "Printer",
+        "Scanner"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A printer prints on paper.",
+      "topic": "Input, Output, Storage, and Uses",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p2-q5",
+      "questionText": "What do we use to save files and carry them to another computer?",
+      "image": "",
+      "options": [
+        "Monitor",
+        "USB drive",
+        "Keyboard",
+        "Mouse"
+      ],
+      "correctAnswer": 1,
+      "explanation": "USB drives store and carry files.",
+      "topic": "Input, Output, Storage, and Uses",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p2-q6",
+      "questionText": "What does the Save command do in a program?",
+      "image": "",
+      "options": [
+        "Closes the file",
+        "Stores your work for later",
+        "Deletes the file",
+        "Prints the file"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Save stores your work.",
+      "topic": "Input, Output, Storage, and Uses",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p2-q7",
+      "questionText": "What do we call moving a file from one folder to another?",
+      "image": "",
+      "options": [
+        "Copy",
+        "Cut",
+        "Move",
+        "Delete"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Move puts a file in another folder.",
+      "topic": "Input, Output, Storage, and Uses",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p2-q8",
+      "questionText": "Which key removes the character before the cursor?",
+      "image": "",
+      "options": [
+        "Delete",
+        "Backspace",
+        "Enter",
+        "Shift"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Backspace deletes the character before.",
+      "topic": "Input, Output, Storage, and Uses",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p2-q9",
+      "questionText": "Which key removes the character after the cursor?",
+      "image": "",
+      "options": [
+        "Backspace",
+        "Delete",
+        "Enter",
+        "Shift"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Delete removes the character after.",
+      "topic": "Input, Output, Storage, and Uses",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p2-q10",
+      "questionText": "What do we call a picture we can add to a document?",
+      "image": "",
+      "options": [
+        "Icon",
+        "Image",
+        "Folder",
+        "File"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Images are pictures in documents.",
+      "topic": "Input, Output, Storage, and Uses",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p2-q11",
+      "questionText": "What key takes us to the next tab or field?",
+      "image": "",
+      "options": [
+        "Enter",
+        "Tab",
+        "Space",
+        "Shift"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tab moves to the next field.",
+      "topic": "Input, Output, Storage, and Uses",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p2-q12",
+      "questionText": "What do we use to take a picture of the screen?",
+      "image": "",
+      "options": [
+        "Camera",
+        "Screenshot",
+        "Printer",
+        "Scanner"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Screenshot captures the screen.",
+      "topic": "Input, Output, Storage, and Uses",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ics-g3-p2-q13",
+      "questionText": "Which key selects all text in a document?",
+      "image": "",
+      "options": [
+        "Ctrl+A or Cmd+A",
+        "Ctrl+B",
+        "Ctrl+C",
+        "Ctrl+S"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ctrl+A selects all text.",
+      "topic": "Input, Output, Storage, and Uses",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ics-g3-p2-q14",
+      "questionText": "What happens when we use the Copy command?",
+      "image": "",
+      "options": [
+        "Deletes text",
+        "Makes a duplicate to paste elsewhere",
+        "Saves the file",
+        "Prints the file"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Copy makes a duplicate.",
+      "topic": "Input, Output, Storage, and Uses",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p2-q15",
+      "questionText": "Which key do we press to paste copied text?",
+      "image": "",
+      "options": [
+        "Ctrl+V or Cmd+V",
+        "Ctrl+C",
+        "Ctrl+X",
+        "Ctrl+S"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ctrl+V pastes.",
+      "topic": "Input, Output, Storage, and Uses",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p2-q16",
+      "questionText": "What key opens a new document?",
+      "image": "",
+      "options": [
+        "Ctrl+N or Cmd+N",
+        "Ctrl+S",
+        "Ctrl+P",
+        "Ctrl+C"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ctrl+N opens a new document.",
+      "topic": "Input, Output, Storage, and Uses",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ics-g3-p2-q17",
+      "questionText": "What do we call the programs that run on a computer?",
+      "image": "",
+      "options": [
+        "Hardware",
+        "Software",
+        "Monitor",
+        "Keyboard"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Software is the programs we use.",
+      "topic": "Input, Output, Storage, and Uses",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p2-q18",
+      "questionText": "What do we call an error in a computer program?",
+      "image": "",
+      "options": [
+        "Bug",
+        "Virus",
+        "Error",
+        "Glitch"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A bug is a mistake in a program.",
+      "topic": "Input, Output, Storage, and Uses",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p2-q19",
+      "questionText": "What do we use to draw pictures on a computer?",
+      "image": "",
+      "options": [
+        "Calculator",
+        "Paint",
+        "Notepad",
+        "Browser"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Paint is for drawing.",
+      "topic": "Input, Output, Storage, and Uses",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p2-q20",
+      "questionText": "What do we use a web browser for?",
+      "image": "",
+      "options": [
+        "Playing games only",
+        "Viewing websites on the internet",
+        "Printing documents",
+        "Typing only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A browser lets you visit websites.",
+      "topic": "Input, Output, Storage, and Uses",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p2-q21",
+      "questionText": "What do we call a program that helps us write documents?",
+      "image": "",
+      "options": [
+        "Calculator",
+        "Word processor",
+        "Paint",
+        "Browser"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Word processor is for writing.",
+      "topic": "Input, Output, Storage, and Uses",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p2-q22",
+      "questionText": "What is a website address called?",
+      "image": "",
+      "options": [
+        "URL",
+        "USB",
+        "CPU",
+        "RAM"
+      ],
+      "correctAnswer": 0,
+      "explanation": "URL is a website address.",
+      "topic": "Input, Output, Storage, and Uses",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p2-q23",
+      "questionText": "What is email used for?",
+      "image": "",
+      "options": [
+        "Playing games",
+        "Sending messages over the internet",
+        "Printing documents",
+        "Typing only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Email sends messages.",
+      "topic": "Input, Output, Storage, and Uses",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p2-q24",
+      "questionText": "What do we use the internet for?",
+      "image": "",
+      "options": [
+        "Only games",
+        "Only email",
+        "Searching, learning, and communication",
+        "Nothing useful"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The internet helps us search and learn.",
+      "topic": "Input, Output, Storage, and Uses",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p2-q25",
+      "questionText": "What must we do if we have unsaved work before closing?",
+      "image": "",
+      "options": [
+        "Nothing",
+        "Save our work",
+        "Delete everything",
+        "Shut down"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Always save before closing.",
+      "topic": "Input, Output, Storage, and Uses",
+      "difficulty": "easy"
+    }
+  ]
+}

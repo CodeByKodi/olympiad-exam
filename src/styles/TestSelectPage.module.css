@@ -44,6 +44,33 @@
   gap: var(--space-4);
 }
 
+.topicGroup {
+  grid-column: 1 / -1;
+}
+
+.topicGroupTitle {
+  font-size: var(--text-base);
+  font-weight: var(--font-semibold);
+  color: var(--text-secondary);
+  margin: 0 0 var(--space-2);
+  padding-bottom: var(--space-1);
+  border-bottom: 1px solid var(--border-color);
+}
+
+.topicGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: var(--space-4);
+}
+
+.mockSection {
+  background: var(--primary-soft);
+  border: 2px solid var(--primary-light);
+  border-radius: var(--radius-lg);
+  padding: var(--space-4);
+  margin-top: var(--space-4);
+}
+
 .emptyHint {
   grid-column: 1 / -1;
   padding: var(--space-4);

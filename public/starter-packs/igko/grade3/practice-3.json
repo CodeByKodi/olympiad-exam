@@ -1,0 +1,386 @@
+{
+  "packId": "igko-grade3-practice-03",
+  "exam": "igko",
+  "grade": 3,
+  "mode": "practice",
+  "topic": "Festivals, Important Days, and Culture",
+  "title": "Festivals, Important Days, and Culture Practice Test",
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "igko-g3-p3-q1",
+      "questionText": "Which day is Independence Day in India?",
+      "image": "",
+      "options": [
+        "January 26",
+        "August 15",
+        "October 2",
+        "December 25"
+      ],
+      "correctAnswer": 1,
+      "explanation": "August 15 is Independence Day.",
+      "topic": "Important Days",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p3-q2",
+      "questionText": "What day is Gandhi Jayanti?",
+      "image": "",
+      "options": [
+        "August 15",
+        "January 26",
+        "October 2",
+        "December 25"
+      ],
+      "correctAnswer": 2,
+      "explanation": "October 2 is Gandhi Jayanti.",
+      "topic": "Important Days",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p3-q3",
+      "questionText": "What day is Children's Day in India?",
+      "image": "",
+      "options": [
+        "August 15",
+        "November 14",
+        "October 2",
+        "January 26"
+      ],
+      "correctAnswer": 1,
+      "explanation": "November 14 is Children's Day.",
+      "topic": "Important Days",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p3-q4",
+      "questionText": "What day is Republic Day in India?",
+      "image": "",
+      "options": [
+        "January 26",
+        "August 15",
+        "October 2",
+        "December 25"
+      ],
+      "correctAnswer": 0,
+      "explanation": "January 26 is Republic Day.",
+      "topic": "Important Days",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p3-q5",
+      "questionText": "Which festival is known as the festival of lights?",
+      "image": "",
+      "options": [
+        "Holi",
+        "Diwali",
+        "Eid",
+        "Christmas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Diwali is the festival of lights.",
+      "topic": "Festivals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p3-q6",
+      "questionText": "What festival is celebrated with colors?",
+      "image": "",
+      "options": [
+        "Diwali",
+        "Holi",
+        "Eid",
+        "Christmas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Holi is the festival of colors.",
+      "topic": "Festivals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p3-q7",
+      "questionText": "What festival marks the birth of Jesus?",
+      "image": "",
+      "options": [
+        "Diwali",
+        "Holi",
+        "Eid",
+        "Christmas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Christmas marks Jesus's birth.",
+      "topic": "Festivals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p3-q8",
+      "questionText": "What festival is celebrated with fasting?",
+      "image": "",
+      "options": [
+        "Diwali",
+        "Holi",
+        "Eid",
+        "Christmas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Eid is celebrated with fasting.",
+      "topic": "Festivals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p3-q9",
+      "questionText": "What do we light during Diwali?",
+      "image": "",
+      "options": [
+        "Candles",
+        "Diyas and lamps",
+        "Fireworks only",
+        "Nothing"
+      ],
+      "correctAnswer": 1,
+      "explanation": "We light diyas and lamps during Diwali.",
+      "topic": "Festivals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p3-q10",
+      "questionText": "Which festival is celebrated in spring with colors?",
+      "image": "",
+      "options": [
+        "Diwali",
+        "Holi",
+        "Eid",
+        "Christmas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Holi is the spring festival of colors.",
+      "topic": "Festivals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p3-q11",
+      "questionText": "What do we call a special day for celebration?",
+      "image": "",
+      "options": [
+        "Weekday",
+        "Festival",
+        "Holiday",
+        "Both B and C"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Festivals and holidays are special days.",
+      "topic": "Festivals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p3-q12",
+      "questionText": "What do we call the stories passed down from older generations?",
+      "image": "",
+      "options": [
+        "News",
+        "Folklore",
+        "Movies",
+        "Songs"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Folklore includes traditional stories.",
+      "topic": "Culture",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p3-q13",
+      "questionText": "What do we call the traditional clothes of a region?",
+      "image": "",
+      "options": [
+        "Uniform",
+        "Costume",
+        "Dress",
+        "Outfit"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Traditional clothes are costumes.",
+      "topic": "Culture",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p3-q14",
+      "questionText": "What do we call the food that is special to a region?",
+      "image": "",
+      "options": [
+        "Fast food",
+        "Traditional food",
+        "Junk food",
+        "Frozen food"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Traditional food is special to a region.",
+      "topic": "Culture",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p3-q15",
+      "questionText": "What do we call the music and dance of a region?",
+      "image": "",
+      "options": [
+        "Pop music",
+        "Folk music",
+        "Rock music",
+        "Jazz"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Folk music and dance are traditional.",
+      "topic": "Culture",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p3-q16",
+      "questionText": "Which month is Diwali usually celebrated in?",
+      "image": "",
+      "options": [
+        "January",
+        "March",
+        "October or November",
+        "December"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Diwali is in October or November.",
+      "topic": "Festivals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p3-q17",
+      "questionText": "What do we call a day when we remember a great person?",
+      "image": "",
+      "options": [
+        "Birthday",
+        "Memorial day",
+        "Holiday",
+        "Weekend"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Memorial days honor great people.",
+      "topic": "Important Days",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p3-q18",
+      "questionText": "What do we call the customs and beliefs of a group?",
+      "image": "",
+      "options": [
+        "Science",
+        "Culture",
+        "Math",
+        "Sports"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Culture includes customs and beliefs.",
+      "topic": "Culture",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p3-q19",
+      "questionText": "Which festival is known for exchanging gifts?",
+      "image": "",
+      "options": [
+        "Holi",
+        "Diwali",
+        "Eid",
+        "Christmas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Christmas is known for gift exchange.",
+      "topic": "Festivals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p3-q20",
+      "questionText": "What do we call a language spoken by many people in a region?",
+      "image": "",
+      "options": [
+        "Foreign language",
+        "Regional language",
+        "Secret language",
+        "New language"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Regional languages are spoken in areas.",
+      "topic": "Culture",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p3-q21",
+      "questionText": "What do we call a building where we worship?",
+      "image": "",
+      "options": [
+        "School",
+        "Hospital",
+        "Temple or church",
+        "Market"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Temples and churches are places of worship.",
+      "topic": "Culture",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p3-q22",
+      "questionText": "What do we call art made by hand in traditional ways?",
+      "image": "",
+      "options": [
+        "Machine art",
+        "Handicraft",
+        "Digital art",
+        "Print art"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Handicrafts are made by hand.",
+      "topic": "Culture",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p3-q23",
+      "questionText": "Which festival celebrates the harvest?",
+      "image": "",
+      "options": [
+        "Diwali",
+        "Pongal",
+        "Holi",
+        "Christmas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pongal celebrates the harvest.",
+      "topic": "Festivals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p3-q24",
+      "questionText": "What do we call a special meal shared during festivals?",
+      "image": "",
+      "options": [
+        "Snack",
+        "Feast",
+        "Breakfast",
+        "Lunch"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A feast is a special meal.",
+      "topic": "Festivals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p3-q25",
+      "questionText": "What do we call the way people celebrate their beliefs?",
+      "image": "",
+      "options": [
+        "Science",
+        "Religion",
+        "Sports",
+        "Art"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Religion shapes celebrations.",
+      "topic": "Culture",
+      "difficulty": "easy"
+    }
+  ]
+}

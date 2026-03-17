@@ -1,34 +1,8 @@
-{
-  "tests": [
-    {
-      "id": "1",
-      "title": "IMO Grade 3 Test 1",
-      "durationMinutes": 15,
-      "questionCount": 10
-    },
-    {
-      "id": "2",
-      "title": "IMO Grade 3 Test 2",
-      "durationMinutes": 15,
-      "questionCount": 10
-    },
-    {
-      "id": "3",
-      "title": "IMO Grade 3 Test 3",
-      "durationMinutes": 15,
-      "questionCount": 10
-    },
-    {
-      "id": "4",
-      "title": "IMO Grade 3 Test 4",
-      "durationMinutes": 15,
-      "questionCount": 10
-    },
-    {
-      "id": "5",
-      "title": "IMO Grade 3 Test 5",
-      "durationMinutes": 15,
-      "questionCount": 10
-    }
-  ]
-}
+[
+  {"id": "practice-1", "title": "Numbers and Operations Practice Test", "mode": "practice", "topic": "Numbers and Operations", "questionCount": 25, "durationMinutes": 25},
+  {"id": "practice-2", "title": "Multiplication, Division, and Fractions Practice Test", "mode": "practice", "topic": "Multiplication, Division, and Fractions", "questionCount": 25, "durationMinutes": 25},
+  {"id": "practice-3", "title": "Time, Money, and Measurement Practice Test", "mode": "practice", "topic": "Time, Money, and Measurement", "questionCount": 25, "durationMinutes": 25},
+  {"id": "practice-4", "title": "Shapes, Patterns, Data, and Reasoning Practice Test", "mode": "practice", "topic": "Shapes, Patterns, Data, and Reasoning", "questionCount": 25, "durationMinutes": 25},
+  {"id": "mock-1", "title": "IMO Mock Test 1", "mode": "mock", "questionCount": 25, "durationMinutes": 30},
+  {"id": "mock-2", "title": "IMO Mock Test 2", "mode": "mock", "questionCount": 25, "durationMinutes": 30}
+]

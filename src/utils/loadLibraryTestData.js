@@ -43,6 +43,39 @@ export async function loadPracticePool(examId, gradeId, packs) {
 }
 
 /**
+ * Load a specific practice pack by packId.
+ * @param {string} examId
+ * @param {string} gradeId
+ * @param {string} packId - testId in URL
+ * @param {Array} packs - From useQuestionLibrary().packs
+ * @returns {Promise<{ questions: Array, durationMinutes: number } | null>}
+ */
+export async function loadPracticePack(examId, gradeId, packId, packs) {
+  if (!libraryService.isAvailable()) return null;
+
+  const pack = (packs || []).find(
+    (p) =>
+      p.enabled !== false &&
+      p.exam === examId &&
+      String(p.grade) === String(gradeId) &&
+      p.mode === 'practice' &&
+      p.packId === packId
+  );
+
+  if (!pack) return null;
+
+  const res = await libraryService.loadPackData(pack);
+  if (!res.ok || !res.pack) return null;
+
+  const questions = res.pack.questions || [];
+  return {
+    questions,
+    durationMinutes: res.pack.durationMinutes ?? Math.ceil(questions.length * 1.5),
+    title: res.pack.title,
+  };
+}
+
+/**
  * Load a specific mock pack by packId.
  * @param {string} examId
  * @param {string} gradeId

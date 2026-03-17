@@ -1,0 +1,386 @@
+{
+  "packId": "isso-grade3-practice-01",
+  "exam": "isso",
+  "grade": 3,
+  "mode": "practice",
+  "topic": "History and Indian Leaders",
+  "title": "History and Indian Leaders Practice Test",
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "isso-g3-p1-q1",
+      "questionText": "Who is known as the Father of the Nation in India?",
+      "image": "",
+      "options": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Bhagat Singh",
+        "Subhas Chandra Bose"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mahatma Gandhi is the Father of the Nation.",
+      "topic": "Indian Leaders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p1-q2",
+      "questionText": "Who was the first Prime Minister of India?",
+      "image": "",
+      "options": [
+        "Mahatma Gandhi",
+        "Sardar Patel",
+        "Jawaharlal Nehru",
+        "Dr. Rajendra Prasad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Jawaharlal Nehru was the first PM.",
+      "topic": "Indian Leaders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p1-q3",
+      "questionText": "What is the study of the past?",
+      "image": "",
+      "options": [
+        "Geography",
+        "Science",
+        "History",
+        "Math"
+      ],
+      "correctAnswer": 2,
+      "explanation": "History studies the past.",
+      "topic": "History",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p1-q4",
+      "questionText": "On which date does India celebrate Independence Day?",
+      "image": "",
+      "options": [
+        "January 26",
+        "August 15",
+        "October 2",
+        "December 25"
+      ],
+      "correctAnswer": 1,
+      "explanation": "August 15 is Independence Day.",
+      "topic": "History",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p1-q5",
+      "questionText": "What are the rules that a country follows?",
+      "image": "",
+      "options": [
+        "Story",
+        "Constitution",
+        "Poem",
+        "Song"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Constitution has the rules.",
+      "topic": "Government",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p1-q6",
+      "questionText": "What is the head of the Indian government?",
+      "image": "",
+      "options": [
+        "President",
+        "Prime Minister",
+        "Chief Minister",
+        "Mayor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Prime Minister heads the government.",
+      "topic": "Government",
+      "difficulty": "medium"
+    },
+    {
+      "id": "isso-g3-p1-q7",
+      "questionText": "What is a place where people vote?",
+      "image": "",
+      "options": [
+        "School",
+        "Hospital",
+        "Polling station",
+        "Market"
+      ],
+      "correctAnswer": 2,
+      "explanation": "People vote at polling stations.",
+      "topic": "Democracy",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p1-q8",
+      "questionText": "What do we call a group of people who live together and follow rules?",
+      "image": "",
+      "options": [
+        "Family",
+        "Society",
+        "School",
+        "Office"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Society is a group of people.",
+      "topic": "Society",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p1-q9",
+      "questionText": "Which type of family has parents, children, and grandparents together?",
+      "image": "",
+      "options": [
+        "Nuclear family",
+        "Joint family",
+        "Single family",
+        "No family"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A joint family has many generations.",
+      "topic": "Family",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p1-q10",
+      "questionText": "What right means we can say what we think?",
+      "image": "",
+      "options": [
+        "Right to education",
+        "Freedom of speech",
+        "Right to vote",
+        "Right to food"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Freedom of speech lets us express.",
+      "topic": "Rights",
+      "difficulty": "medium"
+    },
+    {
+      "id": "isso-g3-p1-q11",
+      "questionText": "What is a building that displays old artifacts?",
+      "image": "",
+      "options": [
+        "Library",
+        "Museum",
+        "Hospital",
+        "School"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A museum shows old things.",
+      "topic": "Places",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p1-q12",
+      "questionText": "Who was the first President of India?",
+      "image": "",
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Dr. Rajendra Prasad",
+        "Sardar Patel"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Dr. Rajendra Prasad was the first President.",
+      "topic": "Indian Leaders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p1-q13",
+      "questionText": "What do we call the movement led by Gandhi for India's freedom?",
+      "image": "",
+      "options": [
+        "War",
+        "Freedom movement",
+        "Revolution",
+        "Rebellion"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The freedom movement led to independence.",
+      "topic": "History",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p1-q14",
+      "questionText": "What do we call a person who fights for their country's freedom?",
+      "image": "",
+      "options": [
+        "Soldier",
+        "Freedom fighter",
+        "Pilot",
+        "Doctor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Freedom fighters work for independence.",
+      "topic": "History",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p1-q15",
+      "questionText": "What do we call the year India became independent?",
+      "image": "",
+      "options": [
+        "1945",
+        "1947",
+        "1950",
+        "1952"
+      ],
+      "correctAnswer": 1,
+      "explanation": "India became independent in 1947.",
+      "topic": "History",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p1-q16",
+      "questionText": "What do we call the year India became a Republic?",
+      "image": "",
+      "options": [
+        "1945",
+        "1947",
+        "1950",
+        "1952"
+      ],
+      "correctAnswer": 2,
+      "explanation": "India became a Republic in 1950.",
+      "topic": "History",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p1-q17",
+      "questionText": "What is the system where people choose their leaders?",
+      "image": "",
+      "options": [
+        "Monarchy",
+        "Democracy",
+        "Dictatorship",
+        "Empire"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Democracy lets people choose leaders.",
+      "topic": "Government",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p1-q18",
+      "questionText": "What is the right to choose our leaders?",
+      "image": "",
+      "options": [
+        "Right to education",
+        "Right to vote",
+        "Right to food",
+        "Right to speak"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The right to vote lets us choose.",
+      "topic": "Rights",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p1-q19",
+      "questionText": "What is a family with only parents and children?",
+      "image": "",
+      "options": [
+        "Joint family",
+        "Nuclear family",
+        "Big family",
+        "Old family"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A nuclear family has parents and children.",
+      "topic": "Family",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p1-q20",
+      "questionText": "What do we call the place where government works?",
+      "image": "",
+      "options": [
+        "School",
+        "Hospital",
+        "Government office",
+        "Market"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Government works in offices.",
+      "topic": "Government",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p1-q21",
+      "questionText": "What do we call a person who makes laws?",
+      "image": "",
+      "options": [
+        "Doctor",
+        "Teacher",
+        "Lawmaker",
+        "Farmer"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Lawmakers create laws.",
+      "topic": "Government",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p1-q22",
+      "questionText": "What is the book that has our country's rules?",
+      "image": "",
+      "options": [
+        "Storybook",
+        "Constitution",
+        "Diary",
+        "Textbook"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Constitution has our rules.",
+      "topic": "Government",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p1-q23",
+      "questionText": "What do we call the leader of a state?",
+      "image": "",
+      "options": [
+        "Prime Minister",
+        "President",
+        "Chief Minister",
+        "Mayor"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Chief Minister leads a state.",
+      "topic": "Government",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p1-q24",
+      "questionText": "What do we call the leader of a city?",
+      "image": "",
+      "options": [
+        "Prime Minister",
+        "President",
+        "Chief Minister",
+        "Mayor"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A Mayor leads a city.",
+      "topic": "Government",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p1-q25",
+      "questionText": "What do we call the ceremony when a leader takes charge?",
+      "image": "",
+      "options": [
+        "Birthday",
+        "Oath ceremony",
+        "Festival",
+        "Meeting"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Oath ceremony is when leaders take charge.",
+      "topic": "Government",
+      "difficulty": "easy"
+    }
+  ]
+}

@@ -13,7 +13,8 @@
     "preview": "vite preview",
     "lint": "eslint .",
     "generate": "node scripts/generate-questions.js",
-    "validate": "node scripts/validate-questions.js"
+    "validate": "node scripts/validate-questions.js",
+    "validate:packs": "node scripts/validate-packs.js"
   },
   "dependencies": {
     "react": "^19.2.4",

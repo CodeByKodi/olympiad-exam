@@ -1,0 +1,386 @@
+{
+  "packId": "igko-grade3-practice-01",
+  "exam": "igko",
+  "grade": 3,
+  "mode": "practice",
+  "topic": "Continents, Oceans, and Geography",
+  "title": "Continents, Oceans, and Geography Practice Test",
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "igko-g3-p1-q1",
+      "questionText": "How many continents are there in the world?",
+      "image": "",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 2,
+      "explanation": "There are 7 continents.",
+      "topic": "Continents",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p1-q2",
+      "questionText": "Which ocean is the largest in the world?",
+      "image": "",
+      "options": [
+        "Atlantic",
+        "Indian",
+        "Pacific",
+        "Arctic"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Pacific is the largest ocean.",
+      "topic": "Oceans",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p1-q3",
+      "questionText": "What is the smallest continent?",
+      "image": "",
+      "options": [
+        "Europe",
+        "Antarctica",
+        "Australia",
+        "South America"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Australia is the smallest continent.",
+      "topic": "Continents",
+      "difficulty": "medium"
+    },
+    {
+      "id": "igko-g3-p1-q4",
+      "questionText": "What continent has the most people?",
+      "image": "",
+      "options": [
+        "Africa",
+        "Europe",
+        "Asia",
+        "North America"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Asia has the most people.",
+      "topic": "Continents",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p1-q5",
+      "questionText": "What ocean is between Africa and Australia?",
+      "image": "",
+      "options": [
+        "Atlantic",
+        "Indian",
+        "Pacific",
+        "Arctic"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Indian Ocean is between them.",
+      "topic": "Oceans",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p1-q6",
+      "questionText": "What is the study of the Earth's surface?",
+      "image": "",
+      "options": [
+        "History",
+        "Geography",
+        "Science",
+        "Math"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Geography studies the Earth.",
+      "topic": "Geography",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p1-q7",
+      "questionText": "What do we call a drawing of the earth or a part of it?",
+      "image": "",
+      "options": [
+        "Picture",
+        "Map",
+        "Photo",
+        "Painting"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A map shows the earth.",
+      "topic": "Maps",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p1-q8",
+      "questionText": "What do we use to find directions?",
+      "image": "",
+      "options": [
+        "Watch",
+        "Compass",
+        "Ruler",
+        "Pen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A compass shows directions.",
+      "topic": "Directions",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p1-q9",
+      "questionText": "What direction does the Sun rise from?",
+      "image": "",
+      "options": [
+        "North",
+        "South",
+        "East",
+        "West"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Sun rises in the East.",
+      "topic": "Directions",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p1-q10",
+      "questionText": "What direction does the Sun set in?",
+      "image": "",
+      "options": [
+        "North",
+        "South",
+        "East",
+        "West"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Sun sets in the West.",
+      "topic": "Directions",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p1-q11",
+      "questionText": "What is the largest country by area?",
+      "image": "",
+      "options": [
+        "China",
+        "India",
+        "Russia",
+        "USA"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Russia is the largest country.",
+      "topic": "Countries",
+      "difficulty": "medium"
+    },
+    {
+      "id": "igko-g3-p1-q12",
+      "questionText": "What is the capital of India?",
+      "image": "",
+      "options": [
+        "Mumbai",
+        "Kolkata",
+        "New Delhi",
+        "Chennai"
+      ],
+      "correctAnswer": 2,
+      "explanation": "New Delhi is the capital.",
+      "topic": "Capitals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p1-q13",
+      "questionText": "What do we call the capital of Japan?",
+      "image": "",
+      "options": [
+        "Beijing",
+        "Seoul",
+        "Tokyo",
+        "Bangkok"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Tokyo is the capital of Japan.",
+      "topic": "Capitals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p1-q14",
+      "questionText": "What do we call the capital of China?",
+      "image": "",
+      "options": [
+        "Shanghai",
+        "Beijing",
+        "Hong Kong",
+        "Tokyo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Beijing is the capital.",
+      "topic": "Capitals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p1-q15",
+      "questionText": "What do we call the capital of England?",
+      "image": "",
+      "options": [
+        "Paris",
+        "London",
+        "Berlin",
+        "Rome"
+      ],
+      "correctAnswer": 1,
+      "explanation": "London is the capital.",
+      "topic": "Capitals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p1-q16",
+      "questionText": "What country has the Taj Mahal?",
+      "image": "",
+      "options": [
+        "China",
+        "India",
+        "Pakistan",
+        "Bangladesh"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Taj Mahal is in India.",
+      "topic": "Monuments",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p1-q17",
+      "questionText": "What country has the Great Wall?",
+      "image": "",
+      "options": [
+        "India",
+        "Japan",
+        "China",
+        "Korea"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Great Wall is in China.",
+      "topic": "Monuments",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p1-q18",
+      "questionText": "What country has the Eiffel Tower?",
+      "image": "",
+      "options": [
+        "Italy",
+        "Germany",
+        "France",
+        "Spain"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Eiffel Tower is in France.",
+      "topic": "Monuments",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p1-q19",
+      "questionText": "What is a drawing that shows roads and places?",
+      "image": "",
+      "options": [
+        "Painting",
+        "Map",
+        "Photo",
+        "Drawing"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A map shows roads and places.",
+      "topic": "Maps",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p1-q20",
+      "questionText": "What continent is India in?",
+      "image": "",
+      "options": [
+        "Africa",
+        "Europe",
+        "Asia",
+        "Australia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "India is in Asia.",
+      "topic": "Continents",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p1-q21",
+      "questionText": "What ocean is the coldest?",
+      "image": "",
+      "options": [
+        "Atlantic",
+        "Indian",
+        "Pacific",
+        "Arctic"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Arctic Ocean is the coldest.",
+      "topic": "Oceans",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p1-q22",
+      "questionText": "What is a model of the Earth shaped like a ball?",
+      "image": "",
+      "options": [
+        "Map",
+        "Globe",
+        "Compass",
+        "Chart"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A globe is a model of Earth.",
+      "topic": "Maps",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p1-q23",
+      "questionText": "Which continent has the Sahara Desert?",
+      "image": "",
+      "options": [
+        "Asia",
+        "Europe",
+        "Africa",
+        "Australia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Sahara is in Africa.",
+      "topic": "Geography",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p1-q24",
+      "questionText": "Which continent has no permanent residents?",
+      "image": "",
+      "options": [
+        "Europe",
+        "Antarctica",
+        "Australia",
+        "South America"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Antarctica has no permanent residents.",
+      "topic": "Continents",
+      "difficulty": "medium"
+    },
+    {
+      "id": "igko-g3-p1-q25",
+      "questionText": "What do we call the four main directions?",
+      "image": "",
+      "options": [
+        "Cardinal directions",
+        "Side directions",
+        "Main directions",
+        "Basic directions"
+      ],
+      "correctAnswer": 0,
+      "explanation": "North, South, East, West are cardinal directions.",
+      "topic": "Directions",
+      "difficulty": "easy"
+    }
+  ]
+}

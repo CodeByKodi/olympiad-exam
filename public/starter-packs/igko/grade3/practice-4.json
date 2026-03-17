@@ -1,0 +1,386 @@
+{
+  "packId": "igko-grade3-practice-04",
+  "exam": "igko",
+  "grade": 3,
+  "mode": "practice",
+  "topic": "Space, Science, and Current Affairs",
+  "title": "Space, Science, and Current Affairs Practice Test",
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "igko-g3-p4-q1",
+      "questionText": "What do we call the Sun?",
+      "image": "",
+      "options": [
+        "A planet",
+        "A star",
+        "A moon",
+        "A comet"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Sun is a star.",
+      "topic": "Space",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p4-q2",
+      "questionText": "What is a person who travels to space?",
+      "image": "",
+      "options": [
+        "Pilot",
+        "Astronaut",
+        "Sailor",
+        "Driver"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An astronaut travels to space.",
+      "topic": "Space",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p4-q3",
+      "questionText": "What planet do we live on?",
+      "image": "",
+      "options": [
+        "Moon",
+        "Sun",
+        "Earth",
+        "Mars"
+      ],
+      "correctAnswer": 2,
+      "explanation": "We live on Earth.",
+      "topic": "Space",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p4-q4",
+      "questionText": "What is Earth's natural satellite?",
+      "image": "",
+      "options": [
+        "Sun",
+        "Star",
+        "Moon",
+        "Planet"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Moon is Earth's satellite.",
+      "topic": "Space",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p4-q5",
+      "questionText": "What is the closest star to Earth?",
+      "image": "",
+      "options": [
+        "Moon",
+        "Sun",
+        "Mars",
+        "Venus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Sun is the closest star.",
+      "topic": "Space",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p4-q6",
+      "questionText": "What is the path of the Moon around Earth?",
+      "image": "",
+      "options": [
+        "Rotation",
+        "Orbit",
+        "Revolution",
+        "Spin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Moon orbits Earth.",
+      "topic": "Space",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p4-q7",
+      "questionText": "What causes day and night on Earth?",
+      "image": "",
+      "options": [
+        "The Moon moves",
+        "Earth spins on its axis",
+        "The Sun moves",
+        "Stars appear"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Earth's rotation causes day and night.",
+      "topic": "Space",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p4-q8",
+      "questionText": "What do we call the study of stars and space called?",
+      "image": "",
+      "options": [
+        "Biology",
+        "Astronomy",
+        "Geography",
+        "History"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Astronomy studies stars and space.",
+      "topic": "Space",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p4-q9",
+      "questionText": "What is a vehicle that goes to space?",
+      "image": "",
+      "options": [
+        "Car",
+        "Rocket",
+        "Ship",
+        "Plane"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rockets go to space.",
+      "topic": "Space",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p4-q10",
+      "questionText": "What is the force that pulls us toward Earth?",
+      "image": "",
+      "options": [
+        "Magnetism",
+        "Gravity",
+        "Wind",
+        "Water"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gravity pulls us toward Earth.",
+      "topic": "Science",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p4-q11",
+      "questionText": "What do we call the news and events happening now?",
+      "image": "",
+      "options": [
+        "History",
+        "Current affairs",
+        "Future",
+        "Past"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Current affairs are present events.",
+      "topic": "Current Affairs",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p4-q12",
+      "questionText": "What do we call a person who leads a country?",
+      "image": "",
+      "options": [
+        "Teacher",
+        "Doctor",
+        "Leader or President",
+        "Driver"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Leaders or presidents lead countries.",
+      "topic": "Current Affairs",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p4-q13",
+      "questionText": "What do we call a place where we get news?",
+      "image": "",
+      "options": [
+        "School",
+        "Hospital",
+        "News source",
+        "Park"
+      ],
+      "correctAnswer": 2,
+      "explanation": "News comes from news sources.",
+      "topic": "Current Affairs",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p4-q14",
+      "questionText": "What do we call a sport played with a bat and ball?",
+      "image": "",
+      "options": [
+        "Football",
+        "Cricket",
+        "Tennis",
+        "Swimming"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cricket uses bat and ball.",
+      "topic": "Sports",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p4-q15",
+      "questionText": "What do we call a competition where people run?",
+      "image": "",
+      "options": [
+        "Swimming",
+        "Race",
+        "Jumping",
+        "Cycling"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A race is a running competition.",
+      "topic": "Sports",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p4-q16",
+      "questionText": "What do we call the Olympic Games?",
+      "image": "",
+      "options": [
+        "School event",
+        "International sports event",
+        "Local game",
+        "Family game"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Olympics are international sports.",
+      "topic": "Sports",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p4-q17",
+      "questionText": "What do we call a person who wins a competition?",
+      "image": "",
+      "options": [
+        "Loser",
+        "Winner",
+        "Player",
+        "Spectator"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The winner is the one who wins.",
+      "topic": "Sports",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p4-q18",
+      "questionText": "What do we call a medal given to the first place?",
+      "image": "",
+      "options": [
+        "Bronze",
+        "Silver",
+        "Gold",
+        "Copper"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Gold medal is for first place.",
+      "topic": "Sports",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p4-q19",
+      "questionText": "What do we call a book that tells us about the world?",
+      "image": "",
+      "options": [
+        "Storybook",
+        "Atlas",
+        "Comic",
+        "Novel"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An atlas has maps of the world.",
+      "topic": "General Knowledge",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p4-q20",
+      "questionText": "What do we call a person who writes books?",
+      "image": "",
+      "options": [
+        "Painter",
+        "Author",
+        "Singer",
+        "Dancer"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An author writes books.",
+      "topic": "General Knowledge",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p4-q21",
+      "questionText": "What do we call a person who discovers new things?",
+      "image": "",
+      "options": [
+        "Teacher",
+        "Inventor",
+        "Driver",
+        "Farmer"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Inventors discover new things.",
+      "topic": "Science",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p4-q22",
+      "questionText": "What do we call the study of living things?",
+      "image": "",
+      "options": [
+        "Physics",
+        "Biology",
+        "Chemistry",
+        "Math"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Biology studies living things.",
+      "topic": "Science",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p4-q23",
+      "questionText": "What do we call a machine that helps us compute?",
+      "image": "",
+      "options": [
+        "Television",
+        "Computer",
+        "Radio",
+        "Refrigerator"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A computer helps us compute.",
+      "topic": "Science",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p4-q24",
+      "questionText": "What do we call the study of numbers?",
+      "image": "",
+      "options": [
+        "Science",
+        "Math",
+        "History",
+        "Geography"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Math is the study of numbers.",
+      "topic": "Science",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p4-q25",
+      "questionText": "What do we call a person who travels to new places?",
+      "image": "",
+      "options": [
+        "Teacher",
+        "Explorer",
+        "Driver",
+        "Farmer"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explorers travel to new places.",
+      "topic": "General Knowledge",
+      "difficulty": "easy"
+    }
+  ]
+}
