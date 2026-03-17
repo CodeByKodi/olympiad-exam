@@ -1,0 +1,386 @@
+{
+  "packId": "ics-grade3-practice-03",
+  "exam": "ics",
+  "grade": 3,
+  "mode": "practice",
+  "topic": "Software, Tools, and Basic Operations",
+  "title": "Software, Tools, and Basic Operations Practice Test",
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "ics-g3-p3-q1",
+      "questionText": "What are the programs on a computer called?",
+      "image": "",
+      "options": [
+        "Physical parts of computer",
+        "Programs that run on computer",
+        "The screen",
+        "The power cable"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Software is the programs we use.",
+      "topic": "Software, Tools, and Basic Operations",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p3-q2",
+      "questionText": "What are the physical parts of a computer called?",
+      "image": "",
+      "options": [
+        "Software",
+        "Hardware",
+        "Programs",
+        "Applications"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Hardware is the physical parts.",
+      "topic": "Software, Tools, and Basic Operations",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p3-q3",
+      "questionText": "Which program helps us do math calculations?",
+      "image": "",
+      "options": [
+        "Paint",
+        "Calculator",
+        "Browser",
+        "Notepad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Calculator is for math.",
+      "topic": "Software, Tools, and Basic Operations",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p3-q4",
+      "questionText": "Which program helps us write simple text?",
+      "image": "",
+      "options": [
+        "Paint",
+        "Calculator",
+        "Notepad",
+        "Browser"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Notepad is a simple text editor where you can type and save notes.",
+      "topic": "Software, Tools, and Basic Operations",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p3-q5",
+      "questionText": "What do we call the blinking line or arrow that shows where we are on screen?",
+      "image": "",
+      "options": [
+        "A key",
+        "A cursor",
+        "A type of file",
+        "A printer"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The cursor shows where we are.",
+      "topic": "Software, Tools, and Basic Operations",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p3-q6",
+      "questionText": "What do we call the small pictures we click to open programs?",
+      "image": "",
+      "options": [
+        "Folder",
+        "File",
+        "Icon",
+        "Menu"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Icons are small pictures we click.",
+      "topic": "Software, Tools, and Basic Operations",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p3-q7",
+      "questionText": "What is the first screen we see after the computer starts?",
+      "image": "",
+      "options": [
+        "Folder",
+        "File",
+        "Desktop",
+        "Icon"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The desktop is the first screen we see.",
+      "topic": "Software, Tools, and Basic Operations",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p3-q8",
+      "questionText": "What do we call a place where we store many files together?",
+      "image": "",
+      "options": [
+        "File",
+        "Folder",
+        "Desktop",
+        "Icon"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A folder holds files.",
+      "topic": "Software, Tools, and Basic Operations",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p3-q9",
+      "questionText": "What does the Cut command do?",
+      "image": "",
+      "options": [
+        "Copies text",
+        "Removes text to paste elsewhere",
+        "Saves the file",
+        "Prints the file"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cut removes text to paste elsewhere.",
+      "topic": "Software, Tools, and Basic Operations",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p3-q10",
+      "questionText": "Which key creates a new line when typing?",
+      "image": "",
+      "options": [
+        "Space",
+        "Enter",
+        "Tab",
+        "Shift"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Enter creates a new line.",
+      "topic": "Software, Tools, and Basic Operations",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p3-q11",
+      "questionText": "What is the bar at the top of a window?",
+      "image": "",
+      "options": [
+        "Status bar",
+        "Title bar",
+        "Menu bar",
+        "Toolbar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The title bar shows the window name.",
+      "topic": "Software, Tools, and Basic Operations",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p3-q12",
+      "questionText": "What do we call a list of options we can choose from in a program?",
+      "image": "",
+      "options": [
+        "Icon",
+        "Folder",
+        "Menu",
+        "File"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A menu shows options.",
+      "topic": "Software, Tools, and Basic Operations",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p3-q13",
+      "questionText": "What do we call a picture or link that opens a program quickly?",
+      "image": "",
+      "options": [
+        "Folder",
+        "File",
+        "Shortcut",
+        "Menu"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A shortcut opens a program quickly.",
+      "topic": "Software, Tools, and Basic Operations",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p3-q14",
+      "questionText": "Which key do we press to cancel an action?",
+      "image": "",
+      "options": [
+        "Enter",
+        "Shift",
+        "Escape",
+        "Tab"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Escape cancels or closes.",
+      "topic": "Software, Tools, and Basic Operations",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p3-q15",
+      "questionText": "What do we call the part of the computer that does calculations?",
+      "image": "",
+      "options": [
+        "Monitor",
+        "Keyboard",
+        "CPU",
+        "Mouse"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The CPU does calculations.",
+      "topic": "Software, Tools, and Basic Operations",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p3-q16",
+      "questionText": "Which part of the computer stores information when it is turned off?",
+      "image": "",
+      "options": [
+        "Monitor",
+        "RAM",
+        "Hard disk",
+        "Keyboard"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The hard disk stores files permanently.",
+      "topic": "Software, Tools, and Basic Operations",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ics-g3-p3-q17",
+      "questionText": "What do we use to open and view websites?",
+      "image": "",
+      "options": [
+        "Calculator",
+        "Web browser",
+        "Paint",
+        "Notepad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A browser lets you visit websites.",
+      "topic": "Software, Tools, and Basic Operations",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p3-q18",
+      "questionText": "What do we call the address of a website?",
+      "image": "",
+      "options": [
+        "URL",
+        "USB",
+        "CPU",
+        "RAM"
+      ],
+      "correctAnswer": 0,
+      "explanation": "URL is a website address.",
+      "topic": "Software, Tools, and Basic Operations",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p3-q19",
+      "questionText": "Which key do we use to add a space between words?",
+      "image": "",
+      "options": [
+        "Enter",
+        "Tab",
+        "Space",
+        "Shift"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Space adds a space between words.",
+      "topic": "Software, Tools, and Basic Operations",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p3-q20",
+      "questionText": "What do we call the key that makes letters uppercase?",
+      "image": "",
+      "options": [
+        "Enter",
+        "Caps Lock",
+        "Tab",
+        "Space"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Caps Lock makes uppercase letters.",
+      "topic": "Software, Tools, and Basic Operations",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p3-q21",
+      "questionText": "What key do we hold to type a capital letter?",
+      "image": "",
+      "options": [
+        "Enter",
+        "Shift",
+        "Space",
+        "Tab"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Shift helps type capital letters.",
+      "topic": "Software, Tools, and Basic Operations",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p3-q22",
+      "questionText": "What do we call saving a copy of a file with a new name?",
+      "image": "",
+      "options": [
+        "Copy",
+        "Save As",
+        "Delete",
+        "Move"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Save As saves with a new name.",
+      "topic": "Software, Tools, and Basic Operations",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ics-g3-p3-q23",
+      "questionText": "What do we call removing a file from the computer?",
+      "image": "",
+      "options": [
+        "Copy",
+        "Move",
+        "Delete",
+        "Save"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Delete removes a file.",
+      "topic": "Software, Tools, and Basic Operations",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p3-q24",
+      "questionText": "What key do we press to save a file?",
+      "image": "",
+      "options": [
+        "Ctrl+S or Cmd+S",
+        "Ctrl+N",
+        "Ctrl+P",
+        "Ctrl+C"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ctrl+S saves the file.",
+      "topic": "Software, Tools, and Basic Operations",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p3-q25",
+      "questionText": "What do we call making a copy of a file in another location?",
+      "image": "",
+      "options": [
+        "Move",
+        "Delete",
+        "Copy",
+        "Cut"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Copy makes a duplicate.",
+      "topic": "Software, Tools, and Basic Operations",
+      "difficulty": "easy"
+    }
+  ]
+}

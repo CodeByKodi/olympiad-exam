@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { loadTestData } from '../utils/loadTestData';
-import { loadPracticePool, loadMockPack } from '../utils/loadLibraryTestData';
+import { loadPracticePool, loadPracticePack, loadMockPack } from '../utils/loadLibraryTestData';
 import { normalizeCorrectAnswer } from '../utils/scoreUtils';
 import { useQuestionLibrary } from '../context/QuestionLibraryContext';
 import { TESTS_PER_EXAM } from '../constants/exams';
@@ -37,9 +37,19 @@ export function useTestData(examId, gradeId, testId, shuffleQuestions = false, s
       const isPracticePool = testId === 'practice';
       const mockPacks = getMockPacks(examId, gradeId);
       const isLibraryMock = mockPacks.some((p) => p.id === testId);
+      const isLibraryPracticePack = packs.some(
+        (p) =>
+          p.enabled !== false &&
+          p.exam === examId &&
+          String(p.grade) === String(gradeId) &&
+          p.mode === 'practice' &&
+          p.packId === testId
+      );
 
       if (isPracticePool && hasLibraryPacks(examId, gradeId, 'practice')) {
         raw = await loadPracticePool(examId, gradeId, packs);
+      } else if (isLibraryPracticePack) {
+        raw = await loadPracticePack(examId, gradeId, testId, packs);
       } else if (isLibraryMock) {
         raw = await loadMockPack(examId, gradeId, testId, packs);
       }

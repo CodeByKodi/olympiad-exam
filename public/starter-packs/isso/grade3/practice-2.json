@@ -1,0 +1,386 @@
+{
+  "packId": "isso-grade3-practice-02",
+  "exam": "isso",
+  "grade": 3,
+  "mode": "practice",
+  "topic": "Maps, Geography, and Landforms",
+  "title": "Maps, Geography, and Landforms Practice Test",
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "isso-g3-p2-q1",
+      "questionText": "What is a map used for in social studies?",
+      "image": "",
+      "options": [
+        "Drawing pictures",
+        "Showing places and directions",
+        "Writing stories",
+        "Playing games"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Maps show places and directions.",
+      "topic": "Maps",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p2-q2",
+      "questionText": "What is a low area between hills?",
+      "image": "",
+      "options": [
+        "Mountain",
+        "Valley",
+        "Plain",
+        "Desert"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A valley is between hills.",
+      "topic": "Landforms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p2-q3",
+      "questionText": "What is land that rises high above the ground?",
+      "image": "",
+      "options": [
+        "Valley",
+        "Mountain",
+        "Plain",
+        "Desert"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A mountain rises high.",
+      "topic": "Landforms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p2-q4",
+      "questionText": "What is a flat area of land?",
+      "image": "",
+      "options": [
+        "Mountain",
+        "Valley",
+        "Plain",
+        "Hill"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A plain is flat land.",
+      "topic": "Landforms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p2-q5",
+      "questionText": "What is a dry area with little rain?",
+      "image": "",
+      "options": [
+        "Forest",
+        "Desert",
+        "Plain",
+        "Valley"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A desert has little rain.",
+      "topic": "Landforms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p2-q6",
+      "questionText": "What is a flowing body of water?",
+      "image": "",
+      "options": [
+        "Lake",
+        "Ocean",
+        "River",
+        "Pond"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A river flows.",
+      "topic": "Water bodies",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p2-q7",
+      "questionText": "Which ocean is the biggest in the world?",
+      "image": "",
+      "options": [
+        "Atlantic",
+        "Indian",
+        "Pacific",
+        "Arctic"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Pacific is the largest.",
+      "topic": "Water bodies",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p2-q8",
+      "questionText": "What is a large body of water surrounded by land?",
+      "image": "",
+      "options": [
+        "River",
+        "Ocean",
+        "Lake",
+        "Pond"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A lake is surrounded by land.",
+      "topic": "Water bodies",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p2-q9",
+      "questionText": "What is a large area covered with trees?",
+      "image": "",
+      "options": [
+        "Desert",
+        "Forest",
+        "Plain",
+        "Valley"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A forest has many trees.",
+      "topic": "Landforms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p2-q10",
+      "questionText": "What do we call the study of Earth's physical features?",
+      "image": "",
+      "options": [
+        "History",
+        "Geography",
+        "Science",
+        "Math"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Geography studies Earth's features.",
+      "topic": "Geography",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p2-q11",
+      "questionText": "What do we call a drawing that shows where places are?",
+      "image": "",
+      "options": [
+        "Picture",
+        "Map",
+        "Photo",
+        "Painting"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A map shows where places are.",
+      "topic": "Maps",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p2-q12",
+      "questionText": "What do we use to find north, south, east, and west?",
+      "image": "",
+      "options": [
+        "Watch",
+        "Compass",
+        "Ruler",
+        "Pen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A compass shows directions.",
+      "topic": "Maps",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p2-q13",
+      "questionText": "What do we call a round model that shows the Earth?",
+      "image": "",
+      "options": [
+        "Map",
+        "Globe",
+        "Compass",
+        "Chart"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A globe is a model of Earth.",
+      "topic": "Maps",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p2-q14",
+      "questionText": "What do we call the line that divides Earth into north and south?",
+      "image": "",
+      "options": [
+        "Equator",
+        "Pole",
+        "Border",
+        "Edge"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Equator divides north and south.",
+      "topic": "Geography",
+      "difficulty": "medium"
+    },
+    {
+      "id": "isso-g3-p2-q15",
+      "questionText": "What do we call a small river that flows into a big river?",
+      "image": "",
+      "options": [
+        "Lake",
+        "Stream or tributary",
+        "Ocean",
+        "Pond"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A tributary flows into a bigger river.",
+      "topic": "Water bodies",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p2-q16",
+      "questionText": "What do we call a piece of land surrounded by water?",
+      "image": "",
+      "options": [
+        "Peninsula",
+        "Island",
+        "Continent",
+        "Valley"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An island is surrounded by water.",
+      "topic": "Landforms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p2-q17",
+      "questionText": "What do we call a hill of sand in the desert?",
+      "image": "",
+      "options": [
+        "Mountain",
+        "Valley",
+        "Dune",
+        "Plain"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A dune is a sand hill.",
+      "topic": "Landforms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p2-q18",
+      "questionText": "What do we call the place where a river meets the sea?",
+      "image": "",
+      "options": [
+        "Source",
+        "Delta",
+        "Mouth",
+        "Bank"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The mouth is where river meets sea.",
+      "topic": "Water bodies",
+      "difficulty": "medium"
+    },
+    {
+      "id": "isso-g3-p2-q19",
+      "questionText": "What do we call a large area of flat land with grass?",
+      "image": "",
+      "options": [
+        "Desert",
+        "Forest",
+        "Grassland",
+        "Mountain"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Grasslands have grass and few trees.",
+      "topic": "Landforms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p2-q20",
+      "questionText": "What do we call the capital of India?",
+      "image": "",
+      "options": [
+        "Mumbai",
+        "Kolkata",
+        "New Delhi",
+        "Chennai"
+      ],
+      "correctAnswer": 2,
+      "explanation": "New Delhi is the capital.",
+      "topic": "Geography",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p2-q21",
+      "questionText": "What do we call the seven large land areas on Earth?",
+      "image": "",
+      "options": [
+        "Countries",
+        "Continents",
+        "Islands",
+        "Oceans"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Continents are large land areas.",
+      "topic": "Geography",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p2-q22",
+      "questionText": "What do we call the five large water bodies on Earth?",
+      "image": "",
+      "options": [
+        "Rivers",
+        "Lakes",
+        "Oceans",
+        "Ponds"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Oceans are large water bodies.",
+      "topic": "Water bodies",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p2-q23",
+      "questionText": "What do we call a place where we buy and sell things?",
+      "image": "",
+      "options": [
+        "School",
+        "Hospital",
+        "Market",
+        "Park"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A market is for buying and selling.",
+      "topic": "Places",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p2-q24",
+      "questionText": "What is a place where we keep books to read?",
+      "image": "",
+      "options": [
+        "Museum",
+        "Library",
+        "Hospital",
+        "Market"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A library has books to read.",
+      "topic": "Places",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p2-q25",
+      "questionText": "What do we call a place where sick people go for treatment?",
+      "image": "",
+      "options": [
+        "School",
+        "Hospital",
+        "Market",
+        "Park"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A hospital treats sick people.",
+      "topic": "Places",
+      "difficulty": "easy"
+    }
+  ]
+}

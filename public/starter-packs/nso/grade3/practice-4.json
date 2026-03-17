@@ -1,0 +1,261 @@
+{
+  "packId": "nso-grade3-earth-environment-space-practice-04",
+  "exam": "nso",
+  "grade": 3,
+  "mode": "practice",
+  "topic": "Earth, Environment, and Space",
+  "title": "Earth, Environment, and Space Practice Test",
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "nso-g3-ees-q1",
+      "questionText": "What do we breathe in from the air?",
+      "image": "",
+      "options": ["Carbon dioxide", "Oxygen", "Smoke", "Dust"],
+      "correctAnswer": 1,
+      "explanation": "We breathe in oxygen from the air. It is essential for life.",
+      "topic": "Air and Water",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-ees-q2",
+      "questionText": "Which planet do we live on?",
+      "image": "",
+      "options": ["Moon", "Sun", "Earth", "Mars"],
+      "correctAnswer": 2,
+      "explanation": "We live on Earth. It is the only planet with life.",
+      "topic": "Earth and Space",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-ees-q3",
+      "questionText": "What causes day and night?",
+      "image": "",
+      "options": ["The Moon moves", "Earth spins on its axis", "The Sun moves", "Stars appear"],
+      "correctAnswer": 1,
+      "explanation": "Earth spins on its axis. When our side faces the Sun it is day.",
+      "topic": "Earth and Space",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-ees-q4",
+      "questionText": "Which is a source of fresh water?",
+      "image": "",
+      "options": ["Sea", "River", "Ocean", "All of these"],
+      "correctAnswer": 1,
+      "explanation": "Rivers are a source of fresh water. Seas and oceans have salty water.",
+      "topic": "Air and Water",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-ees-q5",
+      "questionText": "What do we call the layer of air around the Earth?",
+      "image": "",
+      "options": ["Ocean", "Atmosphere", "Soil", "Rock"],
+      "correctAnswer": 1,
+      "explanation": "The atmosphere is the layer of air that surrounds the Earth.",
+      "topic": "Air and Water",
+      "difficulty": "medium"
+    },
+    {
+      "id": "nso-g3-ees-q6",
+      "questionText": "How many seasons are there in a year?",
+      "image": "",
+      "options": ["Two", "Three", "Four", "Five"],
+      "correctAnswer": 2,
+      "explanation": "There are four seasons: spring, summer, autumn, and winter.",
+      "topic": "Weather",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-ees-q7",
+      "questionText": "What falls from clouds when it rains?",
+      "image": "",
+      "options": ["Snow", "Hail", "Rain drops", "Dust"],
+      "correctAnswer": 2,
+      "explanation": "Rain drops fall from clouds when water vapor condenses.",
+      "topic": "Weather",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-ees-q8",
+      "questionText": "Which is the closest star to Earth?",
+      "image": "",
+      "options": ["Moon", "Sun", "Mars", "Venus"],
+      "correctAnswer": 1,
+      "explanation": "The Sun is the closest star to Earth. It is a ball of hot gas.",
+      "topic": "Earth and Space",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-ees-q9",
+      "questionText": "What should we do to keep our environment clean?",
+      "image": "",
+      "options": ["Throw garbage everywhere", "Reduce, reuse, recycle", "Burn plastic", "Nothing"],
+      "correctAnswer": 1,
+      "explanation": "Reduce, reuse, and recycle help keep our environment clean.",
+      "topic": "Environment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-ees-q10",
+      "questionText": "Which direction does the Sun rise from?",
+      "image": "",
+      "options": ["North", "South", "East", "West"],
+      "correctAnswer": 2,
+      "explanation": "The Sun rises in the East and sets in the West.",
+      "topic": "Earth and Space",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-ees-q11",
+      "questionText": "What do plants need from the air?",
+      "image": "",
+      "options": ["Oxygen only", "Carbon dioxide", "Smoke", "Dust"],
+      "correctAnswer": 1,
+      "explanation": "Plants use carbon dioxide from the air to make food.",
+      "topic": "Air and Water",
+      "difficulty": "medium"
+    },
+    {
+      "id": "nso-g3-ees-q12",
+      "questionText": "Which is the largest ocean on Earth?",
+      "image": "",
+      "options": ["Indian Ocean", "Atlantic Ocean", "Pacific Ocean", "Arctic Ocean"],
+      "correctAnswer": 2,
+      "explanation": "The Pacific Ocean is the largest ocean on Earth.",
+      "topic": "Earth and Space",
+      "difficulty": "medium"
+    },
+    {
+      "id": "nso-g3-ees-q13",
+      "questionText": "What do we use a map for?",
+      "image": "",
+      "options": ["To eat", "To find places", "To sleep", "To play"],
+      "correctAnswer": 1,
+      "explanation": "A map helps us find places and understand locations.",
+      "topic": "Earth and Space",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-ees-q14",
+      "questionText": "When do we see the Moon?",
+      "image": "",
+      "options": ["Only at noon", "At night and sometimes during day", "Never", "Only in summer"],
+      "correctAnswer": 1,
+      "explanation": "We usually see the Moon at night. Sometimes we see it during the day too.",
+      "topic": "Earth and Space",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-ees-q15",
+      "questionText": "What is pollution?",
+      "image": "",
+      "options": ["Clean air", "Harmful substances in our environment", "Fresh water", "Green plants"],
+      "correctAnswer": 1,
+      "explanation": "Pollution is when harmful substances dirty our air, water, or land.",
+      "topic": "Environment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-ees-q16",
+      "questionText": "Which season is usually the hottest?",
+      "image": "",
+      "options": ["Winter", "Spring", "Summer", "Autumn"],
+      "correctAnswer": 2,
+      "explanation": "Summer is usually the hottest season of the year.",
+      "topic": "Weather",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-ees-q17",
+      "questionText": "What shape is the Earth?",
+      "image": "",
+      "options": ["Flat", "Square", "Round like a ball", "Triangle"],
+      "correctAnswer": 2,
+      "explanation": "Earth is round like a ball. It is called a sphere.",
+      "topic": "Earth and Space",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-ees-q18",
+      "questionText": "Why should we save water?",
+      "image": "",
+      "options": ["Water is unlimited", "Fresh water is limited and precious", "We do not need water", "No reason"],
+      "correctAnswer": 1,
+      "explanation": "Fresh water is limited. We should save it for ourselves and future generations.",
+      "topic": "Air and Water",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-ees-q19",
+      "questionText": "What do we call moving air?",
+      "image": "",
+      "options": ["Water", "Wind", "Fire", "Earth"],
+      "correctAnswer": 1,
+      "explanation": "Wind is moving air. We can feel it on a windy day.",
+      "topic": "Weather",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-ees-q20",
+      "questionText": "Which is a natural resource?",
+      "image": "",
+      "options": ["Plastic", "Wood from trees", "Glass", "Steel"],
+      "correctAnswer": 1,
+      "explanation": "Wood from trees is a natural resource. We get it from nature.",
+      "topic": "Environment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-ees-q21",
+      "questionText": "How long does Earth take to go around the Sun once?",
+      "image": "",
+      "options": ["One day", "One week", "One month", "One year"],
+      "correctAnswer": 3,
+      "explanation": "Earth takes about 365 days (one year) to orbit the Sun.",
+      "topic": "Earth and Space",
+      "difficulty": "medium"
+    },
+    {
+      "id": "nso-g3-ees-q22",
+      "questionText": "What do clouds contain?",
+      "image": "",
+      "options": ["Only air", "Tiny drops of water", "Dust only", "Fire"],
+      "correctAnswer": 1,
+      "explanation": "Clouds contain tiny drops of water or ice crystals.",
+      "topic": "Weather",
+      "difficulty": "medium"
+    },
+    {
+      "id": "nso-g3-ees-q23",
+      "questionText": "Which helps reduce air pollution?",
+      "image": "",
+      "options": ["Burning garbage", "Planting trees", "Using more cars", "Throwing waste in rivers"],
+      "correctAnswer": 1,
+      "explanation": "Trees absorb carbon dioxide and give us oxygen. They help reduce pollution.",
+      "topic": "Environment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-ees-q24",
+      "questionText": "What is a globe?",
+      "image": "",
+      "options": ["A flat map", "A model of the Earth", "A picture of the Moon", "A toy"],
+      "correctAnswer": 1,
+      "explanation": "A globe is a round model of the Earth. It shows land and water.",
+      "topic": "Earth and Space",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-ees-q25",
+      "questionText": "Which season is usually the coldest?",
+      "image": "",
+      "options": ["Summer", "Spring", "Winter", "Autumn"],
+      "correctAnswer": 2,
+      "explanation": "Winter is usually the coldest season of the year.",
+      "topic": "Weather",
+      "difficulty": "easy"
+    }
+  ]
+}

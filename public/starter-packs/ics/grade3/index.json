@@ -1,34 +1,8 @@
-{
-  "tests": [
-    {
-      "id": "1",
-      "title": "ICS Grade 3 Test 1",
-      "durationMinutes": 15,
-      "questionCount": 10
-    },
-    {
-      "id": "2",
-      "title": "ICS Grade 3 Test 2",
-      "durationMinutes": 15,
-      "questionCount": 10
-    },
-    {
-      "id": "3",
-      "title": "ICS Grade 3 Test 3",
-      "durationMinutes": 15,
-      "questionCount": 10
-    },
-    {
-      "id": "4",
-      "title": "ICS Grade 3 Test 4",
-      "durationMinutes": 15,
-      "questionCount": 10
-    },
-    {
-      "id": "5",
-      "title": "ICS Grade 3 Test 5",
-      "durationMinutes": 15,
-      "questionCount": 10
-    }
-  ]
-}
+[
+  {"id": "practice-1", "title": "Computer Parts and Devices Practice Test", "mode": "practice", "topic": "Computer Parts and Devices", "questionCount": 25, "durationMinutes": 25},
+  {"id": "practice-2", "title": "Input, Output, Storage, and Uses Practice Test", "mode": "practice", "topic": "Input, Output, Storage, and Uses", "questionCount": 25, "durationMinutes": 25},
+  {"id": "practice-3", "title": "Software, Tools, and Basic Operations Practice Test", "mode": "practice", "topic": "Software, Tools, and Basic Operations", "questionCount": 25, "durationMinutes": 25},
+  {"id": "practice-4", "title": "Internet, Safety, and Digital Basics Practice Test", "mode": "practice", "topic": "Internet, Safety, and Digital Basics", "questionCount": 25, "durationMinutes": 25},
+  {"id": "mock-1", "title": "ICS Mock Test 1", "mode": "mock", "questionCount": 25, "durationMinutes": 30},
+  {"id": "mock-2", "title": "ICS Mock Test 2", "mode": "mock", "questionCount": 25, "durationMinutes": 30}
+]

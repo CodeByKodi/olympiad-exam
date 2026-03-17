@@ -1,0 +1,386 @@
+{
+  "packId": "isso-grade3-mock-01",
+  "exam": "isso",
+  "grade": 3,
+  "mode": "mock",
+  "topic": "Mixed",
+  "title": "ISSO Mock Test 1",
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "isso-g3-m1-q1",
+      "questionText": "Who is known as the Father of the Nation?",
+      "image": "",
+      "options": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Bhagat Singh",
+        "Subhas Chandra Bose"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mahatma Gandhi is the Father of the Nation.",
+      "topic": "History",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-m1-q2",
+      "questionText": "What is a map used for?",
+      "image": "",
+      "options": [
+        "Drawing pictures",
+        "Showing places and directions",
+        "Writing stories",
+        "Playing games"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Maps show places and directions.",
+      "topic": "Geography",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-m1-q3",
+      "questionText": "What do we call the rules that a country follows?",
+      "image": "",
+      "options": [
+        "Story",
+        "Constitution",
+        "Poem",
+        "Song"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Constitution has the rules.",
+      "topic": "Government",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-m1-q4",
+      "questionText": "What do we call the study of the past?",
+      "image": "",
+      "options": [
+        "Geography",
+        "Science",
+        "History",
+        "Math"
+      ],
+      "correctAnswer": 2,
+      "explanation": "History studies the past.",
+      "topic": "History",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-m1-q5",
+      "questionText": "Why do we have daytime and nighttime?",
+      "image": "",
+      "options": [
+        "Moon blocks sun",
+        "Earth spins on its axis",
+        "Sun moves away",
+        "Stars hide"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Earth's rotation causes day and night.",
+      "topic": "Earth",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-m1-q6",
+      "questionText": "What makes the seasons change?",
+      "image": "",
+      "options": [
+        "Moon",
+        "Earth's tilt",
+        "Stars",
+        "Wind"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Earth's tilt causes seasons.",
+      "topic": "Earth",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-m1-q7",
+      "questionText": "What do we call the Moon's path around Earth?",
+      "image": "",
+      "options": [
+        "Rotation",
+        "Orbit",
+        "Revolution",
+        "Spin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Moon orbits Earth.",
+      "topic": "Earth",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-m1-q8",
+      "questionText": "What do we call a low area between hills?",
+      "image": "",
+      "options": [
+        "Mountain",
+        "Valley",
+        "Plain",
+        "Desert"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A valley is between hills.",
+      "topic": "Geography",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-m1-q9",
+      "questionText": "Which planet is home to humans?",
+      "image": "",
+      "options": [
+        "Mars",
+        "Venus",
+        "Earth",
+        "Jupiter"
+      ],
+      "correctAnswer": 2,
+      "explanation": "We live on Earth.",
+      "topic": "Earth",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-m1-q10",
+      "questionText": "What is the large round object that orbits Earth?",
+      "image": "",
+      "options": [
+        "Sun",
+        "Star",
+        "Moon",
+        "Planet"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Moon is Earth's satellite.",
+      "topic": "Earth",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-m1-q11",
+      "questionText": "Who became India's first Prime Minister?",
+      "image": "",
+      "options": [
+        "Mahatma Gandhi",
+        "Sardar Patel",
+        "Jawaharlal Nehru",
+        "Dr. Rajendra Prasad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Jawaharlal Nehru was the first PM.",
+      "topic": "History",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-m1-q12",
+      "questionText": "What do we call the head of the Indian government?",
+      "image": "",
+      "options": [
+        "President",
+        "Prime Minister",
+        "Chief Minister",
+        "Mayor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Prime Minister heads the government.",
+      "topic": "Government",
+      "difficulty": "medium"
+    },
+    {
+      "id": "isso-g3-m1-q13",
+      "questionText": "What do we call a place where people vote?",
+      "image": "",
+      "options": [
+        "School",
+        "Hospital",
+        "Polling station",
+        "Market"
+      ],
+      "correctAnswer": 2,
+      "explanation": "People vote at polling stations.",
+      "topic": "Government",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-m1-q14",
+      "questionText": "What is a market?",
+      "image": "",
+      "options": [
+        "A school",
+        "A place to buy and sell",
+        "A hospital",
+        "A park"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A market is for buying and selling.",
+      "topic": "Economy",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-m1-q15",
+      "questionText": "What ocean is the biggest?",
+      "image": "",
+      "options": [
+        "Atlantic",
+        "Indian",
+        "Pacific",
+        "Arctic"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Pacific is the largest.",
+      "topic": "Geography",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-m1-q16",
+      "questionText": "What do we call a dry area with little rain?",
+      "image": "",
+      "options": [
+        "Forest",
+        "Desert",
+        "Plain",
+        "Valley"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A desert has little rain.",
+      "topic": "Geography",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-m1-q17",
+      "questionText": "What do we call a flowing body of water?",
+      "image": "",
+      "options": [
+        "Lake",
+        "Ocean",
+        "River",
+        "Pond"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A river flows.",
+      "topic": "Geography",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-m1-q18",
+      "questionText": "What do we call a group of people who live together?",
+      "image": "",
+      "options": [
+        "Family",
+        "Society",
+        "School",
+        "Office"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Society is a group of people.",
+      "topic": "Society",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-m1-q19",
+      "questionText": "Which type of family has many generations together?",
+      "image": "",
+      "options": [
+        "Nuclear family",
+        "Joint family",
+        "Single family",
+        "No family"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A joint family has many generations.",
+      "topic": "Society",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-m1-q20",
+      "questionText": "What do we call a building that displays old artifacts?",
+      "image": "",
+      "options": [
+        "Library",
+        "Museum",
+        "Hospital",
+        "School"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A museum shows old things.",
+      "topic": "Places",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-m1-q21",
+      "questionText": "What do we call Earth's path around the Sun?",
+      "image": "",
+      "options": [
+        "Rotation",
+        "Orbit",
+        "Revolution",
+        "Spin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Orbit is Earth's path around the Sun.",
+      "topic": "Earth",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-m1-q22",
+      "questionText": "Which resource do humans need most?",
+      "image": "",
+      "options": [
+        "Plastic",
+        "Water",
+        "Glass",
+        "Steel"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Water is essential for life.",
+      "topic": "Resources",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-m1-q23",
+      "questionText": "What do we call a flat area of land?",
+      "image": "",
+      "options": [
+        "Mountain",
+        "Valley",
+        "Plain",
+        "Hill"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A plain is flat land.",
+      "topic": "Geography",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-m1-q24",
+      "questionText": "What do we call land that rises high above the ground?",
+      "image": "",
+      "options": [
+        "Valley",
+        "Mountain",
+        "Plain",
+        "Desert"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A mountain rises high.",
+      "topic": "Geography",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-m1-q25",
+      "questionText": "Which right means we can say what we think?",
+      "image": "",
+      "options": [
+        "Right to education",
+        "Freedom of speech",
+        "Right to vote",
+        "Right to food"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Freedom of speech lets us express.",
+      "topic": "Rights",
+      "difficulty": "medium"
+    }
+  ]
+}

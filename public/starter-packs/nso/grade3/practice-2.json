@@ -1,0 +1,261 @@
+{
+  "packId": "nso-grade3-human-body-food-practice-02",
+  "exam": "nso",
+  "grade": 3,
+  "mode": "practice",
+  "topic": "Human Body and Food",
+  "title": "Human Body and Food Practice Test",
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "nso-g3-hb-q1",
+      "questionText": "Which organ pumps blood through our body?",
+      "image": "",
+      "options": ["Lungs", "Heart", "Stomach", "Kidney"],
+      "correctAnswer": 1,
+      "explanation": "The heart pumps blood to all parts of the body.",
+      "topic": "Human Body",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-hb-q2",
+      "questionText": "Which food group gives us energy?",
+      "image": "",
+      "options": ["Vegetables", "Carbohydrates", "Proteins", "Vitamins"],
+      "correctAnswer": 1,
+      "explanation": "Carbohydrates like rice and bread give us energy.",
+      "topic": "Food and Nutrition",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-hb-q3",
+      "questionText": "How many sense organs do we have?",
+      "image": "",
+      "options": ["Three", "Four", "Five", "Six"],
+      "correctAnswer": 2,
+      "explanation": "We have five sense organs: eyes, ears, nose, tongue, and skin.",
+      "topic": "Human Body",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-hb-q4",
+      "questionText": "Which organ helps us breathe?",
+      "image": "",
+      "options": ["Heart", "Stomach", "Lungs", "Brain"],
+      "correctAnswer": 2,
+      "explanation": "Lungs help us breathe in oxygen and breathe out carbon dioxide.",
+      "topic": "Human Body",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-hb-q5",
+      "questionText": "Which vitamin do we get from sunlight?",
+      "image": "",
+      "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+      "correctAnswer": 3,
+      "explanation": "Our body makes Vitamin D when our skin gets sunlight.",
+      "topic": "Food and Nutrition",
+      "difficulty": "medium"
+    },
+    {
+      "id": "nso-g3-hb-q6",
+      "questionText": "Where does digestion of food start?",
+      "image": "",
+      "options": ["Stomach", "Mouth", "Intestine", "Liver"],
+      "correctAnswer": 1,
+      "explanation": "Digestion starts in the mouth when we chew food.",
+      "topic": "Human Body",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-hb-q7",
+      "questionText": "Which food helps build strong bones?",
+      "image": "",
+      "options": ["Sugar", "Milk", "Oil", "Candy"],
+      "correctAnswer": 1,
+      "explanation": "Milk has calcium which helps build strong bones.",
+      "topic": "Food and Nutrition",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-hb-q8",
+      "questionText": "Which sense organ helps us smell?",
+      "image": "",
+      "options": ["Eyes", "Ears", "Nose", "Tongue"],
+      "correctAnswer": 2,
+      "explanation": "The nose helps us smell different scents.",
+      "topic": "Human Body",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-hb-q9",
+      "questionText": "What do we need to drink to stay healthy?",
+      "image": "",
+      "options": ["Juice only", "Water", "Cold drinks only", "Nothing"],
+      "correctAnswer": 1,
+      "explanation": "Water is essential for our body. We need it every day.",
+      "topic": "Food and Nutrition",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-hb-q10",
+      "questionText": "Which organ controls our body?",
+      "image": "",
+      "options": ["Heart", "Stomach", "Brain", "Lungs"],
+      "correctAnswer": 2,
+      "explanation": "The brain controls our thoughts, movements, and body functions.",
+      "topic": "Human Body",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-hb-q11",
+      "questionText": "Which food is rich in protein?",
+      "image": "",
+      "options": ["Rice", "Eggs", "Bread", "Potato"],
+      "correctAnswer": 1,
+      "explanation": "Eggs are rich in protein which helps our muscles grow.",
+      "topic": "Food and Nutrition",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-hb-q12",
+      "questionText": "How many bones are in an adult human body?",
+      "image": "",
+      "options": ["About 100", "About 150", "About 200", "About 300"],
+      "correctAnswer": 2,
+      "explanation": "An adult human has about 206 bones in the body.",
+      "topic": "Human Body",
+      "difficulty": "medium"
+    },
+    {
+      "id": "nso-g3-hb-q13",
+      "questionText": "Which sense organ helps us taste?",
+      "image": "",
+      "options": ["Eyes", "Ears", "Nose", "Tongue"],
+      "correctAnswer": 3,
+      "explanation": "The tongue helps us taste sweet, sour, salty, and bitter.",
+      "topic": "Human Body",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-hb-q14",
+      "questionText": "Which vegetable is good for our eyes?",
+      "image": "",
+      "options": ["Potato", "Carrot", "Onion", "Tomato"],
+      "correctAnswer": 1,
+      "explanation": "Carrots have Vitamin A which is good for our eyes.",
+      "topic": "Food and Nutrition",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-hb-q15",
+      "questionText": "What protects our brain?",
+      "image": "",
+      "options": ["Skin", "Skull", "Hair", "Muscles"],
+      "correctAnswer": 1,
+      "explanation": "The skull is a hard bone that protects our brain.",
+      "topic": "Human Body",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-hb-q16",
+      "questionText": "Which food should we eat less of?",
+      "image": "",
+      "options": ["Fruits", "Vegetables", "Junk food", "Milk"],
+      "correctAnswer": 2,
+      "explanation": "Junk food like chips and candy should be eaten less often.",
+      "topic": "Food and Nutrition",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-hb-q17",
+      "questionText": "Which organ filters waste from our blood?",
+      "image": "",
+      "options": ["Heart", "Kidneys", "Lungs", "Stomach"],
+      "correctAnswer": 1,
+      "explanation": "Kidneys filter waste from blood and make urine.",
+      "topic": "Human Body",
+      "difficulty": "medium"
+    },
+    {
+      "id": "nso-g3-hb-q18",
+      "questionText": "What do fruits give us?",
+      "image": "",
+      "options": ["Only sugar", "Vitamins and minerals", "Only water", "Nothing"],
+      "correctAnswer": 1,
+      "explanation": "Fruits give us vitamins, minerals, and fiber.",
+      "topic": "Food and Nutrition",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-hb-q19",
+      "questionText": "Which sense organ helps us hear?",
+      "image": "",
+      "options": ["Eyes", "Ears", "Nose", "Tongue"],
+      "correctAnswer": 1,
+      "explanation": "Ears help us hear sounds around us.",
+      "topic": "Human Body",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-hb-q20",
+      "questionText": "Where does food go after we swallow?",
+      "image": "",
+      "options": ["Lungs", "Heart", "Stomach", "Brain"],
+      "correctAnswer": 2,
+      "explanation": "Food goes down to the stomach where digestion continues.",
+      "topic": "Human Body",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-hb-q21",
+      "questionText": "Which meal is the most important to start the day?",
+      "image": "",
+      "options": ["Lunch", "Dinner", "Breakfast", "Snack"],
+      "correctAnswer": 2,
+      "explanation": "Breakfast gives us energy to start the day well.",
+      "topic": "Food and Nutrition",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-hb-q22",
+      "questionText": "Which part of our body helps us touch and feel?",
+      "image": "",
+      "options": ["Eyes", "Ears", "Skin", "Nose"],
+      "correctAnswer": 2,
+      "explanation": "Our skin helps us feel hot, cold, soft, and rough.",
+      "topic": "Human Body",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-hb-q23",
+      "questionText": "Which food group helps build muscles?",
+      "image": "",
+      "options": ["Sweets", "Proteins", "Fats", "Sugar"],
+      "correctAnswer": 1,
+      "explanation": "Proteins from eggs, meat, and dal help build muscles.",
+      "topic": "Food and Nutrition",
+      "difficulty": "medium"
+    },
+    {
+      "id": "nso-g3-hb-q24",
+      "questionText": "How many teeth does an adult usually have?",
+      "image": "",
+      "options": ["20", "28", "32", "36"],
+      "correctAnswer": 2,
+      "explanation": "An adult usually has 32 teeth including wisdom teeth.",
+      "topic": "Human Body",
+      "difficulty": "medium"
+    },
+    {
+      "id": "nso-g3-hb-q25",
+      "questionText": "Why should we eat a balanced diet?",
+      "image": "",
+      "options": ["To get only sugar", "To get all nutrients we need", "To eat less", "No reason"],
+      "correctAnswer": 1,
+      "explanation": "A balanced diet gives us all the nutrients for growth and health.",
+      "topic": "Food and Nutrition",
+      "difficulty": "easy"
+    }
+  ]
+}

@@ -178,3 +178,18 @@ export function buildMockIndex(packs) {
     durationMinutes: p.durationMinutes ?? Math.ceil((p.questions?.length || 0) * 1.5),
   }));
 }
+
+/**
+ * Build practice index: list of enabled practice packs for display.
+ * @param {Array<Object>} packs - Enabled practice packs
+ * @returns {Array<{ id: string, title: string, topic?: string, questionCount: number, durationMinutes: number }>}
+ */
+export function buildPracticeIndex(packs) {
+  return (packs || []).map((p) => ({
+    id: p.packId,
+    title: p.title || p.packId,
+    topic: p.topic,
+    questionCount: (p.questions || []).length,
+    durationMinutes: p.durationMinutes ?? Math.ceil((p.questions?.length || 0) * 1.5),
+  }));
+}

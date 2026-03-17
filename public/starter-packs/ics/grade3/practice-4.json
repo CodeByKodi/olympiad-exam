@@ -1,0 +1,386 @@
+{
+  "packId": "ics-grade3-practice-04",
+  "exam": "ics",
+  "grade": 3,
+  "mode": "practice",
+  "topic": "Internet, Safety, and Digital Basics",
+  "title": "Internet, Safety, and Digital Basics Practice Test",
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "ics-g3-p4-q1",
+      "questionText": "Why should we not share our password with others?",
+      "image": "",
+      "options": [
+        "It is fun",
+        "To keep our account safe",
+        "Everyone knows it",
+        "No reason"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Passwords keep our account safe.",
+      "topic": "Internet, Safety, and Digital Basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p4-q2",
+      "questionText": "Why must we protect our personal information online?",
+      "image": "",
+      "options": [
+        "It is boring",
+        "To stay safe",
+        "No one cares",
+        "It is fun"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sharing personal info can be unsafe.",
+      "topic": "Internet, Safety, and Digital Basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p4-q3",
+      "questionText": "Why should we sit properly while using a computer?",
+      "image": "",
+      "options": [
+        "To look good",
+        "To avoid back pain",
+        "No reason",
+        "To type faster"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Good posture prevents pain.",
+      "topic": "Internet, Safety, and Digital Basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p4-q4",
+      "questionText": "What should we do before closing a program with work we want to keep?",
+      "image": "",
+      "options": [
+        "Nothing",
+        "Save our work",
+        "Delete everything",
+        "Shut down"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Always save before closing.",
+      "topic": "Internet, Safety, and Digital Basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p4-q5",
+      "questionText": "What do we need to connect to the internet?",
+      "image": "",
+      "options": [
+        "Printer",
+        "Modem or WiFi",
+        "Keyboard",
+        "Monitor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Modem or WiFi connects to internet.",
+      "topic": "Internet, Safety, and Digital Basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p4-q6",
+      "questionText": "What is a web browser?",
+      "image": "",
+      "options": [
+        "A game",
+        "A program to view websites",
+        "A type of printer",
+        "A type of keyboard"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A browser lets you visit websites.",
+      "topic": "Internet, Safety, and Digital Basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p4-q7",
+      "questionText": "What do we call a website's address?",
+      "image": "",
+      "options": [
+        "A type of file",
+        "A website address",
+        "A keyboard key",
+        "A printer part"
+      ],
+      "correctAnswer": 1,
+      "explanation": "URL is a website address.",
+      "topic": "Internet, Safety, and Digital Basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p4-q8",
+      "questionText": "What do we use email for?",
+      "image": "",
+      "options": [
+        "Playing games",
+        "Sending messages over internet",
+        "Printing documents",
+        "Typing only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Email sends messages.",
+      "topic": "Internet, Safety, and Digital Basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p4-q9",
+      "questionText": "What are some uses of the internet?",
+      "image": "",
+      "options": [
+        "Only games",
+        "Only email",
+        "Searching, learning, and communication",
+        "Nothing useful"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The internet helps us search and learn.",
+      "topic": "Internet, Safety, and Digital Basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p4-q10",
+      "questionText": "What should we do if someone we don't know asks for our personal details online?",
+      "image": "",
+      "options": [
+        "Share everything",
+        "Tell a trusted adult and don't share",
+        "Ignore and block",
+        "Both B and C"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Tell a trusted adult and don't share.",
+      "topic": "Internet, Safety, and Digital Basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p4-q11",
+      "questionText": "Why is it important to take breaks when using a computer?",
+      "image": "",
+      "options": [
+        "To waste time",
+        "To rest our eyes and body",
+        "No reason",
+        "To play more"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Breaks rest our eyes and prevent strain.",
+      "topic": "Internet, Safety, and Digital Basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p4-q12",
+      "questionText": "What should we do if we see something strange or scary online?",
+      "image": "",
+      "options": [
+        "Keep looking",
+        "Tell a trusted adult",
+        "Share with friends",
+        "Ignore it"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tell a trusted adult.",
+      "topic": "Internet, Safety, and Digital Basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p4-q13",
+      "questionText": "What do we call a strong password?",
+      "image": "",
+      "options": [
+        "123456",
+        "password",
+        "A mix of letters, numbers, and symbols",
+        "Our name"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Strong passwords mix letters, numbers, symbols.",
+      "topic": "Internet, Safety, and Digital Basics",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ics-g3-p4-q14",
+      "questionText": "Why should we not click on pop-up ads from unknown sources?",
+      "image": "",
+      "options": [
+        "They are fun",
+        "They might be unsafe",
+        "No reason",
+        "They give free stuff"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Unknown pop-ups can be unsafe.",
+      "topic": "Internet, Safety, and Digital Basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p4-q15",
+      "questionText": "What do we call information that identifies us, like our name or address?",
+      "image": "",
+      "options": [
+        "Public info",
+        "Personal information",
+        "General knowledge",
+        "Fun facts"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Personal information identifies us.",
+      "topic": "Internet, Safety, and Digital Basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p4-q16",
+      "questionText": "What should we do before downloading something from the internet?",
+      "image": "",
+      "options": [
+        "Download immediately",
+        "Ask a trusted adult",
+        "Share with everyone",
+        "Ignore it"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ask a trusted adult before downloading.",
+      "topic": "Internet, Safety, and Digital Basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p4-q17",
+      "questionText": "What do we call the rules for staying safe online?",
+      "image": "",
+      "options": [
+        "Game rules",
+        "Internet safety rules",
+        "School rules",
+        "Traffic rules"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Internet safety rules help us stay safe.",
+      "topic": "Internet, Safety, and Digital Basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p4-q18",
+      "questionText": "Why should we log out when we finish using a shared computer?",
+      "image": "",
+      "options": [
+        "To waste time",
+        "To keep our account safe",
+        "No reason",
+        "To slow down"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Logging out keeps our account safe.",
+      "topic": "Internet, Safety, and Digital Basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p4-q19",
+      "questionText": "What do we call a secret word we use to access our account?",
+      "image": "",
+      "options": [
+        "Username",
+        "Password",
+        "Email",
+        "URL"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A password protects our account.",
+      "topic": "Internet, Safety, and Digital Basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p4-q20",
+      "questionText": "What should we do if we receive a message from someone we don't know?",
+      "image": "",
+      "options": [
+        "Reply immediately",
+        "Tell a trusted adult and don't reply",
+        "Share our details",
+        "Forward to everyone"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tell a trusted adult and don't reply.",
+      "topic": "Internet, Safety, and Digital Basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p4-q21",
+      "questionText": "How can we protect our eyes when using a computer?",
+      "image": "",
+      "options": [
+        "Sit very close",
+        "Take breaks and sit at proper distance",
+        "Use in dark room",
+        "Never blink"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Take breaks and sit at proper distance.",
+      "topic": "Internet, Safety, and Digital Basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p4-q22",
+      "questionText": "What do we call the act of being kind and respectful online?",
+      "image": "",
+      "options": [
+        "Cyberbullying",
+        "Digital citizenship",
+        "Hacking",
+        "Gaming"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Digital citizenship means being kind online.",
+      "topic": "Internet, Safety, and Digital Basics",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ics-g3-p4-q23",
+      "questionText": "Why should we not believe everything we read on the internet?",
+      "image": "",
+      "options": [
+        "The internet is always wrong",
+        "Some information may be false",
+        "Reading is boring",
+        "No reason"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Some information online may be false.",
+      "topic": "Internet, Safety, and Digital Basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p4-q24",
+      "questionText": "What do we call a program that can harm our computer?",
+      "image": "",
+      "options": [
+        "Game",
+        "Virus",
+        "Browser",
+        "Calculator"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A virus can harm our computer.",
+      "topic": "Internet, Safety, and Digital Basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-p4-q25",
+      "questionText": "What should we do if our computer acts strangely or shows pop-ups?",
+      "image": "",
+      "options": [
+        "Ignore it",
+        "Tell a trusted adult",
+        "Click on everything",
+        "Turn off and never use"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tell a trusted adult.",
+      "topic": "Internet, Safety, and Digital Basics",
+      "difficulty": "easy"
+    }
+  ]
+}

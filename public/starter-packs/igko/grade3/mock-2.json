@@ -1,0 +1,386 @@
+{
+  "packId": "igko-grade3-mock-02",
+  "exam": "igko",
+  "grade": 3,
+  "mode": "mock",
+  "topic": "Mixed",
+  "title": "IGKO Mock Test 2",
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "igko-g3-m2-q1",
+      "questionText": "Which is the largest country by area?",
+      "image": "",
+      "options": [
+        "China",
+        "India",
+        "Russia",
+        "USA"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Russia is the largest country.",
+      "topic": "Geography",
+      "difficulty": "medium"
+    },
+    {
+      "id": "igko-g3-m2-q2",
+      "questionText": "What is the capital of China?",
+      "image": "",
+      "options": [
+        "Shanghai",
+        "Beijing",
+        "Hong Kong",
+        "Tokyo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Beijing is the capital.",
+      "topic": "Capitals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m2-q3",
+      "questionText": "What is the capital of England?",
+      "image": "",
+      "options": [
+        "Paris",
+        "London",
+        "Berlin",
+        "Rome"
+      ],
+      "correctAnswer": 1,
+      "explanation": "London is the capital.",
+      "topic": "Capitals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m2-q4",
+      "questionText": "Which festival marks the birth of Jesus?",
+      "image": "",
+      "options": [
+        "Diwali",
+        "Holi",
+        "Eid",
+        "Christmas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Christmas marks Jesus's birth.",
+      "topic": "Festivals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m2-q5",
+      "questionText": "What should we do when the traffic light is green?",
+      "image": "",
+      "options": [
+        "Stop",
+        "Go",
+        "Slow",
+        "Wait"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Green means go.",
+      "topic": "Signs",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m2-q6",
+      "questionText": "What should we do when the traffic light is yellow?",
+      "image": "",
+      "options": [
+        "Go",
+        "Stop",
+        "Slow down or get ready",
+        "Speed up"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Yellow means slow down.",
+      "topic": "Signs",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m2-q7",
+      "questionText": "Which day is Republic Day in India?",
+      "image": "",
+      "options": [
+        "January 26",
+        "August 15",
+        "October 2",
+        "December 25"
+      ],
+      "correctAnswer": 0,
+      "explanation": "January 26 is Republic Day.",
+      "topic": "Important Days",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m2-q8",
+      "questionText": "Which day is Children's Day in India?",
+      "image": "",
+      "options": [
+        "August 15",
+        "November 14",
+        "October 2",
+        "January 26"
+      ],
+      "correctAnswer": 1,
+      "explanation": "November 14 is Children's Day.",
+      "topic": "Important Days",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m2-q9",
+      "questionText": "What makes it day in one place and night in another?",
+      "image": "",
+      "options": [
+        "The Moon moves",
+        "Earth spins on its axis",
+        "The Sun moves",
+        "Stars appear"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Earth's rotation causes day and night.",
+      "topic": "Space",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m2-q10",
+      "questionText": "What do we call a vehicle that goes to space?",
+      "image": "",
+      "options": [
+        "Car",
+        "Rocket",
+        "Ship",
+        "Plane"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rockets go to space.",
+      "topic": "Space",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m2-q11",
+      "questionText": "What do we call the force that pulls us toward Earth?",
+      "image": "",
+      "options": [
+        "Magnetism",
+        "Gravity",
+        "Wind",
+        "Water"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gravity pulls us toward Earth.",
+      "topic": "Science",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m2-q12",
+      "questionText": "What is the national tree of India?",
+      "image": "",
+      "options": [
+        "Oak",
+        "Banyan",
+        "Pine",
+        "Mango"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Banyan is the national tree.",
+      "topic": "National Symbols",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m2-q13",
+      "questionText": "What do we call a model of the Earth shaped like a ball?",
+      "image": "",
+      "options": [
+        "Map",
+        "Globe",
+        "Compass",
+        "Chart"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A globe is a model of Earth.",
+      "topic": "Geography",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m2-q14",
+      "questionText": "Which continent is India in?",
+      "image": "",
+      "options": [
+        "Africa",
+        "Europe",
+        "Asia",
+        "Australia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "India is in Asia.",
+      "topic": "Geography",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m2-q15",
+      "questionText": "Which ocean is between Africa and Australia?",
+      "image": "",
+      "options": [
+        "Atlantic",
+        "Indian",
+        "Pacific",
+        "Arctic"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Indian Ocean is between them.",
+      "topic": "Geography",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m2-q16",
+      "questionText": "What do we call the wheel in the center of the Indian flag?",
+      "image": "",
+      "options": [
+        "Sun",
+        "Ashoka Chakra",
+        "Star",
+        "Moon"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Ashoka Chakra is in the center.",
+      "topic": "National Symbols",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m2-q17",
+      "questionText": "What do we call a drawing that shows roads and places?",
+      "image": "",
+      "options": [
+        "Painting",
+        "Map",
+        "Photo",
+        "Drawing"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A map shows roads and places.",
+      "topic": "Geography",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m2-q18",
+      "questionText": "Which direction does the Sun set in?",
+      "image": "",
+      "options": [
+        "North",
+        "South",
+        "East",
+        "West"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Sun sets in the West.",
+      "topic": "Geography",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m2-q19",
+      "questionText": "What is the study of stars and space called?",
+      "image": "",
+      "options": [
+        "Biology",
+        "Astronomy",
+        "Geography",
+        "History"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Astronomy studies stars and space.",
+      "topic": "Space",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m2-q20",
+      "questionText": "What do we call the closest star to Earth?",
+      "image": "",
+      "options": [
+        "Moon",
+        "Sun",
+        "Mars",
+        "Venus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Sun is the closest star.",
+      "topic": "Space",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m2-q21",
+      "questionText": "Which festival is celebrated with fasting?",
+      "image": "",
+      "options": [
+        "Diwali",
+        "Holi",
+        "Eid",
+        "Christmas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Eid is celebrated with fasting.",
+      "topic": "Festivals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m2-q22",
+      "questionText": "What do we call the path of the Moon around Earth?",
+      "image": "",
+      "options": [
+        "Rotation",
+        "Orbit",
+        "Revolution",
+        "Spin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Moon orbits Earth.",
+      "topic": "Space",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m2-q23",
+      "questionText": "Which continent has the most people?",
+      "image": "",
+      "options": [
+        "Africa",
+        "Europe",
+        "Asia",
+        "North America"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Asia has the most people.",
+      "topic": "Geography",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m2-q24",
+      "questionText": "What do we call the top color of the Indian flag?",
+      "image": "",
+      "options": [
+        "Green",
+        "White",
+        "Saffron",
+        "Blue"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Saffron is at the top.",
+      "topic": "National Symbols",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-m2-q25",
+      "questionText": "Which ocean is the coldest?",
+      "image": "",
+      "options": [
+        "Atlantic",
+        "Indian",
+        "Pacific",
+        "Arctic"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Arctic Ocean is the coldest.",
+      "topic": "Geography",
+      "difficulty": "easy"
+    }
+  ]
+}

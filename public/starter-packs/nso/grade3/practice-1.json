@@ -1,0 +1,261 @@
+{
+  "packId": "nso-grade3-plants-animals-practice-01",
+  "exam": "nso",
+  "grade": 3,
+  "mode": "practice",
+  "topic": "Plants and Animals",
+  "title": "Plants and Animals Practice Test",
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "nso-g3-pa-q1",
+      "questionText": "Which part of a plant absorbs water from the soil?",
+      "image": "",
+      "options": ["Leaf", "Flower", "Root", "Stem"],
+      "correctAnswer": 2,
+      "explanation": "Roots absorb water and minerals from the soil.",
+      "topic": "Plants",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-pa-q2",
+      "questionText": "What do we call a baby frog?",
+      "image": "",
+      "options": ["Puppy", "Tadpole", "Cub", "Chick"],
+      "correctAnswer": 1,
+      "explanation": "A baby frog is called a tadpole.",
+      "topic": "Animals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-pa-q3",
+      "questionText": "Which of these is a living thing?",
+      "image": "",
+      "options": ["Rock", "Table", "Tree", "Chair"],
+      "correctAnswer": 2,
+      "explanation": "Trees are living things that grow and need food, water, and air.",
+      "topic": "Living and Non-living",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-pa-q4",
+      "questionText": "Where do plants make their food?",
+      "image": "",
+      "options": ["Roots", "Leaves", "Flowers", "Seeds"],
+      "correctAnswer": 1,
+      "explanation": "Leaves use sunlight, water, and air to make food for the plant.",
+      "topic": "Plants",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-pa-q5",
+      "questionText": "Which animal gives us eggs?",
+      "image": "",
+      "options": ["Cow", "Hen", "Goat", "Dog"],
+      "correctAnswer": 1,
+      "explanation": "Hens lay eggs that we eat.",
+      "topic": "Animals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-pa-q6",
+      "questionText": "What do herbivores eat?",
+      "image": "",
+      "options": ["Only meat", "Only plants", "Both plants and meat", "Nothing"],
+      "correctAnswer": 1,
+      "explanation": "Herbivores are animals that eat only plants.",
+      "topic": "Animals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-pa-q7",
+      "questionText": "Which part of a plant holds it upright?",
+      "image": "",
+      "options": ["Leaf", "Root", "Stem", "Flower"],
+      "correctAnswer": 2,
+      "explanation": "The stem holds the plant upright and carries water to the leaves.",
+      "topic": "Plants",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-pa-q8",
+      "questionText": "Where do fish live?",
+      "image": "",
+      "options": ["On land", "In water", "In trees", "Underground"],
+      "correctAnswer": 1,
+      "explanation": "Fish live in water. They have gills to breathe underwater.",
+      "topic": "Animals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-pa-q9",
+      "questionText": "What do seeds need to grow into a plant?",
+      "image": "",
+      "options": ["Only sunlight", "Water, air, and warmth", "Only soil", "Nothing"],
+      "correctAnswer": 1,
+      "explanation": "Seeds need water, air, and warmth to germinate and grow.",
+      "topic": "Plants",
+      "difficulty": "medium"
+    },
+    {
+      "id": "nso-g3-pa-q10",
+      "questionText": "Which animal has a shell on its back?",
+      "image": "",
+      "options": ["Frog", "Snake", "Tortoise", "Rabbit"],
+      "correctAnswer": 2,
+      "explanation": "A tortoise has a hard shell on its back for protection.",
+      "topic": "Animals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-pa-q11",
+      "questionText": "What do we call the home of a bird?",
+      "image": "",
+      "options": ["Den", "Nest", "Hive", "Burrow"],
+      "correctAnswer": 1,
+      "explanation": "Birds build nests to lay eggs and raise their babies.",
+      "topic": "Animals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-pa-q12",
+      "questionText": "Which plant part becomes a fruit?",
+      "image": "",
+      "options": ["Root", "Stem", "Flower", "Leaf"],
+      "correctAnswer": 2,
+      "explanation": "After pollination, the flower develops into a fruit.",
+      "topic": "Plants",
+      "difficulty": "medium"
+    },
+    {
+      "id": "nso-g3-pa-q13",
+      "questionText": "Which animal can fly?",
+      "image": "",
+      "options": ["Fish", "Elephant", "Butterfly", "Snake"],
+      "correctAnswer": 2,
+      "explanation": "Butterflies have wings and can fly.",
+      "topic": "Animals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-pa-q14",
+      "questionText": "What do carnivores eat?",
+      "image": "",
+      "options": ["Only plants", "Only other animals", "Both plants and animals", "Nothing"],
+      "correctAnswer": 1,
+      "explanation": "Carnivores are animals that eat other animals.",
+      "topic": "Animals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-pa-q15",
+      "questionText": "Which of these is a non-living thing?",
+      "image": "",
+      "options": ["Cat", "Rose", "Stone", "Ant"],
+      "correctAnswer": 2,
+      "explanation": "A stone is non-living. It does not grow, move, or need food.",
+      "topic": "Living and Non-living",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-pa-q16",
+      "questionText": "How do plants get water from the soil?",
+      "image": "",
+      "options": ["Through leaves", "Through roots", "Through flowers", "Through seeds"],
+      "correctAnswer": 1,
+      "explanation": "Roots absorb water from the soil and send it to the rest of the plant.",
+      "topic": "Plants",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-pa-q17",
+      "questionText": "Which animal has stripes?",
+      "image": "",
+      "options": ["Crow", "Zebra", "Bear", "Deer"],
+      "correctAnswer": 1,
+      "explanation": "Zebras have black and white stripes on their bodies.",
+      "topic": "Animals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-pa-q18",
+      "questionText": "What do bees collect from flowers?",
+      "image": "",
+      "options": ["Water", "Nectar", "Soil", "Leaves"],
+      "correctAnswer": 1,
+      "explanation": "Bees collect nectar from flowers to make honey.",
+      "topic": "Animals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-pa-q19",
+      "questionText": "Which part of a plant is usually green?",
+      "image": "",
+      "options": ["Root", "Seed", "Leaf", "Flower"],
+      "correctAnswer": 2,
+      "explanation": "Leaves are usually green because they contain chlorophyll.",
+      "topic": "Plants",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-pa-q20",
+      "questionText": "Where does a dog live?",
+      "image": "",
+      "options": ["In water", "In a nest", "On land", "In a hive"],
+      "correctAnswer": 2,
+      "explanation": "Dogs are land animals. They live with humans as pets.",
+      "topic": "Animals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-pa-q21",
+      "questionText": "What do omnivores eat?",
+      "image": "",
+      "options": ["Only plants", "Only meat", "Both plants and meat", "Nothing"],
+      "correctAnswer": 2,
+      "explanation": "Omnivores eat both plants and animals. Humans are omnivores.",
+      "topic": "Animals",
+      "difficulty": "medium"
+    },
+    {
+      "id": "nso-g3-pa-q22",
+      "questionText": "Which plant grows from a bulb?",
+      "image": "",
+      "options": ["Mango tree", "Onion", "Wheat", "Rice"],
+      "correctAnswer": 1,
+      "explanation": "Onions grow from bulbs that we plant in the soil.",
+      "topic": "Plants",
+      "difficulty": "medium"
+    },
+    {
+      "id": "nso-g3-pa-q23",
+      "questionText": "Which animal has a long trunk?",
+      "image": "",
+      "options": ["Lion", "Elephant", "Tiger", "Bear"],
+      "correctAnswer": 1,
+      "explanation": "Elephants have a long trunk that they use to drink and pick things.",
+      "topic": "Animals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-pa-q24",
+      "questionText": "What helps a plant to make seeds?",
+      "image": "",
+      "options": ["Roots", "Leaves", "Flowers", "Stem"],
+      "correctAnswer": 2,
+      "explanation": "Flowers produce seeds. Bees and wind help in pollination.",
+      "topic": "Plants",
+      "difficulty": "medium"
+    },
+    {
+      "id": "nso-g3-pa-q25",
+      "questionText": "Which animal lays eggs in water?",
+      "image": "",
+      "options": ["Dog", "Frog", "Cat", "Rabbit"],
+      "correctAnswer": 1,
+      "explanation": "Frogs lay eggs in water. The eggs hatch into tadpoles.",
+      "topic": "Animals",
+      "difficulty": "easy"
+    }
+  ]
+}

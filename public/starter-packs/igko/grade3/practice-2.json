@@ -1,0 +1,386 @@
+{
+  "packId": "igko-grade3-practice-02",
+  "exam": "igko",
+  "grade": 3,
+  "mode": "practice",
+  "topic": "Symbols, Signs, and National Symbols",
+  "title": "Symbols, Signs, and National Symbols Practice Test",
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "igko-g3-p2-q1",
+      "questionText": "What do we call the national bird of India?",
+      "image": "",
+      "options": [
+        "Crow",
+        "Peacock",
+        "Parrot",
+        "Sparrow"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Peacock is the national bird.",
+      "topic": "National Symbols",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p2-q2",
+      "questionText": "Which sport is the national game of India?",
+      "image": "",
+      "options": [
+        "Cricket",
+        "Hockey",
+        "Football",
+        "Tennis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Hockey is the national game.",
+      "topic": "National Symbols",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p2-q3",
+      "questionText": "What does a red traffic light mean?",
+      "image": "",
+      "options": [
+        "Go",
+        "Stop",
+        "Slow",
+        "Ready"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Red means stop.",
+      "topic": "Traffic Signs",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p2-q4",
+      "questionText": "What does a green traffic light mean?",
+      "image": "",
+      "options": [
+        "Stop",
+        "Go",
+        "Slow",
+        "Wait"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Green means go.",
+      "topic": "Traffic Signs",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p2-q5",
+      "questionText": "What does a yellow traffic light mean?",
+      "image": "",
+      "options": [
+        "Go",
+        "Stop",
+        "Slow down or get ready",
+        "Speed up"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Yellow means slow down.",
+      "topic": "Traffic Signs",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p2-q6",
+      "questionText": "What do we call the national animal of India?",
+      "image": "",
+      "options": [
+        "Lion",
+        "Tiger",
+        "Elephant",
+        "Deer"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Tiger is the national animal.",
+      "topic": "National Symbols",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p2-q7",
+      "questionText": "What do we call the national flower of India?",
+      "image": "",
+      "options": [
+        "Rose",
+        "Lotus",
+        "Sunflower",
+        "Jasmine"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Lotus is the national flower.",
+      "topic": "National Symbols",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p2-q8",
+      "questionText": "What do we call the flag of a country?",
+      "image": "",
+      "options": [
+        "Banner",
+        "National flag",
+        "Cloth",
+        "Symbol"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Each country has a national flag.",
+      "topic": "National Symbols",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p2-q9",
+      "questionText": "How many colors does the Indian flag have?",
+      "image": "",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Indian flag has saffron, white, and green.",
+      "topic": "National Symbols",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p2-q10",
+      "questionText": "What do we call a sign that tells us to be careful?",
+      "image": "",
+      "options": [
+        "Go sign",
+        "Warning sign",
+        "Stop sign",
+        "Info sign"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Warning signs tell us to be careful.",
+      "topic": "Signs",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p2-q11",
+      "questionText": "What shape is usually used for stop signs?",
+      "image": "",
+      "options": [
+        "Circle",
+        "Triangle",
+        "Octagon",
+        "Square"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Stop signs are often octagonal.",
+      "topic": "Signs",
+      "difficulty": "medium"
+    },
+    {
+      "id": "igko-g3-p2-q12",
+      "questionText": "What do we call the symbol that represents a country?",
+      "image": "",
+      "options": [
+        "Logo",
+        "Emblem",
+        "Badge",
+        "Mark"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An emblem represents a country.",
+      "topic": "National Symbols",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p2-q13",
+      "questionText": "What do we call the song that represents a country?",
+      "image": "",
+      "options": [
+        "Folk song",
+        "National anthem",
+        "Pop song",
+        "Classical song"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The national anthem represents a country.",
+      "topic": "National Symbols",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p2-q14",
+      "questionText": "When should we stand up when the national anthem plays?",
+      "image": "",
+      "options": [
+        "Never",
+        "Sometimes",
+        "Always",
+        "Only at home"
+      ],
+      "correctAnswer": 2,
+      "explanation": "We should stand when the anthem plays.",
+      "topic": "National Symbols",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p2-q15",
+      "questionText": "What do we call a picture or shape that stands for something?",
+      "image": "",
+      "options": [
+        "Word",
+        "Symbol",
+        "Number",
+        "Letter"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A symbol stands for something.",
+      "topic": "Signs",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p2-q16",
+      "questionText": "What does a plus sign usually mean in hospitals?",
+      "image": "",
+      "options": [
+        "School",
+        "Hospital",
+        "Park",
+        "Restaurant"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A plus sign often means hospital.",
+      "topic": "Signs",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p2-q17",
+      "questionText": "What is the wheel in the center of the Indian flag?",
+      "image": "",
+      "options": [
+        "Sun",
+        "Ashoka Chakra",
+        "Star",
+        "Moon"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Ashoka Chakra is in the center.",
+      "topic": "National Symbols",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p2-q18",
+      "questionText": "What do we call a sign that shows us where to go?",
+      "image": "",
+      "options": [
+        "Stop sign",
+        "Direction sign",
+        "Warning sign",
+        "No entry sign"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Direction signs show the way.",
+      "topic": "Signs",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p2-q19",
+      "questionText": "What does a red cross usually mean?",
+      "image": "",
+      "options": [
+        "Danger",
+        "Medical help",
+        "Stop",
+        "Go"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Red cross often means medical help.",
+      "topic": "Signs",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p2-q20",
+      "questionText": "What do we call the animal that represents a country?",
+      "image": "",
+      "options": [
+        "Pet",
+        "National animal",
+        "Wild animal",
+        "Farm animal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Each country has a national animal.",
+      "topic": "National Symbols",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p2-q21",
+      "questionText": "What do we call the bird that represents a country?",
+      "image": "",
+      "options": [
+        "Pet bird",
+        "National bird",
+        "Wild bird",
+        "Sea bird"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Each country has a national bird.",
+      "topic": "National Symbols",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p2-q22",
+      "questionText": "What do we call the national tree of India?",
+      "image": "",
+      "options": [
+        "Oak",
+        "Banyan",
+        "Pine",
+        "Mango"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Banyan is the national tree.",
+      "topic": "National Symbols",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p2-q23",
+      "questionText": "What do we call a sign that tells us we cannot do something?",
+      "image": "",
+      "options": [
+        "Go sign",
+        "Prohibition sign",
+        "Info sign",
+        "Warning sign"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Prohibition signs forbid actions.",
+      "topic": "Signs",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p2-q24",
+      "questionText": "What is the top color of the Indian flag?",
+      "image": "",
+      "options": [
+        "Green",
+        "White",
+        "Saffron",
+        "Blue"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Saffron is at the top.",
+      "topic": "National Symbols",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-g3-p2-q25",
+      "questionText": "What should we do when we see a pedestrian crossing sign?",
+      "image": "",
+      "options": [
+        "Speed up",
+        "Slow down and watch for people",
+        "Honk loudly",
+        "Ignore it"
+      ],
+      "correctAnswer": 1,
+      "explanation": "We should slow down for pedestrians.",
+      "topic": "Traffic Signs",
+      "difficulty": "easy"
+    }
+  ]
+}

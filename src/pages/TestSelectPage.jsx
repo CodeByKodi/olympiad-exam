@@ -10,12 +10,12 @@ export function TestSelectPage() {
   const { examId, gradeId } = useParams();
   const exam = EXAMS[examId?.toUpperCase()] || EXAMS.NSO;
   const [testMeta, setTestMeta] = useState({});
-  const { getMockPacks, hasLibraryPacks, getPracticePool } = useQuestionLibrary();
+  const { getMockPacks, getPracticePacks, hasLibraryPacks } = useQuestionLibrary();
 
   const hasPracticePacks = hasLibraryPacks(exam.id, gradeId, 'practice');
   const hasMockPacks = hasLibraryPacks(exam.id, gradeId, 'mock');
   const mockPacks = getMockPacks(exam.id, gradeId);
-  const practicePool = hasPracticePacks ? getPracticePool(exam.id, gradeId) : [];
+  const practicePacks = hasPracticePacks ? getPracticePacks(exam.id, gradeId) : [];
 
   useEffect(() => {
     if (hasPracticePacks || hasMockPacks) return;
@@ -43,18 +43,37 @@ export function TestSelectPage() {
 
       <section className={styles.section}>
         <h2 className={styles.sectionTitle}>Practice Mode</h2>
-        <p className={styles.sectionDesc}>Take your time, get instant feedback, and learn as you go.</p>
+        <p className={styles.sectionDesc}>Take your time, get instant feedback, and learn as you go. Topic-based practice packs.</p>
         <div className={styles.grid}>
-          {hasPracticePacks && practicePool.length > 0 ? (
-            <TestCard
-              examId={exam.id}
-              gradeId={gradeId}
-              testId="practice"
-              mode={TEST_MODES.PRACTICE}
-              questionCount={practicePool.length}
-              durationMinutes={Math.ceil(practicePool.length * 1.5)}
-              title="Practice (All Questions)"
-            />
+          {hasPracticePacks && practicePacks.length > 0 ? (
+            (() => {
+              const byTopic = practicePacks.reduce((acc, p) => {
+                const t = p.topic || 'General';
+                if (!acc[t]) acc[t] = [];
+                acc[t].push(p);
+                return acc;
+              }, {});
+              return Object.entries(byTopic).map(([topic, packs]) => (
+                <div key={`topic-${topic}`} className={styles.topicGroup}>
+                  <h3 className={styles.topicGroupTitle}>{topic}</h3>
+                  <div className={styles.topicGrid}>
+                    {packs.map((p) => (
+                      <TestCard
+                        key={`practice-${p.id}`}
+                        examId={exam.id}
+                        gradeId={gradeId}
+                        testId={p.id}
+                        mode={TEST_MODES.PRACTICE}
+                        questionCount={p.questionCount}
+                        durationMinutes={p.durationMinutes}
+                        title={p.title}
+                        topic={p.topic}
+                      />
+                    ))}
+                  </div>
+                </div>
+              ));
+            })()
           ) : !hasPracticePacks ? (
             TESTS_PER_EXAM.map((t) => (
               <TestCard
@@ -68,17 +87,17 @@ export function TestSelectPage() {
                 title={t.title}
               />
             ))
-          ) : (
+          ) : practicePacks.length === 0 ? (
             <p className={styles.emptyHint}>
               No practice questions yet.{' '}
               <Link to="/question-library" className={styles.emptyLink}>Import packs in the Library</Link>
               {' '}to get started.
             </p>
-          )}
+          ) : null}
         </div>
       </section>
 
-      <section className={styles.section}>
+      <section className={`${styles.section} ${styles.mockSection}`}>
         <h2 className={styles.sectionTitle}>Mock Test Mode</h2>
         <p className={styles.sectionDesc}>Timed exam simulation. No feedback until you submit.</p>
         <div className={styles.grid}>

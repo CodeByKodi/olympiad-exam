@@ -26,27 +26,33 @@ export async function loadStarterPacks() {
         const res = await fetch(indexUrl);
         if (!res.ok) continue;
         const index = await res.json();
-        const tests = index.tests || [];
+        const tests = Array.isArray(index) ? index : (index.tests || []);
         for (const t of tests) {
-          const testUrl = resolveStaticPath(`starter-packs/${examId}/grade${gradeId}/test${t.id}.json`);
+          const fileId = t.id || t;
+          const fileIdStr = typeof fileId === 'string' ? fileId : String(fileId);
+          const fileName = fileIdStr.includes('-') ? `${fileIdStr}.json` : `test${fileIdStr}.json`;
+          const testUrl = resolveStaticPath(`starter-packs/${examId}/grade${gradeId}/${fileName}`);
           const testRes = await fetch(testUrl);
           if (!testRes.ok) continue;
           const data = await testRes.json();
           const questions = data.questions || data;
           const arr = Array.isArray(questions) ? questions : [];
-          const packId = `${examId}-grade${gradeId}-test${t.id}`;
+          const packId = `${examId}-grade${gradeId}-${fileIdStr}`;
+          const mode = (t.mode || data.mode || 'mock').toLowerCase();
           packs.push({
             packId,
             exam: examId,
             grade: gradeId,
-            mode: 'mock',
-            title: data.title || t.title || `Test ${t.id}`,
+            mode: mode === 'practice' ? 'practice' : 'mock',
+            title: data.title || t.title || `Test ${fileIdStr}`,
+            topic: t.topic || data.topic,
             questions: arr.map((q) => ({ ...q, id: String(q.id ?? '') })),
             durationMinutes: data.durationMinutes ?? t.durationMinutes ?? Math.ceil(arr.length * 1.5),
             questionCount: arr.length,
             isStarter: true,
             enabled: true,
-            fileName: `test${t.id}.json`,
+            fileName,
+            fileId: fileIdStr,
           });
         }
       } catch {
@@ -177,9 +183,10 @@ export async function togglePackEnabled(pack, enabled) {
   }
 }
 
-function getStarterTestId(pack) {
+function getStarterFileId(pack) {
+  if (pack.fileId) return pack.fileId;
   const m = pack.packId?.match(/test(\d+)$/);
-  return m ? m[1] : '1';
+  return m ? `test${m[1]}` : '1';
 }
 
 /**
@@ -187,8 +194,9 @@ function getStarterTestId(pack) {
  */
 export async function getPackContent(pack) {
   if (pack.isStarter) {
-    const testId = getStarterTestId(pack);
-    const url = resolveStaticPath(`starter-packs/${pack.exam}/grade${pack.grade}/test${testId}.json`);
+    const fileId = getStarterFileId(pack);
+    const fileName = fileId.includes('-') ? `${fileId}.json` : `test${fileId}.json`;
+    const url = resolveStaticPath(`starter-packs/${pack.exam}/grade${pack.grade}/${fileName}`);
     try {
       const res = await fetch(url);
       if (!res.ok) return { ok: false, error: 'Pack not found' };
@@ -211,8 +219,9 @@ export async function getPackContent(pack) {
  */
 export async function loadPackData(pack) {
   if (pack.isStarter) {
-    const testId = getStarterTestId(pack);
-    const url = resolveStaticPath(`starter-packs/${pack.exam}/grade${pack.grade}/test${testId}.json`);
+    const fileId = getStarterFileId(pack);
+    const fileName = fileId.includes('-') ? `${fileId}.json` : `test${fileId}.json`;
+    const url = resolveStaticPath(`starter-packs/${pack.exam}/grade${pack.grade}/${fileName}`);
     try {
       const res = await fetch(url);
       if (!res.ok) return { ok: false, error: 'Pack not found' };

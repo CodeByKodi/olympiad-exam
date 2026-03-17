@@ -1,0 +1,386 @@
+{
+  "packId": "isso-grade3-practice-04",
+  "exam": "isso",
+  "grade": 3,
+  "mode": "practice",
+  "topic": "Economy, Society, and Culture",
+  "title": "Economy, Society, and Culture Practice Test",
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "isso-g3-p4-q1",
+      "questionText": "What do we call a market?",
+      "image": "",
+      "options": [
+        "A school",
+        "A place to buy and sell",
+        "A hospital",
+        "A park"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A market is for buying and selling.",
+      "topic": "Economy",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p4-q2",
+      "questionText": "What is the money we use to buy things?",
+      "image": "",
+      "options": [
+        "Toy",
+        "Currency",
+        "Gift",
+        "Token"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Currency is the money we use.",
+      "topic": "Economy",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p4-q3",
+      "questionText": "What is a person who grows crops?",
+      "image": "",
+      "options": [
+        "Doctor",
+        "Teacher",
+        "Farmer",
+        "Driver"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Farmers grow crops.",
+      "topic": "Economy",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p4-q4",
+      "questionText": "What do we call a person who makes things to sell?",
+      "image": "",
+      "options": [
+        "Buyer",
+        "Seller",
+        "Producer",
+        "Consumer"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Producers make things.",
+      "topic": "Economy",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p4-q5",
+      "questionText": "What do we call a person who buys things?",
+      "image": "",
+      "options": [
+        "Producer",
+        "Consumer",
+        "Seller",
+        "Maker"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consumers buy things.",
+      "topic": "Economy",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p4-q6",
+      "questionText": "What do we call exchanging goods without money?",
+      "image": "",
+      "options": [
+        "Buying",
+        "Selling",
+        "Barter",
+        "Giving"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Barter is exchange without money.",
+      "topic": "Economy",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p4-q7",
+      "questionText": "What do we call the work people do to earn money?",
+      "image": "",
+      "options": [
+        "Play",
+        "Job",
+        "Rest",
+        "Sleep"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A job is work for money.",
+      "topic": "Economy",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p4-q8",
+      "questionText": "What do we call a place where people make things?",
+      "image": "",
+      "options": [
+        "School",
+        "Hospital",
+        "Factory",
+        "Park"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Factories make things.",
+      "topic": "Economy",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p4-q9",
+      "questionText": "What is the customs and traditions of a group?",
+      "image": "",
+      "options": [
+        "Science",
+        "Culture",
+        "Math",
+        "Sports"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Culture includes customs.",
+      "topic": "Culture",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p4-q10",
+      "questionText": "What Indian festival is known for lighting lamps?",
+      "image": "",
+      "options": [
+        "Holi",
+        "Diwali",
+        "Eid",
+        "Christmas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Diwali is the festival of lights.",
+      "topic": "Culture",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p4-q11",
+      "questionText": "What is the traditional clothes of a region?",
+      "image": "",
+      "options": [
+        "Uniform",
+        "Costume",
+        "Dress",
+        "Outfit"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Traditional clothes are costumes.",
+      "topic": "Culture",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p4-q12",
+      "questionText": "What is the food that is special to a region?",
+      "image": "",
+      "options": [
+        "Fast food",
+        "Traditional food",
+        "Junk food",
+        "Frozen food"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Traditional food is special.",
+      "topic": "Culture",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p4-q13",
+      "questionText": "What is the music and dance of a region?",
+      "image": "",
+      "options": [
+        "Pop music",
+        "Folk music",
+        "Rock music",
+        "Jazz"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Folk music and dance are traditional.",
+      "topic": "Culture",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p4-q14",
+      "questionText": "What do we call a language spoken in a region?",
+      "image": "",
+      "options": [
+        "Foreign language",
+        "Regional language",
+        "Secret language",
+        "New language"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Regional languages are local.",
+      "topic": "Culture",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p4-q15",
+      "questionText": "What is art made by hand in traditional ways?",
+      "image": "",
+      "options": [
+        "Machine art",
+        "Handicraft",
+        "Digital art",
+        "Print art"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Handicrafts are made by hand.",
+      "topic": "Culture",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p4-q16",
+      "questionText": "What do we call helping people in need?",
+      "image": "",
+      "options": [
+        "Ignoring",
+        "Charity",
+        "Wasting",
+        "Hiding"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Charity helps people in need.",
+      "topic": "Society",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p4-q17",
+      "questionText": "What do we call treating everyone fairly?",
+      "image": "",
+      "options": [
+        "Unfair",
+        "Equality",
+        "Bias",
+        "Favor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Equality means treating everyone fairly.",
+      "topic": "Society",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p4-q18",
+      "questionText": "What do we call the rules we follow in a community?",
+      "image": "",
+      "options": [
+        "Suggestions",
+        "Laws",
+        "Ideas",
+        "Wishes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Laws are rules we follow.",
+      "topic": "Society",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p4-q19",
+      "questionText": "What do we call living together peacefully?",
+      "image": "",
+      "options": [
+        "Conflict",
+        "Harmony",
+        "Fight",
+        "War"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Harmony means peaceful living.",
+      "topic": "Society",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p4-q20",
+      "questionText": "What do we call respecting people from different backgrounds?",
+      "image": "",
+      "options": [
+        "Prejudice",
+        "Tolerance",
+        "Hate",
+        "Ignore"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tolerance means respecting differences.",
+      "topic": "Society",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p4-q21",
+      "questionText": "What do we call a place where children learn?",
+      "image": "",
+      "options": [
+        "Hospital",
+        "Market",
+        "School",
+        "Park"
+      ],
+      "correctAnswer": 2,
+      "explanation": "School is where children learn.",
+      "topic": "Society",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p4-q22",
+      "questionText": "What do we call a person who teaches?",
+      "image": "",
+      "options": [
+        "Doctor",
+        "Teacher",
+        "Farmer",
+        "Driver"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Teachers help us learn.",
+      "topic": "Society",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p4-q23",
+      "questionText": "What do we call the right to go to school?",
+      "image": "",
+      "options": [
+        "Right to vote",
+        "Right to education",
+        "Right to food",
+        "Right to speak"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Every child has the right to education.",
+      "topic": "Rights",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p4-q24",
+      "questionText": "What do we call a group of people living in an area?",
+      "image": "",
+      "options": [
+        "Family",
+        "Community",
+        "School",
+        "Office"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A community lives in an area.",
+      "topic": "Society",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-g3-p4-q25",
+      "questionText": "What do we call working together for a common goal?",
+      "image": "",
+      "options": [
+        "Competition",
+        "Cooperation",
+        "Conflict",
+        "Ignoring"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cooperation means working together.",
+      "topic": "Society",
+      "difficulty": "easy"
+    }
+  ]
+}

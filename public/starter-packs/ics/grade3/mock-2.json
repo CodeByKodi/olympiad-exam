@@ -1,0 +1,386 @@
+{
+  "packId": "ics-grade3-mock-02",
+  "exam": "ics",
+  "grade": 3,
+  "mode": "mock",
+  "topic": "Mixed",
+  "title": "ICS Mock Test 2",
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "ics-g3-m2-q1",
+      "questionText": "Which key makes letters uppercase?",
+      "image": "",
+      "options": [
+        "Enter",
+        "Caps Lock",
+        "Tab",
+        "Space"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Caps Lock makes uppercase letters.",
+      "topic": "Keyboard",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-m2-q2",
+      "questionText": "Which key do we hold to type a capital letter?",
+      "image": "",
+      "options": [
+        "Enter",
+        "Shift",
+        "Space",
+        "Tab"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Shift helps type capital letters.",
+      "topic": "Keyboard",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-m2-q3",
+      "questionText": "What do we call the bar at the top of a window?",
+      "image": "",
+      "options": [
+        "Status bar",
+        "Title bar",
+        "Menu bar",
+        "Toolbar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The title bar shows the window name.",
+      "topic": "Basic Operations",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-m2-q4",
+      "questionText": "What do we call a list of options in a program?",
+      "image": "",
+      "options": [
+        "Icon",
+        "Folder",
+        "Menu",
+        "File"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A menu shows options.",
+      "topic": "Basic Operations",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-m2-q5",
+      "questionText": "What do we call a picture or icon that opens a program quickly?",
+      "image": "",
+      "options": [
+        "Folder",
+        "File",
+        "Shortcut",
+        "Menu"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A shortcut opens a program quickly.",
+      "topic": "Basic Operations",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-m2-q6",
+      "questionText": "Which device helps us hear sound from the computer?",
+      "image": "",
+      "options": [
+        "Monitor",
+        "Keyboard",
+        "Speaker",
+        "Mouse"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Speakers play sound.",
+      "topic": "Computer Parts",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-m2-q7",
+      "questionText": "Which device takes paper documents into the computer?",
+      "image": "",
+      "options": [
+        "Printer",
+        "Modem",
+        "Scanner",
+        "Monitor"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A scanner copies documents.",
+      "topic": "Input/Output",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-m2-q8",
+      "questionText": "What do we use to draw on a computer?",
+      "image": "",
+      "options": [
+        "Calculator",
+        "Paint",
+        "Notepad",
+        "Browser"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Paint is for drawing.",
+      "topic": "Software",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-m2-q9",
+      "questionText": "What can we do with email?",
+      "image": "",
+      "options": [
+        "Playing games",
+        "Sending messages over internet",
+        "Printing documents",
+        "Typing only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Email sends messages.",
+      "topic": "Internet",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-m2-q10",
+      "questionText": "What are the main uses of the internet?",
+      "image": "",
+      "options": [
+        "Only games",
+        "Only email",
+        "Searching, learning, and communication",
+        "Nothing useful"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The internet helps us search and learn.",
+      "topic": "Internet",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-m2-q11",
+      "questionText": "What do we call moving a file to another folder?",
+      "image": "",
+      "options": [
+        "Copy",
+        "Cut",
+        "Move",
+        "Delete"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Move puts a file in another folder.",
+      "topic": "Storage",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-m2-q12",
+      "questionText": "What do we call a small picture that represents a program or file?",
+      "image": "",
+      "options": [
+        "Folder",
+        "File",
+        "Icon",
+        "Menu"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Icons represent programs or files.",
+      "topic": "Basic Operations",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-m2-q13",
+      "questionText": "What do we call the main screen when we start the computer?",
+      "image": "",
+      "options": [
+        "Folder",
+        "File",
+        "Desktop",
+        "Icon"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The desktop is the main screen.",
+      "topic": "Basic Operations",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-m2-q14",
+      "questionText": "Which key takes us to the next tab or field?",
+      "image": "",
+      "options": [
+        "Enter",
+        "Tab",
+        "Space",
+        "Shift"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tab moves to the next field.",
+      "topic": "Keyboard",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-m2-q15",
+      "questionText": "How do we capture what is shown on the screen?",
+      "image": "",
+      "options": [
+        "Camera",
+        "Screenshot",
+        "Printer",
+        "Scanner"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Screenshot captures the screen.",
+      "topic": "Basic Operations",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ics-g3-m2-q16",
+      "questionText": "Which key selects all text?",
+      "image": "",
+      "options": [
+        "Ctrl+A or Cmd+A",
+        "Ctrl+B",
+        "Ctrl+C",
+        "Ctrl+S"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ctrl+A selects all text.",
+      "topic": "Keyboard",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ics-g3-m2-q17",
+      "questionText": "What do we call a program that helps us write?",
+      "image": "",
+      "options": [
+        "Calculator",
+        "Word processor",
+        "Paint",
+        "Browser"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Word processor is for writing.",
+      "topic": "Software",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-m2-q18",
+      "questionText": "Which part of the computer does calculations?",
+      "image": "",
+      "options": [
+        "Monitor",
+        "Keyboard",
+        "CPU",
+        "Mouse"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The CPU does calculations.",
+      "topic": "Computer Parts",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-m2-q19",
+      "questionText": "What is a USB drive used for?",
+      "image": "",
+      "options": [
+        "Playing music",
+        "Storing files",
+        "Typing",
+        "Printing"
+      ],
+      "correctAnswer": 1,
+      "explanation": "USB drives store files.",
+      "topic": "Storage",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-m2-q20",
+      "questionText": "Why is good posture important when using a computer?",
+      "image": "",
+      "options": [
+        "To look good",
+        "To avoid back pain",
+        "No reason",
+        "To type faster"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Good posture prevents pain.",
+      "topic": "Safety",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-m2-q21",
+      "questionText": "Which of these is a portable computer?",
+      "image": "",
+      "options": [
+        "Television",
+        "Laptop",
+        "Radio",
+        "Refrigerator"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A laptop is a portable computer.",
+      "topic": "Computer Parts",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-m2-q22",
+      "questionText": "What do we call a picture we can use in a document?",
+      "image": "",
+      "options": [
+        "Icon",
+        "Image",
+        "Folder",
+        "File"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Images are pictures.",
+      "topic": "Basic Operations",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-m2-q23",
+      "questionText": "Which key opens a new document?",
+      "image": "",
+      "options": [
+        "Ctrl+N or Cmd+N",
+        "Ctrl+S",
+        "Ctrl+P",
+        "Ctrl+C"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ctrl+N opens a new document.",
+      "topic": "Keyboard",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ics-g3-m2-q24",
+      "questionText": "What do we call a blinking line that shows where we will type?",
+      "image": "",
+      "options": [
+        "Icon",
+        "Cursor",
+        "Menu",
+        "Folder"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The cursor shows where we are typing.",
+      "topic": "Basic Operations",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-g3-m2-q25",
+      "questionText": "Which key do we press to save a file?",
+      "image": "",
+      "options": [
+        "Ctrl+S or Cmd+S",
+        "Ctrl+N",
+        "Ctrl+P",
+        "Ctrl+C"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ctrl+S saves the file.",
+      "topic": "Keyboard",
+      "difficulty": "easy"
+    }
+  ]
+}
