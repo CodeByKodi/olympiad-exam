@@ -1,0 +1,20 @@
+{
+  "packId": "ics-grade3-software-tools-and-basic-operations-practice-03",
+  "exam": "ics",
+  "grade": 3,
+  "mode": "practice",
+  "title": "Software, Tools, and Basic Operations Practice Test",
+  "topic": "Software, Tools, and Basic Operations",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Software, Tools, and Basic Operations"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "packId": "nso-grade3-plants-and-animals-practice-01",
+  "exam": "nso",
+  "grade": 3,
+  "mode": "practice",
+  "title": "Plants and Animals Practice Test",
+  "topic": "Plants and Animals",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Plants and Animals"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

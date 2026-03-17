@@ -1,0 +1,212 @@
+{
+  "exam": "ieo",
+  "grade": 10,
+  "title": "English Grade 10 Syllabus",
+  "description": "Grade 10 english.",
+  "topics": [
+    {
+      "code": "IEO-G10-T1",
+      "name": "Advanced Grammar",
+      "description": "Advanced Grammar for Grade 10.",
+      "weightage": "high",
+      "recommendedQuestionCount": 40,
+      "subtopics": [
+        {
+          "code": "IEO-G10-T1-S1",
+          "name": "Advanced Grammar Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "advanced grammar",
+            "ieo",
+            "ieo",
+            "grade10"
+          ]
+        },
+        {
+          "code": "IEO-G10-T1-S2",
+          "name": "Advanced Grammar Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "advanced grammar",
+            "ieo",
+            "ieo",
+            "grade10"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IEO-G10-T2",
+      "name": "Comprehension",
+      "description": "Comprehension for Grade 10.",
+      "weightage": "high",
+      "recommendedQuestionCount": 37,
+      "subtopics": [
+        {
+          "code": "IEO-G10-T2-S1",
+          "name": "Comprehension Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "comprehension",
+            "ieo",
+            "ieo",
+            "grade10"
+          ]
+        },
+        {
+          "code": "IEO-G10-T2-S2",
+          "name": "Comprehension Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "comprehension",
+            "ieo",
+            "ieo",
+            "grade10"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IEO-G10-T3",
+      "name": "Critical Reading",
+      "description": "Critical Reading for Grade 10.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 34,
+      "subtopics": [
+        {
+          "code": "IEO-G10-T3-S1",
+          "name": "Critical Reading Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "critical reading",
+            "ieo",
+            "ieo",
+            "grade10"
+          ]
+        },
+        {
+          "code": "IEO-G10-T3-S2",
+          "name": "Critical Reading Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "critical reading",
+            "ieo",
+            "ieo",
+            "grade10"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IEO-G10-T4",
+      "name": "Contextual Usage",
+      "description": "Contextual Usage for Grade 10.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 31,
+      "subtopics": [
+        {
+          "code": "IEO-G10-T4-S1",
+          "name": "Contextual Usage Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "contextual usage",
+            "ieo",
+            "ieo",
+            "grade10"
+          ]
+        },
+        {
+          "code": "IEO-G10-T4-S2",
+          "name": "Contextual Usage Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "contextual usage",
+            "ieo",
+            "ieo",
+            "grade10"
+          ]
+        }
+      ]
+    }
+  ]
+}

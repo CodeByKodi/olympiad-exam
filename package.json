@@ -14,7 +14,11 @@
     "lint": "eslint .",
     "generate": "node scripts/generate-questions.js",
     "validate": "node scripts/validate-questions.js",
-    "validate:packs": "node scripts/validate-packs.js"
+    "validate:packs": "node scripts/validate-packs.js",
+    "migrate:question-bank": "node scripts/migrate-to-question-bank.js",
+    "validate:question-bank": "node scripts/validate-question-bank.js",
+    "generate:syllabus": "node scripts/generate-syllabus.js",
+    "validate:syllabus": "node scripts/validate-syllabus.js"
   },
   "dependencies": {
     "react": "^19.2.4",

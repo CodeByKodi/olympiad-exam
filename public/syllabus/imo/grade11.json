@@ -1,0 +1,351 @@
+{
+  "exam": "imo",
+  "grade": 11,
+  "title": "IMO Grade 11 Syllabus",
+  "description": "Grade 11 mathematics: olympiad topics.",
+  "topics": [
+    {
+      "code": "IMO-G11-T1",
+      "name": "Algebra",
+      "description": "Advanced algebra.",
+      "weightage": "high",
+      "recommendedQuestionCount": 55,
+      "subtopics": [
+        {
+          "code": "IMO-G11-T1-S1",
+          "name": "Polynomials",
+          "description": "Polynomial operations.",
+          "learningObjectives": [
+            "Factor polynomials",
+            "Solve equations"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 28,
+          "tags": [
+            "algebra",
+            "imo",
+            "grade11"
+          ]
+        },
+        {
+          "code": "IMO-G11-T1-S2",
+          "name": "Quadratic Equations",
+          "description": "Solving quadratics.",
+          "learningObjectives": [
+            "Solve quadratics",
+            "Apply to problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 27,
+          "tags": [
+            "algebra",
+            "imo",
+            "grade11"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IMO-G11-T2",
+      "name": "Trigonometry",
+      "description": "Trigonometric functions.",
+      "weightage": "high",
+      "recommendedQuestionCount": 50,
+      "subtopics": [
+        {
+          "code": "IMO-G11-T2-S1",
+          "name": "Trig Ratios",
+          "description": "Sin, cos, tan.",
+          "learningObjectives": [
+            "Apply trig ratios",
+            "Solve triangles"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 25,
+          "tags": [
+            "trigonometry",
+            "imo",
+            "grade11"
+          ]
+        },
+        {
+          "code": "IMO-G11-T2-S2",
+          "name": "Trig Identities",
+          "description": "Identities and equations.",
+          "learningObjectives": [
+            "Prove identities",
+            "Solve equations"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 25,
+          "tags": [
+            "trigonometry",
+            "imo",
+            "grade11"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IMO-G11-T3",
+      "name": "Coordinate Geometry",
+      "description": "Plane geometry.",
+      "weightage": "high",
+      "recommendedQuestionCount": 50,
+      "subtopics": [
+        {
+          "code": "IMO-G11-T3-S1",
+          "name": "Lines",
+          "description": "Line equations.",
+          "learningObjectives": [
+            "Find equation of line",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 25,
+          "tags": [
+            "coordinate",
+            "imo",
+            "grade11"
+          ]
+        },
+        {
+          "code": "IMO-G11-T3-S2",
+          "name": "Circles",
+          "description": "Circle equations.",
+          "learningObjectives": [
+            "Find circle equation",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 25,
+          "tags": [
+            "coordinate",
+            "imo",
+            "grade11"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IMO-G11-T4",
+      "name": "Probability",
+      "description": "Advanced probability.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 40,
+      "subtopics": [
+        {
+          "code": "IMO-G11-T4-S1",
+          "name": "Probability",
+          "description": "Advanced probability.",
+          "learningObjectives": [
+            "Calculate probability",
+            "Apply concepts"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 20,
+          "tags": [
+            "probability",
+            "imo",
+            "grade11"
+          ]
+        },
+        {
+          "code": "IMO-G11-T4-S2",
+          "name": "Permutations",
+          "description": "Counting and arrangements.",
+          "learningObjectives": [
+            "Apply counting principles",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 20,
+          "tags": [
+            "probability",
+            "imo",
+            "grade11"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IMO-G11-T5",
+      "name": "Advanced Geometry",
+      "description": "Geometric properties.",
+      "weightage": "high",
+      "recommendedQuestionCount": 50,
+      "subtopics": [
+        {
+          "code": "IMO-G11-T5-S1",
+          "name": "Triangles",
+          "description": "Triangles and properties.",
+          "learningObjectives": [
+            "Apply theorems",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 25,
+          "tags": [
+            "geometry",
+            "imo",
+            "grade11"
+          ]
+        },
+        {
+          "code": "IMO-G11-T5-S2",
+          "name": "Circles",
+          "description": "Circle theorems.",
+          "learningObjectives": [
+            "Apply circle theorems",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 25,
+          "tags": [
+            "geometry",
+            "imo",
+            "grade11"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IMO-G11-T6",
+      "name": "Calculus Basics",
+      "description": "Introduction to calculus.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 40,
+      "subtopics": [
+        {
+          "code": "IMO-G11-T6-S1",
+          "name": "Limits",
+          "description": "Limit concepts.",
+          "learningObjectives": [
+            "Evaluate limits",
+            "Apply limit rules"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 20,
+          "tags": [
+            "calculus",
+            "imo",
+            "grade11"
+          ]
+        },
+        {
+          "code": "IMO-G11-T6-S2",
+          "name": "Derivatives",
+          "description": "Basic differentiation.",
+          "learningObjectives": [
+            "Find derivatives",
+            "Apply to problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 20,
+          "tags": [
+            "calculus",
+            "imo",
+            "grade11"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IMO-G11-T7",
+      "name": "Olympiad Reasoning",
+      "description": "Olympiad-style problems.",
+      "weightage": "high",
+      "recommendedQuestionCount": 45,
+      "subtopics": [
+        {
+          "code": "IMO-G11-T7-S1",
+          "name": "Number Theory",
+          "description": "Number theory basics.",
+          "learningObjectives": [
+            "Apply number theory",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 22,
+          "tags": [
+            "olympiad",
+            "imo",
+            "grade11"
+          ]
+        },
+        {
+          "code": "IMO-G11-T7-S2",
+          "name": "Combinatorics",
+          "description": "Counting and arrangements.",
+          "learningObjectives": [
+            "Apply combinatorics",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 23,
+          "tags": [
+            "olympiad",
+            "imo",
+            "grade11"
+          ]
+        }
+      ]
+    }
+  ]
+}

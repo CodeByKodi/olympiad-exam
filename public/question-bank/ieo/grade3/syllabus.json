@@ -1,0 +1,24 @@
+{
+  "exam": "ieo",
+  "grade": 3,
+  "topics": [
+    { "id": "grammar-basics", "name": "Grammar Basics", "subtopics": [
+      { "id": "nouns", "name": "Nouns", "learningObjectives": ["Identify nouns"] },
+      { "id": "verbs", "name": "Verbs", "learningObjectives": ["Identify verbs"] },
+      { "id": "adjectives", "name": "Adjectives", "learningObjectives": ["Identify adjectives"] },
+      { "id": "pronouns", "name": "Pronouns", "learningObjectives": ["Use pronouns"] },
+      { "id": "tenses", "name": "Tenses", "learningObjectives": ["Use past/present"] }
+    ]},
+    { "id": "vocabulary-word-usage", "name": "Vocabulary and Word Usage", "subtopics": [
+      { "id": "synonyms", "name": "Synonyms", "learningObjectives": ["Identify synonyms"] },
+      { "id": "antonyms", "name": "Antonyms", "learningObjectives": ["Identify antonyms"] },
+      { "id": "spelling", "name": "Spelling", "learningObjectives": ["Spell common words"] }
+    ]},
+    { "id": "sentence-formation", "name": "Sentence Formation", "subtopics": [
+      { "id": "complete-sentences", "name": "Complete Sentences", "learningObjectives": ["Form complete sentences"] }
+    ]},
+    { "id": "everyday-english", "name": "Everyday English", "subtopics": [
+      { "id": "greetings", "name": "Greetings", "learningObjectives": ["Use polite expressions"] }
+    ]}
+  ]
+}

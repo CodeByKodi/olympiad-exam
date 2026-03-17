@@ -1,0 +1,44 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Olympiad Pack Definition",
+  "oneOf": [
+    {
+      "title": "Fixed Mock Pack",
+      "required": ["packId", "exam", "grade", "mode", "title", "questionIds"],
+      "properties": {
+        "packId": { "type": "string" },
+        "exam": { "type": "string" },
+        "grade": { "type": ["integer", "string"] },
+        "mode": { "const": "mock" },
+        "title": { "type": "string" },
+        "durationMinutes": { "type": "integer" },
+        "questionIds": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    {
+      "title": "Dynamic Practice Pack",
+      "required": ["packId", "exam", "grade", "mode", "title", "selectionRules"],
+      "properties": {
+        "packId": { "type": "string" },
+        "exam": { "type": "string" },
+        "grade": { "type": ["integer", "string"] },
+        "mode": { "const": "practice" },
+        "title": { "type": "string" },
+        "topic": { "type": "string" },
+        "questionCount": { "type": "integer" },
+        "durationMinutes": { "type": "integer" },
+        "selectionRules": {
+          "type": "object",
+          "properties": {
+            "topics": { "type": "array", "items": { "type": "string" } },
+            "subtopics": { "type": "array", "items": { "type": "string" } },
+            "difficultyMix": {
+              "type": "object",
+              "additionalProperties": { "type": "integer" }
+            }
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "exam": "isso",
+  "grade": 11,
+  "title": "Social Studies Grade 11 Syllabus",
+  "description": "Grade 11 social studies.",
+  "topics": [
+    {
+      "code": "ISSO-G11-T1",
+      "name": "Advanced History",
+      "description": "Advanced History for Grade 11.",
+      "weightage": "high",
+      "recommendedQuestionCount": 40,
+      "subtopics": [
+        {
+          "code": "ISSO-G11-T1-S1",
+          "name": "Advanced History Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "advanced history",
+            "isso",
+            "isso",
+            "grade11"
+          ]
+        },
+        {
+          "code": "ISSO-G11-T1-S2",
+          "name": "Advanced History Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "advanced history",
+            "isso",
+            "isso",
+            "grade11"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ISSO-G11-T2",
+      "name": "Civics",
+      "description": "Civics for Grade 11.",
+      "weightage": "high",
+      "recommendedQuestionCount": 37,
+      "subtopics": [
+        {
+          "code": "ISSO-G11-T2-S1",
+          "name": "Civics Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "civics",
+            "isso",
+            "isso",
+            "grade11"
+          ]
+        },
+        {
+          "code": "ISSO-G11-T2-S2",
+          "name": "Civics Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "civics",
+            "isso",
+            "isso",
+            "grade11"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ISSO-G11-T3",
+      "name": "Geography",
+      "description": "Geography for Grade 11.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 34,
+      "subtopics": [
+        {
+          "code": "ISSO-G11-T3-S1",
+          "name": "Geography Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "geography",
+            "isso",
+            "isso",
+            "grade11"
+          ]
+        },
+        {
+          "code": "ISSO-G11-T3-S2",
+          "name": "Geography Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "geography",
+            "isso",
+            "isso",
+            "grade11"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ISSO-G11-T4",
+      "name": "Economy",
+      "description": "Economy for Grade 11.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 31,
+      "subtopics": [
+        {
+          "code": "ISSO-G11-T4-S1",
+          "name": "Economy Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "economy",
+            "isso",
+            "isso",
+            "grade11"
+          ]
+        },
+        {
+          "code": "ISSO-G11-T4-S2",
+          "name": "Economy Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "economy",
+            "isso",
+            "isso",
+            "grade11"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ISSO-G11-T5",
+      "name": "Society",
+      "description": "Society for Grade 11.",
+      "weightage": "low",
+      "recommendedQuestionCount": 28,
+      "subtopics": [
+        {
+          "code": "ISSO-G11-T5-S1",
+          "name": "Society Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "society",
+            "isso",
+            "isso",
+            "grade11"
+          ]
+        },
+        {
+          "code": "ISSO-G11-T5-S2",
+          "name": "Society Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "society",
+            "isso",
+            "isso",
+            "grade11"
+          ]
+        }
+      ]
+    }
+  ]
+}

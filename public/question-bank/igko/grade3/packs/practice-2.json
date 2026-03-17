@@ -1,0 +1,20 @@
+{
+  "packId": "igko-grade3-symbols-signs-and-national-symbols-practice-02",
+  "exam": "igko",
+  "grade": 3,
+  "mode": "practice",
+  "title": "Symbols, Signs, and National Symbols Practice Test",
+  "topic": "Symbols, Signs, and National Symbols",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Symbols, Signs, and National Symbols"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

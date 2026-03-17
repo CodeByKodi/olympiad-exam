@@ -1,0 +1,20 @@
+{
+  "packId": "ieo-grade3-sentence-skills-and-writing-practice-03",
+  "exam": "ieo",
+  "grade": 3,
+  "mode": "practice",
+  "title": "Sentence Skills and Writing Practice Test",
+  "topic": "Sentence Skills and Writing",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Sentence Skills and Writing"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

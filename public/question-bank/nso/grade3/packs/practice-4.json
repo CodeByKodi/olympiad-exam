@@ -1,0 +1,20 @@
+{
+  "packId": "nso-grade3-earth-environment-and-space-practice-04",
+  "exam": "nso",
+  "grade": 3,
+  "mode": "practice",
+  "title": "Earth, Environment, and Space Practice Test",
+  "topic": "Earth, Environment, and Space",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Earth, Environment, and Space"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

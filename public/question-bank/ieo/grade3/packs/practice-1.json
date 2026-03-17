@@ -1,0 +1,20 @@
+{
+  "packId": "ieo-grade3-grammar-basics-practice-01",
+  "exam": "ieo",
+  "grade": 3,
+  "mode": "practice",
+  "title": "Grammar Basics Practice Test",
+  "topic": "Grammar Basics",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Grammar Basics"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

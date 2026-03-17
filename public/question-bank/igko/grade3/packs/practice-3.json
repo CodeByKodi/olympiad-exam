@@ -1,0 +1,20 @@
+{
+  "packId": "igko-grade3-festivals-important-days-and-culture-practice-03",
+  "exam": "igko",
+  "grade": 3,
+  "mode": "practice",
+  "title": "Festivals, Important Days, and Culture Practice Test",
+  "topic": "Festivals, Important Days, and Culture",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Festivals, Important Days, and Culture"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

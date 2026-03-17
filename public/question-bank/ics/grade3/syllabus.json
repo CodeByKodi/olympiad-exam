@@ -1,0 +1,16 @@
+{
+  "exam": "ics",
+  "grade": 3,
+  "topics": [
+    { "id": "hardware-basics", "name": "Hardware Basics", "subtopics": [
+      { "id": "parts", "name": "Computer Parts", "learningObjectives": ["Identify input/output devices"] }
+    ]},
+    { "id": "software-tools", "name": "Software, Tools, and Basic Operations", "subtopics": [
+      { "id": "software", "name": "Software", "learningObjectives": ["Identify common software"] },
+      { "id": "internet", "name": "Internet", "learningObjectives": ["Understand browser basics"] }
+    ]},
+    { "id": "digital-literacy", "name": "Digital Literacy", "subtopics": [
+      { "id": "safety", "name": "Online Safety", "learningObjectives": ["Identify safe practices"] }
+    ]}
+  ]
+}

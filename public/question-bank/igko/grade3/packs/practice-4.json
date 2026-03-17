@@ -1,0 +1,20 @@
+{
+  "packId": "igko-grade3-space-science-and-current-affairs-practice-04",
+  "exam": "igko",
+  "grade": 3,
+  "mode": "practice",
+  "title": "Space, Science, and Current Affairs Practice Test",
+  "topic": "Space, Science, and Current Affairs",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Space, Science, and Current Affairs"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

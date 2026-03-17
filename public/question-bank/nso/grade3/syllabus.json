@@ -1,0 +1,25 @@
+{
+  "exam": "nso",
+  "grade": 3,
+  "topics": [
+    { "id": "plants-animals", "name": "Plants and Animals", "subtopics": [
+      { "id": "plants", "name": "Plants", "learningObjectives": ["Identify plant parts", "Understand plant functions"] },
+      { "id": "animals", "name": "Animals", "learningObjectives": ["Classify animals", "Identify animal characteristics"] },
+      { "id": "living-nonliving", "name": "Living and Non-living", "learningObjectives": ["Distinguish living from non-living"] }
+    ]},
+    { "id": "human-body-food", "name": "Human Body and Food", "subtopics": [
+      { "id": "body-parts", "name": "Body Parts", "learningObjectives": ["Identify body parts", "Understand basic functions"] },
+      { "id": "food", "name": "Food", "learningObjectives": ["Classify food types", "Understand nutrition basics"] }
+    ]},
+    { "id": "matter-energy-force", "name": "Matter, Energy, and Force", "subtopics": [
+      { "id": "matter", "name": "Matter", "learningObjectives": ["Identify states of matter"] },
+      { "id": "energy", "name": "Energy", "learningObjectives": ["Identify sources of energy"] },
+      { "id": "force", "name": "Force", "learningObjectives": ["Understand push and pull"] }
+    ]},
+    { "id": "earth-environment-space", "name": "Earth, Environment, and Space", "subtopics": [
+      { "id": "earth", "name": "Earth", "learningObjectives": ["Identify land features"] },
+      { "id": "environment", "name": "Environment", "learningObjectives": ["Understand conservation basics"] },
+      { "id": "space", "name": "Space", "learningObjectives": ["Identify Sun, Moon, stars"] }
+    ]}
+  ]
+}

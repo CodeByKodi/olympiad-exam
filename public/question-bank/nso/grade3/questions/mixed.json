@@ -1,0 +1,515 @@
+[
+  {
+    "id": "nso-g3-mixed-0001",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Air and Water",
+    "subtopic": "Air and Water",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What gas do plants give out that we breathe?",
+    "image": "",
+    "options": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Nitrogen",
+      "Smoke"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Plants give out oxygen during the day, which we breathe.",
+    "tags": [
+      "air-and-water",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g3-mixed-0002",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Food and Nutrition",
+    "subtopic": "Food and Nutrition",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which nutrient helps our muscles grow?",
+    "image": "",
+    "options": [
+      "Sugar",
+      "Protein",
+      "Fat",
+      "Salt"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Protein from eggs and meat helps muscles grow.",
+    "tags": [
+      "food-and-nutrition",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g3-mixed-0003",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Light",
+    "subtopic": "Light",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we need to form a shadow?",
+    "image": "",
+    "options": [
+      "Sound and object",
+      "Light and object",
+      "Water only",
+      "Air only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A shadow forms when light is blocked by an object.",
+    "tags": [
+      "light",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g3-mixed-0004",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Earth and Space",
+    "subtopic": "Earth and Space",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How long does Earth take to spin once?",
+    "image": "",
+    "options": [
+      "One hour",
+      "One day",
+      "One week",
+      "One month"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Earth takes about 24 hours to spin once on its axis.",
+    "tags": [
+      "earth-and-space",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g3-mixed-0005",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Earth and Space",
+    "subtopic": "Earth and Space",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Where does the Sun set?",
+    "image": "",
+    "options": [
+      "North",
+      "South",
+      "East",
+      "West"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Sun sets in the West.",
+    "tags": [
+      "earth-and-space",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g3-mixed-0006",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Sound",
+    "subtopic": "Sound",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Through what does sound travel to reach our ears?",
+    "image": "",
+    "options": [
+      "Light",
+      "Air",
+      "Vacuum",
+      "Nothing"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sound travels through air to reach our ears.",
+    "tags": [
+      "sound",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g3-mixed-0007",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Air and Water",
+    "subtopic": "Air and Water",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is salty water?",
+    "image": "",
+    "options": [
+      "River",
+      "Sea",
+      "Lake",
+      "Pond"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sea water is salty. Rivers and lakes have fresh water.",
+    "tags": [
+      "air-and-water",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g3-mixed-0008",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Food and Nutrition",
+    "subtopic": "Food and Nutrition",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which food has Vitamin C?",
+    "image": "",
+    "options": [
+      "Rice",
+      "Orange",
+      "Bread",
+      "Butter"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Oranges and citrus fruits are rich in Vitamin C.",
+    "tags": [
+      "food-and-nutrition",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g3-mixed-0009",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Earth and Space",
+    "subtopic": "Earth and Space",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we see in the sky during the day?",
+    "image": "",
+    "options": [
+      "Stars",
+      "Moon only",
+      "Sun",
+      "Planets"
+    ],
+    "correctAnswer": 2,
+    "explanation": "We see the Sun in the sky during the day.",
+    "tags": [
+      "earth-and-space",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g3-mixed-0010",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Earth and Space",
+    "subtopic": "Earth and Space",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the Moon?",
+    "image": "",
+    "options": [
+      "A star",
+      "A planet",
+      "A satellite of Earth",
+      "A comet"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Moon is Earth's natural satellite. It orbits Earth.",
+    "tags": [
+      "earth-and-space",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g3-mixed-0011",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Food and Nutrition",
+    "subtopic": "Food and Nutrition",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Why should we eat fruits daily?",
+    "image": "",
+    "options": [
+      "They are cheap",
+      "They give vitamins and energy",
+      "They are sweet",
+      "No reason"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fruits give us vitamins, minerals, and energy.",
+    "tags": [
+      "food-and-nutrition",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g3-mixed-0012",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Earth and Space",
+    "subtopic": "Earth and Space",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which way is North on a compass?",
+    "image": "",
+    "options": [
+      "Where the Sun rises",
+      "Where the needle points",
+      "Down",
+      "Up"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A compass needle points toward North.",
+    "tags": [
+      "earth-and-space",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g3-mixed-0013",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Weather",
+    "subtopic": "Weather",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What falls from the sky when it rains?",
+    "image": "",
+    "options": [
+      "Snow",
+      "Hail",
+      "Water drops",
+      "Dust"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Rain is water drops falling from clouds.",
+    "tags": [
+      "weather",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g3-mixed-0014",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Light",
+    "subtopic": "Light",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Why do we see a rainbow?",
+    "image": "",
+    "options": [
+      "At night only",
+      "When sunlight passes through rain drops",
+      "In winter only",
+      "No reason"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sunlight splits into colors when it passes through water drops.",
+    "tags": [
+      "light",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g3-mixed-0015",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Food and Nutrition",
+    "subtopic": "Food and Nutrition",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which food gives us strong bones?",
+    "image": "",
+    "options": [
+      "Candy",
+      "Milk",
+      "Chips",
+      "Soda"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Milk has calcium for strong bones.",
+    "tags": [
+      "food-and-nutrition",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g3-mixed-0016",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Earth and Space",
+    "subtopic": "Earth and Space",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Is Earth flat or round?",
+    "image": "",
+    "options": [
+      "Flat",
+      "Round like a ball",
+      "Square",
+      "Triangle"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Earth is round like a ball (a sphere).",
+    "tags": [
+      "earth-and-space",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g3-mixed-0017",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Light",
+    "subtopic": "Light",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What gives us light during the day?",
+    "image": "",
+    "options": [
+      "Moon",
+      "Sun",
+      "Stars",
+      "Clouds"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Sun gives us light and heat during the day.",
+    "tags": [
+      "light",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g3-mixed-0018",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Weather",
+    "subtopic": "Weather",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is moving air called?",
+    "image": "",
+    "options": [
+      "Water",
+      "Wind",
+      "Fire",
+      "Earth"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Wind is air that is moving.",
+    "tags": [
+      "weather",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "nso-g3-mixed-0019",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Air and Water",
+    "subtopic": "Air and Water",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Why must we save water?",
+    "image": "",
+    "options": [
+      "Water is unlimited",
+      "Fresh water is limited",
+      "We don't need it",
+      "No reason"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fresh water is limited. We must save it.",
+    "tags": [
+      "air-and-water",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  }
+]

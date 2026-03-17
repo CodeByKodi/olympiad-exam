@@ -1,0 +1,20 @@
+{
+  "packId": "imo-grade3-time-money-and-measurement-practice-03",
+  "exam": "imo",
+  "grade": 3,
+  "mode": "practice",
+  "title": "Time, Money, and Measurement Practice Test",
+  "topic": "Time, Money, and Measurement",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Time, Money, and Measurement"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

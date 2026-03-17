@@ -1,0 +1,518 @@
+{
+  "exam": "igko",
+  "grade": 6,
+  "title": "General Knowledge Grade 6 Syllabus",
+  "description": "Grade 6 general knowledge.",
+  "topics": [
+    {
+      "code": "IGKO-G6-T1",
+      "name": "India",
+      "description": "India for Grade 6.",
+      "weightage": "high",
+      "recommendedQuestionCount": 40,
+      "subtopics": [
+        {
+          "code": "IGKO-G6-T1-S1",
+          "name": "India Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "india",
+            "igko",
+            "igko",
+            "grade6"
+          ]
+        },
+        {
+          "code": "IGKO-G6-T1-S2",
+          "name": "India Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "india",
+            "igko",
+            "igko",
+            "grade6"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IGKO-G6-T2",
+      "name": "World",
+      "description": "World for Grade 6.",
+      "weightage": "high",
+      "recommendedQuestionCount": 37,
+      "subtopics": [
+        {
+          "code": "IGKO-G6-T2-S1",
+          "name": "World Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "world",
+            "igko",
+            "igko",
+            "grade6"
+          ]
+        },
+        {
+          "code": "IGKO-G6-T2-S2",
+          "name": "World Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "world",
+            "igko",
+            "igko",
+            "grade6"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IGKO-G6-T3",
+      "name": "Countries",
+      "description": "Countries for Grade 6.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 34,
+      "subtopics": [
+        {
+          "code": "IGKO-G6-T3-S1",
+          "name": "Countries Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "countries",
+            "igko",
+            "igko",
+            "grade6"
+          ]
+        },
+        {
+          "code": "IGKO-G6-T3-S2",
+          "name": "Countries Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "countries",
+            "igko",
+            "igko",
+            "grade6"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IGKO-G6-T4",
+      "name": "Monuments",
+      "description": "Monuments for Grade 6.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 31,
+      "subtopics": [
+        {
+          "code": "IGKO-G6-T4-S1",
+          "name": "Monuments Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "monuments",
+            "igko",
+            "igko",
+            "grade6"
+          ]
+        },
+        {
+          "code": "IGKO-G6-T4-S2",
+          "name": "Monuments Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "monuments",
+            "igko",
+            "igko",
+            "grade6"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IGKO-G6-T5",
+      "name": "Environment",
+      "description": "Environment for Grade 6.",
+      "weightage": "low",
+      "recommendedQuestionCount": 28,
+      "subtopics": [
+        {
+          "code": "IGKO-G6-T5-S1",
+          "name": "Environment Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "environment",
+            "igko",
+            "igko",
+            "grade6"
+          ]
+        },
+        {
+          "code": "IGKO-G6-T5-S2",
+          "name": "Environment Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "environment",
+            "igko",
+            "igko",
+            "grade6"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IGKO-G6-T6",
+      "name": "Sports",
+      "description": "Sports for Grade 6.",
+      "weightage": "low",
+      "recommendedQuestionCount": 25,
+      "subtopics": [
+        {
+          "code": "IGKO-G6-T6-S1",
+          "name": "Sports Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "sports",
+            "igko",
+            "igko",
+            "grade6"
+          ]
+        },
+        {
+          "code": "IGKO-G6-T6-S2",
+          "name": "Sports Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "sports",
+            "igko",
+            "igko",
+            "grade6"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IGKO-G6-T7",
+      "name": "Personalities",
+      "description": "Personalities for Grade 6.",
+      "weightage": "low",
+      "recommendedQuestionCount": 22,
+      "subtopics": [
+        {
+          "code": "IGKO-G6-T7-S1",
+          "name": "Personalities Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "personalities",
+            "igko",
+            "igko",
+            "grade6"
+          ]
+        },
+        {
+          "code": "IGKO-G6-T7-S2",
+          "name": "Personalities Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "personalities",
+            "igko",
+            "igko",
+            "grade6"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IGKO-G6-T8",
+      "name": "Science",
+      "description": "Science for Grade 6.",
+      "weightage": "low",
+      "recommendedQuestionCount": 19,
+      "subtopics": [
+        {
+          "code": "IGKO-G6-T8-S1",
+          "name": "Science Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "science",
+            "igko",
+            "igko",
+            "grade6"
+          ]
+        },
+        {
+          "code": "IGKO-G6-T8-S2",
+          "name": "Science Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "science",
+            "igko",
+            "igko",
+            "grade6"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IGKO-G6-T9",
+      "name": "Important Days",
+      "description": "Important Days for Grade 6.",
+      "weightage": "low",
+      "recommendedQuestionCount": 16,
+      "subtopics": [
+        {
+          "code": "IGKO-G6-T9-S1",
+          "name": "Important Days Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "important days",
+            "igko",
+            "igko",
+            "grade6"
+          ]
+        },
+        {
+          "code": "IGKO-G6-T9-S2",
+          "name": "Important Days Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "important days",
+            "igko",
+            "igko",
+            "grade6"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IGKO-G6-T10",
+      "name": "Symbols",
+      "description": "Symbols for Grade 6.",
+      "weightage": "low",
+      "recommendedQuestionCount": 15,
+      "subtopics": [
+        {
+          "code": "IGKO-G6-T10-S1",
+          "name": "Symbols Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "symbols",
+            "igko",
+            "igko",
+            "grade6"
+          ]
+        },
+        {
+          "code": "IGKO-G6-T10-S2",
+          "name": "Symbols Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "symbols",
+            "igko",
+            "igko",
+            "grade6"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Olympiad Syllabus",
+  "type": "object",
+  "required": ["exam", "grade", "title", "description", "topics"],
+  "properties": {
+    "exam": { "type": "string", "enum": ["nso", "imo", "ieo", "ics", "igko", "isso"] },
+    "grade": { "type": ["integer", "string"] },
+    "title": { "type": "string" },
+    "description": { "type": "string" },
+    "topics": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["code", "name", "description", "weightage", "recommendedQuestionCount", "subtopics"],
+        "properties": {
+          "code": { "type": "string" },
+          "name": { "type": "string" },
+          "description": { "type": "string" },
+          "weightage": { "type": "string", "enum": ["low", "medium", "high"] },
+          "recommendedQuestionCount": { "type": "integer", "minimum": 0 },
+          "subtopics": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["code", "name", "learningObjectives", "difficultyRange", "recommendedQuestionCount", "tags"],
+              "properties": {
+                "code": { "type": "string" },
+                "name": { "type": "string" },
+                "description": { "type": "string" },
+                "learningObjectives": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+                "difficultyRange": { "type": "array", "items": { "enum": ["easy", "medium", "hard"] } },
+                "recommendedQuestionCount": { "type": "integer", "minimum": 0 },
+                "tags": { "type": "array", "items": { "type": "string" } }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "exam": "ics",
+  "grade": 4,
+  "title": "Computer Science Grade 4 Syllabus",
+  "description": "Grade 4 computer science.",
+  "topics": [
+    {
+      "code": "ICS-G4-T1",
+      "name": "Hardware",
+      "description": "Hardware for Grade 4.",
+      "weightage": "high",
+      "recommendedQuestionCount": 40,
+      "subtopics": [
+        {
+          "code": "ICS-G4-T1-S1",
+          "name": "Hardware Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "hardware",
+            "ics",
+            "ics",
+            "grade4"
+          ]
+        },
+        {
+          "code": "ICS-G4-T1-S2",
+          "name": "Hardware Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "hardware",
+            "ics",
+            "ics",
+            "grade4"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICS-G4-T2",
+      "name": "Software",
+      "description": "Software for Grade 4.",
+      "weightage": "high",
+      "recommendedQuestionCount": 37,
+      "subtopics": [
+        {
+          "code": "ICS-G4-T2-S1",
+          "name": "Software Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "software",
+            "ics",
+            "ics",
+            "grade4"
+          ]
+        },
+        {
+          "code": "ICS-G4-T2-S2",
+          "name": "Software Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "software",
+            "ics",
+            "ics",
+            "grade4"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICS-G4-T3",
+      "name": "Storage",
+      "description": "Storage for Grade 4.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 34,
+      "subtopics": [
+        {
+          "code": "ICS-G4-T3-S1",
+          "name": "Storage Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "storage",
+            "ics",
+            "ics",
+            "grade4"
+          ]
+        },
+        {
+          "code": "ICS-G4-T3-S2",
+          "name": "Storage Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "storage",
+            "ics",
+            "ics",
+            "grade4"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICS-G4-T4",
+      "name": "Internet",
+      "description": "Internet for Grade 4.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 31,
+      "subtopics": [
+        {
+          "code": "ICS-G4-T4-S1",
+          "name": "Internet Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "internet",
+            "ics",
+            "ics",
+            "grade4"
+          ]
+        },
+        {
+          "code": "ICS-G4-T4-S2",
+          "name": "Internet Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "internet",
+            "ics",
+            "ics",
+            "grade4"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICS-G4-T5",
+      "name": "Safety",
+      "description": "Safety for Grade 4.",
+      "weightage": "low",
+      "recommendedQuestionCount": 28,
+      "subtopics": [
+        {
+          "code": "ICS-G4-T5-S1",
+          "name": "Safety Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "safety",
+            "ics",
+            "ics",
+            "grade4"
+          ]
+        },
+        {
+          "code": "ICS-G4-T5-S2",
+          "name": "Safety Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "safety",
+            "ics",
+            "ics",
+            "grade4"
+          ]
+        }
+      ]
+    }
+  ]
+}

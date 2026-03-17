@@ -1,0 +1,677 @@
+[
+  {
+    "id": "ieo-g3-everyday-english-0001",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Reading Comprehension and Everyday English",
+    "subtopic": "Everyday English",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we say when we meet someone in the morning?",
+    "image": "",
+    "options": [
+      "Good night",
+      "Good morning",
+      "Goodbye",
+      "Thank you"
+    ],
+    "correctAnswer": 1,
+    "explanation": "We say Good morning when we meet someone in the morning.",
+    "tags": [
+      "reading-comprehension-and-everyday-english",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-everyday-english-0002",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Reading Comprehension and Everyday English",
+    "subtopic": "Everyday English",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we say when someone helps us?",
+    "image": "",
+    "options": [
+      "Sorry",
+      "Please",
+      "Thank you",
+      "Hello"
+    ],
+    "correctAnswer": 2,
+    "explanation": "We say Thank you when someone helps us.",
+    "tags": [
+      "reading-comprehension-and-everyday-english",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-everyday-english-0003",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Reading Comprehension and Everyday English",
+    "subtopic": "Everyday English",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we say when we need something politely?",
+    "image": "",
+    "options": [
+      "Give me",
+      "Please",
+      "Take it",
+      "Go away"
+    ],
+    "correctAnswer": 1,
+    "explanation": "We say Please when we ask for something politely.",
+    "tags": [
+      "reading-comprehension-and-everyday-english",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-everyday-english-0004",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Reading Comprehension and Everyday English",
+    "subtopic": "Everyday English",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we say when we make a mistake?",
+    "image": "",
+    "options": [
+      "Thank you",
+      "Sorry",
+      "Hello",
+      "Goodbye"
+    ],
+    "correctAnswer": 1,
+    "explanation": "We say Sorry when we make a mistake.",
+    "tags": [
+      "reading-comprehension-and-everyday-english",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-everyday-english-0005",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Reading Comprehension and Everyday English",
+    "subtopic": "Reading Comprehension",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Read: 'The dog ran fast.' What did the dog do?",
+    "image": "",
+    "options": [
+      "Walked",
+      "Ran",
+      "Slept",
+      "Ate"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The sentence says the dog ran fast.",
+    "tags": [
+      "reading-comprehension-and-everyday-english",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-everyday-english-0006",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Reading Comprehension and Everyday English",
+    "subtopic": "Everyday English",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we say when we leave someone?",
+    "image": "",
+    "options": [
+      "Hello",
+      "Goodbye",
+      "Thank you",
+      "Please"
+    ],
+    "correctAnswer": 1,
+    "explanation": "We say Goodbye when we leave.",
+    "tags": [
+      "reading-comprehension-and-everyday-english",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-everyday-english-0007",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Reading Comprehension and Everyday English",
+    "subtopic": "Reading Comprehension",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Read: 'Riya has a red ball.' What color is the ball?",
+    "image": "",
+    "options": [
+      "Blue",
+      "Green",
+      "Red",
+      "Yellow"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The sentence says the ball is red.",
+    "tags": [
+      "reading-comprehension-and-everyday-english",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-everyday-english-0008",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Reading Comprehension and Everyday English",
+    "subtopic": "Everyday English",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we say when someone sneezes?",
+    "image": "",
+    "options": [
+      "Hello",
+      "Bless you",
+      "Goodbye",
+      "Sorry"
+    ],
+    "correctAnswer": 1,
+    "explanation": "We say Bless you when someone sneezes.",
+    "tags": [
+      "reading-comprehension-and-everyday-english",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-everyday-english-0009",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Reading Comprehension and Everyday English",
+    "subtopic": "Reading Comprehension",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Read: 'Birds live in nests.' Where do birds live?",
+    "image": "",
+    "options": [
+      "In water",
+      "In nests",
+      "In caves",
+      "Underground"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The sentence says birds live in nests.",
+    "tags": [
+      "reading-comprehension-and-everyday-english",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-everyday-english-0010",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Reading Comprehension and Everyday English",
+    "subtopic": "Everyday English",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we say to welcome a guest?",
+    "image": "",
+    "options": [
+      "Go away",
+      "Welcome",
+      "Leave",
+      "Stop"
+    ],
+    "correctAnswer": 1,
+    "explanation": "We say Welcome to make a guest feel at home.",
+    "tags": [
+      "reading-comprehension-and-everyday-english",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-everyday-english-0011",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Reading Comprehension and Everyday English",
+    "subtopic": "Reading Comprehension",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Read: 'The cat sat on the mat.' Where did the cat sit?",
+    "image": "",
+    "options": [
+      "On the table",
+      "On the mat",
+      "Under the bed",
+      "In the box"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The sentence says the cat sat on the mat.",
+    "tags": [
+      "reading-comprehension-and-everyday-english",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-everyday-english-0012",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Reading Comprehension and Everyday English",
+    "subtopic": "Everyday English",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we say when we want to know someone's name?",
+    "image": "",
+    "options": [
+      "How are you?",
+      "What is your name?",
+      "Where do you live?",
+      "Goodbye."
+    ],
+    "correctAnswer": 1,
+    "explanation": "What is your name? asks for someone's name.",
+    "tags": [
+      "reading-comprehension-and-everyday-english",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-everyday-english-0013",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Reading Comprehension and Everyday English",
+    "subtopic": "Reading Comprehension",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Read: 'Apples are fruits.' What are apples?",
+    "image": "",
+    "options": [
+      "Vegetables",
+      "Fruits",
+      "Flowers",
+      "Leaves"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The sentence says apples are fruits.",
+    "tags": [
+      "reading-comprehension-and-everyday-english",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-everyday-english-0014",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Reading Comprehension and Everyday English",
+    "subtopic": "Everyday English",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we say when we agree?",
+    "image": "",
+    "options": [
+      "No",
+      "Yes",
+      "Maybe",
+      "Never"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Yes shows agreement. We use it when we agree with someone.",
+    "tags": [
+      "reading-comprehension-and-everyday-english",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-everyday-english-0015",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Reading Comprehension and Everyday English",
+    "subtopic": "Reading Comprehension",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Read: 'The sun gives us light.' What does the sun give?",
+    "image": "",
+    "options": [
+      "Water",
+      "Food",
+      "Light",
+      "Air"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The sentence says the sun gives us light.",
+    "tags": [
+      "reading-comprehension-and-everyday-english",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-everyday-english-0016",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Reading Comprehension and Everyday English",
+    "subtopic": "Everyday English",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we say when we don't understand?",
+    "image": "",
+    "options": [
+      "I know",
+      "I don't understand",
+      "I agree",
+      "Thank you"
+    ],
+    "correctAnswer": 1,
+    "explanation": "We say I don't understand when we need help.",
+    "tags": [
+      "reading-comprehension-and-everyday-english",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-everyday-english-0017",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Reading Comprehension and Everyday English",
+    "subtopic": "Reading Comprehension",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Read: 'Fish live in water.' Where do fish live?",
+    "image": "",
+    "options": [
+      "On land",
+      "In trees",
+      "In water",
+      "In the sky"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The sentence says fish live in water.",
+    "tags": [
+      "reading-comprehension-and-everyday-english",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-everyday-english-0018",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Reading Comprehension and Everyday English",
+    "subtopic": "Everyday English",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we say when someone does well?",
+    "image": "",
+    "options": [
+      "Bad",
+      "Well done",
+      "Wrong",
+      "Stop"
+    ],
+    "correctAnswer": 1,
+    "explanation": "We say Well done to praise someone.",
+    "tags": [
+      "reading-comprehension-and-everyday-english",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-everyday-english-0019",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Reading Comprehension and Everyday English",
+    "subtopic": "Reading Comprehension",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Read: 'We need water to live.' Why do we need water?",
+    "image": "",
+    "options": [
+      "To fly",
+      "To live",
+      "To sleep",
+      "To run"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The sentence says we need water to live.",
+    "tags": [
+      "reading-comprehension-and-everyday-english",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-everyday-english-0020",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Reading Comprehension and Everyday English",
+    "subtopic": "Everyday English",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we say when we want to pass?",
+    "image": "",
+    "options": [
+      "Stay",
+      "Excuse me",
+      "Go away",
+      "Stop"
+    ],
+    "correctAnswer": 1,
+    "explanation": "We say Excuse me when we want to pass politely.",
+    "tags": [
+      "reading-comprehension-and-everyday-english",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-everyday-english-0021",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Reading Comprehension and Everyday English",
+    "subtopic": "Reading Comprehension",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Read: 'Plants need sunlight to grow.' What do plants need?",
+    "image": "",
+    "options": [
+      "Darkness",
+      "Sunlight",
+      "Snow",
+      "Wind"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The sentence says plants need sunlight to grow.",
+    "tags": [
+      "reading-comprehension-and-everyday-english",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-everyday-english-0022",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Reading Comprehension and Everyday English",
+    "subtopic": "Everyday English",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we say when we meet someone for the first time?",
+    "image": "",
+    "options": [
+      "Goodbye",
+      "Nice to meet you",
+      "See you",
+      "Leave"
+    ],
+    "correctAnswer": 1,
+    "explanation": "We say Nice to meet you when we meet someone first.",
+    "tags": [
+      "reading-comprehension-and-everyday-english",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-everyday-english-0023",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Reading Comprehension and Everyday English",
+    "subtopic": "Reading Comprehension",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Read: 'The teacher teaches in a school.' Who teaches?",
+    "image": "",
+    "options": [
+      "Doctor",
+      "Teacher",
+      "Farmer",
+      "Driver"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The sentence says the teacher teaches.",
+    "tags": [
+      "reading-comprehension-and-everyday-english",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-everyday-english-0024",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Reading Comprehension and Everyday English",
+    "subtopic": "Everyday English",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we say when we want to know the time?",
+    "image": "",
+    "options": [
+      "What is your name?",
+      "What time is it?",
+      "Where are you?",
+      "How old are you?"
+    ],
+    "correctAnswer": 1,
+    "explanation": "What time is it? asks for the current time.",
+    "tags": [
+      "reading-comprehension-and-everyday-english",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-everyday-english-0025",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Reading Comprehension and Everyday English",
+    "subtopic": "Reading Comprehension",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Read: 'Books help us learn.' What do books help us do?",
+    "image": "",
+    "options": [
+      "Sleep",
+      "Eat",
+      "Learn",
+      "Play"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The sentence says books help us learn.",
+    "tags": [
+      "reading-comprehension-and-everyday-english",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  }
+]

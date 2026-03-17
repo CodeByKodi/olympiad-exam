@@ -1,0 +1,9 @@
+{
+  "files": [
+    "hardware-basics.json",
+    "input-output-storage.json",
+    "software-tools.json",
+    "digital-literacy.json",
+    "mixed.json"
+  ]
+}

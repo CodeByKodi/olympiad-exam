@@ -1,0 +1,2729 @@
+[
+  {
+    "id": "igko-g3-general-knowledge-0001",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Continents, Oceans, and Geography",
+    "subtopic": "Continents",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many continents are there in the world?",
+    "image": "",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswer": 2,
+    "explanation": "There are 7 continents.",
+    "tags": [
+      "continents-oceans-and-geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0002",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Continents, Oceans, and Geography",
+    "subtopic": "Oceans",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which ocean is the largest in the world?",
+    "image": "",
+    "options": [
+      "Atlantic",
+      "Indian",
+      "Pacific",
+      "Arctic"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Pacific is the largest ocean.",
+    "tags": [
+      "continents-oceans-and-geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0003",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Continents, Oceans, and Geography",
+    "subtopic": "Continents",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the smallest continent?",
+    "image": "",
+    "options": [
+      "Europe",
+      "Antarctica",
+      "Australia",
+      "South America"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Australia is the smallest continent.",
+    "tags": [
+      "continents-oceans-and-geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0004",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Continents, Oceans, and Geography",
+    "subtopic": "Continents",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What continent has the most people?",
+    "image": "",
+    "options": [
+      "Africa",
+      "Europe",
+      "Asia",
+      "North America"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Asia has the most people.",
+    "tags": [
+      "continents-oceans-and-geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0005",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Continents, Oceans, and Geography",
+    "subtopic": "Oceans",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What ocean is between Africa and Australia?",
+    "image": "",
+    "options": [
+      "Atlantic",
+      "Indian",
+      "Pacific",
+      "Arctic"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Indian Ocean is between them.",
+    "tags": [
+      "continents-oceans-and-geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0006",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Continents, Oceans, and Geography",
+    "subtopic": "Geography",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the study of the Earth's surface?",
+    "image": "",
+    "options": [
+      "History",
+      "Geography",
+      "Science",
+      "Math"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Geography studies the Earth.",
+    "tags": [
+      "continents-oceans-and-geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0007",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Continents, Oceans, and Geography",
+    "subtopic": "Maps",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a drawing of the earth or a part of it?",
+    "image": "",
+    "options": [
+      "Picture",
+      "Map",
+      "Photo",
+      "Painting"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A map shows the earth.",
+    "tags": [
+      "continents-oceans-and-geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0008",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Continents, Oceans, and Geography",
+    "subtopic": "Directions",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to find directions?",
+    "image": "",
+    "options": [
+      "Watch",
+      "Compass",
+      "Ruler",
+      "Pen"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A compass shows directions.",
+    "tags": [
+      "continents-oceans-and-geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0009",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Continents, Oceans, and Geography",
+    "subtopic": "Directions",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What direction does the Sun rise from?",
+    "image": "",
+    "options": [
+      "North",
+      "South",
+      "East",
+      "West"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Sun rises in the East.",
+    "tags": [
+      "continents-oceans-and-geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0010",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Continents, Oceans, and Geography",
+    "subtopic": "Directions",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What direction does the Sun set in?",
+    "image": "",
+    "options": [
+      "North",
+      "South",
+      "East",
+      "West"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Sun sets in the West.",
+    "tags": [
+      "continents-oceans-and-geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0011",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Continents, Oceans, and Geography",
+    "subtopic": "Countries",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the largest country by area?",
+    "image": "",
+    "options": [
+      "China",
+      "India",
+      "Russia",
+      "USA"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Russia is the largest country.",
+    "tags": [
+      "continents-oceans-and-geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0012",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Continents, Oceans, and Geography",
+    "subtopic": "Capitals",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the capital of India?",
+    "image": "",
+    "options": [
+      "Mumbai",
+      "Kolkata",
+      "New Delhi",
+      "Chennai"
+    ],
+    "correctAnswer": 2,
+    "explanation": "New Delhi is the capital.",
+    "tags": [
+      "continents-oceans-and-geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0013",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Continents, Oceans, and Geography",
+    "subtopic": "Capitals",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the capital of Japan?",
+    "image": "",
+    "options": [
+      "Beijing",
+      "Seoul",
+      "Tokyo",
+      "Bangkok"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Tokyo is the capital of Japan.",
+    "tags": [
+      "continents-oceans-and-geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0014",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Continents, Oceans, and Geography",
+    "subtopic": "Capitals",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the capital of China?",
+    "image": "",
+    "options": [
+      "Shanghai",
+      "Beijing",
+      "Hong Kong",
+      "Tokyo"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Beijing is the capital.",
+    "tags": [
+      "continents-oceans-and-geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0015",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Continents, Oceans, and Geography",
+    "subtopic": "Capitals",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the capital of England?",
+    "image": "",
+    "options": [
+      "Paris",
+      "London",
+      "Berlin",
+      "Rome"
+    ],
+    "correctAnswer": 1,
+    "explanation": "London is the capital.",
+    "tags": [
+      "continents-oceans-and-geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0016",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Continents, Oceans, and Geography",
+    "subtopic": "Monuments",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What country has the Taj Mahal?",
+    "image": "",
+    "options": [
+      "China",
+      "India",
+      "Pakistan",
+      "Bangladesh"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Taj Mahal is in India.",
+    "tags": [
+      "continents-oceans-and-geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0017",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Continents, Oceans, and Geography",
+    "subtopic": "Monuments",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What country has the Great Wall?",
+    "image": "",
+    "options": [
+      "India",
+      "Japan",
+      "China",
+      "Korea"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Great Wall is in China.",
+    "tags": [
+      "continents-oceans-and-geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0018",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Continents, Oceans, and Geography",
+    "subtopic": "Monuments",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What country has the Eiffel Tower?",
+    "image": "",
+    "options": [
+      "Italy",
+      "Germany",
+      "France",
+      "Spain"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Eiffel Tower is in France.",
+    "tags": [
+      "continents-oceans-and-geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0019",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Continents, Oceans, and Geography",
+    "subtopic": "Maps",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is a drawing that shows roads and places?",
+    "image": "",
+    "options": [
+      "Painting",
+      "Map",
+      "Photo",
+      "Drawing"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A map shows roads and places.",
+    "tags": [
+      "continents-oceans-and-geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0020",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Continents, Oceans, and Geography",
+    "subtopic": "Continents",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What continent is India in?",
+    "image": "",
+    "options": [
+      "Africa",
+      "Europe",
+      "Asia",
+      "Australia"
+    ],
+    "correctAnswer": 2,
+    "explanation": "India is in Asia.",
+    "tags": [
+      "continents-oceans-and-geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0021",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Continents, Oceans, and Geography",
+    "subtopic": "Oceans",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What ocean is the coldest?",
+    "image": "",
+    "options": [
+      "Atlantic",
+      "Indian",
+      "Pacific",
+      "Arctic"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Arctic Ocean is the coldest.",
+    "tags": [
+      "continents-oceans-and-geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0022",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Continents, Oceans, and Geography",
+    "subtopic": "Maps",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is a model of the Earth shaped like a ball?",
+    "image": "",
+    "options": [
+      "Map",
+      "Globe",
+      "Compass",
+      "Chart"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A globe is a model of Earth.",
+    "tags": [
+      "continents-oceans-and-geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0023",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Continents, Oceans, and Geography",
+    "subtopic": "Geography",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which continent has the Sahara Desert?",
+    "image": "",
+    "options": [
+      "Asia",
+      "Europe",
+      "Africa",
+      "Australia"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Sahara is in Africa.",
+    "tags": [
+      "continents-oceans-and-geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0024",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Continents, Oceans, and Geography",
+    "subtopic": "Continents",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which continent has no permanent residents?",
+    "image": "",
+    "options": [
+      "Europe",
+      "Antarctica",
+      "Australia",
+      "South America"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Antarctica has no permanent residents.",
+    "tags": [
+      "continents-oceans-and-geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0025",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Continents, Oceans, and Geography",
+    "subtopic": "Directions",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the four main directions?",
+    "image": "",
+    "options": [
+      "Cardinal directions",
+      "Side directions",
+      "Main directions",
+      "Basic directions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "North, South, East, West are cardinal directions.",
+    "tags": [
+      "continents-oceans-and-geography",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0026",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Symbols, Signs, and National Symbols",
+    "subtopic": "National Symbols",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the national bird of India?",
+    "image": "",
+    "options": [
+      "Crow",
+      "Peacock",
+      "Parrot",
+      "Sparrow"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Peacock is the national bird.",
+    "tags": [
+      "symbols-signs-and-national-symbols",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0027",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Symbols, Signs, and National Symbols",
+    "subtopic": "National Symbols",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which sport is the national game of India?",
+    "image": "",
+    "options": [
+      "Cricket",
+      "Hockey",
+      "Football",
+      "Tennis"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hockey is the national game.",
+    "tags": [
+      "symbols-signs-and-national-symbols",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0028",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Symbols, Signs, and National Symbols",
+    "subtopic": "Traffic Signs",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What does a red traffic light mean?",
+    "image": "",
+    "options": [
+      "Go",
+      "Stop",
+      "Slow",
+      "Ready"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Red means stop.",
+    "tags": [
+      "symbols-signs-and-national-symbols",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0029",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Symbols, Signs, and National Symbols",
+    "subtopic": "Traffic Signs",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What does a green traffic light mean?",
+    "image": "",
+    "options": [
+      "Stop",
+      "Go",
+      "Slow",
+      "Wait"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Green means go.",
+    "tags": [
+      "symbols-signs-and-national-symbols",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0030",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Symbols, Signs, and National Symbols",
+    "subtopic": "Traffic Signs",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What does a yellow traffic light mean?",
+    "image": "",
+    "options": [
+      "Go",
+      "Stop",
+      "Slow down or get ready",
+      "Speed up"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Yellow means slow down.",
+    "tags": [
+      "symbols-signs-and-national-symbols",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0031",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Symbols, Signs, and National Symbols",
+    "subtopic": "National Symbols",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the national animal of India?",
+    "image": "",
+    "options": [
+      "Lion",
+      "Tiger",
+      "Elephant",
+      "Deer"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Tiger is the national animal.",
+    "tags": [
+      "symbols-signs-and-national-symbols",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0032",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Symbols, Signs, and National Symbols",
+    "subtopic": "National Symbols",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the national flower of India?",
+    "image": "",
+    "options": [
+      "Rose",
+      "Lotus",
+      "Sunflower",
+      "Jasmine"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Lotus is the national flower.",
+    "tags": [
+      "symbols-signs-and-national-symbols",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0033",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Symbols, Signs, and National Symbols",
+    "subtopic": "National Symbols",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the flag of a country?",
+    "image": "",
+    "options": [
+      "Banner",
+      "National flag",
+      "Cloth",
+      "Symbol"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Each country has a national flag.",
+    "tags": [
+      "symbols-signs-and-national-symbols",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0034",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Symbols, Signs, and National Symbols",
+    "subtopic": "National Symbols",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many colors does the Indian flag have?",
+    "image": "",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Indian flag has saffron, white, and green.",
+    "tags": [
+      "symbols-signs-and-national-symbols",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0035",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Symbols, Signs, and National Symbols",
+    "subtopic": "Signs",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a sign that tells us to be careful?",
+    "image": "",
+    "options": [
+      "Go sign",
+      "Warning sign",
+      "Stop sign",
+      "Info sign"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Warning signs tell us to be careful.",
+    "tags": [
+      "symbols-signs-and-national-symbols",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0036",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Symbols, Signs, and National Symbols",
+    "subtopic": "Signs",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What shape is usually used for stop signs?",
+    "image": "",
+    "options": [
+      "Circle",
+      "Triangle",
+      "Octagon",
+      "Square"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Stop signs are often octagonal.",
+    "tags": [
+      "symbols-signs-and-national-symbols",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0037",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Symbols, Signs, and National Symbols",
+    "subtopic": "National Symbols",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the symbol that represents a country?",
+    "image": "",
+    "options": [
+      "Logo",
+      "Emblem",
+      "Badge",
+      "Mark"
+    ],
+    "correctAnswer": 1,
+    "explanation": "An emblem represents a country.",
+    "tags": [
+      "symbols-signs-and-national-symbols",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0038",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Symbols, Signs, and National Symbols",
+    "subtopic": "National Symbols",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the song that represents a country?",
+    "image": "",
+    "options": [
+      "Folk song",
+      "National anthem",
+      "Pop song",
+      "Classical song"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The national anthem represents a country.",
+    "tags": [
+      "symbols-signs-and-national-symbols",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0039",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Symbols, Signs, and National Symbols",
+    "subtopic": "National Symbols",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "When should we stand up when the national anthem plays?",
+    "image": "",
+    "options": [
+      "Never",
+      "Sometimes",
+      "Always",
+      "Only at home"
+    ],
+    "correctAnswer": 2,
+    "explanation": "We should stand when the anthem plays.",
+    "tags": [
+      "symbols-signs-and-national-symbols",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0040",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Symbols, Signs, and National Symbols",
+    "subtopic": "Signs",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a picture or shape that stands for something?",
+    "image": "",
+    "options": [
+      "Word",
+      "Symbol",
+      "Number",
+      "Letter"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A symbol stands for something.",
+    "tags": [
+      "symbols-signs-and-national-symbols",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0041",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Symbols, Signs, and National Symbols",
+    "subtopic": "Signs",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What does a plus sign usually mean in hospitals?",
+    "image": "",
+    "options": [
+      "School",
+      "Hospital",
+      "Park",
+      "Restaurant"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A plus sign often means hospital.",
+    "tags": [
+      "symbols-signs-and-national-symbols",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0042",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Symbols, Signs, and National Symbols",
+    "subtopic": "National Symbols",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the wheel in the center of the Indian flag?",
+    "image": "",
+    "options": [
+      "Sun",
+      "Ashoka Chakra",
+      "Star",
+      "Moon"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Ashoka Chakra is in the center.",
+    "tags": [
+      "symbols-signs-and-national-symbols",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0043",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Symbols, Signs, and National Symbols",
+    "subtopic": "Signs",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a sign that shows us where to go?",
+    "image": "",
+    "options": [
+      "Stop sign",
+      "Direction sign",
+      "Warning sign",
+      "No entry sign"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Direction signs show the way.",
+    "tags": [
+      "symbols-signs-and-national-symbols",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0044",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Symbols, Signs, and National Symbols",
+    "subtopic": "Signs",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What does a red cross usually mean?",
+    "image": "",
+    "options": [
+      "Danger",
+      "Medical help",
+      "Stop",
+      "Go"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Red cross often means medical help.",
+    "tags": [
+      "symbols-signs-and-national-symbols",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0045",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Symbols, Signs, and National Symbols",
+    "subtopic": "National Symbols",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the animal that represents a country?",
+    "image": "",
+    "options": [
+      "Pet",
+      "National animal",
+      "Wild animal",
+      "Farm animal"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Each country has a national animal.",
+    "tags": [
+      "symbols-signs-and-national-symbols",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0046",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Symbols, Signs, and National Symbols",
+    "subtopic": "National Symbols",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the bird that represents a country?",
+    "image": "",
+    "options": [
+      "Pet bird",
+      "National bird",
+      "Wild bird",
+      "Sea bird"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Each country has a national bird.",
+    "tags": [
+      "symbols-signs-and-national-symbols",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0047",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Symbols, Signs, and National Symbols",
+    "subtopic": "National Symbols",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the national tree of India?",
+    "image": "",
+    "options": [
+      "Oak",
+      "Banyan",
+      "Pine",
+      "Mango"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Banyan is the national tree.",
+    "tags": [
+      "symbols-signs-and-national-symbols",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0048",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Symbols, Signs, and National Symbols",
+    "subtopic": "Signs",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a sign that tells us we cannot do something?",
+    "image": "",
+    "options": [
+      "Go sign",
+      "Prohibition sign",
+      "Info sign",
+      "Warning sign"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Prohibition signs forbid actions.",
+    "tags": [
+      "symbols-signs-and-national-symbols",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0049",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Symbols, Signs, and National Symbols",
+    "subtopic": "National Symbols",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the top color of the Indian flag?",
+    "image": "",
+    "options": [
+      "Green",
+      "White",
+      "Saffron",
+      "Blue"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Saffron is at the top.",
+    "tags": [
+      "symbols-signs-and-national-symbols",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0050",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Symbols, Signs, and National Symbols",
+    "subtopic": "Traffic Signs",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What should we do when we see a pedestrian crossing sign?",
+    "image": "",
+    "options": [
+      "Speed up",
+      "Slow down and watch for people",
+      "Honk loudly",
+      "Ignore it"
+    ],
+    "correctAnswer": 1,
+    "explanation": "We should slow down for pedestrians.",
+    "tags": [
+      "symbols-signs-and-national-symbols",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0051",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Festivals, Important Days, and Culture",
+    "subtopic": "Important Days",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which day is Independence Day in India?",
+    "image": "",
+    "options": [
+      "January 26",
+      "August 15",
+      "October 2",
+      "December 25"
+    ],
+    "correctAnswer": 1,
+    "explanation": "August 15 is Independence Day.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0052",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Festivals, Important Days, and Culture",
+    "subtopic": "Important Days",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What day is Gandhi Jayanti?",
+    "image": "",
+    "options": [
+      "August 15",
+      "January 26",
+      "October 2",
+      "December 25"
+    ],
+    "correctAnswer": 2,
+    "explanation": "October 2 is Gandhi Jayanti.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0053",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Festivals, Important Days, and Culture",
+    "subtopic": "Important Days",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What day is Children's Day in India?",
+    "image": "",
+    "options": [
+      "August 15",
+      "November 14",
+      "October 2",
+      "January 26"
+    ],
+    "correctAnswer": 1,
+    "explanation": "November 14 is Children's Day.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0054",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Festivals, Important Days, and Culture",
+    "subtopic": "Important Days",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What day is Republic Day in India?",
+    "image": "",
+    "options": [
+      "January 26",
+      "August 15",
+      "October 2",
+      "December 25"
+    ],
+    "correctAnswer": 0,
+    "explanation": "January 26 is Republic Day.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0055",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Festivals, Important Days, and Culture",
+    "subtopic": "Festivals",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which festival is known as the festival of lights?",
+    "image": "",
+    "options": [
+      "Holi",
+      "Diwali",
+      "Eid",
+      "Christmas"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Diwali is the festival of lights.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0056",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Festivals, Important Days, and Culture",
+    "subtopic": "Festivals",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What festival is celebrated with colors?",
+    "image": "",
+    "options": [
+      "Diwali",
+      "Holi",
+      "Eid",
+      "Christmas"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Holi is the festival of colors.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0057",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Festivals, Important Days, and Culture",
+    "subtopic": "Festivals",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What festival marks the birth of Jesus?",
+    "image": "",
+    "options": [
+      "Diwali",
+      "Holi",
+      "Eid",
+      "Christmas"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Christmas marks Jesus's birth.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0058",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Festivals, Important Days, and Culture",
+    "subtopic": "Festivals",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What festival is celebrated with fasting?",
+    "image": "",
+    "options": [
+      "Diwali",
+      "Holi",
+      "Eid",
+      "Christmas"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Eid is celebrated with fasting.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0059",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Festivals, Important Days, and Culture",
+    "subtopic": "Festivals",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we light during Diwali?",
+    "image": "",
+    "options": [
+      "Candles",
+      "Diyas and lamps",
+      "Fireworks only",
+      "Nothing"
+    ],
+    "correctAnswer": 1,
+    "explanation": "We light diyas and lamps during Diwali.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0060",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Festivals, Important Days, and Culture",
+    "subtopic": "Festivals",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which festival is celebrated in spring with colors?",
+    "image": "",
+    "options": [
+      "Diwali",
+      "Holi",
+      "Eid",
+      "Christmas"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Holi is the spring festival of colors.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0061",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Festivals, Important Days, and Culture",
+    "subtopic": "Festivals",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a special day for celebration?",
+    "image": "",
+    "options": [
+      "Weekday",
+      "Festival",
+      "Holiday",
+      "Both B and C"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Festivals and holidays are special days.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0062",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Festivals, Important Days, and Culture",
+    "subtopic": "Culture",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the stories passed down from older generations?",
+    "image": "",
+    "options": [
+      "News",
+      "Folklore",
+      "Movies",
+      "Songs"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Folklore includes traditional stories.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0063",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Festivals, Important Days, and Culture",
+    "subtopic": "Culture",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the traditional clothes of a region?",
+    "image": "",
+    "options": [
+      "Uniform",
+      "Costume",
+      "Dress",
+      "Outfit"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Traditional clothes are costumes.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0064",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Festivals, Important Days, and Culture",
+    "subtopic": "Culture",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the food that is special to a region?",
+    "image": "",
+    "options": [
+      "Fast food",
+      "Traditional food",
+      "Junk food",
+      "Frozen food"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Traditional food is special to a region.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0065",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Festivals, Important Days, and Culture",
+    "subtopic": "Culture",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the music and dance of a region?",
+    "image": "",
+    "options": [
+      "Pop music",
+      "Folk music",
+      "Rock music",
+      "Jazz"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Folk music and dance are traditional.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0066",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Festivals, Important Days, and Culture",
+    "subtopic": "Festivals",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which month is Diwali usually celebrated in?",
+    "image": "",
+    "options": [
+      "January",
+      "March",
+      "October or November",
+      "December"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Diwali is in October or November.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0067",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Festivals, Important Days, and Culture",
+    "subtopic": "Important Days",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a day when we remember a great person?",
+    "image": "",
+    "options": [
+      "Birthday",
+      "Memorial day",
+      "Holiday",
+      "Weekend"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Memorial days honor great people.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0068",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Festivals, Important Days, and Culture",
+    "subtopic": "Culture",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the customs and beliefs of a group?",
+    "image": "",
+    "options": [
+      "Science",
+      "Culture",
+      "Math",
+      "Sports"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Culture includes customs and beliefs.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0069",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Festivals, Important Days, and Culture",
+    "subtopic": "Festivals",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which festival is known for exchanging gifts?",
+    "image": "",
+    "options": [
+      "Holi",
+      "Diwali",
+      "Eid",
+      "Christmas"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Christmas is known for gift exchange.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0070",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Festivals, Important Days, and Culture",
+    "subtopic": "Culture",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a language spoken by many people in a region?",
+    "image": "",
+    "options": [
+      "Foreign language",
+      "Regional language",
+      "Secret language",
+      "New language"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Regional languages are spoken in areas.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0071",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Festivals, Important Days, and Culture",
+    "subtopic": "Culture",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a building where we worship?",
+    "image": "",
+    "options": [
+      "School",
+      "Hospital",
+      "Temple or church",
+      "Market"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Temples and churches are places of worship.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0072",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Festivals, Important Days, and Culture",
+    "subtopic": "Culture",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call art made by hand in traditional ways?",
+    "image": "",
+    "options": [
+      "Machine art",
+      "Handicraft",
+      "Digital art",
+      "Print art"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Handicrafts are made by hand.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0073",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Festivals, Important Days, and Culture",
+    "subtopic": "Festivals",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which festival celebrates the harvest?",
+    "image": "",
+    "options": [
+      "Diwali",
+      "Pongal",
+      "Holi",
+      "Christmas"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pongal celebrates the harvest.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0074",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Festivals, Important Days, and Culture",
+    "subtopic": "Festivals",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a special meal shared during festivals?",
+    "image": "",
+    "options": [
+      "Snack",
+      "Feast",
+      "Breakfast",
+      "Lunch"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A feast is a special meal.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0075",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Festivals, Important Days, and Culture",
+    "subtopic": "Culture",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the way people celebrate their beliefs?",
+    "image": "",
+    "options": [
+      "Science",
+      "Religion",
+      "Sports",
+      "Art"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Religion shapes celebrations.",
+    "tags": [
+      "festivals-important-days-and-culture",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0076",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Space, Science, and Current Affairs",
+    "subtopic": "Space",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the Sun?",
+    "image": "",
+    "options": [
+      "A planet",
+      "A star",
+      "A moon",
+      "A comet"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Sun is a star.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0077",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Space, Science, and Current Affairs",
+    "subtopic": "Space",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is a person who travels to space?",
+    "image": "",
+    "options": [
+      "Pilot",
+      "Astronaut",
+      "Sailor",
+      "Driver"
+    ],
+    "correctAnswer": 1,
+    "explanation": "An astronaut travels to space.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0078",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Space, Science, and Current Affairs",
+    "subtopic": "Space",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What planet do we live on?",
+    "image": "",
+    "options": [
+      "Moon",
+      "Sun",
+      "Earth",
+      "Mars"
+    ],
+    "correctAnswer": 2,
+    "explanation": "We live on Earth.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0079",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Space, Science, and Current Affairs",
+    "subtopic": "Space",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is Earth's natural satellite?",
+    "image": "",
+    "options": [
+      "Sun",
+      "Star",
+      "Moon",
+      "Planet"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Moon is Earth's satellite.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0080",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Space, Science, and Current Affairs",
+    "subtopic": "Space",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the closest star to Earth?",
+    "image": "",
+    "options": [
+      "Moon",
+      "Sun",
+      "Mars",
+      "Venus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Sun is the closest star.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0081",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Space, Science, and Current Affairs",
+    "subtopic": "Space",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the path of the Moon around Earth?",
+    "image": "",
+    "options": [
+      "Rotation",
+      "Orbit",
+      "Revolution",
+      "Spin"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Moon orbits Earth.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0082",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Space, Science, and Current Affairs",
+    "subtopic": "Space",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What causes day and night on Earth?",
+    "image": "",
+    "options": [
+      "The Moon moves",
+      "Earth spins on its axis",
+      "The Sun moves",
+      "Stars appear"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Earth's rotation causes day and night.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0083",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Space, Science, and Current Affairs",
+    "subtopic": "Space",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the study of stars and space called?",
+    "image": "",
+    "options": [
+      "Biology",
+      "Astronomy",
+      "Geography",
+      "History"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Astronomy studies stars and space.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0084",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Space, Science, and Current Affairs",
+    "subtopic": "Space",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is a vehicle that goes to space?",
+    "image": "",
+    "options": [
+      "Car",
+      "Rocket",
+      "Ship",
+      "Plane"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Rockets go to space.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0085",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Space, Science, and Current Affairs",
+    "subtopic": "Science",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the force that pulls us toward Earth?",
+    "image": "",
+    "options": [
+      "Magnetism",
+      "Gravity",
+      "Wind",
+      "Water"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Gravity pulls us toward Earth.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0086",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Space, Science, and Current Affairs",
+    "subtopic": "Current Affairs",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the news and events happening now?",
+    "image": "",
+    "options": [
+      "History",
+      "Current affairs",
+      "Future",
+      "Past"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Current affairs are present events.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0087",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Space, Science, and Current Affairs",
+    "subtopic": "Current Affairs",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a person who leads a country?",
+    "image": "",
+    "options": [
+      "Teacher",
+      "Doctor",
+      "Leader or President",
+      "Driver"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Leaders or presidents lead countries.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0088",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Space, Science, and Current Affairs",
+    "subtopic": "Current Affairs",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a place where we get news?",
+    "image": "",
+    "options": [
+      "School",
+      "Hospital",
+      "News source",
+      "Park"
+    ],
+    "correctAnswer": 2,
+    "explanation": "News comes from news sources.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0089",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Space, Science, and Current Affairs",
+    "subtopic": "Sports",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a sport played with a bat and ball?",
+    "image": "",
+    "options": [
+      "Football",
+      "Cricket",
+      "Tennis",
+      "Swimming"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cricket uses bat and ball.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0090",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Space, Science, and Current Affairs",
+    "subtopic": "Sports",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a competition where people run?",
+    "image": "",
+    "options": [
+      "Swimming",
+      "Race",
+      "Jumping",
+      "Cycling"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A race is a running competition.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0091",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Space, Science, and Current Affairs",
+    "subtopic": "Sports",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the Olympic Games?",
+    "image": "",
+    "options": [
+      "School event",
+      "International sports event",
+      "Local game",
+      "Family game"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Olympics are international sports.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0092",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Space, Science, and Current Affairs",
+    "subtopic": "Sports",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a person who wins a competition?",
+    "image": "",
+    "options": [
+      "Loser",
+      "Winner",
+      "Player",
+      "Spectator"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The winner is the one who wins.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0093",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Space, Science, and Current Affairs",
+    "subtopic": "Sports",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a medal given to the first place?",
+    "image": "",
+    "options": [
+      "Bronze",
+      "Silver",
+      "Gold",
+      "Copper"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Gold medal is for first place.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0094",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Space, Science, and Current Affairs",
+    "subtopic": "General Knowledge",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a book that tells us about the world?",
+    "image": "",
+    "options": [
+      "Storybook",
+      "Atlas",
+      "Comic",
+      "Novel"
+    ],
+    "correctAnswer": 1,
+    "explanation": "An atlas has maps of the world.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0095",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Space, Science, and Current Affairs",
+    "subtopic": "General Knowledge",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a person who writes books?",
+    "image": "",
+    "options": [
+      "Painter",
+      "Author",
+      "Singer",
+      "Dancer"
+    ],
+    "correctAnswer": 1,
+    "explanation": "An author writes books.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0096",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Space, Science, and Current Affairs",
+    "subtopic": "Science",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a person who discovers new things?",
+    "image": "",
+    "options": [
+      "Teacher",
+      "Inventor",
+      "Driver",
+      "Farmer"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Inventors discover new things.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0097",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Space, Science, and Current Affairs",
+    "subtopic": "Science",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the study of living things?",
+    "image": "",
+    "options": [
+      "Physics",
+      "Biology",
+      "Chemistry",
+      "Math"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Biology studies living things.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0098",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Space, Science, and Current Affairs",
+    "subtopic": "Science",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a machine that helps us compute?",
+    "image": "",
+    "options": [
+      "Television",
+      "Computer",
+      "Radio",
+      "Refrigerator"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A computer helps us compute.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0099",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Space, Science, and Current Affairs",
+    "subtopic": "Science",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the study of numbers?",
+    "image": "",
+    "options": [
+      "Science",
+      "Math",
+      "History",
+      "Geography"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Math is the study of numbers.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0100",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Space, Science, and Current Affairs",
+    "subtopic": "General Knowledge",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a person who travels to new places?",
+    "image": "",
+    "options": [
+      "Teacher",
+      "Explorer",
+      "Driver",
+      "Farmer"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Explorers travel to new places.",
+    "tags": [
+      "space-science-and-current-affairs",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "igko-g3-general-knowledge-0101",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Science",
+    "subtopic": "Science",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the force that pulls us toward Earth?",
+    "image": "",
+    "options": [
+      "Magnetism",
+      "Gravity",
+      "Wind",
+      "Water"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Gravity pulls us toward Earth.",
+    "tags": [
+      "science",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  }
+]

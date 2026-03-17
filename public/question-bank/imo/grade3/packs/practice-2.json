@@ -1,0 +1,20 @@
+{
+  "packId": "imo-grade3-multiplication-division-and-fractions-practice-02",
+  "exam": "imo",
+  "grade": 3,
+  "mode": "practice",
+  "title": "Multiplication, Division, and Fractions Practice Test",
+  "topic": "Multiplication, Division, and Fractions",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Multiplication, Division, and Fractions"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

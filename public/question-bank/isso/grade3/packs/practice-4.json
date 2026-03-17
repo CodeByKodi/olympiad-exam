@@ -1,0 +1,20 @@
+{
+  "packId": "isso-grade3-economy-society-and-culture-practice-04",
+  "exam": "isso",
+  "grade": 3,
+  "mode": "practice",
+  "title": "Economy, Society, and Culture Practice Test",
+  "topic": "Economy, Society, and Culture",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Economy, Society, and Culture"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

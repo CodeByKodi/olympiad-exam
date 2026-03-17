@@ -1,0 +1,27 @@
+{
+  "exam": "imo",
+  "grade": 3,
+  "topics": [
+    { "id": "numbers-operations", "name": "Numbers and Operations", "subtopics": [
+      { "id": "place-value", "name": "Place Value", "learningObjectives": ["Understand place value", "Read/write numbers"] },
+      { "id": "addition", "name": "Addition", "learningObjectives": ["Add 2-3 digit numbers"] },
+      { "id": "subtraction", "name": "Subtraction", "learningObjectives": ["Subtract 2-3 digit numbers"] },
+      { "id": "comparison", "name": "Comparison", "learningObjectives": ["Compare numbers"] }
+    ]},
+    { "id": "multiplication-division-fractions", "name": "Multiplication, Division, and Fractions", "subtopics": [
+      { "id": "multiplication", "name": "Multiplication", "learningObjectives": ["Multiply tables"] },
+      { "id": "division", "name": "Division", "learningObjectives": ["Divide within tables"] },
+      { "id": "fractions", "name": "Fractions", "learningObjectives": ["Understand halves, quarters, thirds"] }
+    ]},
+    { "id": "time-money-measurement", "name": "Time, Money, and Measurement", "subtopics": [
+      { "id": "time", "name": "Time", "learningObjectives": ["Read time", "Understand days/months"] },
+      { "id": "money", "name": "Money", "learningObjectives": ["Count rupees and paise"] },
+      { "id": "measurement", "name": "Measurement", "learningObjectives": ["Measure length, weight"] }
+    ]},
+    { "id": "shapes-patterns-data-reasoning", "name": "Shapes, Patterns, Data, and Reasoning", "subtopics": [
+      { "id": "shapes", "name": "Shapes", "learningObjectives": ["Identify 2D and 3D shapes"] },
+      { "id": "patterns", "name": "Patterns", "learningObjectives": ["Identify and extend patterns"] },
+      { "id": "data", "name": "Data", "learningObjectives": ["Read simple graphs"] }
+    ]}
+  ]
+}

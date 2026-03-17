@@ -1,0 +1,677 @@
+[
+  {
+    "id": "ieo-g3-vocabulary-word-usage-0001",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Vocabulary and Word Usage",
+    "subtopic": "Synonyms",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is a synonym for 'happy'?",
+    "image": "",
+    "options": [
+      "sad",
+      "joyful",
+      "angry",
+      "tired"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Joyful means the same as happy.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-vocabulary-word-usage-0002",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Vocabulary and Word Usage",
+    "subtopic": "Antonyms",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is an antonym for 'big'?",
+    "image": "",
+    "options": [
+      "large",
+      "huge",
+      "small",
+      "giant"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Small is the opposite of big.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-vocabulary-word-usage-0003",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Vocabulary and Word Usage",
+    "subtopic": "Spelling",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which spelling is correct for 'beautiful'?",
+    "image": "",
+    "options": [
+      "beutiful",
+      "beautiful",
+      "beautifull",
+      "beautifel"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Beautiful is spelled with 'beau' and 'tiful'.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-vocabulary-word-usage-0004",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Vocabulary and Word Usage",
+    "subtopic": "Synonyms",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is a synonym for 'fast'?",
+    "image": "",
+    "options": [
+      "slow",
+      "quick",
+      "late",
+      "tired"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Quick means the same as fast.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-vocabulary-word-usage-0005",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Vocabulary and Word Usage",
+    "subtopic": "Antonyms",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is an antonym for 'day'?",
+    "image": "",
+    "options": [
+      "morning",
+      "night",
+      "noon",
+      "evening"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Night is the opposite of day.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-vocabulary-word-usage-0006",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Vocabulary and Word Usage",
+    "subtopic": "Word Meaning",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which word means 'to make something bigger'?",
+    "image": "",
+    "options": [
+      "shrink",
+      "expand",
+      "reduce",
+      "small"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Expand means to make something bigger.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-vocabulary-word-usage-0007",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Vocabulary and Word Usage",
+    "subtopic": "Synonyms",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is a synonym for 'begin'?",
+    "image": "",
+    "options": [
+      "end",
+      "start",
+      "finish",
+      "stop"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Start means the same as begin.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-vocabulary-word-usage-0008",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Vocabulary and Word Usage",
+    "subtopic": "Spelling",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which spelling is correct for 'friend'?",
+    "image": "",
+    "options": [
+      "frend",
+      "friend",
+      "freind",
+      "frend"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Friend is spelled with 'i' before 'e'.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-vocabulary-word-usage-0009",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Vocabulary and Word Usage",
+    "subtopic": "Antonyms",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is an antonym for 'full'?",
+    "image": "",
+    "options": [
+      "filled",
+      "empty",
+      "complete",
+      "whole"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Empty is the opposite of full.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-vocabulary-word-usage-0010",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Vocabulary and Word Usage",
+    "subtopic": "Jumbled Words",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Rearrange to make a word: TCA",
+    "image": "",
+    "options": [
+      "ACT",
+      "CAT",
+      "TAC",
+      "ATC"
+    ],
+    "correctAnswer": 1,
+    "explanation": "C-A-T spells CAT.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-vocabulary-word-usage-0011",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Vocabulary and Word Usage",
+    "subtopic": "Synonyms",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is a synonym for 'brave'?",
+    "image": "",
+    "options": [
+      "scared",
+      "courageous",
+      "weak",
+      "shy"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Courageous means the same as brave.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-vocabulary-word-usage-0012",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Vocabulary and Word Usage",
+    "subtopic": "Antonyms",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is an antonym for 'hard'?",
+    "image": "",
+    "options": [
+      "difficult",
+      "soft",
+      "rough",
+      "tough"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Soft is the opposite of hard.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-vocabulary-word-usage-0013",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Vocabulary and Word Usage",
+    "subtopic": "Word Meaning",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which word means 'a place where we learn'?",
+    "image": "",
+    "options": [
+      "hospital",
+      "school",
+      "market",
+      "park"
+    ],
+    "correctAnswer": 1,
+    "explanation": "School is where we learn.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-vocabulary-word-usage-0014",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Vocabulary and Word Usage",
+    "subtopic": "Jumbled Words",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Rearrange to make a word: OGOD",
+    "image": "",
+    "options": [
+      "DOGO",
+      "GOOD",
+      "OGOD",
+      "DOOG"
+    ],
+    "correctAnswer": 1,
+    "explanation": "G-O-O-D spells GOOD.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-vocabulary-word-usage-0015",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Vocabulary and Word Usage",
+    "subtopic": "Spelling",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which spelling is correct for 'receive'?",
+    "image": "",
+    "options": [
+      "recieve",
+      "receive",
+      "receve",
+      "receiv"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Receive has 'i' before 'e' except after 'c'.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-vocabulary-word-usage-0016",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Vocabulary and Word Usage",
+    "subtopic": "Synonyms",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is a synonym for 'cold'?",
+    "image": "",
+    "options": [
+      "hot",
+      "chilly",
+      "warm",
+      "boiling"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Chilly means the same as cold.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-vocabulary-word-usage-0017",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Vocabulary and Word Usage",
+    "subtopic": "Antonyms",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is an antonym for 'above'?",
+    "image": "",
+    "options": [
+      "top",
+      "below",
+      "high",
+      "up"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Below is the opposite of above.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-vocabulary-word-usage-0018",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Vocabulary and Word Usage",
+    "subtopic": "Word Meaning",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which word means 'to look at something'?",
+    "image": "",
+    "options": [
+      "hear",
+      "touch",
+      "see",
+      "smell"
+    ],
+    "correctAnswer": 2,
+    "explanation": "See means to look at something with your eyes.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-vocabulary-word-usage-0019",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Vocabulary and Word Usage",
+    "subtopic": "Jumbled Words",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Rearrange to make a word: LEABT",
+    "image": "",
+    "options": [
+      "TABLE",
+      "BATLE",
+      "TABEL",
+      "LATBE"
+    ],
+    "correctAnswer": 0,
+    "explanation": "T-A-B-L-E spells TABLE.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-vocabulary-word-usage-0020",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Vocabulary and Word Usage",
+    "subtopic": "Synonyms",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is a synonym for 'smart'?",
+    "image": "",
+    "options": [
+      "silly",
+      "clever",
+      "dull",
+      "slow"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Clever means the same as smart.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-vocabulary-word-usage-0021",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Vocabulary and Word Usage",
+    "subtopic": "Antonyms",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is an antonym for 'open'?",
+    "image": "",
+    "options": [
+      "wide",
+      "closed",
+      "free",
+      "clear"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Closed is the opposite of open.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-vocabulary-word-usage-0022",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Vocabulary and Word Usage",
+    "subtopic": "Spelling",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which spelling is correct for 'Wednesday'?",
+    "image": "",
+    "options": [
+      "wensday",
+      "wednesday",
+      "wednsday",
+      "wedsday"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Wednesday has a silent 'd' and is spelled W-E-D-N-E-S-D-A-Y.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-vocabulary-word-usage-0023",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Vocabulary and Word Usage",
+    "subtopic": "Everyday English",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a baby dog?",
+    "image": "",
+    "options": [
+      "kitten",
+      "puppy",
+      "cub",
+      "chick"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A baby dog is called a puppy.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-vocabulary-word-usage-0024",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Vocabulary and Word Usage",
+    "subtopic": "Jumbled Words",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Rearrange to make a word: OOSCHL",
+    "image": "",
+    "options": [
+      "SCHOOL",
+      "CHOOLS",
+      "SCHOOL",
+      "SCHOLO"
+    ],
+    "correctAnswer": 0,
+    "explanation": "S-C-H-O-O-L spells SCHOOL.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  },
+  {
+    "id": "ieo-g3-vocabulary-word-usage-0025",
+    "exam": "ieo",
+    "grade": "3",
+    "topic": "Vocabulary and Word Usage",
+    "subtopic": "Synonyms",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is a synonym for 'finish'?",
+    "image": "",
+    "options": [
+      "start",
+      "complete",
+      "begin",
+      "continue"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Complete means the same as finish.",
+    "tags": [
+      "vocabulary-and-word-usage",
+      "grade3"
+    ],
+    "sourceType": "migrated"
+  }
+]

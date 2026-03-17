@@ -1,0 +1,16 @@
+{
+  "exam": "isso",
+  "grade": 3,
+  "topics": [
+    { "id": "history", "name": "History", "subtopics": [
+      { "id": "india", "name": "Indian History", "learningObjectives": ["Know key events"] }
+    ]},
+    { "id": "geography", "name": "Geography", "subtopics": [
+      { "id": "maps", "name": "Maps", "learningObjectives": ["Read simple maps"] }
+    ]},
+    { "id": "earth-seasons-solar-system", "name": "Earth, Seasons, and Solar System", "subtopics": []},
+    { "id": "civics", "name": "Civics", "subtopics": [
+      { "id": "rules", "name": "Rules and Laws", "learningObjectives": ["Understand community rules"] }
+    ]}
+  ]
+}

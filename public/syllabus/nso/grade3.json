@@ -1,0 +1,236 @@
+{
+  "exam": "nso",
+  "grade": 3,
+  "title": "NSO Grade 3 Syllabus",
+  "description": "Grade 3 science: plants and animals, human body and food, matter/energy/force, earth/environment/space.",
+  "topics": [
+    {
+      "code": "NSO-G3-T1",
+      "name": "Plants and Animals",
+      "description": "Plant and animal concepts.",
+      "weightage": "high",
+      "recommendedQuestionCount": 50,
+      "subtopics": [
+        {
+          "code": "NSO-G3-T1-S1",
+          "name": "Plants",
+          "description": "Parts, functions, growth.",
+          "learningObjectives": [
+            "Identify plant parts and functions",
+            "Describe growth",
+            "Explain photosynthesis basics"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 25,
+          "tags": [
+            "plants",
+            "nso",
+            "grade3"
+          ]
+        },
+        {
+          "code": "NSO-G3-T1-S2",
+          "name": "Animals",
+          "description": "Groups, habitats, food.",
+          "learningObjectives": [
+            "Classify animals",
+            "Identify habitats",
+            "Compare herbivores and carnivores"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 25,
+          "tags": [
+            "animals",
+            "nso",
+            "grade3"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "NSO-G3-T2",
+      "name": "Human Body and Food",
+      "description": "Body and nutrition.",
+      "weightage": "high",
+      "recommendedQuestionCount": 45,
+      "subtopics": [
+        {
+          "code": "NSO-G3-T2-S1",
+          "name": "Body Parts and Senses",
+          "description": "Organs and functions.",
+          "learningObjectives": [
+            "Describe body systems",
+            "Relate senses to organs"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 22,
+          "tags": [
+            "body",
+            "nso",
+            "grade3"
+          ]
+        },
+        {
+          "code": "NSO-G3-T2-S2",
+          "name": "Food and Nutrition",
+          "description": "Food groups.",
+          "learningObjectives": [
+            "Classify food groups",
+            "Explain balanced diet"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 23,
+          "tags": [
+            "food",
+            "nso",
+            "grade3"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "NSO-G3-T3",
+      "name": "Matter, Energy, and Force",
+      "description": "Basic matter, energy, force.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 40,
+      "subtopics": [
+        {
+          "code": "NSO-G3-T3-S1",
+          "name": "Matter",
+          "description": "Solids, liquids, gases.",
+          "learningObjectives": [
+            "Identify states of matter",
+            "Give examples"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 15,
+          "tags": [
+            "matter",
+            "nso",
+            "grade3"
+          ]
+        },
+        {
+          "code": "NSO-G3-T3-S2",
+          "name": "Energy",
+          "description": "Light, heat, sound.",
+          "learningObjectives": [
+            "Identify energy sources",
+            "Describe uses"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 12,
+          "tags": [
+            "energy",
+            "nso",
+            "grade3"
+          ]
+        },
+        {
+          "code": "NSO-G3-T3-S3",
+          "name": "Force",
+          "description": "Push and pull.",
+          "learningObjectives": [
+            "Define push and pull",
+            "Identify force"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 13,
+          "tags": [
+            "force",
+            "nso",
+            "grade3"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "NSO-G3-T4",
+      "name": "Earth, Environment, and Space",
+      "description": "Earth, environment, space.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 35,
+      "subtopics": [
+        {
+          "code": "NSO-G3-T4-S1",
+          "name": "Earth",
+          "description": "Land, water, air.",
+          "learningObjectives": [
+            "Identify land and water",
+            "Describe Earth"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 12,
+          "tags": [
+            "earth",
+            "nso",
+            "grade3"
+          ]
+        },
+        {
+          "code": "NSO-G3-T4-S2",
+          "name": "Environment",
+          "description": "Conservation and pollution.",
+          "learningObjectives": [
+            "Understand conservation",
+            "Identify pollution"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 12,
+          "tags": [
+            "environment",
+            "nso",
+            "grade3"
+          ]
+        },
+        {
+          "code": "NSO-G3-T4-S3",
+          "name": "Space",
+          "description": "Sun, Moon, stars.",
+          "learningObjectives": [
+            "Identify Sun and Moon",
+            "Describe day and night"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 11,
+          "tags": [
+            "space",
+            "nso",
+            "grade3"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,17 +1,64 @@
 /**
  * Question Library Service - Static hosting (GitHub Pages, web).
- * Loads starter packs from static JSON and imported packs from IndexedDB.
+ * Loads from question bank (if available) or starter packs, plus imported packs from IndexedDB.
  * Browser storage only (IndexedDB). For GitHub Pages.
  */
 
 import { resolveStaticPath } from '../config.js';
 import * as libraryStorage from './libraryStorageService.js';
+import * as questionBankService from './questionBankService.js';
 import { buildPracticePool, buildMockIndex } from '../utils/questionLibraryUtils.js';
 import { EXAMS, GRADES } from '../constants/exams.js';
 
 /**
- * Load starter packs from static JSON files.
- * Iterates over enabled grades and exams. Each grade has its own folder; changes to one grade do not affect others.
+ * Load packs from question bank (scalable architecture).
+ * @returns {Promise<Array>} Packs in library format
+ */
+async function loadQuestionBankPacks() {
+  const packs = [];
+  const examIds = Object.keys(EXAMS).map((k) => EXAMS[k].id);
+  const enabledGradeIds = Object.values(GRADES).filter((g) => g.enabled).map((g) => g.id);
+
+  for (const examId of examIds) {
+    for (const gradeId of enabledGradeIds) {
+      const hasBank = await questionBankService.hasQuestionBank(examId, gradeId);
+      if (!hasBank) continue;
+
+      const [bank, packDefs] = await Promise.all([
+        questionBankService.loadQuestionBank(examId, gradeId),
+        questionBankService.loadPackDefinitions(examId, gradeId),
+      ]);
+
+      if (bank.size === 0 || packDefs.length === 0) continue;
+
+      for (const def of packDefs) {
+        const packId = `${examId}-grade${gradeId}-${def.packId?.replace(/^[^-]+-grade\d+-/, '') || def.packId}`;
+        const mode = (def.mode || 'mock').toLowerCase();
+        const isMock = mode === 'mock';
+        const questionCount = isMock ? (def.questionIds?.length || 0) : (def.questionCount || 25);
+        packs.push({
+          packId,
+          exam: examId,
+          grade: gradeId,
+          mode: isMock ? 'mock' : 'practice',
+          title: def.title || packId,
+          topic: def.topic,
+          questionCount,
+          durationMinutes: def.durationMinutes ?? Math.ceil(questionCount * 1.2),
+          isStarter: true,
+          enabled: true,
+          isQuestionBank: true,
+          _bankDef: def,
+          _bank: bank,
+        });
+      }
+    }
+  }
+  return packs;
+}
+
+/**
+ * Load starter packs from static JSON files (legacy).
  * @returns {Promise<Array>} Starter packs in library format
  */
 export async function loadStarterPacks() {
@@ -106,10 +153,17 @@ export async function reloadLibrary() {
   let warning = null;
 
   try {
-    starterPacks = await loadStarterPacks();
+    starterPacks = await loadQuestionBankPacks();
+    if (starterPacks.length === 0) {
+      starterPacks = await loadStarterPacks();
+    }
   } catch (e) {
-    console.warn('Failed to load starter packs:', e);
-    warning = 'Could not load built-in tests. You can still use imported packs.';
+    console.warn('Failed to load question bank / starter packs:', e);
+    try {
+      starterPacks = await loadStarterPacks();
+    } catch (e2) {
+      warning = 'Could not load built-in tests. You can still use imported packs.';
+    }
   }
 
   try {
@@ -218,6 +272,29 @@ export async function getPackContent(pack) {
  * Load pack data (questions etc.) for taking a test.
  */
 export async function loadPackData(pack) {
+  if (pack.isQuestionBank && pack._bankDef && pack._bank) {
+    const def = pack._bankDef;
+    const bank = pack._bank;
+    let questions = [];
+    if (def.mode === 'mock' && def.questionIds) {
+      questions = questionBankService.resolveMockPack(def, bank);
+    } else if (def.mode === 'practice' && def.selectionRules) {
+      questions = questionBankService.resolvePracticePack(def, bank);
+    }
+    return {
+      ok: true,
+      pack: {
+        packId: pack.packId,
+        exam: pack.exam,
+        grade: pack.grade,
+        mode: pack.mode,
+        title: def.title,
+        topic: def.topic,
+        questions,
+        durationMinutes: def.durationMinutes ?? Math.ceil(questions.length * 1.2),
+      },
+    };
+  }
   if (pack.isStarter) {
     const fileId = getStarterFileId(pack);
     const fileName = fileId.includes('-') ? `${fileId}.json` : `test${fileId}.json`;

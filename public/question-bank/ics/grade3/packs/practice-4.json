@@ -1,0 +1,20 @@
+{
+  "packId": "ics-grade3-internet-safety-and-digital-basics-practice-04",
+  "exam": "ics",
+  "grade": 3,
+  "mode": "practice",
+  "title": "Internet, Safety, and Digital Basics Practice Test",
+  "topic": "Internet, Safety, and Digital Basics",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Internet, Safety, and Digital Basics"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

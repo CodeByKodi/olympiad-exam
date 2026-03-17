@@ -1,0 +1,20 @@
+{
+  "packId": "ics-grade3-input-output-storage-and-uses-practice-02",
+  "exam": "ics",
+  "grade": 3,
+  "mode": "practice",
+  "title": "Input, Output, Storage, and Uses Practice Test",
+  "topic": "Input, Output, Storage, and Uses",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Input, Output, Storage, and Uses"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "exam": "igko",
+  "grade": 3,
+  "topics": [
+    { "id": "general-knowledge", "name": "General Knowledge", "subtopics": [
+      { "id": "india", "name": "India", "learningObjectives": ["Know India basics"] },
+      { "id": "world", "name": "World", "learningObjectives": ["Know world basics"] },
+      { "id": "science", "name": "Science", "learningObjectives": ["Basic science facts"] }
+    ]}
+  ]
+}
