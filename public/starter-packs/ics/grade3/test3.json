@@ -1,0 +1,157 @@
+{
+  "title": "ICS Grade 3 Test 3",
+  "durationMinutes": 15,
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "ics-grade3-test3-q1",
+      "questionText": "What do we use to click on things on the screen?",
+      "image": "",
+      "options": [
+        "Keyboard",
+        "Monitor",
+        "Mouse",
+        "Speaker"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The mouse is used to point and click.",
+      "topic": "Keyboard and mouse",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-grade3-test3-q2",
+      "questionText": "What do we call a collection of files stored together?",
+      "image": "",
+      "options": [
+        "File",
+        "Folder",
+        "Desktop",
+        "Icon"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A folder holds files.",
+      "topic": "Storage devices",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-grade3-test3-q3",
+      "questionText": "What does save do in a program?",
+      "image": "",
+      "options": [
+        "Closes the file",
+        "Stores your work for later",
+        "Deletes the file",
+        "Prints the file"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Save stores your work.",
+      "topic": "Storage devices",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-grade3-test3-q4",
+      "questionText": "What is email used for?",
+      "image": "",
+      "options": [
+        "Playing games",
+        "Sending messages over internet",
+        "Printing documents",
+        "Typing only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Email sends messages.",
+      "topic": "Internet basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-grade3-test3-q5",
+      "questionText": "What do we call a device that puts information into the computer?",
+      "image": "",
+      "options": [
+        "Output device",
+        "Input device",
+        "Storage device",
+        "Display device"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Input devices put data in.",
+      "topic": "Input/output devices",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-grade3-test3-q6",
+      "questionText": "What should we do before closing a program?",
+      "image": "",
+      "options": [
+        "Nothing",
+        "Save our work",
+        "Delete everything",
+        "Shut down"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Always save before closing.",
+      "topic": "Safety rules",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-grade3-test3-q7",
+      "questionText": "Which key takes us to the next tab or field?",
+      "image": "",
+      "options": [
+        "Enter",
+        "Tab",
+        "Space",
+        "Shift"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tab moves to the next field.",
+      "topic": "Keyboard and mouse",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-grade3-test3-q8",
+      "questionText": "What do we use to take a picture of the screen?",
+      "image": "",
+      "options": [
+        "Camera",
+        "Screenshot",
+        "Printer",
+        "Scanner"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Screenshot captures the screen.",
+      "topic": "Simple digital vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ics-grade3-test3-q9",
+      "questionText": "Which device helps us hear sound from the computer?",
+      "image": "",
+      "options": [
+        "Monitor",
+        "Keyboard",
+        "Speaker",
+        "Mouse"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Speakers play sound.",
+      "topic": "Input/output devices",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-grade3-test3-q10",
+      "questionText": "What do we call a device that takes paper documents into the computer?",
+      "image": "",
+      "options": [
+        "Printer",
+        "Modem",
+        "Scanner",
+        "Monitor"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A scanner copies documents.",
+      "topic": "Input/output devices",
+      "difficulty": "easy"
+    }
+  ]
+}

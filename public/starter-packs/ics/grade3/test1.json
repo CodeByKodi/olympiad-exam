@@ -1,0 +1,157 @@
+{
+  "title": "ICS Grade 3 Test 1",
+  "durationMinutes": 15,
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "ics-grade3-test1-q1",
+      "questionText": "What do we use to type on a computer?",
+      "image": "",
+      "options": [
+        "Mouse",
+        "Keyboard",
+        "Monitor",
+        "Speaker"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The keyboard is used for typing.",
+      "topic": "Keyboard and mouse",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-grade3-test1-q2",
+      "questionText": "What do we call a picture or icon that opens a program?",
+      "image": "",
+      "options": [
+        "Folder",
+        "File",
+        "Shortcut",
+        "Menu"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A shortcut opens a program quickly.",
+      "topic": "Basic software/hardware",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-grade3-test1-q3",
+      "questionText": "What is software?",
+      "image": "",
+      "options": [
+        "Physical parts of computer",
+        "Programs that run on computer",
+        "The screen",
+        "The power cable"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Software is the programs we use.",
+      "topic": "Basic software/hardware",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-grade3-test1-q4",
+      "questionText": "What do we call a mistake in a computer program?",
+      "image": "",
+      "options": [
+        "Bug",
+        "Virus",
+        "Error",
+        "Glitch"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A bug is a mistake in a program.",
+      "topic": "Basic software/hardware",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-grade3-test1-q5",
+      "questionText": "What do we use to draw on a computer?",
+      "image": "",
+      "options": [
+        "Calculator",
+        "Paint",
+        "Notepad",
+        "Browser"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Paint is for drawing.",
+      "topic": "Paint/drawing tools",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-grade3-test1-q6",
+      "questionText": "What is a USB drive used for?",
+      "image": "",
+      "options": [
+        "Playing music",
+        "Storing files",
+        "Typing",
+        "Printing"
+      ],
+      "correctAnswer": 1,
+      "explanation": "USB drives store files.",
+      "topic": "Storage devices",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-grade3-test1-q7",
+      "questionText": "What do we use to connect to the internet?",
+      "image": "",
+      "options": [
+        "Printer",
+        "Modem or WiFi",
+        "Keyboard",
+        "Monitor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Modem or WiFi connects to internet.",
+      "topic": "Internet basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-grade3-test1-q8",
+      "questionText": "What do we call the bar at the top of a window?",
+      "image": "",
+      "options": [
+        "Status bar",
+        "Title bar",
+        "Menu bar",
+        "Toolbar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The title bar shows the window name.",
+      "topic": "Simple digital vocabulary",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-grade3-test1-q9",
+      "questionText": "Which key makes letters uppercase?",
+      "image": "",
+      "options": [
+        "Enter",
+        "Caps Lock",
+        "Tab",
+        "Space"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Caps Lock makes uppercase letters.",
+      "topic": "Keyboard and mouse",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-grade3-test1-q10",
+      "questionText": "What do we call a list of options in a program?",
+      "image": "",
+      "options": [
+        "Icon",
+        "Folder",
+        "Menu",
+        "File"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A menu shows options.",
+      "topic": "Simple digital vocabulary",
+      "difficulty": "easy"
+    }
+  ]
+}

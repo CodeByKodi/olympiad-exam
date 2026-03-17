@@ -1,0 +1,157 @@
+{
+  "title": "IGKO Grade 3 Test 5",
+  "durationMinutes": 15,
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "igko-grade3-test5-q1",
+      "questionText": "What is the national animal of India?",
+      "image": "",
+      "options": [
+        "Lion",
+        "Tiger",
+        "Elephant",
+        "Peacock"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Bengal Tiger is the national animal.",
+      "topic": "Symbols and signs",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-grade3-test5-q2",
+      "questionText": "Which day is Republic Day in India?",
+      "image": "",
+      "options": [
+        "August 15",
+        "January 26",
+        "October 2",
+        "December 25"
+      ],
+      "correctAnswer": 1,
+      "explanation": "January 26 is Republic Day.",
+      "topic": "Important days",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-grade3-test5-q3",
+      "questionText": "How many days does Earth take to go around the Sun?",
+      "image": "",
+      "options": [
+        "30",
+        "100",
+        "365",
+        "1000"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Earth takes about 365 days.",
+      "topic": "Space basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-grade3-test5-q4",
+      "questionText": "Who wrote the Indian national anthem?",
+      "image": "",
+      "options": [
+        "Mahatma Gandhi",
+        "Rabindranath Tagore",
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rabindranath Tagore wrote it.",
+      "topic": "Symbols and signs",
+      "difficulty": "medium"
+    },
+    {
+      "id": "igko-grade3-test5-q5",
+      "questionText": "Which transport is used for flying?",
+      "image": "",
+      "options": [
+        "Car",
+        "Ship",
+        "Aeroplane",
+        "Train"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Aeroplanes fly in the sky.",
+      "topic": "Transport",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-grade3-test5-q6",
+      "questionText": "What do we call a model of the Earth?",
+      "image": "",
+      "options": [
+        "Map",
+        "Globe",
+        "Chart",
+        "Picture"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A globe is a model of Earth.",
+      "topic": "Maps and globes",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-grade3-test5-q7",
+      "questionText": "Which transport runs on water?",
+      "image": "",
+      "options": [
+        "Car",
+        "Ship",
+        "Aeroplane",
+        "Train"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ships run on water.",
+      "topic": "Transport",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-grade3-test5-q8",
+      "questionText": "What do we call the study of stars and planets?",
+      "image": "",
+      "options": [
+        "History",
+        "Geography",
+        "Astronomy",
+        "Biology"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Astronomy studies stars.",
+      "topic": "Space basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-grade3-test5-q9",
+      "questionText": "Which transport is used for long journeys on land?",
+      "image": "",
+      "options": [
+        "Bicycle",
+        "Bus",
+        "Train",
+        "Scooter"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Trains are used for long journeys.",
+      "topic": "Transport",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-grade3-test5-q10",
+      "questionText": "What do we call a place where we see old things?",
+      "image": "",
+      "options": [
+        "Library",
+        "Museum",
+        "Hospital",
+        "School"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A museum shows old things.",
+      "topic": "Famous places",
+      "difficulty": "easy"
+    }
+  ]
+}

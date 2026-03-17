@@ -1,0 +1,157 @@
+{
+  "title": "ICS Grade 3 Test 4",
+  "durationMinutes": 15,
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "ics-grade3-test4-q1",
+      "questionText": "What does CPU stand for?",
+      "image": "",
+      "options": [
+        "Central Processing Unit",
+        "Computer Personal Unit",
+        "Central Program Unit",
+        "Computer Processing Unit"
+      ],
+      "correctAnswer": 0,
+      "explanation": "CPU means Central Processing Unit.",
+      "topic": "Basic software/hardware",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ics-grade3-test4-q2",
+      "questionText": "Which key deletes the character before the cursor?",
+      "image": "",
+      "options": [
+        "Delete",
+        "Backspace",
+        "Enter",
+        "Shift"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Backspace deletes the character before the cursor.",
+      "topic": "Keyboard and mouse",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-grade3-test4-q3",
+      "questionText": "What is a web browser?",
+      "image": "",
+      "options": [
+        "A game",
+        "A program to view websites",
+        "A type of printer",
+        "A type of keyboard"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A browser lets you visit websites.",
+      "topic": "Internet basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-grade3-test4-q4",
+      "questionText": "What does copy do?",
+      "image": "",
+      "options": [
+        "Deletes text",
+        "Makes a duplicate to paste elsewhere",
+        "Saves the file",
+        "Prints the file"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Copy makes a duplicate.",
+      "topic": "Basic software/hardware",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-grade3-test4-q5",
+      "questionText": "Which key do we press to go to the next line?",
+      "image": "",
+      "options": [
+        "Space",
+        "Enter",
+        "Tab",
+        "Shift"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Enter goes to the next line.",
+      "topic": "Keyboard and mouse",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-grade3-test4-q6",
+      "questionText": "What do we call a small picture on the screen?",
+      "image": "",
+      "options": [
+        "Folder",
+        "File",
+        "Icon",
+        "Menu"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Icons are small pictures.",
+      "topic": "Basic software/hardware",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-grade3-test4-q7",
+      "questionText": "What do we call a program that helps us write?",
+      "image": "",
+      "options": [
+        "Calculator",
+        "Word processor",
+        "Paint",
+        "Browser"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Word processor is for writing.",
+      "topic": "Basic software/hardware",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-grade3-test4-q8",
+      "questionText": "Which part of the computer does calculations?",
+      "image": "",
+      "options": [
+        "Monitor",
+        "Keyboard",
+        "CPU",
+        "Mouse"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The CPU does calculations.",
+      "topic": "Computer parts",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-grade3-test4-q9",
+      "questionText": "What do we call the main screen when we start the computer?",
+      "image": "",
+      "options": [
+        "Folder",
+        "File",
+        "Desktop",
+        "Icon"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The desktop is the main screen.",
+      "topic": "Simple digital vocabulary",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-grade3-test4-q10",
+      "questionText": "Which key do we press to paste?",
+      "image": "",
+      "options": [
+        "Ctrl+V or Cmd+V",
+        "Ctrl+C",
+        "Ctrl+X",
+        "Ctrl+S"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ctrl+V pastes.",
+      "topic": "Keyboard and mouse",
+      "difficulty": "easy"
+    }
+  ]
+}

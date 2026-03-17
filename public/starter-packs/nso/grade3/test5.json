@@ -1,0 +1,157 @@
+{
+  "title": "NSO Grade 3 Test 5",
+  "durationMinutes": 15,
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "nso-grade3-test5-q1",
+      "questionText": "Which sense do we use to smell a flower?",
+      "image": "",
+      "options": [
+        "Touch",
+        "Smell",
+        "Taste",
+        "Hearing"
+      ],
+      "correctAnswer": 1,
+      "explanation": "We use our nose to smell.",
+      "topic": "Human body",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-grade3-test5-q2",
+      "questionText": "What do bees collect from flowers?",
+      "image": "",
+      "options": [
+        "Water",
+        "Nectar",
+        "Leaves",
+        "Seeds"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bees collect nectar to make honey.",
+      "topic": "Animals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-grade3-test5-q3",
+      "questionText": "Which sense do we use to see colors?",
+      "image": "",
+      "options": [
+        "Hearing",
+        "Touch",
+        "Sight",
+        "Taste"
+      ],
+      "correctAnswer": 2,
+      "explanation": "We use our eyes to see.",
+      "topic": "Human body",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-grade3-test5-q4",
+      "questionText": "What do we need to stay healthy?",
+      "image": "",
+      "options": [
+        "Only sweets",
+        "Balanced diet",
+        "Only meat",
+        "No water"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A balanced diet keeps us healthy.",
+      "topic": "Food and nutrition",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-grade3-test5-q5",
+      "questionText": "Which animal can fly?",
+      "image": "",
+      "options": [
+        "Fish",
+        "Snake",
+        "Eagle",
+        "Elephant"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Eagles can fly.",
+      "topic": "Animals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-grade3-test5-q6",
+      "questionText": "What do we call a place where an animal lives?",
+      "image": "",
+      "options": [
+        "House",
+        "Habitat",
+        "Cage",
+        "Room"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Habitat is where an animal lives.",
+      "topic": "Animals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-grade3-test5-q7",
+      "questionText": "Which organ helps us breathe?",
+      "image": "",
+      "options": [
+        "Heart",
+        "Lungs",
+        "Stomach",
+        "Brain"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lungs help us breathe.",
+      "topic": "Human body",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-grade3-test5-q8",
+      "questionText": "What do we call the baby of a cat?",
+      "image": "",
+      "options": [
+        "Puppy",
+        "Cub",
+        "Kitten",
+        "Calf"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A baby cat is called a kitten.",
+      "topic": "Animals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-grade3-test5-q9",
+      "questionText": "Which organ controls our body?",
+      "image": "",
+      "options": [
+        "Heart",
+        "Lungs",
+        "Brain",
+        "Stomach"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The brain controls our body.",
+      "topic": "Human body",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-grade3-test5-q10",
+      "questionText": "What do we call the process of a seed growing?",
+      "image": "",
+      "options": [
+        "Evaporation",
+        "Germination",
+        "Melting",
+        "Freezing"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Germination is when a seed grows.",
+      "topic": "Plants",
+      "difficulty": "medium"
+    }
+  ]
+}

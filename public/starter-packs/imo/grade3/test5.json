@@ -1,0 +1,157 @@
+{
+  "title": "IMO Grade 3 Test 5",
+  "durationMinutes": 15,
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "imo-grade3-test5-q1",
+      "questionText": "What is 4 × 5?",
+      "image": "",
+      "options": [
+        "9",
+        "18",
+        "20",
+        "25"
+      ],
+      "correctAnswer": 2,
+      "explanation": "4 × 5 = 20",
+      "topic": "Multiplication",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imo-grade3-test5-q2",
+      "questionText": "Which shape has no corners?",
+      "image": "",
+      "options": [
+        "Square",
+        "Triangle",
+        "Circle",
+        "Rectangle"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A circle has no corners.",
+      "topic": "Shapes",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imo-grade3-test5-q3",
+      "questionText": "What is 3 × 7?",
+      "image": "",
+      "options": [
+        "18",
+        "20",
+        "21",
+        "24"
+      ],
+      "correctAnswer": 2,
+      "explanation": "3 × 7 = 21",
+      "topic": "Multiplication",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imo-grade3-test5-q4",
+      "questionText": "Riya has 5 boxes with 6 toys each. How many toys total?",
+      "image": "",
+      "options": [
+        "11",
+        "25",
+        "30",
+        "36"
+      ],
+      "correctAnswer": 2,
+      "explanation": "5 × 6 = 30",
+      "topic": "Word problems",
+      "difficulty": "medium"
+    },
+    {
+      "id": "imo-grade3-test5-q5",
+      "questionText": "How many minutes are in an hour?",
+      "image": "",
+      "options": [
+        "30",
+        "45",
+        "60",
+        "90"
+      ],
+      "correctAnswer": 2,
+      "explanation": "There are 60 minutes in an hour.",
+      "topic": "Time",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imo-grade3-test5-q6",
+      "questionText": "What is 36 ÷ 6?",
+      "image": "",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": 2,
+      "explanation": "36 ÷ 6 = 6",
+      "topic": "Division",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imo-grade3-test5-q7",
+      "questionText": "Which shape has 6 sides?",
+      "image": "",
+      "options": [
+        "Pentagon",
+        "Hexagon",
+        "Octagon",
+        "Triangle"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A hexagon has 6 sides.",
+      "topic": "Shapes",
+      "difficulty": "medium"
+    },
+    {
+      "id": "imo-grade3-test5-q8",
+      "questionText": "How many 10 rupee notes make 50 rupees?",
+      "image": "",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctAnswer": 2,
+      "explanation": "50 ÷ 10 = 5",
+      "topic": "Money",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imo-grade3-test5-q9",
+      "questionText": "How many hours in a day?",
+      "image": "",
+      "options": [
+        "12",
+        "20",
+        "24",
+        "30"
+      ],
+      "correctAnswer": 2,
+      "explanation": "There are 24 hours in a day.",
+      "topic": "Time",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imo-grade3-test5-q10",
+      "questionText": "A pencil costs 8 rupees. How much for 4 pencils?",
+      "image": "",
+      "options": [
+        "28",
+        "30",
+        "32",
+        "36"
+      ],
+      "correctAnswer": 2,
+      "explanation": "8 × 4 = 32",
+      "topic": "Money",
+      "difficulty": "easy"
+    }
+  ]
+}

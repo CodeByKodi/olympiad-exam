@@ -1,0 +1,157 @@
+{
+  "title": "NSO Grade 3 Test 4",
+  "durationMinutes": 15,
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "nso-grade3-test4-q1",
+      "questionText": "What is the main gas we breathe in?",
+      "image": "",
+      "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "We breathe in oxygen from the air.",
+      "topic": "Air and water",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-grade3-test4-q2",
+      "questionText": "Which planet is closest to the Sun?",
+      "image": "",
+      "options": [
+        "Earth",
+        "Venus",
+        "Mercury",
+        "Mars"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mercury is the planet closest to the Sun in our solar system.",
+      "topic": "Solar system",
+      "difficulty": "medium"
+    },
+    {
+      "id": "nso-grade3-test4-q3",
+      "questionText": "What do caterpillars turn into?",
+      "image": "",
+      "options": [
+        "Frogs",
+        "Butterflies",
+        "Fish",
+        "Birds"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Caterpillars become butterflies.",
+      "topic": "Animals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-grade3-test4-q4",
+      "questionText": "Which part of the plant makes food?",
+      "image": "",
+      "options": [
+        "Roots",
+        "Stem",
+        "Leaves",
+        "Flowers"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Leaves make food using sunlight.",
+      "topic": "Plants",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-grade3-test4-q5",
+      "questionText": "What covers most of the Earth's surface?",
+      "image": "",
+      "options": [
+        "Land",
+        "Water",
+        "Sand",
+        "Rocks"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Water covers most of Earth.",
+      "topic": "Air and water",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-grade3-test4-q6",
+      "questionText": "Which part of a plant is usually green?",
+      "image": "",
+      "options": [
+        "Root",
+        "Flower",
+        "Leaf",
+        "Seed"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Leaves are usually green.",
+      "topic": "Plants",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-grade3-test4-q7",
+      "questionText": "What happens when water is heated?",
+      "image": "",
+      "options": [
+        "It freezes",
+        "It evaporates",
+        "It turns green",
+        "It disappears"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Water evaporates when heated.",
+      "topic": "States of matter",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-grade3-test4-q8",
+      "questionText": "Which part of the plant holds it upright?",
+      "image": "",
+      "options": [
+        "Leaf",
+        "Root",
+        "Stem",
+        "Flower"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The stem holds the plant upright.",
+      "topic": "Plants",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-grade3-test4-q9",
+      "questionText": "What makes a ball roll when we push it?",
+      "image": "",
+      "options": [
+        "Gravity",
+        "Force",
+        "Sound",
+        "Light"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Force makes the ball move.",
+      "topic": "Force and motion",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-grade3-test4-q10",
+      "questionText": "Which sense do we use when we listen to music?",
+      "image": "",
+      "options": [
+        "Sight",
+        "Hearing",
+        "Touch",
+        "Taste"
+      ],
+      "correctAnswer": 1,
+      "explanation": "We use our ears to hear music.",
+      "topic": "Human body",
+      "difficulty": "easy"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "title": "ISSO Grade 3 Test 5",
+  "durationMinutes": 15,
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "isso-grade3-test5-q1",
+      "questionText": "Who makes the laws in our country?",
+      "image": "",
+      "options": [
+        "Doctors",
+        "Teachers",
+        "Government",
+        "Farmers"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The government makes laws.",
+      "topic": "Government",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-grade3-test5-q2",
+      "questionText": "Which festival celebrates the birth of Lord Krishna?",
+      "image": "",
+      "options": [
+        "Diwali",
+        "Holi",
+        "Janmashtami",
+        "Eid"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Janmashtami celebrates Krishna's birth.",
+      "topic": "Festivals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-grade3-test5-q3",
+      "questionText": "Which direction is at the top of most maps?",
+      "image": "",
+      "options": [
+        "South",
+        "East",
+        "North",
+        "West"
+      ],
+      "correctAnswer": 2,
+      "explanation": "North is usually at the top.",
+      "topic": "Maps",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-grade3-test5-q4",
+      "questionText": "What do we call helping people without expecting anything?",
+      "image": "",
+      "options": [
+        "Shopping",
+        "Kindness",
+        "Playing",
+        "Eating"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Kindness is helping others.",
+      "topic": "Values",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-grade3-test5-q5",
+      "questionText": "What do we call a raised area of land with a peak?",
+      "image": "",
+      "options": [
+        "Valley",
+        "Mountain",
+        "Plain",
+        "Desert"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A mountain is high land with a peak.",
+      "topic": "Landforms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-grade3-test5-q6",
+      "questionText": "In which direction does the Sun set?",
+      "image": "",
+      "options": [
+        "North",
+        "South",
+        "East",
+        "West"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Sun sets in the West.",
+      "topic": "Direction",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-grade3-test5-q7",
+      "questionText": "What makes rain fall from the sky?",
+      "image": "",
+      "options": [
+        "Wind",
+        "Clouds and water vapor",
+        "Sun",
+        "Moon"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Clouds and water vapor cause rain.",
+      "topic": "Weather",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-grade3-test5-q8",
+      "questionText": "What do we call a huge body of salt water?",
+      "image": "",
+      "options": [
+        "River",
+        "Lake",
+        "Ocean",
+        "Pond"
+      ],
+      "correctAnswer": 2,
+      "explanation": "An ocean is salt water.",
+      "topic": "Water bodies",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-grade3-test5-q9",
+      "questionText": "From which direction does the Sun rise?",
+      "image": "",
+      "options": [
+        "North",
+        "South",
+        "East",
+        "West"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Sun rises in the East.",
+      "topic": "Direction",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-grade3-test5-q10",
+      "questionText": "What do we call a large area of trees?",
+      "image": "",
+      "options": [
+        "Desert",
+        "Forest",
+        "Plain",
+        "Valley"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A forest has many trees.",
+      "topic": "Landforms",
+      "difficulty": "easy"
+    }
+  ]
+}

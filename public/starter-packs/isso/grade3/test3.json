@@ -1,0 +1,157 @@
+{
+  "title": "ISSO Grade 3 Test 3",
+  "durationMinutes": 15,
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "isso-grade3-test3-q1",
+      "questionText": "On which date does India celebrate its Independence Day?",
+      "image": "",
+      "options": [
+        "January 26",
+        "August 15",
+        "October 2",
+        "December 25"
+      ],
+      "correctAnswer": 1,
+      "explanation": "August 15 is Independence Day.",
+      "topic": "Important days",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-grade3-test3-q2",
+      "questionText": "What do we call the head of the Indian government?",
+      "image": "",
+      "options": [
+        "President",
+        "Prime Minister",
+        "Chief Minister",
+        "Mayor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Prime Minister heads the government.",
+      "topic": "Government",
+      "difficulty": "medium"
+    },
+    {
+      "id": "isso-grade3-test3-q3",
+      "questionText": "What do we call a place where people vote?",
+      "image": "",
+      "options": [
+        "School",
+        "Hospital",
+        "Polling station",
+        "Market"
+      ],
+      "correctAnswer": 2,
+      "explanation": "People vote at polling stations.",
+      "topic": "Democracy",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-grade3-test3-q4",
+      "questionText": "What is a market?",
+      "image": "",
+      "options": [
+        "A school",
+        "A place to buy and sell",
+        "A hospital",
+        "A park"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A market is for buying and selling.",
+      "topic": "Economy",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-grade3-test3-q5",
+      "questionText": "Which planet in our solar system is smallest?",
+      "image": "",
+      "options": [
+        "Earth",
+        "Mars",
+        "Mercury",
+        "Venus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mercury is the smallest planet.",
+      "topic": "Solar system",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-grade3-test3-q6",
+      "questionText": "Which resource do humans need most to survive?",
+      "image": "",
+      "options": [
+        "Plastic",
+        "Water",
+        "Glass",
+        "Steel"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Water is essential for life.",
+      "topic": "Resources",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-grade3-test3-q7",
+      "questionText": "Which Indian festival is known for lighting lamps?",
+      "image": "",
+      "options": [
+        "Holi",
+        "Diwali",
+        "Eid",
+        "Christmas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Diwali is the festival of lights.",
+      "topic": "Festivals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-grade3-test3-q8",
+      "questionText": "What do we call a flat area of land?",
+      "image": "",
+      "options": [
+        "Mountain",
+        "Valley",
+        "Plain",
+        "Hill"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A plain is flat land.",
+      "topic": "Landforms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-grade3-test3-q9",
+      "questionText": "What makes seasons change throughout the year?",
+      "image": "",
+      "options": [
+        "Moon",
+        "Earth's tilt and orbit",
+        "Stars",
+        "Wind"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Earth's tilt and orbit cause seasons.",
+      "topic": "Seasons",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-grade3-test3-q10",
+      "questionText": "What do we call land that rises high above the ground?",
+      "image": "",
+      "options": [
+        "Valley",
+        "Mountain",
+        "Plain",
+        "Desert"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A mountain rises high.",
+      "topic": "Landforms",
+      "difficulty": "easy"
+    }
+  ]
+}

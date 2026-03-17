@@ -1,0 +1,158 @@
+/* Design System - Olympiad Mock Exam Platform */
+:root {
+  /* Colors - bright, soft, child-friendly */
+  --bg: #f8fafc;
+  --surface: #ffffff;
+  --surface-elevated: #ffffff;
+  --header-bg: #ffffff;
+  --text-primary: #1a2b3c;
+  --text-secondary: #5c6b7a;
+  --text-muted: #8b9aab;
+  --border-color: #e4e9ef;
+  --border-light: #eef1f5;
+
+  /* Primary - calm blue */
+  --primary: #4f7cff;
+  --primary-hover: #3d6aef;
+  --primary-light: rgba(79, 124, 255, 0.12);
+  --primary-soft: rgba(79, 124, 255, 0.08);
+
+  /* Status */
+  --success: #22c55e;
+  --success-light: rgba(34, 197, 94, 0.12);
+  --error: #ef4444;
+  --error-light: rgba(239, 68, 68, 0.12);
+  --warning: #f59e0b;
+  --warning-light: rgba(245, 158, 11, 0.15);
+
+  /* Mode badges */
+  --practice-bg: rgba(34, 197, 94, 0.15);
+  --practice-color: #16a34a;
+  --mock-bg: rgba(79, 124, 255, 0.15);
+  --mock-color: #3d6aef;
+
+  /* Spacing scale */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.25rem;
+  --space-6: 1.5rem;
+  --space-8: 2rem;
+  --space-10: 2.5rem;
+  --space-12: 3rem;
+
+  /* Typography */
+  --font-sans: 'Inter', 'Segoe UI', system-ui, -apple-system, sans-serif;
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-base: 1rem;
+  --text-lg: 1.125rem;
+  --text-xl: 1.25rem;
+  --text-2xl: 1.5rem;
+  --text-3xl: 1.875rem;
+  --font-medium: 500;
+  --font-semibold: 600;
+  --font-bold: 700;
+
+  /* Radius */
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --radius-xl: 20px;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.06);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.08);
+  --shadow-lg: 0 8px 24px rgba(0, 0, 0, 0.1);
+
+  /* Exam palette states */
+  --palette-current: var(--primary);
+  --palette-answered: var(--success);
+  --palette-marked: var(--warning);
+  --palette-unanswered: var(--border-color);
+
+  /* Option label colors - child-friendly, distinct */
+  --opt-a: #2563eb;
+  --opt-a-bg: rgba(37, 99, 235, 0.12);
+  --opt-b: #059669;
+  --opt-b-bg: rgba(5, 150, 105, 0.12);
+  --opt-c: #d97706;
+  --opt-c-bg: rgba(217, 119, 6, 0.12);
+  --opt-d: #7c3aed;
+  --opt-d-bg: rgba(124, 58, 237, 0.12);
+}
+
+[data-theme="dark"] {
+  --bg: #0f1419;
+  --surface: #1a2332;
+  --surface-elevated: #222d3d;
+  --header-bg: #1a2332;
+  --text-primary: #f1f5f9;
+  --text-secondary: #94a3b8;
+  --text-muted: #64748b;
+  --border-color: #334155;
+  --border-light: #2d3a4a;
+  --primary: #6b8cff;
+  --primary-hover: #5a7bef;
+  --primary-light: rgba(107, 140, 255, 0.2);
+  --primary-soft: rgba(107, 140, 255, 0.1);
+  --success: #4ade80;
+  --success-light: rgba(74, 222, 128, 0.2);
+  --error: #f87171;
+  --error-light: rgba(248, 113, 113, 0.2);
+  --warning: #fbbf24;
+  --warning-light: rgba(251, 191, 36, 0.2);
+  --practice-bg: rgba(74, 222, 128, 0.2);
+  --practice-color: #4ade80;
+  --mock-bg: rgba(107, 140, 255, 0.2);
+  --mock-color: #6b8cff;
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.3);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.35);
+  --shadow-lg: 0 8px 24px rgba(0, 0, 0, 0.4);
+  --opt-a: #60a5fa;
+  --opt-a-bg: rgba(96, 165, 250, 0.2);
+  --opt-b: #34d399;
+  --opt-b-bg: rgba(52, 211, 153, 0.2);
+  --opt-c: #fbbf24;
+  --opt-c-bg: rgba(251, 191, 36, 0.2);
+  --opt-d: #a78bfa;
+  --opt-d-bg: rgba(167, 139, 250, 0.2);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  background: var(--bg);
+  color: var(--text-primary);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+button {
+  font-family: inherit;
+}
+
+a {
+  color: inherit;
+}
+
+/* Focus styles for accessibility */
+button:focus-visible,
+a:focus-visible,
+[tabindex]:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 2px;
+}
+
+/* Touch-friendly minimum sizes */
+@media (pointer: coarse) {
+  button, a, [role="button"] {
+    min-height: 44px;
+    min-width: 44px;
+  }
+}

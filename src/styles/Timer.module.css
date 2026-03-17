@@ -1,0 +1,36 @@
+.timer {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  padding: var(--space-2) var(--space-4);
+  background: var(--surface);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  font-weight: var(--font-semibold);
+  font-size: var(--text-base);
+  color: var(--text-primary);
+  min-width: 88px;
+  justify-content: center;
+}
+
+.low {
+  background: var(--warning-light);
+  border-color: var(--warning);
+  color: var(--warning);
+}
+
+.expired {
+  background: var(--error-light);
+  border-color: var(--error);
+  color: var(--error);
+}
+
+.icon {
+  font-size: 1.125rem;
+  opacity: 0.9;
+}
+
+.value {
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.02em;
+}

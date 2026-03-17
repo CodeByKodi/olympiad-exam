@@ -1,0 +1,157 @@
+{
+  "title": "ICS Grade 3 Test 2",
+  "durationMinutes": 15,
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "ics-grade3-test2-q1",
+      "questionText": "Which part of the computer shows pictures and text?",
+      "image": "",
+      "options": [
+        "Keyboard",
+        "Monitor",
+        "CPU",
+        "Printer"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The monitor displays what we see.",
+      "topic": "Computer parts",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-grade3-test2-q2",
+      "questionText": "Which device helps us print documents?",
+      "image": "",
+      "options": [
+        "Monitor",
+        "Keyboard",
+        "Printer",
+        "Scanner"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A printer prints on paper.",
+      "topic": "Input/output devices",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-grade3-test2-q3",
+      "questionText": "Which key do we hold to type a capital letter?",
+      "image": "",
+      "options": [
+        "Enter",
+        "Shift",
+        "Space",
+        "Tab"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Shift helps type capital letters.",
+      "topic": "Keyboard and mouse",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-grade3-test2-q4",
+      "questionText": "Which key selects all text?",
+      "image": "",
+      "options": [
+        "Ctrl+A or Cmd+A",
+        "Ctrl+B",
+        "Ctrl+C",
+        "Ctrl+S"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ctrl+A selects all text.",
+      "topic": "Keyboard and mouse",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ics-grade3-test2-q5",
+      "questionText": "Why should we not share our password?",
+      "image": "",
+      "options": [
+        "It is fun",
+        "To keep our account safe",
+        "Everyone knows it",
+        "No reason"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Passwords keep our account safe.",
+      "topic": "Safety rules",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-grade3-test2-q6",
+      "questionText": "Which key deletes the character after the cursor?",
+      "image": "",
+      "options": [
+        "Backspace",
+        "Delete",
+        "Enter",
+        "Shift"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Delete removes the character after.",
+      "topic": "Keyboard and mouse",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-grade3-test2-q7",
+      "questionText": "What is a cursor?",
+      "image": "",
+      "options": [
+        "A key",
+        "A blinking line or arrow on screen",
+        "A type of file",
+        "A printer"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The cursor shows where we are.",
+      "topic": "Simple digital vocabulary",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-grade3-test2-q8",
+      "questionText": "Which key cancels an action?",
+      "image": "",
+      "options": [
+        "Enter",
+        "Shift",
+        "Escape",
+        "Tab"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Escape cancels or closes.",
+      "topic": "Keyboard and mouse",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-grade3-test2-q9",
+      "questionText": "What do we call a website address?",
+      "image": "",
+      "options": [
+        "URL",
+        "USB",
+        "CPU",
+        "RAM"
+      ],
+      "correctAnswer": 0,
+      "explanation": "URL is a website address.",
+      "topic": "Internet basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-grade3-test2-q10",
+      "questionText": "Why should we sit properly while using a computer?",
+      "image": "",
+      "options": [
+        "To look good",
+        "To avoid back pain",
+        "No reason",
+        "To type faster"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Good posture prevents pain.",
+      "topic": "Safety rules",
+      "difficulty": "easy"
+    }
+  ]
+}

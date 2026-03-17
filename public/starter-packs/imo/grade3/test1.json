@@ -1,0 +1,157 @@
+{
+  "title": "IMO Grade 3 Test 1",
+  "durationMinutes": 15,
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "imo-grade3-test1-q1",
+      "questionText": "What is 7 + 8?",
+      "image": "",
+      "options": [
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "correctAnswer": 1,
+      "explanation": "7 + 8 = 15",
+      "topic": "Addition",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imo-grade3-test1-q2",
+      "questionText": "How many corners does a square have?",
+      "image": "",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A square has 4 corners.",
+      "topic": "Shapes",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imo-grade3-test1-q3",
+      "questionText": "What is 9 + 6?",
+      "image": "",
+      "options": [
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "correctAnswer": 1,
+      "explanation": "9 + 6 = 15",
+      "topic": "Addition",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imo-grade3-test1-q4",
+      "questionText": "How many months are in a year?",
+      "image": "",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "correctAnswer": 2,
+      "explanation": "There are 12 months in a year.",
+      "topic": "Time",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imo-grade3-test1-q5",
+      "questionText": "What is 6 + 7?",
+      "image": "",
+      "options": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "correctAnswer": 1,
+      "explanation": "6 + 7 = 13",
+      "topic": "Addition",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imo-grade3-test1-q6",
+      "questionText": "What is 1/2 of 10?",
+      "image": "",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Half of 10 is 5.",
+      "topic": "Fractions",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imo-grade3-test1-q7",
+      "questionText": "How many centimetres in 1 metre?",
+      "image": "",
+      "options": [
+        "10",
+        "50",
+        "100",
+        "1000"
+      ],
+      "correctAnswer": 2,
+      "explanation": "1 metre = 100 cm",
+      "topic": "Measurement",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imo-grade3-test1-q8",
+      "questionText": "What is 7 × 6?",
+      "image": "",
+      "options": [
+        "36",
+        "42",
+        "48",
+        "54"
+      ],
+      "correctAnswer": 1,
+      "explanation": "7 × 6 = 42",
+      "topic": "Multiplication",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imo-grade3-test1-q9",
+      "questionText": "What comes next: 5, 10, 15, 20, ___?",
+      "image": "",
+      "options": [
+        "22",
+        "25",
+        "28",
+        "30"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The pattern adds 5 each time.",
+      "topic": "Patterns",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imo-grade3-test1-q10",
+      "questionText": "What is 48 ÷ 8?",
+      "image": "",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "explanation": "48 ÷ 8 = 6",
+      "topic": "Division",
+      "difficulty": "easy"
+    }
+  ]
+}

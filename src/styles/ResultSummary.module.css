@@ -1,0 +1,81 @@
+.container {
+  text-align: center;
+  padding: var(--space-10);
+  background: var(--surface);
+  border-radius: var(--radius-xl);
+  border: 1px solid var(--border-color);
+  margin-bottom: var(--space-8);
+  box-shadow: var(--shadow-md);
+}
+
+.badge {
+  display: inline-block;
+  padding: var(--space-2) var(--space-5);
+  border-radius: 999px;
+  font-weight: var(--font-bold);
+  font-size: var(--text-base);
+  margin-bottom: var(--space-5);
+}
+
+.badge.outstanding {
+  background: linear-gradient(135deg, #22c55e, #16a34a);
+  color: white;
+}
+
+.badge.excellent {
+  background: linear-gradient(135deg, #4f7cff, #3d6aef);
+  color: white;
+}
+
+.badge.good {
+  background: linear-gradient(135deg, #84cc16, #65a30d);
+  color: white;
+}
+
+.badge.fair {
+  background: linear-gradient(135deg, #f59e0b, #d97706);
+  color: white;
+}
+
+.badge.poor {
+  background: linear-gradient(135deg, #ef4444, #dc2626);
+  color: white;
+}
+
+.score {
+  margin-bottom: var(--space-5);
+}
+
+.percentage {
+  font-size: 3.5rem;
+  font-weight: 800;
+  color: var(--primary);
+  line-height: 1;
+}
+
+.stats {
+  display: flex;
+  justify-content: center;
+  gap: var(--space-8);
+  flex-wrap: wrap;
+}
+
+.stat {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: var(--space-4);
+  min-width: 80px;
+}
+
+.statValue {
+  font-size: var(--text-2xl);
+  font-weight: var(--font-bold);
+  color: var(--text-primary);
+}
+
+.statLabel {
+  font-size: var(--text-sm);
+  color: var(--text-muted);
+  margin-top: var(--space-1);
+}

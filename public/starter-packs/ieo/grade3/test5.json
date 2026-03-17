@@ -1,0 +1,157 @@
+{
+  "title": "IEO Grade 3 Test 5",
+  "durationMinutes": 15,
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "ieo-grade3-test5-q1",
+      "questionText": "Which sentence is correct?",
+      "image": "",
+      "options": [
+        "She go to school.",
+        "She goes to school.",
+        "She going to school.",
+        "She gone to school."
+      ],
+      "correctAnswer": 1,
+      "explanation": "With 'she' we use 'goes'.",
+      "topic": "Verbs",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ieo-grade3-test5-q2",
+      "questionText": "I ___ my homework yesterday.",
+      "image": "",
+      "options": [
+        "do",
+        "does",
+        "did",
+        "done"
+      ],
+      "correctAnswer": 2,
+      "explanation": "We use 'did' for past tense.",
+      "topic": "Tenses",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ieo-grade3-test5-q3",
+      "questionText": "What is the plural of tooth?",
+      "image": "",
+      "options": [
+        "Tooths",
+        "Toothes",
+        "Teeth",
+        "Tooth"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The plural of tooth is teeth.",
+      "topic": "Singular/plural",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ieo-grade3-test5-q4",
+      "questionText": "What do we call a group of words that expresses a complete thought?",
+      "image": "",
+      "options": [
+        "Word",
+        "Phrase",
+        "Sentence",
+        "Paragraph"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A sentence expresses a complete thought.",
+      "topic": "Sentence formation",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ieo-grade3-test5-q5",
+      "questionText": "Which word is spelled correctly?",
+      "image": "",
+      "options": [
+        "Recieve",
+        "Receive",
+        "Receeve",
+        "Receve"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Receive is spelled R-E-C-E-I-V-E.",
+      "topic": "Vocabulary",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ieo-grade3-test5-q6",
+      "questionText": "The dog ran ___ the street.",
+      "image": "",
+      "options": [
+        "in",
+        "across",
+        "at",
+        "by"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The dog ran across the street.",
+      "topic": "Prepositions",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ieo-grade3-test5-q7",
+      "questionText": "The sun rises ___ the east.",
+      "image": "",
+      "options": [
+        "in",
+        "on",
+        "from",
+        "at"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The sun rises in the east.",
+      "topic": "Prepositions",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ieo-grade3-test5-q8",
+      "questionText": "What is the opposite of fast?",
+      "image": "",
+      "options": [
+        "Quick",
+        "Slow",
+        "Rapid",
+        "Swift"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Slow is the opposite of fast.",
+      "topic": "Antonyms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ieo-grade3-test5-q9",
+      "questionText": "What do we call a word that joins two sentences?",
+      "image": "",
+      "options": [
+        "Noun",
+        "Verb",
+        "Conjunction",
+        "Adjective"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Conjunctions join sentences.",
+      "topic": "Sentence formation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ieo-grade3-test5-q10",
+      "questionText": "Which word describes a verb?",
+      "image": "",
+      "options": [
+        "Noun",
+        "Adjective",
+        "Adverb",
+        "Pronoun"
+      ],
+      "correctAnswer": 2,
+      "explanation": "An adverb describes a verb.",
+      "topic": "Adjectives",
+      "difficulty": "easy"
+    }
+  ]
+}

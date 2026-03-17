@@ -1,0 +1,157 @@
+{
+  "title": "NSO Grade 3 Test 1",
+  "durationMinutes": 15,
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "nso-grade3-test1-q1",
+      "questionText": "Which part of the plant absorbs water from the soil?",
+      "image": "",
+      "options": [
+        "Leaf",
+        "Flower",
+        "Root",
+        "Fruit"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Roots absorb water and minerals from the soil.",
+      "topic": "Plants",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-grade3-test1-q2",
+      "questionText": "What do we call a baby frog?",
+      "image": "",
+      "options": [
+        "Puppy",
+        "Tadpole",
+        "Cub",
+        "Chick"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A baby frog is called a tadpole.",
+      "topic": "Animals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-grade3-test1-q3",
+      "questionText": "Which organ pumps blood through our body?",
+      "image": "",
+      "options": [
+        "Lungs",
+        "Heart",
+        "Stomach",
+        "Kidney"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The heart pumps blood.",
+      "topic": "Human body",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-grade3-test1-q4",
+      "questionText": "What is water in its solid form called?",
+      "image": "",
+      "options": [
+        "Steam",
+        "Ice",
+        "Vapor",
+        "Mist"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ice is solid water.",
+      "topic": "States of matter",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-grade3-test1-q5",
+      "questionText": "Which is a living thing?",
+      "image": "",
+      "options": [
+        "Rock",
+        "Table",
+        "Tree",
+        "Chair"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Trees are living things.",
+      "topic": "Living vs non-living",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-grade3-test1-q6",
+      "questionText": "What do we call the study of weather?",
+      "image": "",
+      "options": [
+        "Biology",
+        "Meteorology",
+        "Geography",
+        "History"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Meteorology is the study of weather.",
+      "topic": "Weather and seasons",
+      "difficulty": "medium"
+    },
+    {
+      "id": "nso-grade3-test1-q7",
+      "questionText": "Which sense helps us feel hot and cold?",
+      "image": "",
+      "options": [
+        "Sight",
+        "Hearing",
+        "Touch",
+        "Smell"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Touch helps us feel temperature.",
+      "topic": "Human body",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-grade3-test1-q8",
+      "questionText": "What do we call animals that eat only plants?",
+      "image": "",
+      "options": [
+        "Carnivores",
+        "Herbivores",
+        "Omnivores",
+        "Insectivores"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Herbivores eat only plants.",
+      "topic": "Animals",
+      "difficulty": "medium"
+    },
+    {
+      "id": "nso-grade3-test1-q9",
+      "questionText": "Which is a natural resource?",
+      "image": "",
+      "options": [
+        "Plastic",
+        "Wood",
+        "Glass",
+        "Steel"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Wood comes from trees.",
+      "topic": "Natural resources",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-grade3-test1-q10",
+      "questionText": "What do we call the home of a bird?",
+      "image": "",
+      "options": [
+        "Cave",
+        "Nest",
+        "Hole",
+        "Den"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Birds live in nests.",
+      "topic": "Animals",
+      "difficulty": "easy"
+    }
+  ]
+}

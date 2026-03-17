@@ -1,0 +1,157 @@
+{
+  "title": "NSO Grade 3 Test 2",
+  "durationMinutes": 15,
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "nso-grade3-test2-q1",
+      "questionText": "What do plants need to make their food?",
+      "image": "",
+      "options": [
+        "Water only",
+        "Sunlight only",
+        "Sunlight, water and air",
+        "Soil only"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Plants use sunlight, water and air to make food.",
+      "topic": "Plants",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-grade3-test2-q2",
+      "questionText": "Which season comes after winter?",
+      "image": "",
+      "options": [
+        "Summer",
+        "Autumn",
+        "Spring",
+        "Monsoon"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Spring comes after winter.",
+      "topic": "Weather and seasons",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-grade3-test2-q3",
+      "questionText": "What type of animal is a whale?",
+      "image": "",
+      "options": [
+        "Fish",
+        "Reptile",
+        "Mammal",
+        "Bird"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Whales are mammals.",
+      "topic": "Animals",
+      "difficulty": "medium"
+    },
+    {
+      "id": "nso-grade3-test2-q4",
+      "questionText": "Which animal has a shell?",
+      "image": "",
+      "options": [
+        "Dog",
+        "Snail",
+        "Rabbit",
+        "Lion"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Snails have a hard shell.",
+      "topic": "Animals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-grade3-test2-q5",
+      "questionText": "What do we use to hear sounds?",
+      "image": "",
+      "options": [
+        "Eyes",
+        "Nose",
+        "Ears",
+        "Tongue"
+      ],
+      "correctAnswer": 2,
+      "explanation": "We hear with our ears.",
+      "topic": "Human body",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-grade3-test2-q6",
+      "questionText": "Which is a non-living thing?",
+      "image": "",
+      "options": [
+        "Flower",
+        "Bird",
+        "Stone",
+        "Fish"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Stones are non-living.",
+      "topic": "Living vs non-living",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-grade3-test2-q7",
+      "questionText": "What do plants need from the soil?",
+      "image": "",
+      "options": [
+        "Light",
+        "Water and minerals",
+        "Air",
+        "Sound"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Plants get water and minerals from soil.",
+      "topic": "Plants",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-grade3-test2-q8",
+      "questionText": "Which is a source of water?",
+      "image": "",
+      "options": [
+        "Fire",
+        "Rain",
+        "Wind",
+        "Light"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rain is a source of water.",
+      "topic": "Air and water",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-grade3-test2-q9",
+      "questionText": "What do we need to grow strong bones?",
+      "image": "",
+      "options": [
+        "Sugar",
+        "Calcium",
+        "Salt",
+        "Oil"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Calcium helps bones grow strong.",
+      "topic": "Food and nutrition",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-grade3-test2-q10",
+      "questionText": "Which season is the coldest?",
+      "image": "",
+      "options": [
+        "Summer",
+        "Spring",
+        "Winter",
+        "Autumn"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Winter is the coldest season.",
+      "topic": "Weather and seasons",
+      "difficulty": "easy"
+    }
+  ]
+}

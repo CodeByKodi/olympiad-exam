@@ -1,0 +1,103 @@
+.option {
+  display: flex;
+  align-items: center;
+  gap: var(--space-5);
+  width: 100%;
+  padding: var(--space-5) var(--space-6);
+  background: var(--surface);
+  border: 2px solid var(--border-color);
+  border-radius: var(--radius-md);
+  text-align: left;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-size: var(--text-lg);
+  color: var(--text-primary);
+  min-height: 64px;
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.option:hover:not(:disabled) {
+  border-color: var(--primary);
+  background: var(--primary-soft);
+}
+
+.option:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 2px;
+}
+
+/* Default label colors - overridden by correct/wrong */
+.option .label {
+  flex-shrink: 0;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: var(--radius-md);
+  font-weight: var(--font-bold);
+  font-size: 1.125rem;
+  transition: all 0.2s;
+}
+
+.option.a .label {
+  background: var(--opt-a-bg);
+  color: var(--opt-a);
+}
+
+.option.b .label {
+  background: var(--opt-b-bg);
+  color: var(--opt-b);
+}
+
+.option.c .label {
+  background: var(--opt-c-bg);
+  color: var(--opt-c);
+}
+
+.option.d .label {
+  background: var(--opt-d-bg);
+  color: var(--opt-d);
+}
+
+.option.selected .label {
+  background: var(--primary);
+  color: white;
+  border-color: var(--primary);
+}
+
+.option.correct .label {
+  background: var(--success);
+  color: white;
+}
+
+.option.wrong .label {
+  background: var(--error);
+  color: white;
+}
+
+.option.selected {
+  border-color: var(--primary);
+  background: var(--primary-light);
+}
+
+.option.correct {
+  border-color: var(--success);
+  background: var(--success-light);
+}
+
+.option.wrong {
+  border-color: var(--error);
+  background: var(--error-light);
+}
+
+.option:disabled {
+  cursor: default;
+  opacity: 0.95;
+}
+
+.text {
+  flex: 1;
+  line-height: 1.55;
+}

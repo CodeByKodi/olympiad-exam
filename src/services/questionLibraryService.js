@@ -1,0 +1,248 @@
+/**
+ * Question Library Service - Static hosting (GitHub Pages, web).
+ * Loads starter packs from static JSON and imported packs from IndexedDB.
+ * No backend, no Electron - browser storage only.
+ */
+
+import { resolveStaticPath } from '../config.js';
+import * as libraryStorage from './libraryStorageService.js';
+import { buildPracticePool, buildMockIndex } from '../utils/questionLibraryUtils.js';
+import { EXAMS } from '../constants/exams.js';
+
+/**
+ * Load starter packs from static JSON files.
+ * Fetches index.json per exam/grade, then each test file.
+ * @returns {Promise<Array>} Starter packs in library format
+ */
+export async function loadStarterPacks() {
+  const packs = [];
+  const examIds = Object.keys(EXAMS).map((k) => EXAMS[k].id);
+
+  for (const examId of examIds) {
+    const indexUrl = resolveStaticPath(`starter-packs/${examId}/grade3/index.json`);
+    try {
+      const res = await fetch(indexUrl);
+      if (!res.ok) continue;
+      const index = await res.json();
+      const tests = index.tests || [];
+      for (const t of tests) {
+        const testUrl = resolveStaticPath(`starter-packs/${examId}/grade3/test${t.id}.json`);
+        const testRes = await fetch(testUrl);
+        if (!testRes.ok) continue;
+        const data = await testRes.json();
+        const questions = data.questions || data;
+        const arr = Array.isArray(questions) ? questions : [];
+        const packId = `${examId}-grade3-test${t.id}`;
+        packs.push({
+          packId,
+          exam: examId,
+          grade: '3',
+          mode: 'mock',
+          title: data.title || t.title || `Test ${t.id}`,
+          questions: arr.map((q) => ({ ...q, id: String(q.id ?? '') })),
+          durationMinutes: data.durationMinutes ?? t.durationMinutes ?? Math.ceil(arr.length * 1.5),
+          questionCount: arr.length,
+          isStarter: true,
+          enabled: true,
+          fileName: `test${t.id}.json`,
+        });
+      }
+    } catch {
+      // Skip exam if index or tests fail
+    }
+  }
+
+  return packs;
+}
+
+/**
+ * Load imported packs from IndexedDB.
+ * @returns {Promise<Array>} Imported packs
+ */
+export async function loadImportedPacks() {
+  try {
+    return await libraryStorage.loadAllPacks();
+  } catch (e) {
+    console.warn('Failed to load imported packs:', e);
+    return [];
+  }
+}
+
+/**
+ * Merge starter packs and imported packs.
+ * Imported packs take precedence for same exam/grade/mode (different packIds).
+ * @param {Array} starterPacks
+ * @param {Array} importedPacks
+ * @returns {Array} Merged packs
+ */
+export function mergeLibraries(starterPacks, importedPacks) {
+  const byKey = new Map();
+  for (const p of starterPacks || []) {
+    byKey.set(p.packId, { ...p });
+  }
+  for (const p of importedPacks || []) {
+    byKey.set(p.packId, { ...p, isStarter: false });
+  }
+  return Array.from(byKey.values());
+}
+
+/**
+ * Reload library: fetch starter packs + load imported, then merge.
+ * @returns {Promise<{ packs: Array }>}
+ */
+export async function reloadLibrary() {
+  const [starterPacks, importedPacks] = await Promise.all([
+    loadStarterPacks(),
+    loadImportedPacks(),
+  ]);
+  const packs = mergeLibraries(starterPacks, importedPacks);
+  return { packs };
+}
+
+/**
+ * Alias for reloadLibrary - used by context.
+ */
+export async function loadLibrary() {
+  return reloadLibrary();
+}
+
+/**
+ * Save imported pack to IndexedDB.
+ * @param {string} content - JSON string
+ * @param {boolean} skipDuplicates
+ * @returns {Promise<{ ok: boolean, pack?: Object, error?: string }>}
+ */
+export async function saveImportedPack(content, skipDuplicates = false) {
+  try {
+    const pack = typeof content === 'string' ? JSON.parse(content) : content;
+    const saved = await libraryStorage.savePack(pack);
+    return { ok: true, pack: saved };
+  } catch (e) {
+    return { ok: false, error: e.message };
+  }
+}
+
+/**
+ * Import pack - validate and save to IndexedDB.
+ */
+export async function importPack(content, skipDuplicates = false) {
+  return saveImportedPack(content, skipDuplicates);
+}
+
+/**
+ * Delete imported pack from IndexedDB.
+ */
+export async function deletePack(pack) {
+  if (pack.isStarter) {
+    return { ok: false, error: 'Cannot delete starter packs' };
+  }
+  try {
+    await libraryStorage.deletePack(pack.packId);
+    return { ok: true };
+  } catch (e) {
+    return { ok: false, error: e.message };
+  }
+}
+
+/**
+ * Toggle pack enabled/disabled (imported packs only; starter always enabled).
+ */
+export async function togglePackEnabled(pack, enabled) {
+  if (pack.isStarter) return { ok: true };
+  try {
+    await libraryStorage.setPackEnabled(pack.packId, enabled);
+    return { ok: true };
+  } catch (e) {
+    return { ok: false, error: e.message };
+  }
+}
+
+function getStarterTestId(pack) {
+  const m = pack.packId?.match(/test(\d+)$/);
+  return m ? m[1] : '1';
+}
+
+/**
+ * Get pack content for export.
+ */
+export async function getPackContent(pack) {
+  if (pack.isStarter) {
+    const testId = getStarterTestId(pack);
+    const url = resolveStaticPath(`starter-packs/${pack.exam}/grade${pack.grade}/test${testId}.json`);
+    try {
+      const res = await fetch(url);
+      if (!res.ok) return { ok: false, error: 'Pack not found' };
+      const data = await res.json();
+      return { ok: true, content: JSON.stringify(data, null, 2) };
+    } catch (e) {
+      return { ok: false, error: e.message };
+    }
+  }
+  try {
+    const p = await libraryStorage.getPack(pack.packId);
+    return p ? { ok: true, content: JSON.stringify(p, null, 2) } : { ok: false, error: 'Pack not found' };
+  } catch (e) {
+    return { ok: false, error: e.message };
+  }
+}
+
+/**
+ * Load pack data (questions etc.) for taking a test.
+ */
+export async function loadPackData(pack) {
+  if (pack.isStarter) {
+    const testId = getStarterTestId(pack);
+    const url = resolveStaticPath(`starter-packs/${pack.exam}/grade${pack.grade}/test${testId}.json`);
+    try {
+      const res = await fetch(url);
+      if (!res.ok) return { ok: false, error: 'Pack not found' };
+      const data = await res.json();
+      return { ok: true, pack: { ...data, packId: pack.packId, exam: pack.exam, grade: pack.grade, mode: pack.mode } };
+    } catch (e) {
+      return { ok: false, error: e.message };
+    }
+  }
+  try {
+    const p = await libraryStorage.getPack(pack.packId);
+    return p ? { ok: true, pack: p } : { ok: false, error: 'Pack not found' };
+  } catch (e) {
+    return { ok: false, error: e.message };
+  }
+}
+
+/**
+ * Build practice pool from enabled practice packs.
+ */
+export function buildPracticePoolFromPacks(packs) {
+  return buildPracticePool(packs);
+}
+
+/**
+ * Build mock index from enabled mock packs.
+ */
+export function buildMockIndexFromPacks(packs) {
+  return buildMockIndex(packs);
+}
+
+/**
+ * Read file from File input (web file picker).
+ */
+export function readFileFromInput(file) {
+  return new Promise((resolve) => {
+    const reader = new FileReader();
+    reader.onload = () => resolve({ ok: true, content: reader.result });
+    reader.onerror = () => resolve({ ok: false, error: reader.error?.message || 'Read failed' });
+    reader.readAsText(file, 'UTF-8');
+  });
+}
+
+/**
+ * Show open dialog - web always uses file input (no native dialog).
+ */
+export async function showOpenDialog() {
+  return { canceled: true, filePaths: [] };
+}
+
+export function isAvailable() {
+  return true;
+}

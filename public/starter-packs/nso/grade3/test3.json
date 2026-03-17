@@ -1,0 +1,157 @@
+{
+  "title": "NSO Grade 3 Test 3",
+  "durationMinutes": 15,
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "nso-grade3-test3-q1",
+      "questionText": "Which animal lays eggs?",
+      "image": "",
+      "options": [
+        "Dog",
+        "Cat",
+        "Hen",
+        "Cow"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Hens and birds lay eggs.",
+      "topic": "Animals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-grade3-test3-q2",
+      "questionText": "What is the largest organ of the human body?",
+      "image": "",
+      "options": [
+        "Heart",
+        "Brain",
+        "Skin",
+        "Liver"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Skin is the largest organ.",
+      "topic": "Human body",
+      "difficulty": "medium"
+    },
+    {
+      "id": "nso-grade3-test3-q3",
+      "questionText": "Which of these is a source of light?",
+      "image": "",
+      "options": [
+        "Moon",
+        "Sun",
+        "Cloud",
+        "Mountain"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Sun gives its own light.",
+      "topic": "Light and sound",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-grade3-test3-q4",
+      "questionText": "What force pulls things toward the Earth?",
+      "image": "",
+      "options": [
+        "Magnetism",
+        "Gravity",
+        "Friction",
+        "Wind"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gravity pulls things down.",
+      "topic": "Force and motion",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-grade3-test3-q5",
+      "questionText": "Which gas do plants give out?",
+      "image": "",
+      "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen",
+        "Smoke"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Plants give out oxygen.",
+      "topic": "Plants",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-grade3-test3-q6",
+      "questionText": "What helps us to taste food?",
+      "image": "",
+      "options": [
+        "Ears",
+        "Eyes",
+        "Tongue",
+        "Nose"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The tongue helps us taste.",
+      "topic": "Human body",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-grade3-test3-q7",
+      "questionText": "Which animal gives us milk?",
+      "image": "",
+      "options": [
+        "Lion",
+        "Tiger",
+        "Cow",
+        "Wolf"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cows give us milk.",
+      "topic": "Animals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-grade3-test3-q8",
+      "questionText": "What do we use to protect our environment?",
+      "image": "",
+      "options": [
+        "Throw garbage everywhere",
+        "Recycle",
+        "Cut all trees",
+        "Waste water"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Recycling helps protect the environment.",
+      "topic": "Safety and environment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-grade3-test3-q9",
+      "questionText": "Which animal lives in water and on land?",
+      "image": "",
+      "options": [
+        "Fish",
+        "Frog",
+        "Bird",
+        "Snake"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Frogs live in water and on land.",
+      "topic": "Animals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-grade3-test3-q10",
+      "questionText": "What do plants release during the day?",
+      "image": "",
+      "options": [
+        "Carbon dioxide only",
+        "Oxygen",
+        "Smoke",
+        "Dust"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Plants release oxygen during the day.",
+      "topic": "Plants",
+      "difficulty": "easy"
+    }
+  ]
+}

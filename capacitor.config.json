@@ -1,0 +1,14 @@
+{
+  "appId": "com.olympiad.exam",
+  "appName": "Olympiad Mock Exam",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "ios": {
+    "contentInset": "automatic"
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}

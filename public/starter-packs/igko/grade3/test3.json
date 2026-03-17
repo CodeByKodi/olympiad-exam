@@ -1,0 +1,157 @@
+{
+  "title": "IGKO Grade 3 Test 3",
+  "durationMinutes": 15,
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "igko-grade3-test3-q1",
+      "questionText": "What is the capital of India?",
+      "image": "",
+      "options": [
+        "Mumbai",
+        "Kolkata",
+        "New Delhi",
+        "Chennai"
+      ],
+      "correctAnswer": 2,
+      "explanation": "New Delhi is the capital.",
+      "topic": "Capitals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-grade3-test3-q2",
+      "questionText": "Which festival is known as the festival of lights?",
+      "image": "",
+      "options": [
+        "Holi",
+        "Diwali",
+        "Eid",
+        "Christmas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Diwali is the festival of lights.",
+      "topic": "Festivals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-grade3-test3-q3",
+      "questionText": "What is the Sun?",
+      "image": "",
+      "options": [
+        "A planet",
+        "A star",
+        "A moon",
+        "A comet"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Sun is a star.",
+      "topic": "Space basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-grade3-test3-q4",
+      "questionText": "Which direction does the Sun rise from?",
+      "image": "",
+      "options": [
+        "North",
+        "South",
+        "East",
+        "West"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Sun rises in the East.",
+      "topic": "Direction basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-grade3-test3-q5",
+      "questionText": "Which festival is celebrated with colors?",
+      "image": "",
+      "options": [
+        "Diwali",
+        "Holi",
+        "Eid",
+        "Christmas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Holi is the festival of colors.",
+      "topic": "Festivals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-grade3-test3-q6",
+      "questionText": "What is the capital of Japan?",
+      "image": "",
+      "options": [
+        "Beijing",
+        "Seoul",
+        "Tokyo",
+        "Bangkok"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Tokyo is the capital of Japan.",
+      "topic": "Capitals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-grade3-test3-q7",
+      "questionText": "Which festival marks the birth of Jesus?",
+      "image": "",
+      "options": [
+        "Diwali",
+        "Holi",
+        "Eid",
+        "Christmas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Christmas marks Jesus's birth.",
+      "topic": "Festivals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-grade3-test3-q8",
+      "questionText": "What is the capital of England?",
+      "image": "",
+      "options": [
+        "Paris",
+        "London",
+        "Berlin",
+        "Paris"
+      ],
+      "correctAnswer": 1,
+      "explanation": "London is the capital.",
+      "topic": "Capitals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-grade3-test3-q9",
+      "questionText": "Which festival is celebrated with fasting?",
+      "image": "",
+      "options": [
+        "Diwali",
+        "Holi",
+        "Eid",
+        "Christmas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Eid is celebrated with fasting.",
+      "topic": "Festivals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-grade3-test3-q10",
+      "questionText": "What is the capital of China?",
+      "image": "",
+      "options": [
+        "Shanghai",
+        "Beijing",
+        "Hong Kong",
+        "Tokyo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Beijing is the capital.",
+      "topic": "Capitals",
+      "difficulty": "easy"
+    }
+  ]
+}

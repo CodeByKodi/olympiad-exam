@@ -1,0 +1,56 @@
+# Dependencies
+node_modules
+
+# Build output
+dist
+dist-ssr
+release
+
+# Environment & secrets (never commit API keys, tokens, etc.)
+.env
+.env.local
+.env.*.local
+*.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Capacitor – Android
+android/app/build
+android/app/capacitor.build.gradle
+android/.gradle
+android/local.properties
+*.apk
+*.aab
+
+# Capacitor – iOS
+ios/App/Pods
+ios/App/App.xcuserdata
+ios/App.xcworkspace/xcuserdata
+ios/DerivedData
+*.ipa
+
+# Electron
+out
+
+# Test & coverage
+coverage
+.nyc_output
+*.lcov
+
+# Editor & OS
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

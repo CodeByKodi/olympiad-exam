@@ -1,0 +1,157 @@
+{
+  "title": "IEO Grade 3 Test 1",
+  "durationMinutes": 15,
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "ieo-grade3-test1-q1",
+      "questionText": "What is the opposite of hot?",
+      "image": "",
+      "options": [
+        "Warm",
+        "Cold",
+        "Cool",
+        "Freezing"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cold is the opposite of hot.",
+      "topic": "Vocabulary",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ieo-grade3-test1-q2",
+      "questionText": "What is a synonym for happy?",
+      "image": "",
+      "options": [
+        "Sad",
+        "Joyful",
+        "Angry",
+        "Tired"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Joyful means the same as happy.",
+      "topic": "Synonyms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ieo-grade3-test1-q3",
+      "questionText": "What is the past tense of run?",
+      "image": "",
+      "options": [
+        "Run",
+        "Runs",
+        "Ran",
+        "Running"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The past tense of run is ran.",
+      "topic": "Tenses",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ieo-grade3-test1-q4",
+      "questionText": "Which word is an action word?",
+      "image": "",
+      "options": [
+        "Beautiful",
+        "Jump",
+        "Slow",
+        "Table"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Jump is a verb.",
+      "topic": "Verbs",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ieo-grade3-test1-q5",
+      "questionText": "What replaces a noun in a sentence?",
+      "image": "",
+      "options": [
+        "Adjective",
+        "Verb",
+        "Pronoun",
+        "Adverb"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A pronoun replaces a noun.",
+      "topic": "Pronouns",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ieo-grade3-test1-q6",
+      "questionText": "What is the plural of mouse?",
+      "image": "",
+      "options": [
+        "Mouses",
+        "Mice",
+        "Mousies",
+        "Mouse"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The plural of mouse is mice.",
+      "topic": "Singular/plural",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ieo-grade3-test1-q7",
+      "questionText": "Which word is a verb?",
+      "image": "",
+      "options": [
+        "Happy",
+        "Quickly",
+        "Eat",
+        "Beautiful"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Eat is a verb.",
+      "topic": "Verbs",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ieo-grade3-test1-q8",
+      "questionText": "Which word means 'to make bigger'?",
+      "image": "",
+      "options": [
+        "Shrink",
+        "Reduce",
+        "Expand",
+        "Decrease"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Expand means to make bigger.",
+      "topic": "Vocabulary",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ieo-grade3-test1-q9",
+      "questionText": "The cat is ___ the box.",
+      "image": "",
+      "options": [
+        "in",
+        "on",
+        "inside",
+        "All can be correct"
+      ],
+      "correctAnswer": 3,
+      "explanation": "All can be correct depending on meaning.",
+      "topic": "Prepositions",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ieo-grade3-test1-q10",
+      "questionText": "The ball is ___ the table and the chair.",
+      "image": "",
+      "options": [
+        "in",
+        "on",
+        "between",
+        "under"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Between means in the middle.",
+      "topic": "Prepositions",
+      "difficulty": "easy"
+    }
+  ]
+}

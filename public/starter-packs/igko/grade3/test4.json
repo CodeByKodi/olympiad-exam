@@ -1,0 +1,157 @@
+{
+  "title": "IGKO Grade 3 Test 4",
+  "durationMinutes": 15,
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "igko-grade3-test4-q1",
+      "questionText": "Which planet do we live on?",
+      "image": "",
+      "options": [
+        "Mars",
+        "Venus",
+        "Earth",
+        "Jupiter"
+      ],
+      "correctAnswer": 2,
+      "explanation": "We live on Earth.",
+      "topic": "Space basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-grade3-test4-q2",
+      "questionText": "What is the national flag of India called?",
+      "image": "",
+      "options": [
+        "Tricolor",
+        "Tiranga",
+        "Both A and B",
+        "None"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Indian flag is called Tiranga or Tricolor.",
+      "topic": "Flags",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-grade3-test4-q3",
+      "questionText": "Which river is considered holy in India?",
+      "image": "",
+      "options": [
+        "Ganga",
+        "Brahmaputra",
+        "Yamuna",
+        "All of these"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Ganga, Yamuna and Brahmaputra are holy.",
+      "topic": "Famous places",
+      "difficulty": "medium"
+    },
+    {
+      "id": "igko-grade3-test4-q4",
+      "questionText": "What is the largest mammal on Earth?",
+      "image": "",
+      "options": [
+        "Elephant",
+        "Blue Whale",
+        "Giraffe",
+        "Polar Bear"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Blue Whale is the largest.",
+      "topic": "Current general awareness",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-grade3-test4-q5",
+      "questionText": "What is the capital of the USA?",
+      "image": "",
+      "options": [
+        "New York",
+        "Los Angeles",
+        "Washington D.C.",
+        "Chicago"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Washington D.C. is the capital.",
+      "topic": "Capitals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-grade3-test4-q6",
+      "questionText": "Which ocean is the coldest?",
+      "image": "",
+      "options": [
+        "Pacific",
+        "Atlantic",
+        "Indian",
+        "Arctic"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Arctic Ocean is coldest.",
+      "topic": "Oceans",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-grade3-test4-q7",
+      "questionText": "What is the capital of France?",
+      "image": "",
+      "options": [
+        "London",
+        "Berlin",
+        "Paris",
+        "Rome"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Paris is the capital of France.",
+      "topic": "Capitals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-grade3-test4-q8",
+      "questionText": "Which continent has the most people?",
+      "image": "",
+      "options": [
+        "Africa",
+        "Europe",
+        "Asia",
+        "North America"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Asia has the most people.",
+      "topic": "Continents",
+      "difficulty": "medium"
+    },
+    {
+      "id": "igko-grade3-test4-q9",
+      "questionText": "What is the capital of Australia?",
+      "image": "",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Canberra is the capital.",
+      "topic": "Capitals",
+      "difficulty": "medium"
+    },
+    {
+      "id": "igko-grade3-test4-q10",
+      "questionText": "Which planet is known as the Red Planet?",
+      "image": "",
+      "options": [
+        "Venus",
+        "Earth",
+        "Mars",
+        "Jupiter"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mars is the Red Planet.",
+      "topic": "Space basics",
+      "difficulty": "easy"
+    }
+  ]
+}

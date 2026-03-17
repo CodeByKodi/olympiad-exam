@@ -1,0 +1,30 @@
+{
+  "packId": "nso-grade3-money-pack-01",
+  "exam": "nso",
+  "grade": 3,
+  "mode": "practice",
+  "title": "Money Practice Pack 1",
+  "durationMinutes": 15,
+  "questions": [
+    {
+      "id": "nso-g3-money-q1",
+      "questionText": "Which note can be used with a ₹10 note to make ₹60?",
+      "image": "",
+      "options": ["₹20", "₹30", "₹40", "₹50"],
+      "correctAnswer": 3,
+      "explanation": "₹50 + ₹10 = ₹60.",
+      "topic": "Money",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nso-g3-money-q2",
+      "questionText": "How many ₹5 coins make ₹25?",
+      "image": "",
+      "options": ["3", "4", "5", "6"],
+      "correctAnswer": 2,
+      "explanation": "5 × ₹5 = ₹25.",
+      "topic": "Money",
+      "difficulty": "easy"
+    }
+  ]
+}

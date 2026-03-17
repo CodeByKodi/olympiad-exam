@@ -1,0 +1,157 @@
+{
+  "title": "ISSO Grade 3 Test 2",
+  "durationMinutes": 15,
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "isso-grade3-test2-q1",
+      "questionText": "What do we call a group of people who live together and follow rules?",
+      "image": "",
+      "options": [
+        "Family",
+        "Society",
+        "School",
+        "Office"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Society is a group of people.",
+      "topic": "Society",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-grade3-test2-q2",
+      "questionText": "Which type of family has parents, children and grandparents together?",
+      "image": "",
+      "options": [
+        "Nuclear family",
+        "Joint family",
+        "Single family",
+        "No family"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A joint family has many generations.",
+      "topic": "Family",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-grade3-test2-q3",
+      "questionText": "Who was the first Prime Minister of India?",
+      "image": "",
+      "options": [
+        "Mahatma Gandhi",
+        "Sardar Patel",
+        "Jawaharlal Nehru",
+        "Dr. Rajendra Prasad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Jawaharlal Nehru was the first PM.",
+      "topic": "Indian leaders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-grade3-test2-q4",
+      "questionText": "Which right means we can say what we think?",
+      "image": "",
+      "options": [
+        "Right to education",
+        "Freedom of speech",
+        "Right to vote",
+        "Right to food"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Freedom of speech lets us express.",
+      "topic": "Rights",
+      "difficulty": "medium"
+    },
+    {
+      "id": "isso-grade3-test2-q5",
+      "questionText": "What do we call Earth's path around the Sun?",
+      "image": "",
+      "options": [
+        "Rotation",
+        "Orbit",
+        "Revolution",
+        "Spin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Orbit is Earth's path around the Sun.",
+      "topic": "Earth",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-grade3-test2-q6",
+      "questionText": "What do we call the science of weather patterns?",
+      "image": "",
+      "options": [
+        "Biology",
+        "Meteorology",
+        "Geography",
+        "History"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Meteorology studies weather.",
+      "topic": "Weather",
+      "difficulty": "medium"
+    },
+    {
+      "id": "isso-grade3-test2-q7",
+      "questionText": "What do we call a building that displays old artifacts?",
+      "image": "",
+      "options": [
+        "Library",
+        "Museum",
+        "Hospital",
+        "School"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A museum shows old things.",
+      "topic": "Places",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-grade3-test2-q8",
+      "questionText": "Which ocean is the biggest in the world?",
+      "image": "",
+      "options": [
+        "Atlantic",
+        "Indian",
+        "Pacific",
+        "Arctic"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Pacific is the largest.",
+      "topic": "Water bodies",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-grade3-test2-q9",
+      "questionText": "What do we call a dry area with little rain?",
+      "image": "",
+      "options": [
+        "Forest",
+        "Desert",
+        "Plain",
+        "Valley"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A desert has little rain.",
+      "topic": "Landforms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-grade3-test2-q10",
+      "questionText": "What do we call a flowing body of water?",
+      "image": "",
+      "options": [
+        "Lake",
+        "Ocean",
+        "River",
+        "Pond"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A river flows.",
+      "topic": "Water bodies",
+      "difficulty": "easy"
+    }
+  ]
+}

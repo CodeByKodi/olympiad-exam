@@ -1,0 +1,157 @@
+{
+  "title": "IMO Grade 3 Test 2",
+  "durationMinutes": 15,
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "imo-grade3-test2-q1",
+      "questionText": "How many sides does a triangle have?",
+      "image": "",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A triangle has 3 sides.",
+      "topic": "Shapes",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imo-grade3-test2-q2",
+      "questionText": "What is 50 + 30?",
+      "image": "",
+      "options": [
+        "70",
+        "80",
+        "90",
+        "100"
+      ],
+      "correctAnswer": 1,
+      "explanation": "50 + 30 = 80",
+      "topic": "Addition",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imo-grade3-test2-q3",
+      "questionText": "How many days are in a week?",
+      "image": "",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 2,
+      "explanation": "There are 7 days in a week.",
+      "topic": "Time",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imo-grade3-test2-q4",
+      "questionText": "What is 100 - 35?",
+      "image": "",
+      "options": [
+        "55",
+        "65",
+        "75",
+        "85"
+      ],
+      "correctAnswer": 1,
+      "explanation": "100 - 35 = 65",
+      "topic": "Subtraction",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imo-grade3-test2-q5",
+      "questionText": "How many sides does a rectangle have?",
+      "image": "",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A rectangle has 4 sides.",
+      "topic": "Shapes",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imo-grade3-test2-q6",
+      "questionText": "Which is the smallest: 234, 243, 324, 423?",
+      "image": "",
+      "options": [
+        "234",
+        "243",
+        "324",
+        "423"
+      ],
+      "correctAnswer": 0,
+      "explanation": "234 is the smallest.",
+      "topic": "Comparison",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imo-grade3-test2-q7",
+      "questionText": "What comes next: 2, 4, 6, 8, ___?",
+      "image": "",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The pattern adds 2 each time.",
+      "topic": "Patterns",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imo-grade3-test2-q8",
+      "questionText": "If 3 children share 12 chocolates equally, how many each?",
+      "image": "",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctAnswer": 1,
+      "explanation": "12 ÷ 3 = 4",
+      "topic": "Division",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imo-grade3-test2-q9",
+      "questionText": "What is 11 + 12?",
+      "image": "",
+      "options": [
+        "21",
+        "22",
+        "23",
+        "24"
+      ],
+      "correctAnswer": 2,
+      "explanation": "11 + 12 = 23",
+      "topic": "Addition",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imo-grade3-test2-q10",
+      "questionText": "Which is heavier: 1 kg or 500 g?",
+      "image": "",
+      "options": [
+        "500 g",
+        "1 kg",
+        "Same",
+        "Cannot tell"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1 kg is heavier than 500 g.",
+      "topic": "Measurement",
+      "difficulty": "easy"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "title": "IMO Grade 3 Test 3",
+  "durationMinutes": 15,
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "imo-grade3-test3-q1",
+      "questionText": "What is 12 - 5?",
+      "image": "",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 2,
+      "explanation": "12 - 5 = 7",
+      "topic": "Subtraction",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imo-grade3-test3-q2",
+      "questionText": "If you share 24 pencils among 4 friends, how many does each get?",
+      "image": "",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "correctAnswer": 2,
+      "explanation": "24 ÷ 4 = 6",
+      "topic": "Division",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imo-grade3-test3-q3",
+      "questionText": "What is 15 - 7?",
+      "image": "",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correctAnswer": 2,
+      "explanation": "15 - 7 = 8",
+      "topic": "Subtraction",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imo-grade3-test3-q4",
+      "questionText": "If 5 × 4 = 20, what is 20 ÷ 4?",
+      "image": "",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": 1,
+      "explanation": "20 ÷ 4 = 5",
+      "topic": "Division",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imo-grade3-test3-q5",
+      "questionText": "What is 20 - 8?",
+      "image": "",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "correctAnswer": 2,
+      "explanation": "20 - 8 = 12",
+      "topic": "Subtraction",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imo-grade3-test3-q6",
+      "questionText": "What is 8 × 4?",
+      "image": "",
+      "options": [
+        "28",
+        "32",
+        "36",
+        "40"
+      ],
+      "correctAnswer": 1,
+      "explanation": "8 × 4 = 32",
+      "topic": "Multiplication",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imo-grade3-test3-q7",
+      "questionText": "What is 14 + 9?",
+      "image": "",
+      "options": [
+        "22",
+        "23",
+        "24",
+        "25"
+      ],
+      "correctAnswer": 1,
+      "explanation": "14 + 9 = 23",
+      "topic": "Addition",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imo-grade3-test3-q8",
+      "questionText": "What is 1/4 of 20?",
+      "image": "",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctAnswer": 2,
+      "explanation": "One fourth of 20 is 5.",
+      "topic": "Fractions",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imo-grade3-test3-q9",
+      "questionText": "What is 40 - 17?",
+      "image": "",
+      "options": [
+        "21",
+        "22",
+        "23",
+        "24"
+      ],
+      "correctAnswer": 2,
+      "explanation": "40 - 17 = 23",
+      "topic": "Subtraction",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imo-grade3-test3-q10",
+      "questionText": "What is 2/3 of 9?",
+      "image": "",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Two thirds of 9 is 6.",
+      "topic": "Fractions",
+      "difficulty": "medium"
+    }
+  ]
+}

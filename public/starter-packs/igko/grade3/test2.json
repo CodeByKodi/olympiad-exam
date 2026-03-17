@@ -1,0 +1,157 @@
+{
+  "title": "IGKO Grade 3 Test 2",
+  "durationMinutes": 15,
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "igko-grade3-test2-q1",
+      "questionText": "Which is the largest country by area?",
+      "image": "",
+      "options": [
+        "China",
+        "India",
+        "Russia",
+        "USA"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Russia is the largest country.",
+      "topic": "Countries",
+      "difficulty": "medium"
+    },
+    {
+      "id": "igko-grade3-test2-q2",
+      "questionText": "What do we call a person who travels to space?",
+      "image": "",
+      "options": [
+        "Pilot",
+        "Astronaut",
+        "Sailor",
+        "Driver"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An astronaut travels to space.",
+      "topic": "Space basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-grade3-test2-q3",
+      "questionText": "Which is the smallest continent?",
+      "image": "",
+      "options": [
+        "Europe",
+        "Antarctica",
+        "Australia",
+        "South America"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Australia is the smallest continent.",
+      "topic": "Continents",
+      "difficulty": "medium"
+    },
+    {
+      "id": "igko-grade3-test2-q4",
+      "questionText": "What do we call the study of the Earth's surface?",
+      "image": "",
+      "options": [
+        "History",
+        "Geography",
+        "Science",
+        "Math"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Geography studies the Earth.",
+      "topic": "Current general awareness",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-grade3-test2-q5",
+      "questionText": "What do we call a drawing of the earth?",
+      "image": "",
+      "options": [
+        "Picture",
+        "Map",
+        "Photo",
+        "Painting"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A map shows the earth.",
+      "topic": "Maps and globes",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-grade3-test2-q6",
+      "questionText": "Which day is Independence Day in India?",
+      "image": "",
+      "options": [
+        "January 26",
+        "August 15",
+        "October 2",
+        "December 25"
+      ],
+      "correctAnswer": 1,
+      "explanation": "August 15 is Independence Day.",
+      "topic": "Important days",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-grade3-test2-q7",
+      "questionText": "What do we call a drawing that shows roads and places?",
+      "image": "",
+      "options": [
+        "Painting",
+        "Map",
+        "Photo",
+        "Drawing"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A map shows roads and places.",
+      "topic": "Maps and globes",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-grade3-test2-q8",
+      "questionText": "Which day is Gandhi Jayanti?",
+      "image": "",
+      "options": [
+        "August 15",
+        "January 26",
+        "October 2",
+        "December 25"
+      ],
+      "correctAnswer": 2,
+      "explanation": "October 2 is Gandhi Jayanti.",
+      "topic": "Important days",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-grade3-test2-q9",
+      "questionText": "What do we use to find directions?",
+      "image": "",
+      "options": [
+        "Watch",
+        "Compass",
+        "Ruler",
+        "Pen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A compass shows directions.",
+      "topic": "Direction basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-grade3-test2-q10",
+      "questionText": "Which day is Children's Day in India?",
+      "image": "",
+      "options": [
+        "August 15",
+        "November 14",
+        "October 2",
+        "January 26"
+      ],
+      "correctAnswer": 1,
+      "explanation": "November 14 is Children's Day.",
+      "topic": "Important days",
+      "difficulty": "easy"
+    }
+  ]
+}

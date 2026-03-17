@@ -1,0 +1,157 @@
+{
+  "title": "ICS Grade 3 Test 5",
+  "durationMinutes": 15,
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "ics-grade3-test5-q1",
+      "questionText": "Which key creates a new line in a document?",
+      "image": "",
+      "options": [
+        "Space",
+        "Enter",
+        "Tab",
+        "Shift"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Enter key creates a new line.",
+      "topic": "Keyboard and mouse",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-grade3-test5-q2",
+      "questionText": "What do we use the internet for?",
+      "image": "",
+      "options": [
+        "Only games",
+        "Only email",
+        "Searching, learning and communication",
+        "Nothing useful"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The internet helps us search and learn.",
+      "topic": "Internet basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-grade3-test5-q3",
+      "questionText": "Which part stores information when the computer is off?",
+      "image": "",
+      "options": [
+        "Monitor",
+        "RAM",
+        "Hard disk",
+        "Keyboard"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The hard disk stores files permanently.",
+      "topic": "Storage devices",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ics-grade3-test5-q4",
+      "questionText": "Which of these is a type of computer?",
+      "image": "",
+      "options": [
+        "Television",
+        "Laptop",
+        "Radio",
+        "Refrigerator"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A laptop is a portable computer.",
+      "topic": "Computer parts",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-grade3-test5-q5",
+      "questionText": "What do we call the brain of the computer?",
+      "image": "",
+      "options": [
+        "Monitor",
+        "Keyboard",
+        "CPU",
+        "Mouse"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The CPU is like the brain.",
+      "topic": "Computer parts",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-grade3-test5-q6",
+      "questionText": "Which device shows what we type?",
+      "image": "",
+      "options": [
+        "Keyboard",
+        "Monitor",
+        "CPU",
+        "Printer"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The monitor shows the display.",
+      "topic": "Input/output devices",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-grade3-test5-q7",
+      "questionText": "Why should we not share personal information online?",
+      "image": "",
+      "options": [
+        "It is boring",
+        "To stay safe",
+        "No one cares",
+        "It is fun"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sharing personal info can be unsafe.",
+      "topic": "Safety rules",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-grade3-test5-q8",
+      "questionText": "What do we call moving a file to another folder?",
+      "image": "",
+      "options": [
+        "Copy",
+        "Cut",
+        "Move",
+        "Delete"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Move puts a file in another folder.",
+      "topic": "Storage devices",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ics-grade3-test5-q9",
+      "questionText": "Which key opens a new document?",
+      "image": "",
+      "options": [
+        "Ctrl+N or Cmd+N",
+        "Ctrl+S",
+        "Ctrl+P",
+        "Ctrl+C"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ctrl+N opens a new document.",
+      "topic": "Keyboard and mouse",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ics-grade3-test5-q10",
+      "questionText": "What do we call a picture we can use in a document?",
+      "image": "",
+      "options": [
+        "Icon",
+        "Image",
+        "Folder",
+        "File"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Images are pictures.",
+      "topic": "Simple digital vocabulary",
+      "difficulty": "easy"
+    }
+  ]
+}

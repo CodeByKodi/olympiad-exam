@@ -1,0 +1,157 @@
+{
+  "title": "ISSO Grade 3 Test 4",
+  "durationMinutes": 15,
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "isso-grade3-test4-q1",
+      "questionText": "What do we use money for?",
+      "image": "",
+      "options": [
+        "Only saving",
+        "Buying things and services",
+        "Throwing away",
+        "Nothing"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Money buys goods and services.",
+      "topic": "Money and economy",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-grade3-test4-q2",
+      "questionText": "What is a need we must have to live?",
+      "image": "",
+      "options": [
+        "Video games",
+        "Food and water",
+        "Toys",
+        "Movies"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Food and water are needs.",
+      "topic": "Needs and wants",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-grade3-test4-q3",
+      "questionText": "What is the main work of farmers?",
+      "image": "",
+      "options": [
+        "Teaching",
+        "Growing crops",
+        "Building houses",
+        "Driving"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Farmers grow crops.",
+      "topic": "Occupations",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-grade3-test4-q4",
+      "questionText": "Which Indian festival is celebrated by throwing colored powder?",
+      "image": "",
+      "options": [
+        "Diwali",
+        "Holi",
+        "Eid",
+        "Christmas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Holi is celebrated with colors.",
+      "topic": "Festivals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-grade3-test4-q5",
+      "questionText": "What do we call water surrounded by land on all sides?",
+      "image": "",
+      "options": [
+        "River",
+        "Ocean",
+        "Lake",
+        "Sea"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A lake is water surrounded by land.",
+      "topic": "Landforms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-grade3-test4-q6",
+      "questionText": "What do we call a round model of our planet?",
+      "image": "",
+      "options": [
+        "Map",
+        "Globe",
+        "Chart",
+        "Picture"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A globe is a round model of Earth.",
+      "topic": "Maps",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-grade3-test4-q7",
+      "questionText": "What do we call a flat drawing of Earth's surface?",
+      "image": "",
+      "options": [
+        "Picture",
+        "Map",
+        "Photo",
+        "Painting"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A map shows the earth on paper.",
+      "topic": "Maps",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-grade3-test4-q8",
+      "questionText": "What causes the air to move as wind?",
+      "image": "",
+      "options": [
+        "Moon",
+        "Moving air",
+        "Sun",
+        "Stars"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Moving air causes wind.",
+      "topic": "Weather",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-grade3-test4-q9",
+      "questionText": "What do we call the study of space and stars?",
+      "image": "",
+      "options": [
+        "History",
+        "Geography",
+        "Astronomy",
+        "Biology"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Astronomy studies stars.",
+      "topic": "Space",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-grade3-test4-q10",
+      "questionText": "What causes the ocean tides to change?",
+      "image": "",
+      "options": [
+        "Sun",
+        "Moon's gravity",
+        "Wind",
+        "Rain"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Moon's gravity causes tides.",
+      "topic": "Earth and moon",
+      "difficulty": "medium"
+    }
+  ]
+}

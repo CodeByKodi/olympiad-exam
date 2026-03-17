@@ -1,0 +1,157 @@
+{
+  "title": "ISSO Grade 3 Test 1",
+  "durationMinutes": 15,
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "isso-grade3-test1-q1",
+      "questionText": "Who is known as the Father of the Nation in India?",
+      "image": "",
+      "options": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Bhagat Singh",
+        "Subhas Chandra Bose"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mahatma Gandhi is the Father of the Nation.",
+      "topic": "Indian leaders",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-grade3-test1-q2",
+      "questionText": "What is a map used for in social studies?",
+      "image": "",
+      "options": [
+        "Drawing pictures",
+        "Showing places and directions",
+        "Writing stories",
+        "Playing games"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Maps show places and directions.",
+      "topic": "Maps",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-grade3-test1-q3",
+      "questionText": "What do we call the rules that a country follows?",
+      "image": "",
+      "options": [
+        "Story",
+        "Constitution",
+        "Poem",
+        "Song"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Constitution has the rules.",
+      "topic": "Government",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-grade3-test1-q4",
+      "questionText": "What do we call the study of the past?",
+      "image": "",
+      "options": [
+        "Geography",
+        "Science",
+        "History",
+        "Math"
+      ],
+      "correctAnswer": 2,
+      "explanation": "History studies the past.",
+      "topic": "History",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-grade3-test1-q5",
+      "questionText": "Why does Earth have day and night?",
+      "image": "",
+      "options": [
+        "Moon blocks sun",
+        "Earth spins on its axis",
+        "Sun moves away",
+        "Stars hide"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Earth's rotation causes day and night.",
+      "topic": "Earth",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-grade3-test1-q6",
+      "questionText": "What makes the seasons change on Earth?",
+      "image": "",
+      "options": [
+        "Moon",
+        "Earth's tilt",
+        "Stars",
+        "Wind"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Earth's tilt causes seasons.",
+      "topic": "Seasons",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-grade3-test1-q7",
+      "questionText": "What do we call the Moon's path around Earth?",
+      "image": "",
+      "options": [
+        "Rotation",
+        "Orbit",
+        "Revolution",
+        "Spin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Moon orbits Earth.",
+      "topic": "Earth and moon",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-grade3-test1-q8",
+      "questionText": "What do we call a low area between hills?",
+      "image": "",
+      "options": [
+        "Mountain",
+        "Valley",
+        "Plain",
+        "Desert"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A valley is between hills.",
+      "topic": "Landforms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-grade3-test1-q9",
+      "questionText": "On which planet do humans live?",
+      "image": "",
+      "options": [
+        "Mars",
+        "Venus",
+        "Earth",
+        "Jupiter"
+      ],
+      "correctAnswer": 2,
+      "explanation": "We live on Earth.",
+      "topic": "Earth",
+      "difficulty": "easy"
+    },
+    {
+      "id": "isso-grade3-test1-q10",
+      "questionText": "What do we call Earth's natural satellite?",
+      "image": "",
+      "options": [
+        "Sun",
+        "Star",
+        "Moon",
+        "Planet"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Moon is Earth's satellite.",
+      "topic": "Earth and moon",
+      "difficulty": "easy"
+    }
+  ]
+}

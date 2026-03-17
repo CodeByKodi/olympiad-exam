@@ -1,0 +1,157 @@
+{
+  "title": "IGKO Grade 3 Test 1",
+  "durationMinutes": 15,
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "igko-grade3-test1-q1",
+      "questionText": "How many continents are there in the world?",
+      "image": "",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 2,
+      "explanation": "There are 7 continents.",
+      "topic": "Continents",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-grade3-test1-q2",
+      "questionText": "Which ocean is the largest?",
+      "image": "",
+      "options": [
+        "Atlantic",
+        "Indian",
+        "Pacific",
+        "Arctic"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Pacific is the largest ocean.",
+      "topic": "Oceans",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-grade3-test1-q3",
+      "questionText": "What is the national bird of India?",
+      "image": "",
+      "options": [
+        "Crow",
+        "Peacock",
+        "Parrot",
+        "Sparrow"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Peacock is the national bird.",
+      "topic": "Symbols and signs",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-grade3-test1-q4",
+      "questionText": "Which sport is the national game of India?",
+      "image": "",
+      "options": [
+        "Cricket",
+        "Hockey",
+        "Football",
+        "Tennis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Hockey is the national game.",
+      "topic": "Symbols and signs",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-grade3-test1-q5",
+      "questionText": "Which country has the Taj Mahal?",
+      "image": "",
+      "options": [
+        "China",
+        "India",
+        "Pakistan",
+        "Bangladesh"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Taj Mahal is in India.",
+      "topic": "Monuments",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-grade3-test1-q6",
+      "questionText": "What does a red traffic light mean?",
+      "image": "",
+      "options": [
+        "Go",
+        "Stop",
+        "Slow",
+        "Ready"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Red means stop.",
+      "topic": "Symbols and signs",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-grade3-test1-q7",
+      "questionText": "Which country has the Great Wall?",
+      "image": "",
+      "options": [
+        "India",
+        "Japan",
+        "China",
+        "Korea"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Great Wall is in China.",
+      "topic": "Monuments",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-grade3-test1-q8",
+      "questionText": "What does a green traffic light mean?",
+      "image": "",
+      "options": [
+        "Stop",
+        "Go",
+        "Slow",
+        "Wait"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Green means go.",
+      "topic": "Symbols and signs",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-grade3-test1-q9",
+      "questionText": "Which country has the Eiffel Tower?",
+      "image": "",
+      "options": [
+        "Italy",
+        "Germany",
+        "France",
+        "Spain"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Eiffel Tower is in France.",
+      "topic": "Monuments",
+      "difficulty": "easy"
+    },
+    {
+      "id": "igko-grade3-test1-q10",
+      "questionText": "What does a yellow traffic light mean?",
+      "image": "",
+      "options": [
+        "Go",
+        "Stop",
+        "Slow down or get ready",
+        "Speed up"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Yellow means slow down.",
+      "topic": "Symbols and signs",
+      "difficulty": "easy"
+    }
+  ]
+}
