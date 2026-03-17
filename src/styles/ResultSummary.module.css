@@ -1,20 +1,20 @@
 .container {
   text-align: center;
-  padding: var(--space-10);
+  padding: var(--space-6);
   background: var(--surface);
-  border-radius: var(--radius-xl);
+  border-radius: var(--radius-lg);
   border: 1px solid var(--border-color);
-  margin-bottom: var(--space-8);
+  margin-bottom: var(--space-6);
   box-shadow: var(--shadow-md);
 }
 
 .badge {
   display: inline-block;
-  padding: var(--space-2) var(--space-5);
+  padding: var(--space-1) var(--space-4);
   border-radius: 999px;
   font-weight: var(--font-bold);
-  font-size: var(--text-base);
-  margin-bottom: var(--space-5);
+  font-size: var(--text-sm);
+  margin-bottom: var(--space-4);
 }
 
 .badge.outstanding {
@@ -43,11 +43,11 @@
 }
 
 .score {
-  margin-bottom: var(--space-5);
+  margin-bottom: var(--space-4);
 }
 
 .percentage {
-  font-size: 3.5rem;
+  font-size: 2.75rem;
   font-weight: 800;
   color: var(--primary);
   line-height: 1;
@@ -56,7 +56,7 @@
 .stats {
   display: flex;
   justify-content: center;
-  gap: var(--space-8);
+  gap: var(--space-4);
   flex-wrap: wrap;
 }
 
@@ -64,8 +64,8 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: var(--space-4);
-  min-width: 80px;
+  padding: var(--space-3);
+  min-width: 70px;
 }
 
 .statValue {

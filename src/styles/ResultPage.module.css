@@ -1,12 +1,12 @@
 .page {
   max-width: 900px;
   margin: 0 auto;
-  padding: var(--space-8);
+  padding: var(--space-6);
 }
 
 .header {
   text-align: center;
-  margin-bottom: var(--space-8);
+  margin-bottom: var(--space-6);
 }
 
 .title {
@@ -25,8 +25,8 @@
 .actions {
   display: flex;
   flex-wrap: wrap;
-  gap: var(--space-3);
-  margin-bottom: var(--space-8);
+  gap: var(--space-2);
+  margin-bottom: var(--space-6);
   justify-content: center;
   align-items: center;
 }
@@ -92,12 +92,12 @@
 
 .error {
   text-align: center;
-  padding: var(--space-10);
+  padding: var(--space-6);
 }
 
 .backBtn {
   display: inline-block;
-  margin-top: var(--space-4);
+  margin-top: var(--space-3);
   padding: var(--space-3) var(--space-5);
   background: var(--primary);
   border: none;
