@@ -42,6 +42,26 @@
   color: var(--primary);
 }
 
+.userLabel {
+  font-size: var(--text-sm);
+  color: var(--text-secondary);
+  margin-right: var(--space-1);
+}
+
+.logoutBtn {
+  padding: var(--space-2) var(--space-3);
+  font-size: var(--text-sm);
+  color: var(--text-secondary);
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  border-radius: var(--radius-sm);
+}
+
+.logoutBtn:hover {
+  color: var(--primary);
+}
+
 .iconBtn,
 .darkModeBtn {
   padding: var(--space-2);

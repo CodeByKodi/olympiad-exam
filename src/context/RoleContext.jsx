@@ -1,41 +1,55 @@
 import { createContext, useState, useCallback, useEffect } from 'react';
-import * as roleService from '../services/roleService';
+import * as authService from '../services/authService';
 
 const RoleContext = createContext(null);
 
 export function RoleProvider({ children }) {
-  const [role, setRoleState] = useState(() => roleService.getRole());
+  const [user, setUser] = useState(() => authService.getCurrentUser());
 
-  const setAdmin = useCallback(() => {
-    roleService.setAdmin();
-    setRoleState('admin');
+  const login = useCallback((username, password) => {
+    const result = authService.login(username, password);
+    if (result.ok) {
+      setUser(result.user);
+      return result;
+    }
+    return result;
   }, []);
 
-  const clearAdmin = useCallback(() => {
-    roleService.clearAdmin();
-    setRoleState('user');
+  const loginWithUser = useCallback((userData) => {
+    setUser(userData);
+  }, []);
+
+  const logout = useCallback(() => {
+    authService.logout();
+    setUser(null);
   }, []);
 
   const refreshRole = useCallback(() => {
-    setRoleState(roleService.getRole());
+    setUser(authService.getCurrentUser());
   }, []);
 
   useEffect(() => {
     const handleStorage = (e) => {
-      if (e.key === 'olympiad_role') {
-        setRoleState(roleService.getRole());
+      if (e.key === 'olympiad_user') {
+        setUser(authService.getCurrentUser());
       }
     };
     window.addEventListener('storage', handleStorage);
     return () => window.removeEventListener('storage', handleStorage);
   }, []);
 
+  const role = user?.role || null;
   const value = {
+    user,
     role,
     isAdmin: role === 'admin',
-    setAdmin,
-    clearAdmin,
+    isTeacher: role === 'teacher',
+    hasLibraryAccess: authService.hasLibraryAccess(),
+    login,
+    loginWithUser,
+    logout,
     refreshRole,
+    isLoggedIn: !!user,
   };
 
   return (

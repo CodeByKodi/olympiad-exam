@@ -5,10 +5,14 @@ export function useRole() {
   const ctx = useContext(RoleContext);
   if (!ctx) {
     return {
-      role: 'user',
+      user: null,
+      role: null,
       isAdmin: false,
-      setAdmin: () => {},
-      clearAdmin: () => {},
+      isTeacher: false,
+      hasLibraryAccess: false,
+      isLoggedIn: false,
+      login: () => ({ ok: false }),
+      logout: () => {},
       refreshRole: () => {},
     };
   }

@@ -10,9 +10,10 @@ import { ExamPage } from './pages/ExamPage';
 import { ResultPage } from './pages/ResultPage';
 import { QuestionManagerPage } from './pages/QuestionManagerPage';
 import { QuestionLibraryPage } from './pages/QuestionLibraryPage';
-import { AdminUnlockPage } from './pages/AdminUnlockPage';
+import { LoginPage } from './pages/LoginPage';
 import { LoadingScreen } from './components/LoadingScreen';
 import { AdminRoute } from './components/AdminRoute';
+import { AuthRoute } from './components/AuthRoute';
 import { initStorage } from './utils/storageUtils';
 
 function App() {
@@ -33,16 +34,17 @@ function App() {
           <Routes>
             <Route path="/" element={<MainLayout />}>
               <Route index element={<LandingPage />} />
-              <Route path="exam/:examId" element={<GradePage />} />
-              <Route path="exam/:examId/grade/:gradeId" element={<TestSelectPage />} />
+              <Route path="exam/:examId" element={<AuthRoute><GradePage /></AuthRoute>} />
+              <Route path="exam/:examId/grade/:gradeId" element={<AuthRoute><TestSelectPage /></AuthRoute>} />
               <Route path="exam/:examId/grade/:gradeId/tests" element={<Navigate to=".." replace />} />
-              <Route path="exam/:examId/grade/:gradeId/test/:testId" element={<ExamPage />} />
-              <Route path="exam/:examId/grade/:gradeId/test/:testId/result" element={<ResultPage />} />
+              <Route path="exam/:examId/grade/:gradeId/test/:testId" element={<AuthRoute><ExamPage /></AuthRoute>} />
+              <Route path="exam/:examId/grade/:gradeId/test/:testId/result" element={<AuthRoute><ResultPage /></AuthRoute>} />
               <Route path="manage-questions" element={<AdminRoute><QuestionManagerPage /></AdminRoute>} />
               <Route path="question-library" element={<AdminRoute><QuestionLibraryPage /></AdminRoute>} />
               <Route path="library" element={<AdminRoute><QuestionLibraryPage /></AdminRoute>} />
             </Route>
-            <Route path="/admin-unlock" element={<AdminUnlockPage />} />
+            <Route path="/login" element={<LoginPage />} />
+            <Route path="/admin-unlock" element={<Navigate to="/login" replace />} />
           </Routes>
         </HashRouter>
       </QuestionLibraryProvider>
