@@ -1,0 +1,20 @@
+{
+  "packId": "nso-grade3-earth-and-universe-practice-01",
+  "exam": "nso",
+  "grade": 3,
+  "mode": "practice",
+  "title": "Earth and Universe Practice",
+  "topic": "Earth and Universe",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Earth and Universe"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

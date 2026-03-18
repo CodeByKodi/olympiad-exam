@@ -1,15 +1,15 @@
 {
-  "packId": "nso-grade1-plants-practice-01",
+  "packId": "nso-grade1-living-and-non-living-practice-01",
   "exam": "nso",
   "grade": 1,
   "mode": "practice",
-  "title": "Plants Practice Test",
-  "topic": "Plants",
+  "title": "Living and Non-living Things Practice",
+  "topic": "Living and Non-living Things",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "Plants"
+      "Living and Non-living Things"
     ],
     "difficultyMix": {
       "easy": 15,

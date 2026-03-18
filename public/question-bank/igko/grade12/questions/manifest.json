@@ -4,6 +4,11 @@
     "world.json",
     "countries.json",
     "monuments.json",
-    "environment.json"
+    "environment.json",
+    "sports.json",
+    "personalities.json",
+    "science.json",
+    "important-days.json",
+    "symbols.json"
   ]
 }

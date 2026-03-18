@@ -1,15 +1,15 @@
 {
-  "packId": "nso-grade8-chemistry-basics-practice-01",
+  "packId": "nso-grade8-our-environment-practice-01",
   "exam": "nso",
   "grade": 8,
   "mode": "practice",
-  "title": "Chemistry Basics Practice Test",
-  "topic": "Chemistry Basics",
+  "title": "Crop Production and Management Practice",
+  "topic": "Crop Production and Management",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "Chemistry Basics"
+      "Crop Production and Management"
     ],
     "difficultyMix": {
       "easy": 15,

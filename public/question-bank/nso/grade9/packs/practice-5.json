@@ -1,0 +1,20 @@
+{
+  "packId": "nso-grade9-human-body-practice-01",
+  "exam": "nso",
+  "grade": 9,
+  "mode": "practice",
+  "title": "Cell-The Fundamental Unit of Life Practice",
+  "topic": "Cell-The Fundamental Unit of Life",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Cell-The Fundamental Unit of Life"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

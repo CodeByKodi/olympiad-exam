@@ -1,0 +1,20 @@
+{
+  "packId": "nso-grade1-human-body-practice-01",
+  "exam": "nso",
+  "grade": 1,
+  "mode": "practice",
+  "title": "Human Beings and Their Needs Practice",
+  "topic": "Human Beings and Their Needs",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Human Beings and Their Needs"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

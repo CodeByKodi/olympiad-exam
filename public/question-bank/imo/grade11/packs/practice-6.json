@@ -1,15 +1,15 @@
 {
-  "packId": "imo-grade11-data-handling-practice-01",
+  "packId": "imo-grade11-trigonometry-practice-01",
   "exam": "imo",
   "grade": 11,
   "mode": "practice",
-  "title": "Statistics Practice",
-  "topic": "Statistics",
+  "title": "Trigonometry Practice",
+  "topic": "Trigonometry",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "Statistics"
+      "Trigonometry"
     ],
     "difficultyMix": {
       "easy": 15,

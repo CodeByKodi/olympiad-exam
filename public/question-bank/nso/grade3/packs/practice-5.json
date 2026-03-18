@@ -1,0 +1,20 @@
+{
+  "packId": "nso-grade3-human-body-practice-01",
+  "exam": "nso",
+  "grade": 3,
+  "mode": "practice",
+  "title": "Human Body Practice",
+  "topic": "Human Body",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Human Body"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

@@ -1,6 +1,6 @@
 [
   {
-    "id": "igko-g12-environment-0143",
+    "id": "igko-g12-environment-0001",
     "exam": "igko",
     "grade": "12",
     "topic": "Environment",
@@ -10,24 +10,25 @@
       "practice",
       "mock"
     ],
-    "questionText": "What do we call a drawing that shows roads and places?",
+    "questionText": "What do we call the natural world around us?",
     "image": "",
     "options": [
-      "Painting",
-      "Map",
-      "Photo",
-      "Drawing"
+      "City",
+      "Environment",
+      "Building",
+      "Road"
     ],
     "correctAnswer": 1,
-    "explanation": "A map shows roads and places.",
+    "explanation": "Environment is nature.",
     "tags": [
-      "geography",
-      "grade3"
+      "environment",
+      "igko",
+      "grade12"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "igko-g12-environment-0144",
+    "id": "igko-g12-environment-0002",
     "exam": "igko",
     "grade": "12",
     "topic": "Environment",
@@ -37,51 +38,53 @@
       "practice",
       "mock"
     ],
-    "questionText": "Which direction does the Sun set in?",
+    "questionText": "Which is a natural disaster?",
     "image": "",
     "options": [
-      "North",
-      "South",
-      "East",
-      "West"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The Sun sets in the West.",
-    "tags": [
-      "geography",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "igko-g12-environment-0145",
-    "exam": "igko",
-    "grade": "12",
-    "topic": "Environment",
-    "subtopic": "Environment Basics",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "What is the study of stars and space called?",
-    "image": "",
-    "options": [
-      "Biology",
-      "Astronomy",
-      "Geography",
-      "History"
+      "Party",
+      "Earthquake",
+      "Concert",
+      "Game"
     ],
     "correctAnswer": 1,
-    "explanation": "Astronomy studies stars and space.",
+    "explanation": "Earthquake is natural.",
     "tags": [
-      "space",
-      "grade3"
+      "environment",
+      "igko",
+      "grade12"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "igko-g12-environment-0146",
+    "id": "igko-g12-environment-0003",
+    "exam": "igko",
+    "grade": "12",
+    "topic": "Environment",
+    "subtopic": "Environment Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What helps clean the air?",
+    "image": "",
+    "options": [
+      "Cars",
+      "Trees",
+      "Factories",
+      "Smoke"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trees produce oxygen.",
+    "tags": [
+      "environment",
+      "igko",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g12-environment-0004",
     "exam": "igko",
     "grade": "12",
     "topic": "Environment",
@@ -91,51 +94,333 @@
       "practice",
       "mock"
     ],
-    "questionText": "What do we call the closest star to Earth?",
+    "questionText": "Which is a source of water?",
     "image": "",
     "options": [
-      "Moon",
+      "Desert",
+      "River",
+      "Mountain",
+      "Road"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Rivers are water sources.",
+    "tags": [
+      "environment",
+      "igko",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g12-environment-0005",
+    "exam": "igko",
+    "grade": "12",
+    "topic": "Environment",
+    "subtopic": "Environment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call rain, snow, and hail?",
+    "image": "",
+    "options": [
+      "Wind",
+      "Precipitation",
+      "Sunshine",
+      "Clouds"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Precipitation is rain/snow.",
+    "tags": [
+      "environment",
+      "igko",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g12-environment-0006",
+    "exam": "igko",
+    "grade": "12",
+    "topic": "Environment",
+    "subtopic": "Environment Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which gas do plants absorb?",
+    "image": "",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Plants use CO2 for food.",
+    "tags": [
+      "environment",
+      "igko",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g12-environment-0007",
+    "exam": "igko",
+    "grade": "12",
+    "topic": "Environment",
+    "subtopic": "Environment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is deforestation?",
+    "image": "",
+    "options": [
+      "Planting trees",
+      "Cutting trees",
+      "Watering plants",
+      "Saving forests"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Deforestation means cutting trees.",
+    "tags": [
+      "environment",
+      "igko",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g12-environment-0008",
+    "exam": "igko",
+    "grade": "12",
+    "topic": "Environment",
+    "subtopic": "Environment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a biodegradable material?",
+    "image": "",
+    "options": [
+      "Plastic",
+      "Paper",
+      "Glass",
+      "Metal"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Paper decomposes naturally.",
+    "tags": [
+      "environment",
+      "igko",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g12-environment-0009",
+    "exam": "igko",
+    "grade": "12",
+    "topic": "Environment",
+    "subtopic": "Environment Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the layer that protects us from sun rays?",
+    "image": "",
+    "options": [
+      "Cloud layer",
+      "Ozone layer",
+      "Dust layer",
+      "Water layer"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ozone protects from UV.",
+    "tags": [
+      "environment",
+      "igko",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g12-environment-0010",
+    "exam": "igko",
+    "grade": "12",
+    "topic": "Environment",
+    "subtopic": "Environment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which activity harms the environment?",
+    "image": "",
+    "options": [
+      "Recycling",
+      "Polluting",
+      "Planting",
+      "Conserving"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pollution harms the environment.",
+    "tags": [
+      "environment",
+      "igko",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g12-environment-0011",
+    "exam": "igko",
+    "grade": "12",
+    "topic": "Environment",
+    "subtopic": "Environment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a sudden shaking of the ground?",
+    "image": "",
+    "options": [
+      "Flood",
+      "Earthquake",
+      "Cyclone",
+      "Drought"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Earthquake shakes the ground.",
+    "tags": [
+      "environment",
+      "igko",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g12-environment-0012",
+    "exam": "igko",
+    "grade": "12",
+    "topic": "Environment",
+    "subtopic": "Environment Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which gas is most abundant in the air?",
+    "image": "",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Nitrogen is about 78% of air.",
+    "tags": [
+      "environment",
+      "igko",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g12-environment-0013",
+    "exam": "igko",
+    "grade": "12",
+    "topic": "Environment",
+    "subtopic": "Environment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the process of water turning to vapour?",
+    "image": "",
+    "options": [
+      "Condensation",
+      "Evaporation",
+      "Precipitation",
+      "Freezing"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Evaporation turns water to vapour.",
+    "tags": [
+      "environment",
+      "igko",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g12-environment-0014",
+    "exam": "igko",
+    "grade": "12",
+    "topic": "Environment",
+    "subtopic": "Environment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which helps in water cycle?",
+    "image": "",
+    "options": [
       "Sun",
-      "Mars",
-      "Venus"
+      "Moon",
+      "Stars",
+      "Clouds only"
     ],
-    "correctAnswer": 1,
-    "explanation": "The Sun is the closest star.",
+    "correctAnswer": 0,
+    "explanation": "Sun drives the water cycle.",
     "tags": [
-      "space",
-      "grade3"
+      "environment",
+      "igko",
+      "grade12"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "igko-g12-environment-0147",
+    "id": "igko-g12-environment-0015",
     "exam": "igko",
     "grade": "12",
     "topic": "Environment",
     "subtopic": "Environment Basics",
-    "difficulty": "easy",
+    "difficulty": "medium",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "Which festival is celebrated with fasting?",
+    "questionText": "What do we call the layer of soil?",
     "image": "",
     "options": [
-      "Diwali",
-      "Holi",
-      "Eid",
-      "Christmas"
+      "Crust",
+      "Mantle",
+      "Topsoil",
+      "Core"
     ],
     "correctAnswer": 2,
-    "explanation": "Eid is celebrated with fasting.",
+    "explanation": "Topsoil is the top layer.",
     "tags": [
-      "festivals",
-      "grade3"
+      "environment",
+      "igko",
+      "grade12"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "igko-g12-environment-0148",
+    "id": "igko-g12-environment-0016",
     "exam": "igko",
     "grade": "12",
     "topic": "Environment",
@@ -145,24 +430,25 @@
       "practice",
       "mock"
     ],
-    "questionText": "What do we call the path of the Moon around Earth?",
+    "questionText": "What do we call the study of weather?",
     "image": "",
     "options": [
-      "Rotation",
-      "Orbit",
-      "Revolution",
-      "Spin"
+      "Geography",
+      "Meteorology",
+      "Biology",
+      "Chemistry"
     ],
     "correctAnswer": 1,
-    "explanation": "The Moon orbits Earth.",
+    "explanation": "Meteorology studies weather.",
     "tags": [
-      "space",
-      "grade3"
+      "environment",
+      "igko",
+      "grade12"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "igko-g12-environment-0149",
+    "id": "igko-g12-environment-0017",
     "exam": "igko",
     "grade": "12",
     "topic": "Environment",
@@ -172,24 +458,221 @@
       "practice",
       "mock"
     ],
-    "questionText": "Which continent has the most people?",
+    "questionText": "Which helps prevent soil erosion?",
     "image": "",
     "options": [
-      "Africa",
-      "Europe",
-      "Asia",
-      "North America"
+      "Cutting trees",
+      "Planting trees",
+      "Overgrazing",
+      "Deforestation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trees hold soil.",
+    "tags": [
+      "environment",
+      "igko",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g12-environment-0018",
+    "exam": "igko",
+    "grade": "12",
+    "topic": "Environment",
+    "subtopic": "Environment Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the home of many species?",
+    "image": "",
+    "options": [
+      "Desert",
+      "Ecosystem",
+      "City",
+      "Road"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ecosystem supports life.",
+    "tags": [
+      "environment",
+      "igko",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g12-environment-0019",
+    "exam": "igko",
+    "grade": "12",
+    "topic": "Environment",
+    "subtopic": "Environment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a wetland?",
+    "image": "",
+    "options": [
+      "Desert",
+      "Marsh",
+      "Mountain",
+      "Valley"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Marshes are wetlands.",
+    "tags": [
+      "environment",
+      "igko",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g12-environment-0020",
+    "exam": "igko",
+    "grade": "12",
+    "topic": "Environment",
+    "subtopic": "Environment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the warming of oceans?",
+    "image": "",
+    "options": [
+      "Cooling",
+      "Ocean warming",
+      "Freezing",
+      "Evaporation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ocean warming affects climate.",
+    "tags": [
+      "environment",
+      "igko",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g12-environment-0021",
+    "exam": "igko",
+    "grade": "12",
+    "topic": "Environment",
+    "subtopic": "Environment Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which protects coastal areas?",
+    "image": "",
+    "options": [
+      "Mangroves",
+      "Desert",
+      "Mountain",
+      "Road"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mangroves protect coasts.",
+    "tags": [
+      "environment",
+      "igko",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g12-environment-0022",
+    "exam": "igko",
+    "grade": "12",
+    "topic": "Environment",
+    "subtopic": "Environment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the variety of ecosystems?",
+    "image": "",
+    "options": [
+      "Pollution",
+      "Ecological diversity",
+      "Erosion",
+      "Deforestation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ecological diversity is variety.",
+    "tags": [
+      "environment",
+      "igko",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g12-environment-0023",
+    "exam": "igko",
+    "grade": "12",
+    "topic": "Environment",
+    "subtopic": "Environment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a cause of climate change?",
+    "image": "",
+    "options": [
+      "Planting trees",
+      "Burning fossil fuels",
+      "Recycling",
+      "Saving water"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fossil fuels cause climate change.",
+    "tags": [
+      "environment",
+      "igko",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g12-environment-0024",
+    "exam": "igko",
+    "grade": "12",
+    "topic": "Environment",
+    "subtopic": "Environment Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the process of water falling as rain?",
+    "image": "",
+    "options": [
+      "Evaporation",
+      "Condensation",
+      "Precipitation",
+      "Transpiration"
     ],
     "correctAnswer": 2,
-    "explanation": "Asia has the most people.",
+    "explanation": "Precipitation is rain/snow.",
     "tags": [
-      "geography",
-      "grade3"
+      "environment",
+      "igko",
+      "grade12"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "igko-g12-environment-0150",
+    "id": "igko-g12-environment-0025",
     "exam": "igko",
     "grade": "12",
     "topic": "Environment",
@@ -199,20 +682,21 @@
       "practice",
       "mock"
     ],
-    "questionText": "Which ocean is the coldest?",
+    "questionText": "Which layer of Earth do we live on?",
     "image": "",
     "options": [
-      "Atlantic",
-      "Indian",
-      "Pacific",
-      "Arctic"
+      "Core",
+      "Mantle",
+      "Crust",
+      "Magma"
     ],
-    "correctAnswer": 3,
-    "explanation": "The Arctic Ocean is the coldest.",
+    "correctAnswer": 2,
+    "explanation": "We live on the crust.",
     "tags": [
-      "geography",
-      "grade3"
+      "environment",
+      "igko",
+      "grade12"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   }
 ]

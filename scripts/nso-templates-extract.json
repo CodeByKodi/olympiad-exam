@@ -1,0 +1,3577 @@
+{
+  "logical-reasoning": [
+    {
+      "q": "Dog is to puppy as cat is to ___?",
+      "opts": [
+        "Cub",
+        "Kitten",
+        "Calf",
+        "Chick"
+      ],
+      "c": 1,
+      "e": "A baby dog is a puppy, and a baby cat is a kitten."
+    },
+    {
+      "q": "Which one is different: Apple, Banana, Carrot, Orange?",
+      "opts": [
+        "Apple",
+        "Banana",
+        "Carrot",
+        "Orange"
+      ],
+      "c": 2,
+      "e": "Carrot is a vegetable. Apple, Banana, and Orange are fruits."
+    },
+    {
+      "q": "If A=1, B=2, C=3, what is the value of CAT?",
+      "opts": [
+        "24",
+        "24 (3+1+20)",
+        "6",
+        "3120"
+      ],
+      "c": 0,
+      "e": "C=3, A=1, T=20. 3+1+20=24."
+    },
+    {
+      "q": "Which letter comes exactly in the middle of the alphabet?",
+      "opts": [
+        "L",
+        "M",
+        "N",
+        "O"
+      ],
+      "c": 1,
+      "e": "M is the 13th letter. There are 26 letters, so M is in the middle."
+    },
+    {
+      "q": "In a queue of 5 children, Riya is 2nd from the front. What is her position from the back?",
+      "opts": [
+        "2nd",
+        "3rd",
+        "4th",
+        "5th"
+      ],
+      "c": 2,
+      "e": "In a queue of 5, 2nd from front means 4th from back."
+    },
+    {
+      "q": "Pen is to write as knife is to ___?",
+      "opts": [
+        "Eat",
+        "Cut",
+        "Draw",
+        "Read"
+      ],
+      "c": 1,
+      "e": "We use a pen to write and a knife to cut."
+    },
+    {
+      "q": "Which one is different: Square, Circle, Triangle, Rectangle?",
+      "opts": [
+        "Square",
+        "Circle",
+        "Triangle",
+        "Rectangle"
+      ],
+      "c": 1,
+      "e": "Circle has no corners. Square, Triangle, and Rectangle have corners."
+    },
+    {
+      "q": "How many days are in a week?",
+      "opts": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "c": 2,
+      "e": "There are 7 days in a week: Sunday to Saturday."
+    },
+    {
+      "q": "How many months are in a year?",
+      "opts": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "c": 2,
+      "e": "There are 12 months in a year."
+    },
+    {
+      "q": "You have a red shirt and a blue shirt. You have black pants and white pants. How many different outfits can you make?",
+      "opts": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "c": 2,
+      "e": "Red+Black, Red+White, Blue+Black, Blue+White = 4 outfits."
+    },
+    {
+      "q": "What comes next: 2, 4, 6, 8, ___?",
+      "opts": [
+        "9",
+        "10",
+        "12",
+        "14"
+      ],
+      "c": 1,
+      "e": "The pattern adds 2 each time. 8 + 2 = 10."
+    },
+    {
+      "q": "Which one is different: Dog, Cat, Cow, Lion?",
+      "opts": [
+        "Dog",
+        "Cat",
+        "Cow",
+        "Lion"
+      ],
+      "c": 3,
+      "e": "Lion is a wild animal. Dog, Cat, and Cow are domestic animals."
+    },
+    {
+      "q": "If A=1, B=2, C=3, what is the value of BAD?",
+      "opts": [
+        "1+1+4",
+        "7",
+        "8",
+        "6"
+      ],
+      "c": 2,
+      "e": "B=2, A=1, D=4. 2+1+4=7."
+    },
+    {
+      "q": "Which letter comes after G in the alphabet?",
+      "opts": [
+        "F",
+        "H",
+        "I",
+        "J"
+      ],
+      "c": 1,
+      "e": "The alphabet order is ... F, G, H, I, J ..."
+    },
+    {
+      "q": "In a line of 7 children, Sita is 3rd from the front. What is her position from the back?",
+      "opts": [
+        "3rd",
+        "4th",
+        "5th",
+        "6th"
+      ],
+      "c": 2,
+      "e": "In a line of 7, 3rd from front = 5th from back."
+    },
+    {
+      "q": "Bird is to fly as fish is to ___?",
+      "opts": [
+        "Walk",
+        "Swim",
+        "Run",
+        "Jump"
+      ],
+      "c": 1,
+      "e": "Birds fly and fish swim."
+    },
+    {
+      "q": "What comes next: 5, 10, 15, 20, ___?",
+      "opts": [
+        "22",
+        "24",
+        "25",
+        "30"
+      ],
+      "c": 2,
+      "e": "The pattern adds 5 each time. 20 + 5 = 25."
+    },
+    {
+      "q": "How many days are in February in a leap year?",
+      "opts": [
+        "27",
+        "28",
+        "29",
+        "30"
+      ],
+      "c": 2,
+      "e": "February has 29 days in a leap year."
+    },
+    {
+      "q": "A triangle has how many sides?",
+      "opts": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "c": 1,
+      "e": "A triangle has 3 sides."
+    },
+    {
+      "q": "You can choose juice or milk. You can choose bread or rice. How many different meals can you make?",
+      "opts": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "c": 2,
+      "e": "Juice+Bread, Juice+Rice, Milk+Bread, Milk+Rice = 4 meals."
+    },
+    {
+      "q": "Book is to read as song is to ___?",
+      "opts": [
+        "Write",
+        "Sing",
+        "Draw",
+        "Count"
+      ],
+      "c": 1,
+      "e": "We read books and sing songs."
+    },
+    {
+      "q": "What comes next: 1, 3, 5, 7, ___?",
+      "opts": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "c": 1,
+      "e": "The pattern adds 2 each time. 7 + 2 = 9."
+    },
+    {
+      "q": "A square has how many corners (vertices)?",
+      "opts": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "c": 2,
+      "e": "A square has 4 corners."
+    },
+    {
+      "q": "Which letter comes before D in the alphabet?",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "c": 2,
+      "e": "The alphabet order is ... A, B, C, D, E ..."
+    },
+    {
+      "q": "Which one is different: Red, Blue, Green, Apple?",
+      "opts": [
+        "Red",
+        "Blue",
+        "Green",
+        "Apple"
+      ],
+      "c": 3,
+      "e": "Apple is a fruit. Red, Blue, and Green are colours."
+    }
+  ],
+  "plants": [
+    {
+      "q": "Which part of a plant grows underground?",
+      "opts": ["Leaf", "Flower", "Root", "Stem"],
+      "c": 2,
+      "e": "Roots grow under the soil."
+    },
+    {
+      "q": "What do plants need to make food?",
+      "opts": ["Water only", "Sunlight only", "Sunlight and water", "Soil only"],
+      "c": 2,
+      "e": "Plants need sunlight and water."
+    },
+    {
+      "q": "What do bees collect from flowers?",
+      "opts": ["Water", "Nectar", "Leaves", "Seeds"],
+      "c": 1,
+      "e": "Bees collect nectar."
+    },
+    {
+      "q": "Which plant do we get rice from?",
+      "opts": ["Wheat plant", "Rice plant", "Corn plant", "Barley plant"],
+      "c": 1,
+      "e": "Rice comes from rice plants."
+    },
+    {
+      "q": "What do plants need from the soil?",
+      "opts": ["Light", "Water and nutrients", "Wind", "Sound"],
+      "c": 1,
+      "e": "Plants get nutrients from soil."
+    },
+    {
+      "q": "What part of a plant is usually green?",
+      "opts": ["Root", "Leaf", "Flower", "Seed"],
+      "c": 1,
+      "e": "Leaves are usually green."
+    },
+    {
+      "q": "Which part of a plant carries water to the leaves?",
+      "opts": ["Root", "Stem", "Flower", "Leaf"],
+      "c": 1,
+      "e": "The stem carries water to the leaves."
+    },
+    {
+      "q": "What do plants give out that we breathe?",
+      "opts": ["Carbon dioxide", "Oxygen", "Nitrogen", "Smoke"],
+      "c": 1,
+      "e": "Plants give out oxygen."
+    },
+    {
+      "q": "Which part of a plant becomes a fruit?",
+      "opts": ["Root", "Stem", "Flower", "Leaf"],
+      "c": 2,
+      "e": "The flower becomes a fruit."
+    },
+    {
+      "q": "What gas do plants take in for photosynthesis?",
+      "opts": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+      "c": 1,
+      "e": "Plants take in carbon dioxide."
+    },
+    {
+      "q": "Which of these is a vegetable?",
+      "opts": ["Apple", "Carrot", "Mango", "Banana"],
+      "c": 1,
+      "e": "Carrot is a vegetable."
+    },
+    {
+      "q": "Which of these is a fruit?",
+      "opts": ["Potato", "Tomato", "Onion", "Carrot"],
+      "c": 1,
+      "e": "Tomato is a fruit."
+    },
+    {
+      "q": "Where do plants get their green colour from?",
+      "opts": ["Flowers", "Chlorophyll", "Roots", "Seeds"],
+      "c": 1,
+      "e": "Chlorophyll gives plants their green colour."
+    },
+    {
+      "q": "What do we call the process by which plants make food?",
+      "opts": ["Respiration", "Photosynthesis", "Digestion", "Evaporation"],
+      "c": 1,
+      "e": "Plants make food by photosynthesis."
+    },
+    {
+      "q": "Which part of a plant absorbs water from soil?",
+      "opts": ["Leaf", "Flower", "Root", "Stem"],
+      "c": 2,
+      "e": "Roots absorb water from soil."
+    },
+    {
+      "q": "Which plant do we get wheat from?",
+      "opts": ["Rice plant", "Wheat plant", "Corn plant", "Barley plant"],
+      "c": 1,
+      "e": "Wheat comes from wheat plants."
+    },
+    {
+      "q": "Do plants need sunlight to grow?",
+      "opts": ["No", "Yes", "Only at night", "Only in winter"],
+      "c": 1,
+      "e": "Plants need sunlight to grow."
+    },
+    {
+      "q": "Which part of a plant holds the seeds?",
+      "opts": ["Root", "Stem", "Leaf", "Fruit"],
+      "c": 3,
+      "e": "The fruit holds the seeds."
+    },
+    {
+      "q": "What do we call a young plant?",
+      "opts": ["Leaf", "Seedling", "Root", "Flower"],
+      "c": 1,
+      "e": "A young plant is called a seedling."
+    },
+    {
+      "q": "Which of these grows from a seed?",
+      "opts": ["Stone", "Plant", "Plastic", "Metal"],
+      "c": 1,
+      "e": "Plants grow from seeds."
+    },
+    {
+      "q": "What do plants need besides sunlight and water?",
+      "opts": ["Sand", "Air and nutrients", "Rocks", "Plastic"],
+      "c": 1,
+      "e": "Plants need air and nutrients from soil."
+    },
+    {
+      "q": "Which plant part is used to make paper?",
+      "opts": ["Root", "Flower", "Stem and leaves", "Seed"],
+      "c": 2,
+      "e": "Paper is made from plant stems and leaves."
+    },
+    {
+      "q": "What do we call plants that live for one year?",
+      "opts": ["Trees", "Annuals", "Shrubs", "Perennials"],
+      "c": 1,
+      "e": "Plants that live one year are annuals."
+    },
+    {
+      "q": "Which of these is a flowering plant?",
+      "opts": ["Fern", "Moss", "Rose", "Pine"],
+      "c": 2,
+      "e": "Rose is a flowering plant."
+    },
+    {
+      "q": "What do plants release at night?",
+      "opts": ["Oxygen only", "Carbon dioxide", "Nitrogen", "Water vapour only"],
+      "c": 1,
+      "e": "Plants release carbon dioxide at night."
+    }
+  ],
+  "plants-and-animals": [
+    {
+      "q": "Which part of a plant grows underground?",
+      "opts": [
+        "Leaf",
+        "Flower",
+        "Root",
+        "Stem"
+      ],
+      "c": 2,
+      "e": "Roots grow under the soil."
+    },
+    {
+      "q": "What do plants need to make food?",
+      "opts": [
+        "Water only",
+        "Sunlight only",
+        "Sunlight and water",
+        "Soil only"
+      ],
+      "c": 2,
+      "e": "Plants need sunlight and water."
+    },
+    {
+      "q": "Which animal gives us milk?",
+      "opts": [
+        "Lion",
+        "Cow",
+        "Tiger",
+        "Deer"
+      ],
+      "c": 1,
+      "e": "Cows give us milk."
+    },
+    {
+      "q": "What do we call the home of a bird?",
+      "opts": [
+        "Den",
+        "Nest",
+        "Hive",
+        "Burrow"
+      ],
+      "c": 1,
+      "e": "Birds live in nests."
+    },
+    {
+      "q": "Which animal has a long trunk?",
+      "opts": [
+        "Lion",
+        "Elephant",
+        "Bear",
+        "Monkey"
+      ],
+      "c": 1,
+      "e": "Elephants have trunks."
+    },
+    {
+      "q": "Which animal barks?",
+      "opts": [
+        "Cat",
+        "Dog",
+        "Cow",
+        "Goat"
+      ],
+      "c": 1,
+      "e": "Dogs bark."
+    },
+    {
+      "q": "What do we call a baby horse?",
+      "opts": [
+        "Cub",
+        "Puppy",
+        "Foal",
+        "Calf"
+      ],
+      "c": 2,
+      "e": "A baby horse is a foal."
+    },
+    {
+      "q": "Which animal can fly?",
+      "opts": [
+        "Fish",
+        "Bird",
+        "Snake",
+        "Rabbit"
+      ],
+      "c": 1,
+      "e": "Birds can fly."
+    },
+    {
+      "q": "What do bees collect from flowers?",
+      "opts": [
+        "Water",
+        "Nectar",
+        "Leaves",
+        "Seeds"
+      ],
+      "c": 1,
+      "e": "Bees collect nectar."
+    },
+    {
+      "q": "Which plant do we get rice from?",
+      "opts": [
+        "Wheat plant",
+        "Rice plant",
+        "Corn plant",
+        "Barley plant"
+      ],
+      "c": 1,
+      "e": "Rice comes from rice plants."
+    },
+    {
+      "q": "What do we call a baby dog?",
+      "opts": [
+        "Kitten",
+        "Puppy",
+        "Calf",
+        "Cub"
+      ],
+      "c": 1,
+      "e": "A baby dog is a puppy."
+    },
+    {
+      "q": "Which animal has a shell?",
+      "opts": [
+        "Fish",
+        "Tortoise",
+        "Lion",
+        "Eagle"
+      ],
+      "c": 1,
+      "e": "Tortoise has a shell."
+    },
+    {
+      "q": "What do caterpillars turn into?",
+      "opts": [
+        "Birds",
+        "Butterflies",
+        "Fish",
+        "Frogs"
+      ],
+      "c": 1,
+      "e": "Caterpillars become butterflies."
+    },
+    {
+      "q": "Which animal lives in water?",
+      "opts": [
+        "Cat",
+        "Dog",
+        "Fish",
+        "Rabbit"
+      ],
+      "c": 2,
+      "e": "Fish live in water."
+    },
+    {
+      "q": "What do plants need from the soil?",
+      "opts": [
+        "Light",
+        "Water and nutrients",
+        "Wind",
+        "Sound"
+      ],
+      "c": 1,
+      "e": "Plants get nutrients from soil."
+    },
+    {
+      "q": "Which bird cannot fly?",
+      "opts": [
+        "Sparrow",
+        "Penguin",
+        "Eagle",
+        "Crow"
+      ],
+      "c": 1,
+      "e": "Penguins cannot fly."
+    },
+    {
+      "q": "What do we call a group of fish?",
+      "opts": [
+        "Herd",
+        "School",
+        "Flock",
+        "Pack"
+      ],
+      "c": 1,
+      "e": "A group of fish is a school."
+    },
+    {
+      "q": "Which animal has stripes?",
+      "opts": [
+        "Cow",
+        "Tiger",
+        "Dog",
+        "Cat"
+      ],
+      "c": 1,
+      "e": "Tigers have stripes."
+    },
+    {
+      "q": "What part of a plant is usually green?",
+      "opts": [
+        "Root",
+        "Leaf",
+        "Flower",
+        "Seed"
+      ],
+      "c": 1,
+      "e": "Leaves are usually green."
+    },
+    {
+      "q": "Which animal hibernates in winter?",
+      "opts": [
+        "Lion",
+        "Bear",
+        "Monkey",
+        "Deer"
+      ],
+      "c": 1,
+      "e": "Bears hibernate."
+    },
+    {
+      "q": "What do frogs eat?",
+      "opts": [
+        "Grass",
+        "Insects",
+        "Leaves",
+        "Fruits"
+      ],
+      "c": 1,
+      "e": "Frogs eat insects."
+    },
+    {
+      "q": "Which animal has a hump?",
+      "opts": [
+        "Horse",
+        "Camel",
+        "Elephant",
+        "Lion"
+      ],
+      "c": 1,
+      "e": "Camels have humps."
+    },
+    {
+      "q": "What do we get from hens?",
+      "opts": [
+        "Milk",
+        "Eggs",
+        "Wool",
+        "Honey"
+      ],
+      "c": 1,
+      "e": "Hens lay eggs."
+    },
+    {
+      "q": "Which insect makes honey?",
+      "opts": [
+        "Ant",
+        "Bee",
+        "Fly",
+        "Mosquito"
+      ],
+      "c": 1,
+      "e": "Bees make honey."
+    },
+    {
+      "q": "What do we call a baby cat?",
+      "opts": [
+        "Puppy",
+        "Kitten",
+        "Calf",
+        "Cub"
+      ],
+      "c": 1,
+      "e": "A baby cat is a kitten."
+    }
+  ],
+  "animals": [
+    {
+      "q": "Which animal gives us milk?",
+      "opts": [
+        "Lion",
+        "Cow",
+        "Tiger",
+        "Deer"
+      ],
+      "c": 1,
+      "e": "Cows give us milk."
+    },
+    {
+      "q": "What do we call the home of a bird?",
+      "opts": [
+        "Den",
+        "Nest",
+        "Hive",
+        "Burrow"
+      ],
+      "c": 1,
+      "e": "Birds live in nests."
+    },
+    {
+      "q": "Which animal has a long trunk?",
+      "opts": [
+        "Lion",
+        "Elephant",
+        "Bear",
+        "Monkey"
+      ],
+      "c": 1,
+      "e": "Elephants have trunks."
+    },
+    {
+      "q": "Which animal barks?",
+      "opts": [
+        "Cat",
+        "Dog",
+        "Cow",
+        "Goat"
+      ],
+      "c": 1,
+      "e": "Dogs bark."
+    },
+    {
+      "q": "Which animal can fly?",
+      "opts": [
+        "Fish",
+        "Bird",
+        "Snake",
+        "Rabbit"
+      ],
+      "c": 1,
+      "e": "Birds can fly."
+    },
+    {
+      "q": "Which animal has a shell?",
+      "opts": [
+        "Fish",
+        "Tortoise",
+        "Lion",
+        "Eagle"
+      ],
+      "c": 1,
+      "e": "Tortoise has a shell."
+    },
+    {
+      "q": "Which animal lives in water?",
+      "opts": [
+        "Cat",
+        "Dog",
+        "Fish",
+        "Rabbit"
+      ],
+      "c": 2,
+      "e": "Fish live in water."
+    },
+    {
+      "q": "Which bird cannot fly?",
+      "opts": [
+        "Sparrow",
+        "Penguin",
+        "Eagle",
+        "Crow"
+      ],
+      "c": 1,
+      "e": "Penguins cannot fly."
+    },
+    {
+      "q": "What do we call a group of fish?",
+      "opts": [
+        "Herd",
+        "School",
+        "Flock",
+        "Pack"
+      ],
+      "c": 1,
+      "e": "A group of fish is a school."
+    },
+    {
+      "q": "Which animal has stripes?",
+      "opts": [
+        "Cow",
+        "Tiger",
+        "Dog",
+        "Cat"
+      ],
+      "c": 1,
+      "e": "Tigers have stripes."
+    },
+    {
+      "q": "Which animal hibernates in winter?",
+      "opts": [
+        "Lion",
+        "Bear",
+        "Monkey",
+        "Deer"
+      ],
+      "c": 1,
+      "e": "Bears hibernate."
+    },
+    {
+      "q": "Which animal has a hump?",
+      "opts": [
+        "Horse",
+        "Camel",
+        "Elephant",
+        "Lion"
+      ],
+      "c": 1,
+      "e": "Camels have humps."
+    },
+    {
+      "q": "Which animal gives us milk?",
+      "opts": [
+        "Lion",
+        "Cow",
+        "Tiger",
+        "Deer"
+      ],
+      "c": 1,
+      "e": "Cows give us milk."
+    },
+    {
+      "q": "What do we call the home of a bird?",
+      "opts": [
+        "Den",
+        "Nest",
+        "Hive",
+        "Burrow"
+      ],
+      "c": 1,
+      "e": "Birds live in nests."
+    },
+    {
+      "q": "Which animal has a long trunk?",
+      "opts": [
+        "Lion",
+        "Elephant",
+        "Bear",
+        "Monkey"
+      ],
+      "c": 1,
+      "e": "Elephants have trunks."
+    },
+    {
+      "q": "Which animal barks?",
+      "opts": [
+        "Cat",
+        "Dog",
+        "Cow",
+        "Goat"
+      ],
+      "c": 1,
+      "e": "Dogs bark."
+    },
+    {
+      "q": "Which animal can fly?",
+      "opts": [
+        "Fish",
+        "Bird",
+        "Snake",
+        "Rabbit"
+      ],
+      "c": 1,
+      "e": "Birds can fly."
+    },
+    {
+      "q": "Which animal has a shell?",
+      "opts": [
+        "Fish",
+        "Tortoise",
+        "Lion",
+        "Eagle"
+      ],
+      "c": 1,
+      "e": "Tortoise has a shell."
+    },
+    {
+      "q": "Which animal lives in water?",
+      "opts": [
+        "Cat",
+        "Dog",
+        "Fish",
+        "Rabbit"
+      ],
+      "c": 2,
+      "e": "Fish live in water."
+    },
+    {
+      "q": "Which bird cannot fly?",
+      "opts": [
+        "Sparrow",
+        "Penguin",
+        "Eagle",
+        "Crow"
+      ],
+      "c": 1,
+      "e": "Penguins cannot fly."
+    },
+    {
+      "q": "What do we call a group of fish?",
+      "opts": [
+        "Herd",
+        "School",
+        "Flock",
+        "Pack"
+      ],
+      "c": 1,
+      "e": "A group of fish is a school."
+    },
+    {
+      "q": "Which animal has stripes?",
+      "opts": [
+        "Cow",
+        "Tiger",
+        "Dog",
+        "Cat"
+      ],
+      "c": 1,
+      "e": "Tigers have stripes."
+    },
+    {
+      "q": "Which animal hibernates in winter?",
+      "opts": [
+        "Lion",
+        "Bear",
+        "Monkey",
+        "Deer"
+      ],
+      "c": 1,
+      "e": "Bears hibernate."
+    },
+    {
+      "q": "Which animal has a hump?",
+      "opts": [
+        "Horse",
+        "Camel",
+        "Elephant",
+        "Lion"
+      ],
+      "c": 1,
+      "e": "Camels have humps."
+    },
+    {
+      "q": "Which animal has a long neck?",
+      "opts": [
+        "Elephant",
+        "Giraffe",
+        "Lion",
+        "Bear"
+      ],
+      "c": 1,
+      "e": "Giraffes have long necks."
+    },
+    {
+      "q": "Which animal hops?",
+      "opts": [
+        "Dog",
+        "Cat",
+        "Rabbit",
+        "Cow"
+      ],
+      "c": 2,
+      "e": "Rabbits hop."
+    },
+    {
+      "q": "Which animal has black and white stripes?",
+      "opts": [
+        "Tiger",
+        "Zebra",
+        "Cow",
+        "Horse"
+      ],
+      "c": 1,
+      "e": "Zebras have black and white stripes."
+    },
+    {
+      "q": "Which animal is known as man's best friend?",
+      "opts": [
+        "Cat",
+        "Dog",
+        "Bird",
+        "Fish"
+      ],
+      "c": 1,
+      "e": "Dogs are called man's best friend."
+    },
+    {
+      "q": "Which animal has a pouch?",
+      "opts": [
+        "Bear",
+        "Kangaroo",
+        "Lion",
+        "Monkey"
+      ],
+      "c": 1,
+      "e": "Kangaroos have pouches."
+    },
+    {
+      "q": "Which animal slithers?",
+      "opts": [
+        "Fish",
+        "Snake",
+        "Bird",
+        "Rabbit"
+      ],
+      "c": 1,
+      "e": "Snakes slither."
+    },
+    {
+      "q": "Which animal has eight legs?",
+      "opts": [
+        "Ant",
+        "Spider",
+        "Bee",
+        "Butterfly"
+      ],
+      "c": 1,
+      "e": "Spiders have eight legs."
+    },
+    {
+      "q": "Which animal is the king of the jungle?",
+      "opts": [
+        "Elephant",
+        "Lion",
+        "Tiger",
+        "Bear"
+      ],
+      "c": 1,
+      "e": "The lion is called the king of the jungle."
+    },
+    {
+      "q": "Which animal has a curly tail?",
+      "opts": [
+        "Dog",
+        "Pig",
+        "Cat",
+        "Cow"
+      ],
+      "c": 1,
+      "e": "Pigs have curly tails."
+    }
+  ],
+  "living-and-non-living": [
+    {
+      "q": "Which of these is a living thing?",
+      "opts": [
+        "Stone",
+        "Tree",
+        "Chair",
+        "Book"
+      ],
+      "c": 1,
+      "e": "Trees are living - they grow and need food."
+    },
+    {
+      "q": "Which of these is non-living?",
+      "opts": [
+        "Dog",
+        "Plant",
+        "Rock",
+        "Bird"
+      ],
+      "c": 2,
+      "e": "Rocks are non-living - they do not grow."
+    },
+    {
+      "q": "Do living things need food?",
+      "opts": [
+        "No",
+        "Yes",
+        "Sometimes",
+        "Never"
+      ],
+      "c": 1,
+      "e": "Living things need food to grow and stay alive."
+    },
+    {
+      "q": "Which can grow?",
+      "opts": [
+        "Table",
+        "Car",
+        "Flower",
+        "Spoon"
+      ],
+      "c": 2,
+      "e": "Flowers are living and can grow."
+    },
+    {
+      "q": "Which does NOT need water?",
+      "opts": [
+        "Plant",
+        "Animal",
+        "Stone",
+        "Human"
+      ],
+      "c": 2,
+      "e": "Stones are non-living and do not need water."
+    },
+    {
+      "q": "Living things can ___.",
+      "opts": [
+        "Grow",
+        "Stay the same forever",
+        "Never change",
+        "Be made of plastic"
+      ],
+      "c": 0,
+      "e": "Living things grow and change."
+    },
+    {
+      "q": "Which is living?",
+      "opts": [
+        "Toy",
+        "Cat",
+        "Ball",
+        "Pen"
+      ],
+      "c": 1,
+      "e": "Cats are living animals."
+    },
+    {
+      "q": "Which is non-living?",
+      "opts": [
+        "Fish",
+        "Butterfly",
+        "Pencil",
+        "Frog"
+      ],
+      "c": 2,
+      "e": "A pencil is a non-living object."
+    },
+    {
+      "q": "Do plants breathe?",
+      "opts": [
+        "No",
+        "Yes",
+        "Only at night",
+        "Never"
+      ],
+      "c": 1,
+      "e": "Plants take in air through their leaves."
+    },
+    {
+      "q": "Which needs air to live?",
+      "opts": [
+        "Stone",
+        "Human",
+        "Plastic",
+        "Metal"
+      ],
+      "c": 1,
+      "e": "Humans need air to breathe."
+    },
+    {
+      "q": "Can a non-living thing reproduce?",
+      "opts": [
+        "Yes",
+        "No",
+        "Sometimes",
+        "Only plants"
+      ],
+      "c": 1,
+      "e": "Non-living things cannot reproduce."
+    },
+    {
+      "q": "Which moves on its own?",
+      "opts": [
+        "Chair",
+        "Car",
+        "Dog",
+        "Table"
+      ],
+      "c": 2,
+      "e": "Dogs are living and can move on their own."
+    },
+    {
+      "q": "What do living things need?",
+      "opts": [
+        "Nothing",
+        "Food, water, air",
+        "Only sunlight",
+        "Only soil"
+      ],
+      "c": 1,
+      "e": "Living things need food, water, and air."
+    },
+    {
+      "q": "Is a seed living?",
+      "opts": [
+        "No",
+        "Yes",
+        "Only when wet",
+        "Never"
+      ],
+      "c": 1,
+      "e": "Seeds are living - they can grow into plants."
+    },
+    {
+      "q": "Which is made by nature and is living?",
+      "opts": [
+        "Plastic",
+        "Tree",
+        "Glass",
+        "Paper"
+      ],
+      "c": 1,
+      "e": "Trees are natural and living."
+    },
+    {
+      "q": "Do non-living things grow?",
+      "opts": [
+        "Yes, always",
+        "No",
+        "Only rocks",
+        "Only when wet"
+      ],
+      "c": 1,
+      "e": "Non-living things do not grow."
+    },
+    {
+      "q": "Which responds to touch?",
+      "opts": [
+        "Stone",
+        "Plant",
+        "Plastic",
+        "Wood"
+      ],
+      "c": 1,
+      "e": "Plants can respond to touch (e.g. touch-me-not)."
+    },
+    {
+      "q": "Living things ___.",
+      "opts": [
+        "Never change",
+        "Grow and reproduce",
+        "Stay small",
+        "Do not need food"
+      ],
+      "c": 1,
+      "e": "Living things grow and can reproduce."
+    },
+    {
+      "q": "Which of these is NOT living?",
+      "opts": [
+        "Ant",
+        "Spider",
+        "Key",
+        "Bee"
+      ],
+      "c": 2,
+      "e": "A key is a non-living object."
+    },
+    {
+      "q": "Can we make living things in a factory?",
+      "opts": [
+        "Yes",
+        "No",
+        "Only plants",
+        "Only animals"
+      ],
+      "c": 1,
+      "e": "Living things come from other living things."
+    },
+    {
+      "q": "Which needs sunlight?",
+      "opts": [
+        "Stone",
+        "Plant",
+        "Shoe",
+        "Book"
+      ],
+      "c": 1,
+      "e": "Plants need sunlight to make food."
+    },
+    {
+      "q": "Do animals need food?",
+      "opts": [
+        "No",
+        "Yes",
+        "Only sometimes",
+        "Never"
+      ],
+      "c": 1,
+      "e": "Animals need food for energy."
+    },
+    {
+      "q": "Which reproduces?",
+      "opts": [
+        "Chair",
+        "Plant",
+        "Toy",
+        "Car"
+      ],
+      "c": 1,
+      "e": "Plants can reproduce (seeds, etc.)."
+    },
+    {
+      "q": "Is water living?",
+      "opts": [
+        "Yes",
+        "No",
+        "Sometimes",
+        "Only in rivers"
+      ],
+      "c": 1,
+      "e": "Water is non-living - it does not grow."
+    },
+    {
+      "q": "Which excretes waste?",
+      "opts": [
+        "Stone",
+        "Human",
+        "Plastic",
+        "Metal"
+      ],
+      "c": 1,
+      "e": "Living things like humans excrete waste."
+    }
+  ],
+  "human-body": [
+    {
+      "q": "How many sense organs do we have?",
+      "opts": [
+        "Three",
+        "Four",
+        "Five",
+        "Six"
+      ],
+      "c": 2,
+      "e": "We have five sense organs: eyes, ears, nose, tongue, skin."
+    },
+    {
+      "q": "Which organ helps us see?",
+      "opts": [
+        "Ears",
+        "Eyes",
+        "Nose",
+        "Tongue"
+      ],
+      "c": 1,
+      "e": "Eyes help us see."
+    },
+    {
+      "q": "Which organ helps us hear?",
+      "opts": [
+        "Eyes",
+        "Ears",
+        "Nose",
+        "Skin"
+      ],
+      "c": 1,
+      "e": "Ears help us hear."
+    },
+    {
+      "q": "We breathe through our ___.",
+      "opts": [
+        "Ears",
+        "Eyes",
+        "Nose",
+        "Mouth"
+      ],
+      "c": 2,
+      "e": "We breathe through nose and mouth."
+    },
+    {
+      "q": "Which organ helps us taste?",
+      "opts": [
+        "Eyes",
+        "Ears",
+        "Tongue",
+        "Nose"
+      ],
+      "c": 2,
+      "e": "Tongue helps us taste."
+    },
+    {
+      "q": "How many legs does a person have?",
+      "opts": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "c": 1,
+      "e": "Humans have two legs."
+    },
+    {
+      "q": "Blood is pumped by the ___.",
+      "opts": [
+        "Lungs",
+        "Heart",
+        "Brain",
+        "Stomach"
+      ],
+      "c": 1,
+      "e": "The heart pumps blood."
+    },
+    {
+      "q": "We digest food in our ___.",
+      "opts": [
+        "Heart",
+        "Stomach",
+        "Lungs",
+        "Brain"
+      ],
+      "c": 1,
+      "e": "Stomach helps digest food."
+    },
+    {
+      "q": "Which organ controls our body?",
+      "opts": [
+        "Heart",
+        "Stomach",
+        "Brain",
+        "Lungs"
+      ],
+      "c": 2,
+      "e": "Brain controls our body."
+    },
+    {
+      "q": "We have ___ bones in our body.",
+      "opts": [
+        "About 100",
+        "About 206",
+        "About 300",
+        "About 50"
+      ],
+      "c": 1,
+      "e": "Adults have about 206 bones."
+    },
+    {
+      "q": "Which organ helps us smell?",
+      "opts": [
+        "Ears",
+        "Eyes",
+        "Nose",
+        "Tongue"
+      ],
+      "c": 2,
+      "e": "Nose helps us smell."
+    },
+    {
+      "q": "Oxygen is taken in by the ___.",
+      "opts": [
+        "Heart",
+        "Lungs",
+        "Stomach",
+        "Brain"
+      ],
+      "c": 1,
+      "e": "Lungs take in oxygen."
+    },
+    {
+      "q": "Which is the largest organ?",
+      "opts": [
+        "Heart",
+        "Skin",
+        "Brain",
+        "Liver"
+      ],
+      "c": 1,
+      "e": "Skin is the largest organ."
+    },
+    {
+      "q": "How many fingers do we have?",
+      "opts": [
+        "Eight",
+        "Ten",
+        "Twelve",
+        "Five"
+      ],
+      "c": 1,
+      "e": "We have 10 fingers (5 on each hand)."
+    },
+    {
+      "q": "Which protects our brain?",
+      "opts": [
+        "Skin",
+        "Skull",
+        "Ribs",
+        "Spine"
+      ],
+      "c": 1,
+      "e": "Skull protects the brain."
+    },
+    {
+      "q": "We need ___ to stay healthy.",
+      "opts": [
+        "Only water",
+        "Food and water",
+        "Only air",
+        "Nothing"
+      ],
+      "c": 1,
+      "e": "We need food, water, and air."
+    },
+    {
+      "q": "Which organ filters blood?",
+      "opts": [
+        "Heart",
+        "Kidneys",
+        "Lungs",
+        "Stomach"
+      ],
+      "c": 1,
+      "e": "Kidneys filter waste from blood."
+    },
+    {
+      "q": "Muscles help us ___.",
+      "opts": [
+        "Think",
+        "Move",
+        "Digest",
+        "Breathe"
+      ],
+      "c": 1,
+      "e": "Muscles help us move."
+    },
+    {
+      "q": "How many chambers does the heart have?",
+      "opts": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "c": 2,
+      "e": "The heart has four chambers."
+    },
+    {
+      "q": "Which vitamin helps us see in dim light?",
+      "opts": [
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "c": 0,
+      "e": "Vitamin A helps with vision."
+    },
+    {
+      "q": "We sweat to ___.",
+      "opts": [
+        "Eat",
+        "Cool down",
+        "Sleep",
+        "Think"
+      ],
+      "c": 1,
+      "e": "Sweating helps cool the body."
+    },
+    {
+      "q": "Which part connects mouth to stomach?",
+      "opts": [
+        "Heart",
+        "Oesophagus",
+        "Lungs",
+        "Brain"
+      ],
+      "c": 1,
+      "e": "Oesophagus connects mouth to stomach."
+    },
+    {
+      "q": "Red blood cells carry ___.",
+      "opts": [
+        "Food",
+        "Oxygen",
+        "Water",
+        "Waste"
+      ],
+      "c": 1,
+      "e": "Red blood cells carry oxygen."
+    },
+    {
+      "q": "Which organ makes bile?",
+      "opts": [
+        "Heart",
+        "Liver",
+        "Kidneys",
+        "Lungs"
+      ],
+      "c": 1,
+      "e": "Liver produces bile."
+    },
+    {
+      "q": "We have ___ teeth as adults.",
+      "opts": [
+        "20",
+        "28",
+        "32",
+        "36"
+      ],
+      "c": 2,
+      "e": "Adults typically have 32 teeth."
+    },
+    {
+      "q": "Which protects the heart?",
+      "opts": [
+        "Skull",
+        "Ribs",
+        "Spine",
+        "Pelvis"
+      ],
+      "c": 1,
+      "e": "Rib cage protects the heart."
+    }
+  ],
+  "food": [
+    {
+      "q": "Which gives us energy?",
+      "opts": [
+        "Water only",
+        "Food",
+        "Air only",
+        "Nothing"
+      ],
+      "c": 1,
+      "e": "Food gives us energy."
+    },
+    {
+      "q": "Which is a source of protein?",
+      "opts": [
+        "Rice",
+        "Eggs",
+        "Sugar",
+        "Salt"
+      ],
+      "c": 1,
+      "e": "Eggs are rich in protein."
+    },
+    {
+      "q": "We need ___ for strong bones.",
+      "opts": [
+        "Sugar",
+        "Calcium",
+        "Salt",
+        "Oil"
+      ],
+      "c": 1,
+      "e": "Calcium helps build strong bones."
+    },
+    {
+      "q": "Which vitamin do we get from sunlight?",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "c": 3,
+      "e": "Vitamin D is made when skin gets sunlight."
+    },
+    {
+      "q": "Fruits are rich in ___.",
+      "opts": [
+        "Protein",
+        "Vitamins",
+        "Fat",
+        "Salt"
+      ],
+      "c": 1,
+      "e": "Fruits are rich in vitamins."
+    },
+    {
+      "q": "Which food group gives quick energy?",
+      "opts": [
+        "Proteins",
+        "Carbohydrates",
+        "Fats",
+        "Minerals"
+      ],
+      "c": 1,
+      "e": "Carbohydrates give quick energy."
+    },
+    {
+      "q": "We should drink ___ glasses of water daily.",
+      "opts": [
+        "2-3",
+        "6-8",
+        "10-12",
+        "1"
+      ],
+      "c": 1,
+      "e": "6-8 glasses of water is recommended."
+    },
+    {
+      "q": "Which is a dairy product?",
+      "opts": [
+        "Bread",
+        "Milk",
+        "Rice",
+        "Apple"
+      ],
+      "c": 1,
+      "e": "Milk is a dairy product."
+    },
+    {
+      "q": "Junk food is ___ for health.",
+      "opts": [
+        "Good",
+        "Bad",
+        "Neutral",
+        "Essential"
+      ],
+      "c": 1,
+      "e": "Junk food is unhealthy."
+    },
+    {
+      "q": "Which helps in digestion?",
+      "opts": [
+        "Sugar",
+        "Fibre",
+        "Oil",
+        "Salt"
+      ],
+      "c": 1,
+      "e": "Fibre helps in digestion."
+    },
+    {
+      "q": "Iron is found in ___.",
+      "opts": [
+        "Sugar",
+        "Spinach",
+        "Salt",
+        "Oil"
+      ],
+      "c": 1,
+      "e": "Spinach is rich in iron."
+    },
+    {
+      "q": "Which vitamin prevents scurvy?",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "c": 2,
+      "e": "Vitamin C prevents scurvy."
+    },
+    {
+      "q": "Breakfast is the ___ meal of the day.",
+      "opts": [
+        "Last",
+        "Most important",
+        "Optional",
+        "Smallest"
+      ],
+      "c": 1,
+      "e": "Breakfast gives energy for the day."
+    },
+    {
+      "q": "Which is a carbohydrate?",
+      "opts": [
+        "Meat",
+        "Bread",
+        "Egg",
+        "Cheese"
+      ],
+      "c": 1,
+      "e": "Bread contains carbohydrates."
+    },
+    {
+      "q": "We need a ___ diet.",
+      "opts": [
+        "Junk",
+        "Balanced",
+        "Only sweet",
+        "Only salty"
+      ],
+      "c": 1,
+      "e": "A balanced diet keeps us healthy."
+    },
+    {
+      "q": "Which food builds muscles?",
+      "opts": [
+        "Sugar",
+        "Protein",
+        "Oil",
+        "Salt"
+      ],
+      "c": 1,
+      "e": "Protein helps build muscles."
+    },
+    {
+      "q": "Green vegetables are rich in ___.",
+      "opts": [
+        "Fat",
+        "Vitamins and minerals",
+        "Sugar",
+        "Oil"
+      ],
+      "c": 1,
+      "e": "Green vegetables have vitamins and minerals."
+    },
+    {
+      "q": "Which is NOT a nutrient?",
+      "opts": [
+        "Protein",
+        "Carbohydrate",
+        "Plastic",
+        "Vitamin"
+      ],
+      "c": 2,
+      "e": "Plastic is not a nutrient."
+    },
+    {
+      "q": "We should ___ before eating.",
+      "opts": [
+        "Run",
+        "Wash hands",
+        "Sleep",
+        "Jump"
+      ],
+      "c": 1,
+      "e": "Washing hands prevents germs."
+    },
+    {
+      "q": "Which helps absorb calcium?",
+      "opts": [
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "c": 3,
+      "e": "Vitamin D helps absorb calcium."
+    },
+    {
+      "q": "Raw vegetables should be ___ before eating.",
+      "opts": [
+        "Fried",
+        "Washed",
+        "Salted",
+        "Sugared"
+      ],
+      "c": 1,
+      "e": "Washing removes dirt and germs."
+    },
+    {
+      "q": "Which is a source of omega-3?",
+      "opts": [
+        "Sugar",
+        "Fish",
+        "Salt",
+        "Bread"
+      ],
+      "c": 1,
+      "e": "Fish is rich in omega-3 fatty acids."
+    },
+    {
+      "q": "Overeating can lead to ___.",
+      "opts": [
+        "Hunger",
+        "Obesity",
+        "Strength",
+        "Energy"
+      ],
+      "c": 1,
+      "e": "Overeating can cause obesity."
+    },
+    {
+      "q": "Which meal should not be skipped?",
+      "opts": [
+        "None",
+        "Breakfast",
+        "Dinner only",
+        "Lunch only"
+      ],
+      "c": 1,
+      "e": "Breakfast should not be skipped."
+    },
+    {
+      "q": "Water helps in ___.",
+      "opts": [
+        "Digestion only",
+        "Many body functions",
+        "Nothing",
+        "Only cooling"
+      ],
+      "c": 1,
+      "e": "Water helps in many body functions."
+    }
+  ],
+  "air-and-water": [
+    {
+      "q": "What do we breathe in?",
+      "opts": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen",
+        "Smoke"
+      ],
+      "c": 1,
+      "e": "We breathe in oxygen."
+    },
+    {
+      "q": "What do plants give out?",
+      "opts": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen",
+        "Smoke"
+      ],
+      "c": 1,
+      "e": "Plants release oxygen during photosynthesis."
+    },
+    {
+      "q": "Water boils at ___ degrees Celsius.",
+      "opts": [
+        "50",
+        "80",
+        "100",
+        "120"
+      ],
+      "c": 2,
+      "e": "Water boils at 100°C."
+    },
+    {
+      "q": "Which gas do we breathe out?",
+      "opts": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "c": 1,
+      "e": "We breathe out carbon dioxide."
+    },
+    {
+      "q": "Rain is made of ___.",
+      "opts": [
+        "Milk",
+        "Water",
+        "Juice",
+        "Oil"
+      ],
+      "c": 1,
+      "e": "Rain is water from clouds."
+    },
+    {
+      "q": "Air contains mostly ___.",
+      "opts": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Hydrogen"
+      ],
+      "c": 1,
+      "e": "Air is about 78% nitrogen."
+    },
+    {
+      "q": "We cannot live without ___.",
+      "opts": [
+        "TV",
+        "Air",
+        "Toys",
+        "Games"
+      ],
+      "c": 1,
+      "e": "We need air to breathe."
+    },
+    {
+      "q": "Water freezes at ___ degrees Celsius.",
+      "opts": [
+        "10",
+        "0",
+        "-10",
+        "5"
+      ],
+      "c": 1,
+      "e": "Water freezes at 0°C."
+    },
+    {
+      "q": "Which is a source of water?",
+      "opts": [
+        "Fire",
+        "Rain",
+        "Desert",
+        "Rock"
+      ],
+      "c": 1,
+      "e": "Rain is a source of water."
+    },
+    {
+      "q": "Polluted air can cause ___.",
+      "opts": [
+        "Strength",
+        "Health problems",
+        "Energy",
+        "Growth"
+      ],
+      "c": 1,
+      "e": "Polluted air harms health."
+    },
+    {
+      "q": "How many states can water exist in?",
+      "opts": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "c": 2,
+      "e": "Water can be solid, liquid, or gas."
+    },
+    {
+      "q": "Plants need ___ for photosynthesis.",
+      "opts": [
+        "Only water",
+        "Carbon dioxide and water",
+        "Only soil",
+        "Only air"
+      ],
+      "c": 1,
+      "e": "Plants need CO2 and water for photosynthesis."
+    },
+    {
+      "q": "Which is NOT a use of water?",
+      "opts": [
+        "Drinking",
+        "Cooking",
+        "Breathing",
+        "Washing"
+      ],
+      "c": 2,
+      "e": "We breathe air, not water."
+    },
+    {
+      "q": "Wind is ___.",
+      "opts": [
+        "Still air",
+        "Moving air",
+        "Water",
+        "Fire"
+      ],
+      "c": 1,
+      "e": "Wind is moving air."
+    },
+    {
+      "q": "We should save water because ___.",
+      "opts": [
+        "It is unlimited",
+        "It is limited",
+        "It is free",
+        "It is cold"
+      ],
+      "c": 1,
+      "e": "Fresh water is limited."
+    },
+    {
+      "q": "Oxygen is needed for ___.",
+      "opts": [
+        "Digestion only",
+        "Respiration",
+        "Sleep only",
+        "Eating only"
+      ],
+      "c": 1,
+      "e": "We need oxygen to breathe."
+    },
+    {
+      "q": "Which pollutes water?",
+      "opts": [
+        "Rain",
+        "Waste",
+        "Snow",
+        "Ice"
+      ],
+      "c": 1,
+      "e": "Waste can pollute water."
+    },
+    {
+      "q": "Clouds are made of ___.",
+      "opts": [
+        "Cotton",
+        "Water vapour",
+        "Smoke",
+        "Dust"
+      ],
+      "c": 1,
+      "e": "Clouds are water vapour."
+    },
+    {
+      "q": "Air has ___.",
+      "opts": [
+        "No weight",
+        "Weight",
+        "Colour",
+        "Smell only"
+      ],
+      "c": 1,
+      "e": "Air has weight and takes up space."
+    },
+    {
+      "q": "Which gas do plants take in?",
+      "opts": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "c": 1,
+      "e": "Plants take in CO2 for photosynthesis."
+    },
+    {
+      "q": "Evaporation is when water turns into ___.",
+      "opts": [
+        "Ice",
+        "Vapour",
+        "Solid",
+        "Rain"
+      ],
+      "c": 1,
+      "e": "Evaporation turns liquid to vapour."
+    },
+    {
+      "q": "We need ___ to stay alive.",
+      "opts": [
+        "Only food",
+        "Air and water",
+        "Only air",
+        "Only water"
+      ],
+      "c": 1,
+      "e": "We need both air and water."
+    },
+    {
+      "q": "Which is a form of precipitation?",
+      "opts": [
+        "Wind",
+        "Rain",
+        "Sunshine",
+        "Clouds"
+      ],
+      "c": 1,
+      "e": "Rain is a form of precipitation."
+    },
+    {
+      "q": "Water is a ___.",
+      "opts": [
+        "Solid",
+        "Liquid",
+        "Gas",
+        "Plasma"
+      ],
+      "c": 1,
+      "e": "Water at room temperature is liquid."
+    },
+    {
+      "q": "Which helps clean air?",
+      "opts": [
+        "Factories",
+        "Trees",
+        "Cars",
+        "Smoke"
+      ],
+      "c": 1,
+      "e": "Trees help clean the air."
+    },
+    {
+      "q": "Condensation is when vapour turns into ___.",
+      "opts": [
+        "Ice",
+        "Liquid",
+        "Gas",
+        "Solid"
+      ],
+      "c": 1,
+      "e": "Condensation turns vapour to liquid."
+    }
+  ],
+  "weather-and-sky": [
+    {
+      "q": "How many planets are in our solar system?",
+      "opts": [
+        "Six",
+        "Seven",
+        "Eight",
+        "Nine"
+      ],
+      "c": 2,
+      "e": "There are 8 planets in our solar system."
+    },
+    {
+      "q": "The Sun rises in the ___.",
+      "opts": [
+        "North",
+        "South",
+        "East",
+        "West"
+      ],
+      "c": 2,
+      "e": "The Sun rises in the east."
+    },
+    {
+      "q": "Which season is the hottest?",
+      "opts": [
+        "Winter",
+        "Summer",
+        "Spring",
+        "Autumn"
+      ],
+      "c": 1,
+      "e": "Summer is usually the hottest."
+    },
+    {
+      "q": "The Moon gets light from the ___.",
+      "opts": [
+        "Stars",
+        "Sun",
+        "Earth",
+        "Mars"
+      ],
+      "c": 1,
+      "e": "The Moon reflects sunlight."
+    },
+    {
+      "q": "Rain comes from ___.",
+      "opts": [
+        "Ground",
+        "Clouds",
+        "Rivers",
+        "Sea"
+      ],
+      "c": 1,
+      "e": "Rain falls from clouds."
+    },
+    {
+      "q": "How many days does the Moon take to orbit Earth?",
+      "opts": [
+        "7",
+        "14",
+        "28",
+        "365"
+      ],
+      "c": 2,
+      "e": "The Moon takes about 28 days."
+    },
+    {
+      "q": "Which is the closest star to Earth?",
+      "opts": [
+        "Polaris",
+        "Sun",
+        "Sirius",
+        "Venus"
+      ],
+      "c": 1,
+      "e": "The Sun is the closest star."
+    },
+    {
+      "q": "Thunder is caused by ___.",
+      "opts": [
+        "Wind",
+        "Lightning",
+        "Rain",
+        "Clouds"
+      ],
+      "c": 1,
+      "e": "Thunder is the sound of lightning."
+    },
+    {
+      "q": "We see the Moon at ___.",
+      "opts": [
+        "Noon only",
+        "Night",
+        "Morning only",
+        "Never"
+      ],
+      "c": 1,
+      "e": "We usually see the Moon at night."
+    },
+    {
+      "q": "Which planet do we live on?",
+      "opts": [
+        "Mars",
+        "Venus",
+        "Earth",
+        "Jupiter"
+      ],
+      "c": 2,
+      "e": "We live on Earth."
+    },
+    {
+      "q": "A rainbow has ___ colours.",
+      "opts": [
+        "Five",
+        "Six",
+        "Seven",
+        "Eight"
+      ],
+      "c": 2,
+      "e": "A rainbow has seven colours."
+    },
+    {
+      "q": "The Sun sets in the ___.",
+      "opts": [
+        "North",
+        "South",
+        "East",
+        "West"
+      ],
+      "c": 3,
+      "e": "The Sun sets in the west."
+    },
+    {
+      "q": "Which season has the most rain?",
+      "opts": [
+        "Winter",
+        "Summer",
+        "Monsoon",
+        "Autumn"
+      ],
+      "c": 2,
+      "e": "Monsoon brings heavy rain."
+    },
+    {
+      "q": "Stars are ___.",
+      "opts": [
+        "Planets",
+        "Balls of gas",
+        "Moons",
+        "Asteroids"
+      ],
+      "c": 1,
+      "e": "Stars are balls of hot gas."
+    },
+    {
+      "q": "Day and night are caused by ___.",
+      "opts": [
+        "Moon",
+        "Earth spinning",
+        "Stars",
+        "Clouds"
+      ],
+      "c": 1,
+      "e": "Earth spinning causes day and night."
+    },
+    {
+      "q": "Which is NOT a season?",
+      "opts": [
+        "Summer",
+        "Winter",
+        "Rainy",
+        "Monday"
+      ],
+      "c": 3,
+      "e": "Monday is a day, not a season."
+    },
+    {
+      "q": "The Earth orbits the ___.",
+      "opts": [
+        "Moon",
+        "Sun",
+        "Mars",
+        "Stars"
+      ],
+      "c": 1,
+      "e": "Earth orbits the Sun."
+    },
+    {
+      "q": "Lightning is a form of ___.",
+      "opts": [
+        "Sound",
+        "Electricity",
+        "Wind",
+        "Rain"
+      ],
+      "c": 1,
+      "e": "Lightning is an electric discharge."
+    },
+    {
+      "q": "Which season is the coldest?",
+      "opts": [
+        "Summer",
+        "Winter",
+        "Spring",
+        "Monsoon"
+      ],
+      "c": 1,
+      "e": "Winter is usually the coldest."
+    },
+    {
+      "q": "Clouds are ___ in the sky.",
+      "opts": [
+        "Solid",
+        "Water droplets",
+        "Fire",
+        "Rocks"
+      ],
+      "c": 1,
+      "e": "Clouds are made of water droplets."
+    },
+    {
+      "q": "How long does Earth take to orbit the Sun?",
+      "opts": [
+        "1 day",
+        "1 month",
+        "1 year",
+        "1 week"
+      ],
+      "c": 2,
+      "e": "Earth takes 1 year to orbit the Sun."
+    },
+    {
+      "q": "Which comes after sunset?",
+      "opts": [
+        "Noon",
+        "Morning",
+        "Night",
+        "Dawn"
+      ],
+      "c": 2,
+      "e": "Night comes after sunset."
+    },
+    {
+      "q": "A thermometer measures ___.",
+      "opts": [
+        "Wind",
+        "Temperature",
+        "Rain",
+        "Light"
+      ],
+      "c": 1,
+      "e": "Thermometer measures temperature."
+    },
+    {
+      "q": "Which is a natural satellite?",
+      "opts": [
+        "Airplane",
+        "Moon",
+        "Rocket",
+        "Satellite"
+      ],
+      "c": 1,
+      "e": "The Moon is Earth natural satellite."
+    },
+    {
+      "q": "Wind is caused by ___.",
+      "opts": [
+        "Moving air",
+        "Still air",
+        "Water",
+        "Fire"
+      ],
+      "c": 0,
+      "e": "Wind is moving air."
+    }
+  ],
+  "matter-and-materials": [
+    {
+      "q": "Which state of matter has a fixed shape?",
+      "opts": [
+        "Gas",
+        "Liquid",
+        "Solid",
+        "Plasma"
+      ],
+      "c": 2,
+      "e": "Solids have a fixed shape."
+    },
+    {
+      "q": "Water in ice form is a ___.",
+      "opts": [
+        "Liquid",
+        "Gas",
+        "Solid",
+        "Plasma"
+      ],
+      "c": 2,
+      "e": "Ice is solid water."
+    },
+    {
+      "q": "Which can flow?",
+      "opts": [
+        "Stone",
+        "Water",
+        "Wood",
+        "Iron"
+      ],
+      "c": 1,
+      "e": "Water is a liquid and can flow."
+    },
+    {
+      "q": "Air is a ___.",
+      "opts": [
+        "Solid",
+        "Liquid",
+        "Gas",
+        "Plasma"
+      ],
+      "c": 2,
+      "e": "Air is a mixture of gases."
+    },
+    {
+      "q": "Which is a natural material?",
+      "opts": [
+        "Plastic",
+        "Wood",
+        "Nylon",
+        "Polythene"
+      ],
+      "c": 1,
+      "e": "Wood comes from trees."
+    },
+    {
+      "q": "Solids have ___ volume.",
+      "opts": [
+        "No",
+        "Fixed",
+        "Changing",
+        "Zero"
+      ],
+      "c": 1,
+      "e": "Solids have fixed volume."
+    },
+    {
+      "q": "Which is man-made?",
+      "opts": [
+        "Stone",
+        "Plastic",
+        "Wood",
+        "Cotton"
+      ],
+      "c": 1,
+      "e": "Plastic is man-made."
+    },
+    {
+      "q": "Melting is when solid turns to ___.",
+      "opts": [
+        "Gas",
+        "Liquid",
+        "Plasma",
+        "Ice"
+      ],
+      "c": 1,
+      "e": "Melting turns solid to liquid."
+    },
+    {
+      "q": "Which material floats on water?",
+      "opts": [
+        "Stone",
+        "Iron",
+        "Wood",
+        "Gold"
+      ],
+      "c": 2,
+      "e": "Wood floats on water."
+    },
+    {
+      "q": "Boiling is when liquid turns to ___.",
+      "opts": [
+        "Solid",
+        "Gas",
+        "Plasma",
+        "Ice"
+      ],
+      "c": 1,
+      "e": "Boiling turns liquid to gas."
+    },
+    {
+      "q": "Which is a conductor of heat?",
+      "opts": [
+        "Wood",
+        "Plastic",
+        "Metal",
+        "Rubber"
+      ],
+      "c": 2,
+      "e": "Metals conduct heat well."
+    },
+    {
+      "q": "Cotton comes from ___.",
+      "opts": [
+        "Animals",
+        "Plants",
+        "Minerals",
+        "Rocks"
+      ],
+      "c": 1,
+      "e": "Cotton comes from cotton plants."
+    },
+    {
+      "q": "Which state has no fixed shape?",
+      "opts": [
+        "Solid only",
+        "Liquid and gas",
+        "Solid and liquid",
+        "None"
+      ],
+      "c": 1,
+      "e": "Liquids and gases have no fixed shape."
+    },
+    {
+      "q": "Rubber is ___.",
+      "opts": [
+        "Hard",
+        "Elastic",
+        "Brittle",
+        "Rigid"
+      ],
+      "c": 1,
+      "e": "Rubber is elastic."
+    },
+    {
+      "q": "Glass is made from ___.",
+      "opts": [
+        "Wood",
+        "Sand",
+        "Cotton",
+        "Wool"
+      ],
+      "c": 1,
+      "e": "Glass is made from sand."
+    },
+    {
+      "q": "Which dissolves in water?",
+      "opts": [
+        "Oil",
+        "Salt",
+        "Sand",
+        "Stone"
+      ],
+      "c": 1,
+      "e": "Salt dissolves in water."
+    },
+    {
+      "q": "Metals are ___.",
+      "opts": [
+        "Transparent",
+        "Opaque",
+        "Soft",
+        "Liquid"
+      ],
+      "c": 1,
+      "e": "Metals are opaque."
+    },
+    {
+      "q": "Freezing is when liquid turns to ___.",
+      "opts": [
+        "Gas",
+        "Solid",
+        "Plasma",
+        "Vapour"
+      ],
+      "c": 1,
+      "e": "Freezing turns liquid to solid."
+    },
+    {
+      "q": "Which is biodegradable?",
+      "opts": [
+        "Plastic",
+        "Paper",
+        "Glass",
+        "Metal"
+      ],
+      "c": 1,
+      "e": "Paper is biodegradable."
+    },
+    {
+      "q": "Wool comes from ___.",
+      "opts": [
+        "Plants",
+        "Sheep",
+        "Rocks",
+        "Minerals"
+      ],
+      "c": 1,
+      "e": "Wool comes from sheep."
+    },
+    {
+      "q": "Which is a good insulator?",
+      "opts": [
+        "Metal",
+        "Wood",
+        "Copper",
+        "Iron"
+      ],
+      "c": 1,
+      "e": "Wood is a good insulator."
+    },
+    {
+      "q": "Condensation forms ___.",
+      "opts": [
+        "Ice",
+        "Dew",
+        "Steam",
+        "Smoke"
+      ],
+      "c": 1,
+      "e": "Dew is condensation."
+    },
+    {
+      "q": "Silk comes from ___.",
+      "opts": [
+        "Plants",
+        "Silkworm",
+        "Sheep",
+        "Cotton"
+      ],
+      "c": 1,
+      "e": "Silk comes from silkworms."
+    },
+    {
+      "q": "Which material is magnetic?",
+      "opts": [
+        "Wood",
+        "Plastic",
+        "Iron",
+        "Glass"
+      ],
+      "c": 2,
+      "e": "Iron is magnetic."
+    },
+    {
+      "q": "Evaporation happens when water ___.",
+      "opts": [
+        "Freezes",
+        "Heats up",
+        "Cools",
+        "Mixes"
+      ],
+      "c": 1,
+      "e": "Heating causes evaporation."
+    }
+  ],
+  "force-and-energy": [
+    {
+      "q": "A push or pull is called ___.",
+      "opts": [
+        "Energy",
+        "Force",
+        "Motion",
+        "Speed"
+      ],
+      "c": 1,
+      "e": "Force is a push or pull."
+    },
+    {
+      "q": "Which force pulls things down?",
+      "opts": [
+        "Magnetic",
+        "Gravity",
+        "Friction",
+        "Electric"
+      ],
+      "c": 1,
+      "e": "Gravity pulls things down."
+    },
+    {
+      "q": "The Sun gives us ___.",
+      "opts": [
+        "Water",
+        "Light and heat",
+        "Air",
+        "Food"
+      ],
+      "c": 1,
+      "e": "The Sun gives light and heat."
+    },
+    {
+      "q": "Friction ___ motion.",
+      "opts": [
+        "Increases",
+        "Opposes",
+        "Creates",
+        "Doubles"
+      ],
+      "c": 1,
+      "e": "Friction opposes motion."
+    },
+    {
+      "q": "Which is a form of energy?",
+      "opts": [
+        "Stone",
+        "Light",
+        "Water",
+        "Air"
+      ],
+      "c": 1,
+      "e": "Light is a form of energy."
+    },
+    {
+      "q": "Magnets attract ___.",
+      "opts": [
+        "Wood",
+        "Iron",
+        "Plastic",
+        "Glass"
+      ],
+      "c": 1,
+      "e": "Magnets attract iron."
+    },
+    {
+      "q": "Energy cannot be ___.",
+      "opts": [
+        "Created or destroyed",
+        "Used",
+        "Stored",
+        "Transferred"
+      ],
+      "c": 0,
+      "e": "Energy is conserved."
+    },
+    {
+      "q": "Which force keeps us on Earth?",
+      "opts": [
+        "Magnetic",
+        "Gravity",
+        "Friction",
+        "Wind"
+      ],
+      "c": 1,
+      "e": "Gravity keeps us on Earth."
+    },
+    {
+      "q": "Sound travels through ___.",
+      "opts": [
+        "Vacuum",
+        "Air",
+        "Nothing",
+        "Space"
+      ],
+      "c": 1,
+      "e": "Sound needs a medium like air."
+    },
+    {
+      "q": "Electricity is a form of ___.",
+      "opts": [
+        "Matter",
+        "Energy",
+        "Force",
+        "Motion"
+      ],
+      "c": 1,
+      "e": "Electricity is energy."
+    },
+    {
+      "q": "Which pole do two magnets repel?",
+      "opts": [
+        "North-North",
+        "North-South",
+        "South-South",
+        "Both A and C"
+      ],
+      "c": 3,
+      "e": "Like poles repel."
+    },
+    {
+      "q": "Food has ___ energy.",
+      "opts": [
+        "Kinetic",
+        "Chemical",
+        "Sound",
+        "Light"
+      ],
+      "c": 1,
+      "e": "Food stores chemical energy."
+    },
+    {
+      "q": "Light travels in ___.",
+      "opts": [
+        "Curves",
+        "Straight lines",
+        "Circles",
+        "Zigzags"
+      ],
+      "c": 1,
+      "e": "Light travels in straight lines."
+    },
+    {
+      "q": "Which is a renewable resource?",
+      "opts": [
+        "Coal",
+        "Solar",
+        "Petroleum",
+        "Natural gas"
+      ],
+      "c": 1,
+      "e": "Solar energy is renewable."
+    },
+    {
+      "q": "A moving object has ___ energy.",
+      "opts": [
+        "Potential",
+        "Kinetic",
+        "Chemical",
+        "Sound"
+      ],
+      "c": 1,
+      "e": "Moving objects have kinetic energy."
+    },
+    {
+      "q": "Which is NOT a simple machine?",
+      "opts": [
+        "Lever",
+        "Pulley",
+        "Engine",
+        "Inclined plane"
+      ],
+      "c": 2,
+      "e": "Engine is complex."
+    },
+    {
+      "q": "Heat flows from ___ to ___.",
+      "opts": [
+        "Cold to hot",
+        "Hot to cold",
+        "Same temp",
+        "Nowhere"
+      ],
+      "c": 1,
+      "e": "Heat flows from hot to cold."
+    },
+    {
+      "q": "Sound is produced by ___.",
+      "opts": [
+        "Light",
+        "Vibration",
+        "Heat",
+        "Cold"
+      ],
+      "c": 1,
+      "e": "Sound needs vibration."
+    },
+    {
+      "q": "Which is a non-renewable resource?",
+      "opts": [
+        "Wind",
+        "Coal",
+        "Solar",
+        "Water"
+      ],
+      "c": 1,
+      "e": "Coal is non-renewable."
+    },
+    {
+      "q": "A stretched rubber band has ___ energy.",
+      "opts": [
+        "Kinetic",
+        "Potential",
+        "Sound",
+        "Light"
+      ],
+      "c": 1,
+      "e": "Stretched band has potential energy."
+    },
+    {
+      "q": "Reflection is when light ___.",
+      "opts": [
+        "Absorbs",
+        "Bounces back",
+        "Stops",
+        "Disappears"
+      ],
+      "c": 1,
+      "e": "Reflection bounces light back."
+    },
+    {
+      "q": "Which machine multiplies force?",
+      "opts": [
+        "Scissors",
+        "Lever",
+        "Both",
+        "Neither"
+      ],
+      "c": 2,
+      "e": "Lever and scissors multiply force."
+    },
+    {
+      "q": "Electric current produces ___.",
+      "opts": [
+        "Only light",
+        "Heat and magnetic effect",
+        "Only sound",
+        "Nothing"
+      ],
+      "c": 1,
+      "e": "Current produces heat and magnetic effect."
+    },
+    {
+      "q": "Which is an insulator?",
+      "opts": [
+        "Copper",
+        "Rubber",
+        "Iron",
+        "Silver"
+      ],
+      "c": 1,
+      "e": "Rubber is an insulator."
+    },
+    {
+      "q": "Work is done when force causes ___.",
+      "opts": [
+        "Nothing",
+        "Motion",
+        "Rest",
+        "Heat only"
+      ],
+      "c": 1,
+      "e": "Work = force × distance."
+    }
+  ],
+  "earth-and-universe": [
+    {
+      "q": "Earth is a ___.",
+      "opts": [
+        "Star",
+        "Planet",
+        "Moon",
+        "Asteroid"
+      ],
+      "c": 1,
+      "e": "Earth is a planet."
+    },
+    {
+      "q": "Which is the largest planet?",
+      "opts": [
+        "Earth",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "c": 2,
+      "e": "Jupiter is the largest."
+    },
+    {
+      "q": "The Moon orbits the ___.",
+      "opts": [
+        "Sun",
+        "Earth",
+        "Mars",
+        "Jupiter"
+      ],
+      "c": 1,
+      "e": "The Moon orbits Earth."
+    },
+    {
+      "q": "Rocks are made of ___.",
+      "opts": [
+        "Water",
+        "Minerals",
+        "Air",
+        "Plastic"
+      ],
+      "c": 1,
+      "e": "Rocks are made of minerals."
+    },
+    {
+      "q": "Soil contains ___.",
+      "opts": [
+        "Only sand",
+        "Minerals, water, air",
+        "Only water",
+        "Only air"
+      ],
+      "c": 1,
+      "e": "Soil has minerals, water, air."
+    },
+    {
+      "q": "Which layer protects us from Sun rays?",
+      "opts": [
+        "Soil",
+        "Ozone",
+        "Water",
+        "Rocks"
+      ],
+      "c": 1,
+      "e": "Ozone layer protects from UV."
+    },
+    {
+      "q": "Fossils are found in ___.",
+      "opts": [
+        "Water",
+        "Rocks",
+        "Air",
+        "Fire"
+      ],
+      "c": 1,
+      "e": "Fossils are in rocks."
+    },
+    {
+      "q": "Which is a renewable resource?",
+      "opts": [
+        "Coal",
+        "Forest",
+        "Petroleum",
+        "Natural gas"
+      ],
+      "c": 1,
+      "e": "Forests can be renewed."
+    },
+    {
+      "q": "The Earth has ___ layers.",
+      "opts": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "c": 2,
+      "e": "Earth has crust, mantle, core."
+    },
+    {
+      "q": "Which planet is red?",
+      "opts": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "c": 1,
+      "e": "Mars is the red planet."
+    },
+    {
+      "q": "Earth takes ___ to spin once.",
+      "opts": [
+        "1 month",
+        "1 day",
+        "1 year",
+        "1 week"
+      ],
+      "c": 1,
+      "e": "Earth spins in 24 hours."
+    },
+    {
+      "q": "Which is NOT a natural resource?",
+      "opts": [
+        "Water",
+        "Air",
+        "Plastic",
+        "Forest"
+      ],
+      "c": 2,
+      "e": "Plastic is man-made."
+    },
+    {
+      "q": "Stars are ___ at night.",
+      "opts": [
+        "Invisible",
+        "Visible",
+        "Gone",
+        "Small"
+      ],
+      "c": 1,
+      "e": "Stars are visible at night."
+    },
+    {
+      "q": "Which causes day and night?",
+      "opts": [
+        "Moon",
+        "Earth rotation",
+        "Sun movement",
+        "Stars"
+      ],
+      "c": 1,
+      "e": "Earth rotation causes day and night."
+    },
+    {
+      "q": "Minerals are found in ___.",
+      "opts": [
+        "Air",
+        "Rocks and soil",
+        "Water only",
+        "Sky"
+      ],
+      "c": 1,
+      "e": "Minerals are in rocks and soil."
+    },
+    {
+      "q": "Which is the smallest planet?",
+      "opts": [
+        "Earth",
+        "Mars",
+        "Mercury",
+        "Venus"
+      ],
+      "c": 2,
+      "e": "Mercury is the smallest."
+    },
+    {
+      "q": "The solar system has ___ planets.",
+      "opts": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "c": 2,
+      "e": "There are 8 planets."
+    },
+    {
+      "q": "Soil erosion is caused by ___.",
+      "opts": [
+        "Plants",
+        "Wind and water",
+        "Rocks",
+        "Minerals"
+      ],
+      "c": 1,
+      "e": "Wind and water cause erosion."
+    },
+    {
+      "q": "Which planet has rings?",
+      "opts": [
+        "Earth",
+        "Mars",
+        "Saturn",
+        "Mercury"
+      ],
+      "c": 2,
+      "e": "Saturn has visible rings."
+    },
+    {
+      "q": "Fossil fuels include ___.",
+      "opts": [
+        "Solar",
+        "Coal and petroleum",
+        "Wind",
+        "Water"
+      ],
+      "c": 1,
+      "e": "Coal and petroleum are fossil fuels."
+    },
+    {
+      "q": "The Sun is a ___.",
+      "opts": [
+        "Planet",
+        "Star",
+        "Moon",
+        "Asteroid"
+      ],
+      "c": 1,
+      "e": "The Sun is a star."
+    },
+    {
+      "q": "Which protects Earth from meteors?",
+      "opts": [
+        "Moon",
+        "Atmosphere",
+        "Ocean",
+        "Rocks"
+      ],
+      "c": 1,
+      "e": "Atmosphere burns up meteors."
+    },
+    {
+      "q": "Recycling helps ___.",
+      "opts": [
+        "Waste more",
+        "Save resources",
+        "Pollute",
+        "Use more"
+      ],
+      "c": 1,
+      "e": "Recycling saves resources."
+    },
+    {
+      "q": "Which is a constellation?",
+      "opts": [
+        "Sun",
+        "Big Dipper",
+        "Moon",
+        "Earth"
+      ],
+      "c": 1,
+      "e": "Big Dipper is a constellation."
+    }
+  ],
+  "our-environment": [
+    {
+      "q": "Pollution harms ___.",
+      "opts": [
+        "Nothing",
+        "Environment and health",
+        "Only plants",
+        "Only animals"
+      ],
+      "c": 1,
+      "e": "Pollution harms all."
+    },
+    {
+      "q": "We should ___ to save the environment.",
+      "opts": [
+        "Litter",
+        "Reduce, reuse, recycle",
+        "Waste more",
+        "Pollute"
+      ],
+      "c": 1,
+      "e": "Reduce, reuse, recycle."
+    },
+    {
+      "q": "Trees help by ___.",
+      "opts": [
+        "Causing pollution",
+        "Giving oxygen",
+        "Making noise",
+        "Blocking light"
+      ],
+      "c": 1,
+      "e": "Trees give oxygen."
+    },
+    {
+      "q": "Which causes air pollution?",
+      "opts": [
+        "Trees",
+        "Vehicle smoke",
+        "Plants",
+        "Rain"
+      ],
+      "c": 1,
+      "e": "Vehicle smoke pollutes air."
+    },
+    {
+      "q": "Composting uses ___.",
+      "opts": [
+        "Plastic",
+        "Organic waste",
+        "Metal",
+        "Glass"
+      ],
+      "c": 1,
+      "e": "Composting uses organic waste."
+    },
+    {
+      "q": "We should not ___ in water bodies.",
+      "opts": [
+        "Swim",
+        "Throw waste",
+        "Fish",
+        "Boat"
+      ],
+      "c": 1,
+      "e": "Throwing waste pollutes water."
+    },
+    {
+      "q": "Which is biodegradable?",
+      "opts": [
+        "Plastic bag",
+        "Fruit peel",
+        "Metal",
+        "Glass"
+      ],
+      "c": 1,
+      "e": "Fruit peel is biodegradable."
+    },
+    {
+      "q": "Deforestation means ___.",
+      "opts": [
+        "Planting trees",
+        "Cutting trees",
+        "Watering trees",
+        "Protecting trees"
+      ],
+      "c": 1,
+      "e": "Deforestation is cutting trees."
+    },
+    {
+      "q": "Global warming is caused by ___.",
+      "opts": [
+        "Cooling",
+        "Greenhouse gases",
+        "Trees",
+        "Rain"
+      ],
+      "c": 1,
+      "e": "Greenhouse gases cause warming."
+    },
+    {
+      "q": "Which saves water?",
+      "opts": [
+        "Leaving tap on",
+        "Fixing leaks",
+        "Long showers",
+        "Wasting"
+      ],
+      "c": 1,
+      "e": "Fixing leaks saves water."
+    },
+    {
+      "q": "We should use ___ bags.",
+      "opts": [
+        "Plastic",
+        "Cloth",
+        "Single-use",
+        "Disposable"
+      ],
+      "c": 1,
+      "e": "Cloth bags are reusable."
+    },
+    {
+      "q": "Which reduces pollution?",
+      "opts": [
+        "More cars",
+        "Public transport",
+        "Burning waste",
+        "Littering"
+      ],
+      "c": 1,
+      "e": "Public transport reduces pollution."
+    },
+    {
+      "q": "Habitat is where animals ___.",
+      "opts": [
+        "Never go",
+        "Live",
+        "Eat only",
+        "Sleep only"
+      ],
+      "c": 1,
+      "e": "Habitat is where animals live."
+    },
+    {
+      "q": "Conservation means ___.",
+      "opts": [
+        "Wasting",
+        "Protecting resources",
+        "Polluting",
+        "Destroying"
+      ],
+      "c": 1,
+      "e": "Conservation protects resources."
+    },
+    {
+      "q": "Which is a natural resource?",
+      "opts": [
+        "Plastic",
+        "Forest",
+        "Concrete",
+        "Nylon"
+      ],
+      "c": 1,
+      "e": "Forest is a natural resource."
+    },
+    {
+      "q": "Ozone layer protects from ___.",
+      "opts": [
+        "Rain",
+        "UV rays",
+        "Wind",
+        "Cold"
+      ],
+      "c": 1,
+      "e": "Ozone protects from UV."
+    },
+    {
+      "q": "We should ___ electricity.",
+      "opts": [
+        "Waste",
+        "Save",
+        "Use more",
+        "Ignore"
+      ],
+      "c": 1,
+      "e": "Saving electricity helps."
+    },
+    {
+      "q": "Which causes water pollution?",
+      "opts": [
+        "Rain",
+        "Industrial waste",
+        "Trees",
+        "Birds"
+      ],
+      "c": 1,
+      "e": "Industrial waste pollutes water."
+    },
+    {
+      "q": "Ecosystem includes ___.",
+      "opts": [
+        "Only plants",
+        "Plants, animals, environment",
+        "Only animals",
+        "Only humans"
+      ],
+      "c": 1,
+      "e": "Ecosystem has living and non-living."
+    },
+    {
+      "q": "Recycling means ___.",
+      "opts": [
+        "Throwing away",
+        "Making new from old",
+        "Burning",
+        "Burying"
+      ],
+      "c": 1,
+      "e": "Recycling makes new from old."
+    },
+    {
+      "q": "Which helps the environment?",
+      "opts": [
+        "Littering",
+        "Planting trees",
+        "Polluting",
+        "Wasting"
+      ],
+      "c": 1,
+      "e": "Planting trees helps."
+    },
+    {
+      "q": "Endangered species need ___.",
+      "opts": [
+        "No help",
+        "Protection",
+        "Hunting",
+        "Pollution"
+      ],
+      "c": 1,
+      "e": "Endangered species need protection."
+    },
+    {
+      "q": "Which is renewable?",
+      "opts": [
+        "Coal",
+        "Solar energy",
+        "Petroleum",
+        "Natural gas"
+      ],
+      "c": 1,
+      "e": "Solar is renewable."
+    },
+    {
+      "q": "We should ___ plastic use.",
+      "opts": [
+        "Increase",
+        "Reduce",
+        "Ignore",
+        "Double"
+      ],
+      "c": 1,
+      "e": "Reducing plastic helps."
+    },
+    {
+      "q": "Which is good for soil?",
+      "opts": [
+        "Chemicals",
+        "Compost",
+        "Plastic",
+        "Waste"
+      ],
+      "c": 1,
+      "e": "Compost enriches soil."
+    }
+  ]
+}

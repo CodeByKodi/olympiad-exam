@@ -1,15 +1,15 @@
 {
-  "packId": "nso-grade4-matter-practice-01",
+  "packId": "nso-grade4-logical-reasoning-practice-01",
   "exam": "nso",
   "grade": 4,
   "mode": "practice",
-  "title": "Matter Practice Test",
-  "topic": "Matter",
+  "title": "Patterns Practice",
+  "topic": "Patterns",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "Matter"
+      "Patterns"
     ],
     "difficultyMix": {
       "easy": 15,

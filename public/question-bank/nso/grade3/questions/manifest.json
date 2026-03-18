@@ -1,8 +1,13 @@
 {
   "files": [
+    "logical-reasoning.json",
     "plants-and-animals.json",
-    "human-body-and-food.json",
-    "matter-energy-and-force.json",
-    "earth-environment-and-space.json"
+    "food.json",
+    "living-and-non-living.json",
+    "human-body.json",
+    "earth-and-universe.json",
+    "matter-and-materials.json",
+    "force-and-energy.json",
+    "our-environment.json"
   ]
 }

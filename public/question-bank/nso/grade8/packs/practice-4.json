@@ -1,15 +1,15 @@
 {
-  "packId": "nso-grade8-earth-and-environment-practice-01",
+  "packId": "nso-grade8-plants-and-animals-practice-01",
   "exam": "nso",
   "grade": 8,
   "mode": "practice",
-  "title": "Earth and Environment Practice Test",
-  "topic": "Earth and Environment",
+  "title": "Conservation of Plants and Animals Practice",
+  "topic": "Conservation of Plants and Animals",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "Earth and Environment"
+      "Conservation of Plants and Animals"
     ],
     "difficultyMix": {
       "easy": 15,

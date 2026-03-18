@@ -1,0 +1,20 @@
+{
+  "packId": "nso-grade5-matter-and-materials-practice-01",
+  "exam": "nso",
+  "grade": 5,
+  "mode": "practice",
+  "title": "Matter and Materials Practice",
+  "topic": "Matter and Materials",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Matter and Materials"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

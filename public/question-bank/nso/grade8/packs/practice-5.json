@@ -1,0 +1,20 @@
+{
+  "packId": "nso-grade8-human-body-practice-01",
+  "exam": "nso",
+  "grade": 8,
+  "mode": "practice",
+  "title": "Reproduction and Endocrine System Practice",
+  "topic": "Reproduction and Endocrine System",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Reproduction and Endocrine System"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

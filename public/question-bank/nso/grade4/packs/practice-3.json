@@ -1,15 +1,15 @@
 {
-  "packId": "nso-grade4-light-and-sound-practice-01",
+  "packId": "nso-grade4-animals-practice-01",
   "exam": "nso",
   "grade": 4,
   "mode": "practice",
-  "title": "Light and Sound Practice Test",
-  "topic": "Light and Sound",
+  "title": "Animals Practice",
+  "topic": "Animals",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "Light and Sound"
+      "Animals"
     ],
     "difficultyMix": {
       "easy": 15,

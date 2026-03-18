@@ -1,0 +1,702 @@
+[
+  {
+    "id": "nso-g3-living-and-non-living-0001",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Housing, Clothing and Occupation",
+    "subtopic": "Housing, Clothing and Occupation",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which of these is a living thing?",
+    "image": "",
+    "options": [
+      "Stone",
+      "Tree",
+      "Chair",
+      "Book"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trees are living - they grow and need food.",
+    "tags": [
+      "living-and-non-living",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-living-and-non-living-0002",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Housing, Clothing and Occupation",
+    "subtopic": "Housing, Clothing and Occupation",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which of these is non-living?",
+    "image": "",
+    "options": [
+      "Dog",
+      "Plant",
+      "Rock",
+      "Bird"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Rocks are non-living - they do not grow.",
+    "tags": [
+      "living-and-non-living",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-living-and-non-living-0003",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Housing, Clothing and Occupation",
+    "subtopic": "Housing, Clothing and Occupation",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Do living things need food?",
+    "image": "",
+    "options": [
+      "No",
+      "Yes",
+      "Sometimes",
+      "Never"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Living things need food to grow and stay alive.",
+    "tags": [
+      "living-and-non-living",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-living-and-non-living-0004",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Housing, Clothing and Occupation",
+    "subtopic": "Housing, Clothing and Occupation",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which can grow?",
+    "image": "",
+    "options": [
+      "Table",
+      "Car",
+      "Flower",
+      "Spoon"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Flowers are living and can grow.",
+    "tags": [
+      "living-and-non-living",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-living-and-non-living-0005",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Housing, Clothing and Occupation",
+    "subtopic": "Housing, Clothing and Occupation",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which does NOT need water?",
+    "image": "",
+    "options": [
+      "Plant",
+      "Animal",
+      "Stone",
+      "Human"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Stones are non-living and do not need water.",
+    "tags": [
+      "living-and-non-living",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-living-and-non-living-0006",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Housing, Clothing and Occupation",
+    "subtopic": "Housing, Clothing and Occupation",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Living things can ___.",
+    "image": "",
+    "options": [
+      "Grow",
+      "Stay the same forever",
+      "Never change",
+      "Be made of plastic"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Living things grow and change.",
+    "tags": [
+      "living-and-non-living",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-living-and-non-living-0007",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Housing, Clothing and Occupation",
+    "subtopic": "Housing, Clothing and Occupation",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is living?",
+    "image": "",
+    "options": [
+      "Toy",
+      "Cat",
+      "Ball",
+      "Pen"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cats are living animals.",
+    "tags": [
+      "living-and-non-living",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-living-and-non-living-0008",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Housing, Clothing and Occupation",
+    "subtopic": "Housing, Clothing and Occupation",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is non-living?",
+    "image": "",
+    "options": [
+      "Fish",
+      "Butterfly",
+      "Pencil",
+      "Frog"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A pencil is a non-living object.",
+    "tags": [
+      "living-and-non-living",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-living-and-non-living-0009",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Housing, Clothing and Occupation",
+    "subtopic": "Housing, Clothing and Occupation",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Do plants breathe?",
+    "image": "",
+    "options": [
+      "No",
+      "Yes",
+      "Only at night",
+      "Never"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Plants take in air through their leaves.",
+    "tags": [
+      "living-and-non-living",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-living-and-non-living-0010",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Housing, Clothing and Occupation",
+    "subtopic": "Housing, Clothing and Occupation",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which needs air to live?",
+    "image": "",
+    "options": [
+      "Stone",
+      "Human",
+      "Plastic",
+      "Metal"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Humans need air to breathe.",
+    "tags": [
+      "living-and-non-living",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-living-and-non-living-0011",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Housing, Clothing and Occupation",
+    "subtopic": "Housing, Clothing and Occupation",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Can a non-living thing reproduce?",
+    "image": "",
+    "options": [
+      "Yes",
+      "No",
+      "Sometimes",
+      "Only plants"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Non-living things cannot reproduce.",
+    "tags": [
+      "living-and-non-living",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-living-and-non-living-0012",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Housing, Clothing and Occupation",
+    "subtopic": "Housing, Clothing and Occupation",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which moves on its own?",
+    "image": "",
+    "options": [
+      "Chair",
+      "Car",
+      "Dog",
+      "Table"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Dogs are living and can move on their own.",
+    "tags": [
+      "living-and-non-living",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-living-and-non-living-0013",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Housing, Clothing and Occupation",
+    "subtopic": "Housing, Clothing and Occupation",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do living things need?",
+    "image": "",
+    "options": [
+      "Nothing",
+      "Food, water, air",
+      "Only sunlight",
+      "Only soil"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Living things need food, water, and air.",
+    "tags": [
+      "living-and-non-living",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-living-and-non-living-0014",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Housing, Clothing and Occupation",
+    "subtopic": "Housing, Clothing and Occupation",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Is a seed living?",
+    "image": "",
+    "options": [
+      "No",
+      "Yes",
+      "Only when wet",
+      "Never"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Seeds are living - they can grow into plants.",
+    "tags": [
+      "living-and-non-living",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-living-and-non-living-0015",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Housing, Clothing and Occupation",
+    "subtopic": "Housing, Clothing and Occupation",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is made by nature and is living?",
+    "image": "",
+    "options": [
+      "Plastic",
+      "Tree",
+      "Glass",
+      "Paper"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trees are natural and living.",
+    "tags": [
+      "living-and-non-living",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-living-and-non-living-0016",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Housing, Clothing and Occupation",
+    "subtopic": "Housing, Clothing and Occupation",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Do non-living things grow?",
+    "image": "",
+    "options": [
+      "Yes, always",
+      "No",
+      "Only rocks",
+      "Only when wet"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Non-living things do not grow.",
+    "tags": [
+      "living-and-non-living",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-living-and-non-living-0017",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Housing, Clothing and Occupation",
+    "subtopic": "Housing, Clothing and Occupation",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which responds to touch?",
+    "image": "",
+    "options": [
+      "Stone",
+      "Plant",
+      "Plastic",
+      "Wood"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Plants can respond to touch (e.g. touch-me-not).",
+    "tags": [
+      "living-and-non-living",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-living-and-non-living-0018",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Housing, Clothing and Occupation",
+    "subtopic": "Housing, Clothing and Occupation",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Living things ___.",
+    "image": "",
+    "options": [
+      "Never change",
+      "Grow and reproduce",
+      "Stay small",
+      "Do not need food"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Living things grow and can reproduce.",
+    "tags": [
+      "living-and-non-living",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-living-and-non-living-0019",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Housing, Clothing and Occupation",
+    "subtopic": "Housing, Clothing and Occupation",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which of these is NOT living?",
+    "image": "",
+    "options": [
+      "Ant",
+      "Spider",
+      "Key",
+      "Bee"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A key is a non-living object.",
+    "tags": [
+      "living-and-non-living",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-living-and-non-living-0020",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Housing, Clothing and Occupation",
+    "subtopic": "Housing, Clothing and Occupation",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Can we make living things in a factory?",
+    "image": "",
+    "options": [
+      "Yes",
+      "No",
+      "Only plants",
+      "Only animals"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Living things come from other living things.",
+    "tags": [
+      "living-and-non-living",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-living-and-non-living-0021",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Housing, Clothing and Occupation",
+    "subtopic": "Housing, Clothing and Occupation",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which needs sunlight?",
+    "image": "",
+    "options": [
+      "Stone",
+      "Plant",
+      "Shoe",
+      "Book"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Plants need sunlight to make food.",
+    "tags": [
+      "living-and-non-living",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-living-and-non-living-0022",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Housing, Clothing and Occupation",
+    "subtopic": "Housing, Clothing and Occupation",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Do animals need food?",
+    "image": "",
+    "options": [
+      "No",
+      "Yes",
+      "Only sometimes",
+      "Never"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Animals need food for energy.",
+    "tags": [
+      "living-and-non-living",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-living-and-non-living-0023",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Housing, Clothing and Occupation",
+    "subtopic": "Housing, Clothing and Occupation",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which reproduces?",
+    "image": "",
+    "options": [
+      "Chair",
+      "Plant",
+      "Toy",
+      "Car"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Plants can reproduce (seeds, etc.).",
+    "tags": [
+      "living-and-non-living",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-living-and-non-living-0024",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Housing, Clothing and Occupation",
+    "subtopic": "Housing, Clothing and Occupation",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Is water living?",
+    "image": "",
+    "options": [
+      "Yes",
+      "No",
+      "Sometimes",
+      "Only in rivers"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Water is non-living - it does not grow.",
+    "tags": [
+      "living-and-non-living",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-living-and-non-living-0025",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Housing, Clothing and Occupation",
+    "subtopic": "Housing, Clothing and Occupation",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which excretes waste?",
+    "image": "",
+    "options": [
+      "Stone",
+      "Human",
+      "Plastic",
+      "Metal"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Living things like humans excrete waste.",
+    "tags": [
+      "living-and-non-living",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "packId": "nso-grade7-plants-practice-01",
+  "exam": "nso",
+  "grade": 7,
+  "mode": "practice",
+  "title": "Reproduction in Plants Practice",
+  "topic": "Reproduction in Plants",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Reproduction in Plants"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

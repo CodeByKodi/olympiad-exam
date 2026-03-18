@@ -40,10 +40,12 @@ function topicToSlug(topic) {
       t.includes('mensuration')) return 'measurement';
   if (t.includes('money')) return 'money';
   if (t.includes('data') || t.includes('pictograph') || t.includes('statistics') ||
-      t.includes('handling')) return 'data-handling';
+      t.includes('handling') || t.includes('probability')) return 'data-handling';
+  if (t.includes('comparing quantities') || t.includes('direct and inverse proportion') ||
+      (t.includes('percent') && !t.includes('algebra'))) return 'percentages-and-ratios';
   if (t.includes('algebra') || t.includes('polynomial') || t.includes('equation') ||
       t.includes('exponent') || t.includes('factorisation') || t.includes('expression') ||
-      t.includes('comparing quantities') || t.includes('proportion') || t.includes('graph')) return 'algebra';
+      t.includes('proportion') || t.includes('graph') || t.includes('relations and functions')) return 'algebra';
   if (t.includes('trigonometry') || t.includes('trig')) return 'trigonometry';
   if (t.includes('set') || t.includes('relation') || t.includes('function') ||
       t.includes('sequence') || t.includes('series') || t.includes('permutation') ||
@@ -54,7 +56,7 @@ function topicToSlug(topic) {
       t.includes('determinant') || t.includes('matrix') || t.includes('matrices') ||
       t.includes('differentiation') || t.includes('integration') || t.includes('derivative') ||
       t.includes('differential equation') || t.includes('linear programming') ||
-      t.includes('vector') || t.includes('probability') || t.includes('inverse trigonometric')) return 'advanced-math';
+      t.includes('vector') || t.includes('calculus') || t.includes('inverse trigonometric')) return 'advanced-math';
   if (t.includes('geometr') || t.includes('shape') || t.includes('solid') || t.includes('line') ||
       t.includes('angle') || t.includes('symmetry') || t.includes('triangle') ||
       t.includes('quadrilateral') || t.includes('circle') || t.includes('construction') ||
@@ -117,7 +119,7 @@ function main() {
   const allTemplates = JSON.parse(readFileSync(TEMPLATES_PATH, 'utf-8'));
 
   const FALLBACK_SLUG = 'logical-reasoning';
-  const SLUG_ALIASES = { geometry: 'shapes', 'fractions-and-decimals': 'fractions' };
+  const SLUG_ALIASES = { geometry: 'shapes', 'fractions-and-decimals': 'fractions', 'percentages-and-ratios': 'percentages-and-ratios' };
   const getTemplates = (slug) => {
     const key = SLUG_ALIASES[slug] || slug;
     return allTemplates[key] || allTemplates[FALLBACK_SLUG] || [];

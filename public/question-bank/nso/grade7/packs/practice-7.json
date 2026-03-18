@@ -1,0 +1,20 @@
+{
+  "packId": "nso-grade7-air-and-water-practice-01",
+  "exam": "nso",
+  "grade": 7,
+  "mode": "practice",
+  "title": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story) Practice",
+  "topic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

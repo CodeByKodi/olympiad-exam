@@ -1,0 +1,571 @@
+{
+  "exam_name": "National Science Olympiad",
+  "sections_overview": [
+    {
+      "code": "S1",
+      "name": "Logical Reasoning Section",
+      "description": "Questions related to Verbal and Non-Verbal Reasoning."
+    },
+    {
+      "code": "S2",
+      "name": "Science Section",
+      "description": "Covers relevant topics and sub-topics of current and previous class science syllabus."
+    },
+    {
+      "code": "S3",
+      "name": "Achiever's Section",
+      "description": "Contains Higher Order Thinking Questions of the same topics as in Section 2."
+    }
+  ],
+  "exam_pattern_notes": [
+    "In NSO Level-1 exam, 60% of the questions will be from the current class syllabus and 40% from the previous class syllabus.",
+    "Questions in Achiever's Section will be from the current class syllabus only."
+  ],
+  "classes": [
+    {
+      "class_name": "Class 1",
+      "grade": 1,
+      "sections": [
+        {
+          "section_name": "Section-1",
+          "section_title": "Logical Reasoning",
+          "topics": [
+            "Patterns",
+            "Odd One Out",
+            "Measuring Units",
+            "Geometrical Shapes",
+            "Spatial Understanding",
+            "Grouping of Figures",
+            "Analogy",
+            "Ranking Test",
+            "Problems based on Figures"
+          ]
+        },
+        {
+          "section_name": "Section-2",
+          "section_title": "Science",
+          "topics": [
+            "Living and Non-living Things",
+            "Plants",
+            "Animals",
+            "Human Beings and Their Needs",
+            "Good Habits and Safety Rules",
+            "Air and Water",
+            "Weather and The Sky"
+          ]
+        },
+        {
+          "section_name": "Section-3",
+          "section_title": "Achiever's Section",
+          "notes": "Higher Order Thinking Questions - Syllabus as per Section 2.",
+          "topics": []
+        }
+      ]
+    },
+    {
+      "class_name": "Class 2",
+      "grade": 2,
+      "sections": [
+        {
+          "section_name": "Section-1",
+          "section_title": "Logical Reasoning",
+          "topics": [
+            "Patterns",
+            "Odd One Out",
+            "Measuring Units",
+            "Geometrical Shapes",
+            "Analogy",
+            "Ranking Test",
+            "Grouping of Figures",
+            "Embedded Figures",
+            "Coding-Decoding"
+          ]
+        },
+        {
+          "section_name": "Section-2",
+          "section_title": "Science",
+          "topics": [
+            "Plants",
+            "Animals",
+            "Human Body",
+            "Food",
+            "Housing and Clothing",
+            "Family and Festivals",
+            "Good Habits and Safety Rules",
+            "Transport and Communication",
+            "Air, Water and Rocks",
+            "Earth and Universe"
+          ]
+        },
+        {
+          "section_name": "Section-3",
+          "section_title": "Achiever's Section",
+          "notes": "Higher Order Thinking Questions - Syllabus as per Section 2.",
+          "topics": []
+        }
+      ]
+    },
+    {
+      "class_name": "Class 3",
+      "grade": 3,
+      "sections": [
+        {
+          "section_name": "Section-1",
+          "section_title": "Logical Reasoning",
+          "topics": [
+            "Patterns",
+            "Analogy and Classification",
+            "Alphabet Test",
+            "Coding-Decoding",
+            "Ranking Test",
+            "Grouping of Figures and Figure Matrix",
+            "Mirror Images",
+            "Geometrical Shapes",
+            "Embedded Figures",
+            "Possible Combinations",
+            "Clock and Calendar"
+          ]
+        },
+        {
+          "section_name": "Section-2",
+          "section_title": "Science",
+          "topics": [
+            "Plants and Animals",
+            "Birds",
+            "Food",
+            "Housing, Clothing and Occupation",
+            "Transport, Communication and Safety Rules",
+            "Human Body",
+            "Earth and Universe",
+            "Matter and Materials",
+            "Light, Sound and Force",
+            "Our Environment"
+          ]
+        },
+        {
+          "section_name": "Section-3",
+          "section_title": "Achiever's Section",
+          "notes": "Higher Order Thinking Questions - Syllabus as per Section 2.",
+          "topics": []
+        }
+      ]
+    },
+    {
+      "class_name": "Class 4",
+      "grade": 4,
+      "sections": [
+        {
+          "section_name": "Section-1",
+          "section_title": "Logical Reasoning",
+          "topics": [
+            "Patterns",
+            "Alphabet Test",
+            "Coding-Decoding",
+            "Ranking Test",
+            "Mirror Images",
+            "Geometrical Shapes and Solids",
+            "Embedded Figures",
+            "Direction Sense Test",
+            "Possible Combinations",
+            "Analogy and Classification",
+            "Clock and Calendar"
+          ]
+        },
+        {
+          "section_name": "Section-2",
+          "section_title": "Science",
+          "topics": [
+            "Plants",
+            "Animals",
+            "Food and Digestion",
+            "Human Needs",
+            "Matter and Materials",
+            "Force, Work and Energy",
+            "Our Environment",
+            "Earth and Universe"
+          ]
+        },
+        {
+          "section_name": "Section-3",
+          "section_title": "Achiever's Section",
+          "notes": "Higher Order Thinking Questions - Syllabus as per Section 2.",
+          "topics": []
+        }
+      ]
+    },
+    {
+      "class_name": "Class 5",
+      "grade": 5,
+      "sections": [
+        {
+          "section_name": "Section-1",
+          "section_title": "Logical Reasoning",
+          "topics": [
+            "Patterns",
+            "Analogy and Classification",
+            "Geometrical Shapes",
+            "Mirror and Water Images",
+            "Direction Sense Test",
+            "Ranking Test",
+            "Alphabet Test",
+            "Logical Sequence of Words",
+            "Puzzle Test",
+            "Coding-Decoding",
+            "Clock and Calendar"
+          ]
+        },
+        {
+          "section_name": "Section-2",
+          "section_title": "Science",
+          "topics": [
+            "Animals",
+            "Human Body and Health",
+            "Plants",
+            "Natural Resources and Indian Heritage",
+            "Pollution and Calamities",
+            "Earth and Universe",
+            "Matter and Materials",
+            "Force and Energy"
+          ]
+        },
+        {
+          "section_name": "Section-3",
+          "section_title": "Achiever's Section",
+          "notes": "Higher Order Thinking Questions - Syllabus as per Section 2.",
+          "topics": []
+        }
+      ]
+    },
+    {
+      "class_name": "Class 6",
+      "grade": 6,
+      "sections": [
+        {
+          "section_name": "Section-1",
+          "section_title": "Logical Reasoning",
+          "topics": ["Verbal and Non-Verbal Reasoning"]
+        },
+        {
+          "section_name": "Section-2",
+          "section_title": "Science",
+          "topics": [
+            "Food and its Components",
+            "Materials Around Us",
+            "States of Water",
+            "Methods of Separation",
+            "The World of Living (Parts of Plants, Grouping of Plants and Animals, Adaptations in Plants and Animals, Characteristics of Living Beings, Life Cycle of Plants and Animals)",
+            "Exploring Magnets",
+            "Measurement of Length and Motion",
+            "Temperature and its Measurement",
+            "Beyond Earth",
+            "Natural Resources (Air, Water, Forests, Sun: The Source of Energy, Soil, Rocks and Minerals, Fossil Fuels, Renewable and Non-Renewable Resources)"
+          ]
+        },
+        {
+          "section_name": "Section-3",
+          "section_title": "Achiever's Section",
+          "notes": "Higher Order Thinking Questions - Syllabus as per Section 2.",
+          "topics": []
+        }
+      ]
+    },
+    {
+      "class_name": "Class 7",
+      "grade": 7,
+      "sections": [
+        {
+          "section_name": "Section-1",
+          "section_title": "Logical Reasoning",
+          "topics": ["Verbal and Non-Verbal Reasoning"]
+        },
+        {
+          "section_name": "Section-2",
+          "section_title": "Science",
+          "topics": [
+            "Heat",
+            "Motion and Time",
+            "Electric Current and its Effects",
+            "Light",
+            "Acids, Bases and Salts",
+            "Physical and Chemical Changes",
+            "Nutrition in Plants and Animals",
+            "Respiration in Organisms",
+            "Transportation in Plants and Animals",
+            "Reproduction in Plants",
+            "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)"
+          ]
+        },
+        {
+          "section_name": "Section-3",
+          "section_title": "Achiever's Section",
+          "notes": "Higher Order Thinking Questions - Syllabus as per Section 2.",
+          "topics": []
+        }
+      ]
+    },
+    {
+      "class_name": "Class 8",
+      "grade": 8,
+      "sections": [
+        {
+          "section_name": "Section-1",
+          "section_title": "Logical Reasoning",
+          "topics": ["Verbal and Non-Verbal Reasoning"]
+        },
+        {
+          "section_name": "Section-2",
+          "section_title": "Science",
+          "topics": [
+            "Crop Production and Management",
+            "Microorganisms",
+            "Coal and Petroleum",
+            "Combustion and Flame",
+            "Conservation of Plants and Animals",
+            "Reproduction and Endocrine System",
+            "Force and Pressure",
+            "Friction",
+            "Sound",
+            "Chemical Effects of Electric Current",
+            "Some Natural Phenomena",
+            "Light"
+          ]
+        },
+        {
+          "section_name": "Section-3",
+          "section_title": "Achiever's Section",
+          "notes": "Higher Order Thinking Questions - Syllabus as per Section 2.",
+          "topics": []
+        }
+      ]
+    },
+    {
+      "class_name": "Class 9",
+      "grade": 9,
+      "sections": [
+        {
+          "section_name": "Section-1",
+          "section_title": "Logical Reasoning",
+          "topics": ["Verbal and Non-Verbal Reasoning"]
+        },
+        {
+          "section_name": "Section-2",
+          "section_title": "Science",
+          "topics": [
+            "Motion",
+            "Force and Laws of Motion",
+            "Gravitation",
+            "Work and Energy",
+            "Sound",
+            "Matter in Our Surroundings",
+            "Is Matter Around Us Pure",
+            "Atoms and Molecules",
+            "Structure of the Atom",
+            "Cell-The Fundamental Unit of Life",
+            "Tissues",
+            "Natural Resources",
+            "Improvement in Food Resources"
+          ]
+        },
+        {
+          "section_name": "Section-3",
+          "section_title": "Achiever's Section",
+          "notes": "Higher Order Thinking Questions - Syllabus as per Section 2.",
+          "topics": []
+        }
+      ]
+    },
+    {
+      "class_name": "Class 10",
+      "grade": 10,
+      "sections": [
+        {
+          "section_name": "Section-1",
+          "section_title": "Logical Reasoning",
+          "topics": ["Verbal and Non-Verbal Reasoning"]
+        },
+        {
+          "section_name": "Section-2",
+          "section_title": "Science",
+          "topics": [
+            "Chemical Reactions and Equations",
+            "Acids, Bases and Salts",
+            "Metals and Non-metals",
+            "Carbon and Its Compounds",
+            "Life Processes",
+            "Control and Coordination",
+            "Reproduction in Organisms",
+            "Heredity",
+            "Light-Reflection and Refraction",
+            "The Human Eye and the Colourful World",
+            "Electricity",
+            "Magnetic Effects of Electric Current",
+            "Our Environment and Its Management"
+          ]
+        },
+        {
+          "section_name": "Section-3",
+          "section_title": "Achiever's Section",
+          "notes": "Higher Order Thinking Questions - Syllabus as per Section 2.",
+          "topics": []
+        }
+      ]
+    },
+    {
+      "class_name": "Class 11",
+      "grade": 11,
+      "sections": [
+        {
+          "section_name": "Section-1",
+          "section_title": "Logical Reasoning",
+          "subsections": [
+            {
+              "subject": "Physics",
+              "topics": [
+                "Units and Measurements",
+                "Mechanics",
+                "Properties of Matter",
+                "Heat and Thermodynamics",
+                "Oscillations",
+                "Waves"
+              ]
+            },
+            {
+              "subject": "Chemistry",
+              "topics": [
+                "Some Basic Concepts of Chemistry",
+                "Structure of Atom",
+                "Classification of Elements and Periodicity in Properties",
+                "Chemical Bonding and Molecular Structure",
+                "Thermodynamics",
+                "Equilibrium",
+                "Redox Reactions",
+                "Organic Chemistry - Some Basic Principles and Techniques",
+                "Hydrocarbons"
+              ]
+            }
+          ]
+        },
+        {
+          "section_name": "Section-2",
+          "section_title": "Achiever's Section",
+          "notes": "Higher Order Thinking Questions - Syllabus as per Section 1.",
+          "topics": []
+        },
+        {
+          "section_name": "Section-3",
+          "section_title": "Section 3",
+          "section_3_options": [
+            {
+              "option_name": "Option 1",
+              "topics": [
+                "Sets",
+                "Relations and Functions",
+                "Logarithms",
+                "Complex Numbers",
+                "Linear Inequalities",
+                "Sequences and Series",
+                "Trigonometry",
+                "Straight Lines",
+                "Conic Sections",
+                "Permutations and Combinations",
+                "Binomial Theorem",
+                "Statistics",
+                "Limits and Derivatives",
+                "Probability",
+                "Introduction to 3-D Geometry"
+              ]
+            },
+            {
+              "option_name": "Option 2",
+              "topics": [
+                "Diversity in the Living World",
+                "Structural Organisation in Plants and Animals",
+                "Cell: Structure and Functions",
+                "Plant Physiology",
+                "Human Physiology"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "class_name": "Class 12",
+      "grade": 12,
+      "sections": [
+        {
+          "section_name": "Section-1",
+          "section_title": "Logical Reasoning",
+          "subsections": [
+            {
+              "subject": "Physics",
+              "topics": [
+                "Electricity and Magnetism",
+                "Electromagnetic Induction",
+                "Alternating Current",
+                "Electromagnetic Waves",
+                "Optics",
+                "Modern Physics",
+                "Semiconductor Electronics"
+              ]
+            },
+            {
+              "subject": "Chemistry",
+              "topics": [
+                "Solutions",
+                "Electrochemistry",
+                "Chemical Kinetics",
+                "The d-and f-Block Elements",
+                "Coordination Compounds",
+                "Haloalkanes and Haloarenes",
+                "Alcohols, Phenols and Ethers",
+                "Aldehydes, Ketones and Carboxylic Acids",
+                "Amines",
+                "Biomolecules"
+              ]
+            }
+          ]
+        },
+        {
+          "section_name": "Section-2",
+          "section_title": "Achiever's Section",
+          "notes": "Higher Order Thinking Questions - Syllabus as per Section 1.",
+          "topics": []
+        },
+        {
+          "section_name": "Section-3",
+          "section_title": "Section 3",
+          "section_3_options": [
+            {
+              "option_name": "Option 1",
+              "topics": [
+                "Relations and Functions",
+                "Inverse Trigonometric Functions",
+                "Matrices and Determinants",
+                "Continuity and Differentiability",
+                "Application of Derivatives",
+                "Integrals",
+                "Application of Integrals",
+                "Differential Equations",
+                "Vector Algebra",
+                "Three Dimensional Geometry",
+                "Probability",
+                "Linear Programming"
+              ]
+            },
+            {
+              "option_name": "Option 2",
+              "topics": [
+                "Reproduction",
+                "Genetics and Evolution",
+                "Biology in Human Welfare",
+                "Biotechnology",
+                "Ecology"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

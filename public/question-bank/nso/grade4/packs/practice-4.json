@@ -1,15 +1,15 @@
 {
-  "packId": "nso-grade4-energy-practice-01",
+  "packId": "nso-grade4-food-practice-01",
   "exam": "nso",
   "grade": 4,
   "mode": "practice",
-  "title": "Energy Practice Test",
-  "topic": "Energy",
+  "title": "Food and Digestion Practice",
+  "topic": "Food and Digestion",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "Energy"
+      "Food and Digestion"
     ],
     "difficultyMix": {
       "easy": 15,

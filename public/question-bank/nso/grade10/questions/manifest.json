@@ -1,8 +1,10 @@
 {
   "files": [
-    "physics-basics.json",
-    "chemistry-basics.json",
-    "biology-basics.json",
-    "earth-and-environment.json"
+    "logical-reasoning.json",
+    "matter-and-materials.json",
+    "force-and-energy.json",
+    "human-body.json",
+    "earth-and-universe.json",
+    "our-environment.json"
   ]
 }

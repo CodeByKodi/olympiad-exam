@@ -1,15 +1,15 @@
 {
-  "packId": "imo-grade12-algebra-practice-01",
+  "packId": "imo-grade12-advanced-math-practice-01",
   "exam": "imo",
   "grade": 12,
   "mode": "practice",
-  "title": "Differential Equations Practice",
-  "topic": "Differential Equations",
+  "title": "Matrices and Determinants Practice",
+  "topic": "Matrices and Determinants",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "Differential Equations"
+      "Matrices and Determinants"
     ],
     "difficultyMix": {
       "easy": 15,

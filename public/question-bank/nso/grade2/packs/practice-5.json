@@ -1,0 +1,20 @@
+{
+  "packId": "nso-grade2-food-practice-01",
+  "exam": "nso",
+  "grade": 2,
+  "mode": "practice",
+  "title": "Food Practice",
+  "topic": "Food",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Food"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

@@ -1,0 +1,702 @@
+[
+  {
+    "id": "igko-g11-symbols-0001",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Symbols",
+    "subtopic": "Symbols Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What does the white colour in the Indian flag represent?",
+    "image": "",
+    "options": [
+      "Courage",
+      "Peace and truth",
+      "Growth",
+      "Sacrifice"
+    ],
+    "correctAnswer": 1,
+    "explanation": "White represents peace and truth.",
+    "tags": [
+      "symbols",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-symbols-0002",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Symbols",
+    "subtopic": "Symbols Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do the five Olympic rings represent?",
+    "image": "",
+    "options": [
+      "Five sports",
+      "Five continents",
+      "Five colours",
+      "Five countries"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The rings represent five continents.",
+    "tags": [
+      "symbols",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-symbols-0003",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Symbols",
+    "subtopic": "Symbols Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the national emblem of India?",
+    "image": "",
+    "options": [
+      "Lotus",
+      "Ashoka Chakra",
+      "Lion Capital",
+      "Peacock"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Lion Capital is the national emblem.",
+    "tags": [
+      "symbols",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-symbols-0004",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Symbols",
+    "subtopic": "Symbols Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What does the red cross symbol mean?",
+    "image": "",
+    "options": [
+      "Hospital",
+      "Medical aid",
+      "Danger",
+      "Stop"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Red cross indicates medical aid.",
+    "tags": [
+      "symbols",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-symbols-0005",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Symbols",
+    "subtopic": "Symbols Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What does a dove often symbolise?",
+    "image": "",
+    "options": [
+      "War",
+      "Peace",
+      "Strength",
+      "Speed"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A dove symbolises peace.",
+    "tags": [
+      "symbols",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-symbols-0006",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Symbols",
+    "subtopic": "Symbols Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What does the symbol @ mean in email?",
+    "image": "",
+    "options": [
+      "And",
+      "At",
+      "About",
+      "Around"
+    ],
+    "correctAnswer": 1,
+    "explanation": "@ means \"at\" in email addresses.",
+    "tags": [
+      "symbols",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-symbols-0007",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Symbols",
+    "subtopic": "Symbols Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What does the recycling symbol show?",
+    "image": "",
+    "options": [
+      "Three arrows in a loop",
+      "A tree",
+      "A bin",
+      "Water"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Three arrows in a loop indicate recycling.",
+    "tags": [
+      "symbols",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-symbols-0008",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Symbols",
+    "subtopic": "Symbols Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What does the heart symbol usually mean?",
+    "image": "",
+    "options": [
+      "Health",
+      "Love",
+      "Courage",
+      "Strength"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Heart symbolises love.",
+    "tags": [
+      "symbols",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-symbols-0009",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Symbols",
+    "subtopic": "Symbols Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What does the skull and crossbones warn about?",
+    "image": "",
+    "options": [
+      "Medicine",
+      "Poison or danger",
+      "Pirates only",
+      "History"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Skull and crossbones warn of poison.",
+    "tags": [
+      "symbols",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-symbols-0010",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Symbols",
+    "subtopic": "Symbols Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What does the green light in a traffic signal mean?",
+    "image": "",
+    "options": [
+      "Stop",
+      "Go",
+      "Slow down",
+      "Wait"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Green means go.",
+    "tags": [
+      "symbols",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-symbols-0011",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Symbols",
+    "subtopic": "Symbols Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What does the saffron in the Indian flag represent?",
+    "image": "",
+    "options": [
+      "Peace",
+      "Courage and sacrifice",
+      "Growth",
+      "Prosperity"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Saffron represents courage and sacrifice.",
+    "tags": [
+      "symbols",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-symbols-0012",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Symbols",
+    "subtopic": "Symbols Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What does the green in the Indian flag represent?",
+    "image": "",
+    "options": [
+      "Courage",
+      "Peace",
+      "Growth and fertility",
+      "Truth"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Green represents growth and fertility.",
+    "tags": [
+      "symbols",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-symbols-0013",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Symbols",
+    "subtopic": "Symbols Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What does the Ashoka Chakra have?",
+    "image": "",
+    "options": [
+      "8 spokes",
+      "12 spokes",
+      "24 spokes",
+      "32 spokes"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ashoka Chakra has 24 spokes.",
+    "tags": [
+      "symbols",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-symbols-0014",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Symbols",
+    "subtopic": "Symbols Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What does a white flag often mean?",
+    "image": "",
+    "options": [
+      "Victory",
+      "Surrender or truce",
+      "Peace only",
+      "War"
+    ],
+    "correctAnswer": 1,
+    "explanation": "White flag can mean surrender or truce.",
+    "tags": [
+      "symbols",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-symbols-0015",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Symbols",
+    "subtopic": "Symbols Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What does the symbol % mean?",
+    "image": "",
+    "options": [
+      "Division",
+      "Percent",
+      "Multiply",
+      "Addition"
+    ],
+    "correctAnswer": 1,
+    "explanation": "% means percent.",
+    "tags": [
+      "symbols",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-symbols-0016",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Symbols",
+    "subtopic": "Symbols Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What does the symbol + mean?",
+    "image": "",
+    "options": [
+      "Minus",
+      "Plus or add",
+      "Multiply",
+      "Divide"
+    ],
+    "correctAnswer": 1,
+    "explanation": "+ means plus or add.",
+    "tags": [
+      "symbols",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-symbols-0017",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Symbols",
+    "subtopic": "Symbols Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What does the symbol = mean?",
+    "image": "",
+    "options": [
+      "Approximately",
+      "Equals",
+      "Greater than",
+      "Less than"
+    ],
+    "correctAnswer": 1,
+    "explanation": "= means equals.",
+    "tags": [
+      "symbols",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-symbols-0018",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Symbols",
+    "subtopic": "Symbols Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What does a red octagon usually mean?",
+    "image": "",
+    "options": [
+      "Go",
+      "Stop",
+      "Slow",
+      "Caution"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Red octagon means stop.",
+    "tags": [
+      "symbols",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-symbols-0019",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Symbols",
+    "subtopic": "Symbols Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What does the infinity symbol look like?",
+    "image": "",
+    "options": [
+      "A circle",
+      "A figure 8 on its side",
+      "A spiral",
+      "A star"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Infinity is a sideways figure 8.",
+    "tags": [
+      "symbols",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-symbols-0020",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Symbols",
+    "subtopic": "Symbols Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What does the symbol $ represent?",
+    "image": "",
+    "options": [
+      "Euro",
+      "Dollar",
+      "Pound",
+      "Rupee"
+    ],
+    "correctAnswer": 1,
+    "explanation": "$ represents dollar.",
+    "tags": [
+      "symbols",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-symbols-0021",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Symbols",
+    "subtopic": "Symbols Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What does the symbol € represent?",
+    "image": "",
+    "options": [
+      "Dollar",
+      "Pound",
+      "Euro",
+      "Yen"
+    ],
+    "correctAnswer": 2,
+    "explanation": "€ represents euro.",
+    "tags": [
+      "symbols",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-symbols-0022",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Symbols",
+    "subtopic": "Symbols Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What does the symbol ₹ represent?",
+    "image": "",
+    "options": [
+      "Dollar",
+      "Pound",
+      "Euro",
+      "Indian Rupee"
+    ],
+    "correctAnswer": 3,
+    "explanation": "₹ represents Indian Rupee.",
+    "tags": [
+      "symbols",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-symbols-0023",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Symbols",
+    "subtopic": "Symbols Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What does a thumbs up usually mean?",
+    "image": "",
+    "options": [
+      "No",
+      "Yes or good",
+      "Maybe",
+      "Stop"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Thumbs up means yes or good.",
+    "tags": [
+      "symbols",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-symbols-0024",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Symbols",
+    "subtopic": "Symbols Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What does the peace symbol represent?",
+    "image": "",
+    "options": [
+      "War",
+      "Peace",
+      "Victory",
+      "Strength"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The peace symbol represents peace.",
+    "tags": [
+      "symbols",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-symbols-0025",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Symbols",
+    "subtopic": "Symbols Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What does the symbol # mean in social media?",
+    "image": "",
+    "options": [
+      "At",
+      "Hashtag",
+      "Number only",
+      "Dollar"
+    ],
+    "correctAnswer": 1,
+    "explanation": "# is used as hashtag in social media.",
+    "tags": [
+      "symbols",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  }
+]

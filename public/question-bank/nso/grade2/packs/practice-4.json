@@ -1,15 +1,15 @@
 {
-  "packId": "nso-grade2-food-and-human-body-practice-01",
+  "packId": "nso-grade2-human-body-practice-01",
   "exam": "nso",
   "grade": 2,
   "mode": "practice",
-  "title": "Food and Human Body Practice Test",
-  "topic": "Food and Human Body",
+  "title": "Human Body Practice",
+  "topic": "Human Body",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "Food and Human Body"
+      "Human Body"
     ],
     "difficultyMix": {
       "easy": 15,

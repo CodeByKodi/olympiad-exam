@@ -3,62 +3,8 @@
     "id": "nso-g1-living-and-non-living-0001",
     "exam": "nso",
     "grade": "1",
-    "topic": "Living and Non-living",
-    "subtopic": "Living Things",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "Which part of a plant absorbs water from the soil?",
-    "image": "",
-    "options": [
-      "Leaf",
-      "Flower",
-      "Root",
-      "Stem"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Roots absorb water and minerals from the soil.",
-    "tags": [
-      "plants-and-animals",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "nso-g1-living-and-non-living-0002",
-    "exam": "nso",
-    "grade": "1",
-    "topic": "Living and Non-living",
-    "subtopic": "Living Things",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "What do we call a baby frog?",
-    "image": "",
-    "options": [
-      "Puppy",
-      "Tadpole",
-      "Cub",
-      "Chick"
-    ],
-    "correctAnswer": 1,
-    "explanation": "A baby frog is called a tadpole.",
-    "tags": [
-      "plants-and-animals",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "nso-g1-living-and-non-living-0003",
-    "exam": "nso",
-    "grade": "1",
-    "topic": "Living and Non-living",
-    "subtopic": "Living Things",
+    "topic": "Living and Non-living Things",
+    "subtopic": "Living and Non-living Things",
     "difficulty": "easy",
     "modes": [
       "practice",
@@ -67,746 +13,690 @@
     "questionText": "Which of these is a living thing?",
     "image": "",
     "options": [
-      "Rock",
-      "Table",
+      "Stone",
       "Tree",
-      "Chair"
+      "Chair",
+      "Book"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trees are living - they grow and need food.",
+    "tags": [
+      "living-and-non-living",
+      "nso",
+      "grade1"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g1-living-and-non-living-0002",
+    "exam": "nso",
+    "grade": "1",
+    "topic": "Living and Non-living Things",
+    "subtopic": "Living and Non-living Things",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which of these is non-living?",
+    "image": "",
+    "options": [
+      "Dog",
+      "Plant",
+      "Rock",
+      "Bird"
     ],
     "correctAnswer": 2,
-    "explanation": "Trees are living things that grow and need food, water, and air.",
+    "explanation": "Rocks are non-living - they do not grow.",
     "tags": [
-      "plants-and-animals",
-      "grade3"
+      "living-and-non-living",
+      "nso",
+      "grade1"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g1-living-and-non-living-0003",
+    "exam": "nso",
+    "grade": "1",
+    "topic": "Living and Non-living Things",
+    "subtopic": "Living and Non-living Things",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Do living things need food?",
+    "image": "",
+    "options": [
+      "No",
+      "Yes",
+      "Sometimes",
+      "Never"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Living things need food to grow and stay alive.",
+    "tags": [
+      "living-and-non-living",
+      "nso",
+      "grade1"
+    ],
+    "sourceType": "generated"
   },
   {
     "id": "nso-g1-living-and-non-living-0004",
     "exam": "nso",
     "grade": "1",
-    "topic": "Living and Non-living",
-    "subtopic": "Living Things",
+    "topic": "Living and Non-living Things",
+    "subtopic": "Living and Non-living Things",
     "difficulty": "easy",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "Where do plants make their food?",
+    "questionText": "Which can grow?",
     "image": "",
     "options": [
-      "Roots",
-      "Leaves",
-      "Flowers",
-      "Seeds"
+      "Table",
+      "Car",
+      "Flower",
+      "Spoon"
     ],
-    "correctAnswer": 1,
-    "explanation": "Leaves use sunlight, water, and air to make food for the plant.",
+    "correctAnswer": 2,
+    "explanation": "Flowers are living and can grow.",
     "tags": [
-      "plants-and-animals",
-      "grade3"
+      "living-and-non-living",
+      "nso",
+      "grade1"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
     "id": "nso-g1-living-and-non-living-0005",
     "exam": "nso",
     "grade": "1",
-    "topic": "Living and Non-living",
-    "subtopic": "Living Things",
+    "topic": "Living and Non-living Things",
+    "subtopic": "Living and Non-living Things",
     "difficulty": "easy",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "Which animal gives us eggs?",
+    "questionText": "Which does NOT need water?",
     "image": "",
     "options": [
-      "Cow",
-      "Hen",
-      "Goat",
-      "Dog"
+      "Plant",
+      "Animal",
+      "Stone",
+      "Human"
     ],
-    "correctAnswer": 1,
-    "explanation": "Hens lay eggs that we eat.",
+    "correctAnswer": 2,
+    "explanation": "Stones are non-living and do not need water.",
     "tags": [
-      "plants-and-animals",
-      "grade3"
+      "living-and-non-living",
+      "nso",
+      "grade1"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
     "id": "nso-g1-living-and-non-living-0006",
     "exam": "nso",
     "grade": "1",
-    "topic": "Living and Non-living",
-    "subtopic": "Living Things",
-    "difficulty": "easy",
+    "topic": "Living and Non-living Things",
+    "subtopic": "Living and Non-living Things",
+    "difficulty": "medium",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "What do herbivores eat?",
+    "questionText": "Living things can ___.",
     "image": "",
     "options": [
-      "Only meat",
-      "Only plants",
-      "Both plants and meat",
-      "Nothing"
+      "Grow",
+      "Stay the same forever",
+      "Never change",
+      "Be made of plastic"
     ],
-    "correctAnswer": 1,
-    "explanation": "Herbivores are animals that eat only plants.",
+    "correctAnswer": 0,
+    "explanation": "Living things grow and change.",
     "tags": [
-      "plants-and-animals",
-      "grade3"
+      "living-and-non-living",
+      "nso",
+      "grade1"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
     "id": "nso-g1-living-and-non-living-0007",
     "exam": "nso",
     "grade": "1",
-    "topic": "Living and Non-living",
-    "subtopic": "Living Things",
+    "topic": "Living and Non-living Things",
+    "subtopic": "Living and Non-living Things",
     "difficulty": "easy",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "Which part of a plant holds it upright?",
+    "questionText": "Which is living?",
     "image": "",
     "options": [
-      "Leaf",
-      "Root",
-      "Stem",
-      "Flower"
+      "Toy",
+      "Cat",
+      "Ball",
+      "Pen"
     ],
-    "correctAnswer": 2,
-    "explanation": "The stem holds the plant upright and carries water to the leaves.",
+    "correctAnswer": 1,
+    "explanation": "Cats are living animals.",
     "tags": [
-      "plants-and-animals",
-      "grade3"
+      "living-and-non-living",
+      "nso",
+      "grade1"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
     "id": "nso-g1-living-and-non-living-0008",
     "exam": "nso",
     "grade": "1",
-    "topic": "Living and Non-living",
-    "subtopic": "Living Things",
+    "topic": "Living and Non-living Things",
+    "subtopic": "Living and Non-living Things",
     "difficulty": "easy",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "Where do fish live?",
+    "questionText": "Which is non-living?",
     "image": "",
     "options": [
-      "On land",
-      "In water",
-      "In trees",
-      "Underground"
+      "Fish",
+      "Butterfly",
+      "Pencil",
+      "Frog"
     ],
-    "correctAnswer": 1,
-    "explanation": "Fish live in water. They have gills to breathe underwater.",
+    "correctAnswer": 2,
+    "explanation": "A pencil is a non-living object.",
     "tags": [
-      "plants-and-animals",
-      "grade3"
+      "living-and-non-living",
+      "nso",
+      "grade1"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
     "id": "nso-g1-living-and-non-living-0009",
     "exam": "nso",
     "grade": "1",
-    "topic": "Living and Non-living",
-    "subtopic": "Living Things",
-    "difficulty": "easy",
+    "topic": "Living and Non-living Things",
+    "subtopic": "Living and Non-living Things",
+    "difficulty": "medium",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "Which animal has a shell on its back?",
+    "questionText": "Do plants breathe?",
     "image": "",
     "options": [
-      "Frog",
-      "Snake",
-      "Tortoise",
-      "Rabbit"
+      "No",
+      "Yes",
+      "Only at night",
+      "Never"
     ],
-    "correctAnswer": 2,
-    "explanation": "A tortoise has a hard shell on its back for protection.",
+    "correctAnswer": 1,
+    "explanation": "Plants take in air through their leaves.",
     "tags": [
-      "plants-and-animals",
-      "grade3"
+      "living-and-non-living",
+      "nso",
+      "grade1"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
     "id": "nso-g1-living-and-non-living-0010",
     "exam": "nso",
     "grade": "1",
-    "topic": "Living and Non-living",
-    "subtopic": "Living Things",
+    "topic": "Living and Non-living Things",
+    "subtopic": "Living and Non-living Things",
     "difficulty": "easy",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "What do we call the home of a bird?",
+    "questionText": "Which needs air to live?",
     "image": "",
     "options": [
-      "Den",
-      "Nest",
-      "Hive",
-      "Burrow"
+      "Stone",
+      "Human",
+      "Plastic",
+      "Metal"
     ],
     "correctAnswer": 1,
-    "explanation": "Birds build nests to lay eggs and raise their babies.",
+    "explanation": "Humans need air to breathe.",
     "tags": [
-      "plants-and-animals",
-      "grade3"
+      "living-and-non-living",
+      "nso",
+      "grade1"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
     "id": "nso-g1-living-and-non-living-0011",
     "exam": "nso",
     "grade": "1",
-    "topic": "Living and Non-living",
-    "subtopic": "Living Things",
+    "topic": "Living and Non-living Things",
+    "subtopic": "Living and Non-living Things",
     "difficulty": "easy",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "Which animal can fly?",
+    "questionText": "Can a non-living thing reproduce?",
     "image": "",
     "options": [
-      "Fish",
-      "Elephant",
-      "Butterfly",
-      "Snake"
+      "Yes",
+      "No",
+      "Sometimes",
+      "Only plants"
     ],
-    "correctAnswer": 2,
-    "explanation": "Butterflies have wings and can fly.",
+    "correctAnswer": 1,
+    "explanation": "Non-living things cannot reproduce.",
     "tags": [
-      "plants-and-animals",
-      "grade3"
+      "living-and-non-living",
+      "nso",
+      "grade1"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
     "id": "nso-g1-living-and-non-living-0012",
     "exam": "nso",
     "grade": "1",
-    "topic": "Living and Non-living",
-    "subtopic": "Living Things",
-    "difficulty": "easy",
+    "topic": "Living and Non-living Things",
+    "subtopic": "Living and Non-living Things",
+    "difficulty": "medium",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "What do carnivores eat?",
+    "questionText": "Which moves on its own?",
     "image": "",
     "options": [
-      "Only plants",
-      "Only other animals",
-      "Both plants and animals",
-      "Nothing"
+      "Chair",
+      "Car",
+      "Dog",
+      "Table"
     ],
-    "correctAnswer": 1,
-    "explanation": "Carnivores are animals that eat other animals.",
+    "correctAnswer": 2,
+    "explanation": "Dogs are living and can move on their own.",
     "tags": [
-      "plants-and-animals",
-      "grade3"
+      "living-and-non-living",
+      "nso",
+      "grade1"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
     "id": "nso-g1-living-and-non-living-0013",
     "exam": "nso",
     "grade": "1",
-    "topic": "Living and Non-living",
-    "subtopic": "Living Things",
+    "topic": "Living and Non-living Things",
+    "subtopic": "Living and Non-living Things",
     "difficulty": "easy",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "Which of these is a non-living thing?",
+    "questionText": "What do living things need?",
     "image": "",
     "options": [
-      "Cat",
-      "Rose",
-      "Stone",
-      "Ant"
+      "Nothing",
+      "Food, water, air",
+      "Only sunlight",
+      "Only soil"
     ],
-    "correctAnswer": 2,
-    "explanation": "A stone is non-living. It does not grow, move, or need food.",
+    "correctAnswer": 1,
+    "explanation": "Living things need food, water, and air.",
     "tags": [
-      "plants-and-animals",
-      "grade3"
+      "living-and-non-living",
+      "nso",
+      "grade1"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
     "id": "nso-g1-living-and-non-living-0014",
     "exam": "nso",
     "grade": "1",
-    "topic": "Living and Non-living",
-    "subtopic": "Living Things",
+    "topic": "Living and Non-living Things",
+    "subtopic": "Living and Non-living Things",
     "difficulty": "easy",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "How do plants get water from the soil?",
+    "questionText": "Is a seed living?",
     "image": "",
     "options": [
-      "Through leaves",
-      "Through roots",
-      "Through flowers",
-      "Through seeds"
+      "No",
+      "Yes",
+      "Only when wet",
+      "Never"
     ],
     "correctAnswer": 1,
-    "explanation": "Roots absorb water from the soil and send it to the rest of the plant.",
+    "explanation": "Seeds are living - they can grow into plants.",
     "tags": [
-      "plants-and-animals",
-      "grade3"
+      "living-and-non-living",
+      "nso",
+      "grade1"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
     "id": "nso-g1-living-and-non-living-0015",
     "exam": "nso",
     "grade": "1",
-    "topic": "Living and Non-living",
-    "subtopic": "Living Things",
-    "difficulty": "easy",
+    "topic": "Living and Non-living Things",
+    "subtopic": "Living and Non-living Things",
+    "difficulty": "medium",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "Which animal has stripes?",
+    "questionText": "Which is made by nature and is living?",
     "image": "",
     "options": [
-      "Crow",
-      "Zebra",
-      "Bear",
-      "Deer"
+      "Plastic",
+      "Tree",
+      "Glass",
+      "Paper"
     ],
     "correctAnswer": 1,
-    "explanation": "Zebras have black and white stripes on their bodies.",
+    "explanation": "Trees are natural and living.",
     "tags": [
-      "plants-and-animals",
-      "grade3"
+      "living-and-non-living",
+      "nso",
+      "grade1"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
     "id": "nso-g1-living-and-non-living-0016",
     "exam": "nso",
     "grade": "1",
-    "topic": "Living and Non-living",
-    "subtopic": "Living Things",
+    "topic": "Living and Non-living Things",
+    "subtopic": "Living and Non-living Things",
     "difficulty": "easy",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "What do bees collect from flowers?",
+    "questionText": "Do non-living things grow?",
     "image": "",
     "options": [
-      "Water",
-      "Nectar",
-      "Soil",
-      "Leaves"
+      "Yes, always",
+      "No",
+      "Only rocks",
+      "Only when wet"
     ],
     "correctAnswer": 1,
-    "explanation": "Bees collect nectar from flowers to make honey.",
+    "explanation": "Non-living things do not grow.",
     "tags": [
-      "plants-and-animals",
-      "grade3"
+      "living-and-non-living",
+      "nso",
+      "grade1"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
     "id": "nso-g1-living-and-non-living-0017",
     "exam": "nso",
     "grade": "1",
-    "topic": "Living and Non-living",
-    "subtopic": "Living Things",
+    "topic": "Living and Non-living Things",
+    "subtopic": "Living and Non-living Things",
     "difficulty": "easy",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "Which part of a plant is usually green?",
+    "questionText": "Which responds to touch?",
     "image": "",
     "options": [
-      "Root",
-      "Seed",
-      "Leaf",
-      "Flower"
+      "Stone",
+      "Plant",
+      "Plastic",
+      "Wood"
     ],
-    "correctAnswer": 2,
-    "explanation": "Leaves are usually green because they contain chlorophyll.",
+    "correctAnswer": 1,
+    "explanation": "Plants can respond to touch (e.g. touch-me-not).",
     "tags": [
-      "plants-and-animals",
-      "grade3"
+      "living-and-non-living",
+      "nso",
+      "grade1"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
     "id": "nso-g1-living-and-non-living-0018",
     "exam": "nso",
     "grade": "1",
-    "topic": "Living and Non-living",
-    "subtopic": "Living Things",
-    "difficulty": "easy",
+    "topic": "Living and Non-living Things",
+    "subtopic": "Living and Non-living Things",
+    "difficulty": "medium",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "Where does a dog live?",
+    "questionText": "Living things ___.",
     "image": "",
     "options": [
-      "In water",
-      "In a nest",
-      "On land",
-      "In a hive"
+      "Never change",
+      "Grow and reproduce",
+      "Stay small",
+      "Do not need food"
     ],
-    "correctAnswer": 2,
-    "explanation": "Dogs are land animals. They live with humans as pets.",
+    "correctAnswer": 1,
+    "explanation": "Living things grow and can reproduce.",
     "tags": [
-      "plants-and-animals",
-      "grade3"
+      "living-and-non-living",
+      "nso",
+      "grade1"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
     "id": "nso-g1-living-and-non-living-0019",
     "exam": "nso",
     "grade": "1",
-    "topic": "Living and Non-living",
-    "subtopic": "Living Things",
+    "topic": "Living and Non-living Things",
+    "subtopic": "Living and Non-living Things",
     "difficulty": "easy",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "Which animal has a long trunk?",
+    "questionText": "Which of these is NOT living?",
     "image": "",
     "options": [
-      "Lion",
-      "Elephant",
-      "Tiger",
-      "Bear"
+      "Ant",
+      "Spider",
+      "Key",
+      "Bee"
     ],
-    "correctAnswer": 1,
-    "explanation": "Elephants have a long trunk that they use to drink and pick things.",
+    "correctAnswer": 2,
+    "explanation": "A key is a non-living object.",
     "tags": [
-      "plants-and-animals",
-      "grade3"
+      "living-and-non-living",
+      "nso",
+      "grade1"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
     "id": "nso-g1-living-and-non-living-0020",
     "exam": "nso",
     "grade": "1",
-    "topic": "Living and Non-living",
-    "subtopic": "Living Things",
+    "topic": "Living and Non-living Things",
+    "subtopic": "Living and Non-living Things",
     "difficulty": "easy",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "Which animal lays eggs in water?",
+    "questionText": "Can we make living things in a factory?",
     "image": "",
     "options": [
-      "Dog",
-      "Frog",
-      "Cat",
-      "Rabbit"
+      "Yes",
+      "No",
+      "Only plants",
+      "Only animals"
     ],
     "correctAnswer": 1,
-    "explanation": "Frogs lay eggs in water. The eggs hatch into tadpoles.",
+    "explanation": "Living things come from other living things.",
     "tags": [
-      "plants-and-animals",
-      "grade3"
+      "living-and-non-living",
+      "nso",
+      "grade1"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
     "id": "nso-g1-living-and-non-living-0021",
     "exam": "nso",
     "grade": "1",
-    "topic": "Living and Non-living",
-    "subtopic": "Living Things",
-    "difficulty": "easy",
+    "topic": "Living and Non-living Things",
+    "subtopic": "Living and Non-living Things",
+    "difficulty": "medium",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "Which part of a plant carries water from roots to leaves?",
+    "questionText": "Which needs sunlight?",
     "image": "",
     "options": [
-      "Leaf",
-      "Flower",
-      "Root",
-      "Stem"
+      "Stone",
+      "Plant",
+      "Shoe",
+      "Book"
     ],
-    "correctAnswer": 3,
-    "explanation": "The stem carries water and food between roots and leaves.",
+    "correctAnswer": 1,
+    "explanation": "Plants need sunlight to make food.",
     "tags": [
-      "plants",
-      "grade3"
+      "living-and-non-living",
+      "nso",
+      "grade1"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
     "id": "nso-g1-living-and-non-living-0022",
     "exam": "nso",
     "grade": "1",
-    "topic": "Living and Non-living",
-    "subtopic": "Living Things",
+    "topic": "Living and Non-living Things",
+    "subtopic": "Living and Non-living Things",
     "difficulty": "easy",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "What do we call a baby cat?",
+    "questionText": "Do animals need food?",
     "image": "",
     "options": [
-      "Puppy",
-      "Cub",
-      "Kitten",
-      "Chick"
+      "No",
+      "Yes",
+      "Only sometimes",
+      "Never"
     ],
-    "correctAnswer": 2,
-    "explanation": "A baby cat is called a kitten.",
+    "correctAnswer": 1,
+    "explanation": "Animals need food for energy.",
     "tags": [
-      "animals",
-      "grade3"
+      "living-and-non-living",
+      "nso",
+      "grade1"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
     "id": "nso-g1-living-and-non-living-0023",
     "exam": "nso",
     "grade": "1",
-    "topic": "Living and Non-living",
-    "subtopic": "Living Things",
+    "topic": "Living and Non-living Things",
+    "subtopic": "Living and Non-living Things",
     "difficulty": "easy",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "Which of these can grow and reproduce?",
+    "questionText": "Which reproduces?",
     "image": "",
     "options": [
-      "Stone",
-      "Plastic",
-      "Flower",
-      "Metal"
+      "Chair",
+      "Plant",
+      "Toy",
+      "Car"
     ],
-    "correctAnswer": 2,
-    "explanation": "Flowers are living and can grow and reproduce.",
+    "correctAnswer": 1,
+    "explanation": "Plants can reproduce (seeds, etc.).",
     "tags": [
       "living-and-non-living",
-      "grade3"
+      "nso",
+      "grade1"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
     "id": "nso-g1-living-and-non-living-0024",
     "exam": "nso",
     "grade": "1",
-    "topic": "Living and Non-living",
-    "subtopic": "Living Things",
-    "difficulty": "easy",
+    "topic": "Living and Non-living Things",
+    "subtopic": "Living and Non-living Things",
+    "difficulty": "medium",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "What do leaves need to make food?",
+    "questionText": "Is water living?",
     "image": "",
     "options": [
-      "Only water",
-      "Sunlight, water, and air",
-      "Only soil",
-      "Nothing"
+      "Yes",
+      "No",
+      "Sometimes",
+      "Only in rivers"
     ],
     "correctAnswer": 1,
-    "explanation": "Leaves need sunlight, water, and carbon dioxide to make food.",
+    "explanation": "Water is non-living - it does not grow.",
     "tags": [
-      "plants",
-      "grade3"
+      "living-and-non-living",
+      "nso",
+      "grade1"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
     "id": "nso-g1-living-and-non-living-0025",
     "exam": "nso",
     "grade": "1",
-    "topic": "Living and Non-living",
-    "subtopic": "Living Things",
+    "topic": "Living and Non-living Things",
+    "subtopic": "Living and Non-living Things",
     "difficulty": "easy",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "Which animal eats only meat?",
+    "questionText": "Which excretes waste?",
     "image": "",
     "options": [
-      "Cow",
-      "Lion",
-      "Rabbit",
-      "Horse"
+      "Stone",
+      "Human",
+      "Plastic",
+      "Metal"
     ],
     "correctAnswer": 1,
-    "explanation": "Lions are carnivores that eat only meat.",
+    "explanation": "Living things like humans excrete waste.",
     "tags": [
-      "animals",
-      "grade3"
+      "living-and-non-living",
+      "nso",
+      "grade1"
     ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "nso-g1-living-and-non-living-0026",
-    "exam": "nso",
-    "grade": "1",
-    "topic": "Living and Non-living",
-    "subtopic": "Living Things",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "Which part of a plant grows into a new plant?",
-    "image": "",
-    "options": [
-      "Leaf",
-      "Root",
-      "Seed",
-      "Stem"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Seeds can grow into new plants.",
-    "tags": [
-      "plants",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "nso-g1-living-and-non-living-0027",
-    "exam": "nso",
-    "grade": "1",
-    "topic": "Living and Non-living",
-    "subtopic": "Living Things",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "Where do rabbits live?",
-    "image": "",
-    "options": [
-      "In water",
-      "In burrows",
-      "In nests",
-      "In hives"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Rabbits live in burrows (holes in the ground).",
-    "tags": [
-      "animals",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "nso-g1-living-and-non-living-0028",
-    "exam": "nso",
-    "grade": "1",
-    "topic": "Living and Non-living",
-    "subtopic": "Living Things",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "What helps a plant to stand upright?",
-    "image": "",
-    "options": [
-      "Leaves",
-      "Roots",
-      "Stem",
-      "Flowers"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The stem holds the plant upright.",
-    "tags": [
-      "plants",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "nso-g1-living-and-non-living-0029",
-    "exam": "nso",
-    "grade": "1",
-    "topic": "Living and Non-living",
-    "subtopic": "Living Things",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "Which animal has a long neck?",
-    "image": "",
-    "options": [
-      "Dog",
-      "Giraffe",
-      "Cat",
-      "Rabbit"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Giraffes have very long necks.",
-    "tags": [
-      "animals",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "nso-g1-living-and-non-living-0030",
-    "exam": "nso",
-    "grade": "1",
-    "topic": "Living and Non-living",
-    "subtopic": "Living Things",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "Where do birds lay their eggs?",
-    "image": "",
-    "options": [
-      "In water",
-      "In nests",
-      "Underground",
-      "In caves"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Birds lay eggs in nests they build.",
-    "tags": [
-      "animals",
-      "grade3"
-    ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   }
 ]

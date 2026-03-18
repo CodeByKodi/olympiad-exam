@@ -1,0 +1,702 @@
+[
+  {
+    "id": "nso-g6-force-and-energy-0001",
+    "exam": "nso",
+    "grade": "6",
+    "topic": "Measurement of Length and Motion",
+    "subtopic": "Measurement of Length and Motion",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "A push or pull is called ___.",
+    "image": "",
+    "options": [
+      "Energy",
+      "Force",
+      "Motion",
+      "Speed"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Force is a push or pull.",
+    "tags": [
+      "force-and-energy",
+      "nso",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g6-force-and-energy-0002",
+    "exam": "nso",
+    "grade": "6",
+    "topic": "Measurement of Length and Motion",
+    "subtopic": "Measurement of Length and Motion",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which force pulls things down?",
+    "image": "",
+    "options": [
+      "Magnetic",
+      "Gravity",
+      "Friction",
+      "Electric"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Gravity pulls things down.",
+    "tags": [
+      "force-and-energy",
+      "nso",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g6-force-and-energy-0003",
+    "exam": "nso",
+    "grade": "6",
+    "topic": "Measurement of Length and Motion",
+    "subtopic": "Measurement of Length and Motion",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "The Sun gives us ___.",
+    "image": "",
+    "options": [
+      "Water",
+      "Light and heat",
+      "Air",
+      "Food"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Sun gives light and heat.",
+    "tags": [
+      "force-and-energy",
+      "nso",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g6-force-and-energy-0004",
+    "exam": "nso",
+    "grade": "6",
+    "topic": "Measurement of Length and Motion",
+    "subtopic": "Measurement of Length and Motion",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Friction ___ motion.",
+    "image": "",
+    "options": [
+      "Increases",
+      "Opposes",
+      "Creates",
+      "Doubles"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Friction opposes motion.",
+    "tags": [
+      "force-and-energy",
+      "nso",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g6-force-and-energy-0005",
+    "exam": "nso",
+    "grade": "6",
+    "topic": "Measurement of Length and Motion",
+    "subtopic": "Measurement of Length and Motion",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a form of energy?",
+    "image": "",
+    "options": [
+      "Stone",
+      "Light",
+      "Water",
+      "Air"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Light is a form of energy.",
+    "tags": [
+      "force-and-energy",
+      "nso",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g6-force-and-energy-0006",
+    "exam": "nso",
+    "grade": "6",
+    "topic": "Measurement of Length and Motion",
+    "subtopic": "Measurement of Length and Motion",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Magnets attract ___.",
+    "image": "",
+    "options": [
+      "Wood",
+      "Iron",
+      "Plastic",
+      "Glass"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Magnets attract iron.",
+    "tags": [
+      "force-and-energy",
+      "nso",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g6-force-and-energy-0007",
+    "exam": "nso",
+    "grade": "6",
+    "topic": "Measurement of Length and Motion",
+    "subtopic": "Measurement of Length and Motion",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Energy cannot be ___.",
+    "image": "",
+    "options": [
+      "Created or destroyed",
+      "Used",
+      "Stored",
+      "Transferred"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Energy is conserved.",
+    "tags": [
+      "force-and-energy",
+      "nso",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g6-force-and-energy-0008",
+    "exam": "nso",
+    "grade": "6",
+    "topic": "Measurement of Length and Motion",
+    "subtopic": "Measurement of Length and Motion",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which force keeps us on Earth?",
+    "image": "",
+    "options": [
+      "Magnetic",
+      "Gravity",
+      "Friction",
+      "Wind"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Gravity keeps us on Earth.",
+    "tags": [
+      "force-and-energy",
+      "nso",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g6-force-and-energy-0009",
+    "exam": "nso",
+    "grade": "6",
+    "topic": "Measurement of Length and Motion",
+    "subtopic": "Measurement of Length and Motion",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Sound travels through ___.",
+    "image": "",
+    "options": [
+      "Vacuum",
+      "Air",
+      "Nothing",
+      "Space"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sound needs a medium like air.",
+    "tags": [
+      "force-and-energy",
+      "nso",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g6-force-and-energy-0010",
+    "exam": "nso",
+    "grade": "6",
+    "topic": "Measurement of Length and Motion",
+    "subtopic": "Measurement of Length and Motion",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Electricity is a form of ___.",
+    "image": "",
+    "options": [
+      "Matter",
+      "Energy",
+      "Force",
+      "Motion"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Electricity is energy.",
+    "tags": [
+      "force-and-energy",
+      "nso",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g6-force-and-energy-0011",
+    "exam": "nso",
+    "grade": "6",
+    "topic": "Measurement of Length and Motion",
+    "subtopic": "Measurement of Length and Motion",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which pole do two magnets repel?",
+    "image": "",
+    "options": [
+      "North-North",
+      "North-South",
+      "South-South",
+      "Both A and C"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Like poles repel.",
+    "tags": [
+      "force-and-energy",
+      "nso",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g6-force-and-energy-0012",
+    "exam": "nso",
+    "grade": "6",
+    "topic": "Measurement of Length and Motion",
+    "subtopic": "Measurement of Length and Motion",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Food has ___ energy.",
+    "image": "",
+    "options": [
+      "Kinetic",
+      "Chemical",
+      "Sound",
+      "Light"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Food stores chemical energy.",
+    "tags": [
+      "force-and-energy",
+      "nso",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g6-force-and-energy-0013",
+    "exam": "nso",
+    "grade": "6",
+    "topic": "Measurement of Length and Motion",
+    "subtopic": "Measurement of Length and Motion",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Light travels in ___.",
+    "image": "",
+    "options": [
+      "Curves",
+      "Straight lines",
+      "Circles",
+      "Zigzags"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Light travels in straight lines.",
+    "tags": [
+      "force-and-energy",
+      "nso",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g6-force-and-energy-0014",
+    "exam": "nso",
+    "grade": "6",
+    "topic": "Measurement of Length and Motion",
+    "subtopic": "Measurement of Length and Motion",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "A moving object has ___ energy.",
+    "image": "",
+    "options": [
+      "Potential",
+      "Kinetic",
+      "Chemical",
+      "Sound"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Moving objects have kinetic energy.",
+    "tags": [
+      "force-and-energy",
+      "nso",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g6-force-and-energy-0015",
+    "exam": "nso",
+    "grade": "6",
+    "topic": "Measurement of Length and Motion",
+    "subtopic": "Measurement of Length and Motion",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is NOT a simple machine?",
+    "image": "",
+    "options": [
+      "Lever",
+      "Pulley",
+      "Engine",
+      "Inclined plane"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Engine is complex.",
+    "tags": [
+      "force-and-energy",
+      "nso",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g6-force-and-energy-0016",
+    "exam": "nso",
+    "grade": "6",
+    "topic": "Measurement of Length and Motion",
+    "subtopic": "Measurement of Length and Motion",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Heat flows from ___ to ___.",
+    "image": "",
+    "options": [
+      "Cold to hot",
+      "Hot to cold",
+      "Same temp",
+      "Nowhere"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Heat flows from hot to cold.",
+    "tags": [
+      "force-and-energy",
+      "nso",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g6-force-and-energy-0017",
+    "exam": "nso",
+    "grade": "6",
+    "topic": "Measurement of Length and Motion",
+    "subtopic": "Measurement of Length and Motion",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Sound is produced by ___.",
+    "image": "",
+    "options": [
+      "Light",
+      "Vibration",
+      "Heat",
+      "Cold"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sound needs vibration.",
+    "tags": [
+      "force-and-energy",
+      "nso",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g6-force-and-energy-0018",
+    "exam": "nso",
+    "grade": "6",
+    "topic": "Measurement of Length and Motion",
+    "subtopic": "Measurement of Length and Motion",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a non-renewable resource?",
+    "image": "",
+    "options": [
+      "Wind",
+      "Coal",
+      "Solar",
+      "Water"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Coal is non-renewable.",
+    "tags": [
+      "force-and-energy",
+      "nso",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g6-force-and-energy-0019",
+    "exam": "nso",
+    "grade": "6",
+    "topic": "Measurement of Length and Motion",
+    "subtopic": "Measurement of Length and Motion",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "A stretched rubber band has ___ energy.",
+    "image": "",
+    "options": [
+      "Kinetic",
+      "Potential",
+      "Sound",
+      "Light"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Stretched band has potential energy.",
+    "tags": [
+      "force-and-energy",
+      "nso",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g6-force-and-energy-0020",
+    "exam": "nso",
+    "grade": "6",
+    "topic": "Measurement of Length and Motion",
+    "subtopic": "Measurement of Length and Motion",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Reflection is when light ___.",
+    "image": "",
+    "options": [
+      "Absorbs",
+      "Bounces back",
+      "Stops",
+      "Disappears"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Reflection bounces light back.",
+    "tags": [
+      "force-and-energy",
+      "nso",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g6-force-and-energy-0021",
+    "exam": "nso",
+    "grade": "6",
+    "topic": "Measurement of Length and Motion",
+    "subtopic": "Measurement of Length and Motion",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which machine multiplies force?",
+    "image": "",
+    "options": [
+      "Scissors",
+      "Lever",
+      "Both",
+      "Neither"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Lever and scissors multiply force.",
+    "tags": [
+      "force-and-energy",
+      "nso",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g6-force-and-energy-0022",
+    "exam": "nso",
+    "grade": "6",
+    "topic": "Measurement of Length and Motion",
+    "subtopic": "Measurement of Length and Motion",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Electric current produces ___.",
+    "image": "",
+    "options": [
+      "Only light",
+      "Heat and magnetic effect",
+      "Only sound",
+      "Nothing"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Current produces heat and magnetic effect.",
+    "tags": [
+      "force-and-energy",
+      "nso",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g6-force-and-energy-0023",
+    "exam": "nso",
+    "grade": "6",
+    "topic": "Measurement of Length and Motion",
+    "subtopic": "Measurement of Length and Motion",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is an insulator?",
+    "image": "",
+    "options": [
+      "Copper",
+      "Rubber",
+      "Iron",
+      "Silver"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Rubber is an insulator.",
+    "tags": [
+      "force-and-energy",
+      "nso",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g6-force-and-energy-0024",
+    "exam": "nso",
+    "grade": "6",
+    "topic": "Measurement of Length and Motion",
+    "subtopic": "Measurement of Length and Motion",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Work is done when force causes ___.",
+    "image": "",
+    "options": [
+      "Nothing",
+      "Motion",
+      "Rest",
+      "Heat only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Work = force × distance.",
+    "tags": [
+      "force-and-energy",
+      "nso",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g6-force-and-energy-0025",
+    "exam": "nso",
+    "grade": "6",
+    "topic": "Measurement of Length and Motion",
+    "subtopic": "Measurement of Length and Motion",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do plants need to make food?",
+    "image": "",
+    "options": [
+      "Water only",
+      "Sunlight only",
+      "Sunlight and water",
+      "Soil only"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Plants need sunlight and water.",
+    "tags": [
+      "force-and-energy",
+      "nso",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  }
+]

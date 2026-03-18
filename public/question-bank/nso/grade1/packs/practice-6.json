@@ -1,0 +1,20 @@
+{
+  "packId": "nso-grade1-air-and-water-practice-01",
+  "exam": "nso",
+  "grade": 1,
+  "mode": "practice",
+  "title": "Air and Water Practice",
+  "topic": "Air and Water",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Air and Water"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

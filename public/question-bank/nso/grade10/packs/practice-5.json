@@ -1,0 +1,20 @@
+{
+  "packId": "nso-grade10-earth-and-universe-practice-01",
+  "exam": "nso",
+  "grade": 10,
+  "mode": "practice",
+  "title": "Magnetic Effects of Electric Current Practice",
+  "topic": "Magnetic Effects of Electric Current",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Magnetic Effects of Electric Current"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

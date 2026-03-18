@@ -1,100 +1,38 @@
 {
   "exam": "nso",
   "grade": 5,
+  "sections_overview": [
+    {
+      "code": "S1",
+      "name": "Logical Reasoning Section",
+      "description": "Questions related to Verbal and Non-Verbal Reasoning."
+    },
+    {
+      "code": "S2",
+      "name": "Science Section",
+      "description": "Covers relevant topics and sub-topics of current and previous class science syllabus."
+    },
+    {
+      "code": "S3",
+      "name": "Achiever's Section",
+      "description": "Contains Higher Order Thinking Questions of the same topics as in Section 2."
+    }
+  ],
+  "achievers_section": "Higher Order Thinking Questions - Syllabus as per Section 2.",
   "topics": [
     {
-      "code": "NSO-G5-T1",
-      "name": "Matter",
-      "description": "Properties and changes.",
-      "weightage": "high",
-      "recommendedQuestionCount": 50,
-      "subtopics": [
-        {
-          "code": "NSO-G5-T1-S1",
-          "name": "Properties",
-          "description": "Mass, volume, density.",
-          "learningObjectives": [
-            "Measure properties",
-            "Compare materials"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium",
-            "hard"
-          ],
-          "recommendedQuestionCount": 25,
-          "tags": [
-            "matter",
-            "nso",
-            "grade5"
-          ]
-        },
-        {
-          "code": "NSO-G5-T1-S2",
-          "name": "Physical and Chemical Changes",
-          "description": "Types of changes.",
-          "learningObjectives": [
-            "Distinguish changes",
-            "Give examples"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium",
-            "hard"
-          ],
-          "recommendedQuestionCount": 25,
-          "tags": [
-            "matter",
-            "nso",
-            "grade5"
-          ]
-        }
-      ]
-    },
-    {
-      "code": "NSO-G5-T2",
-      "name": "Force, Light, and Sound",
-      "description": "Physics basics.",
+      "code": "NSO-G5-LOGICAL_REASONING",
+      "name": "Patterns",
+      "slug": "logical-reasoning",
+      "description": "Patterns for Grade 5.",
       "weightage": "medium",
-      "recommendedQuestionCount": 45,
+      "recommendedQuestionCount": 25,
       "subtopics": [
         {
-          "code": "NSO-G5-T2-S1",
-          "name": "Force and Friction",
-          "description": "Forces in daily life.",
-          "learningObjectives": [
-            "Explain friction",
-            "Describe applications"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium",
-            "hard"
-          ],
-          "recommendedQuestionCount": 22,
+          "code": "logical-reasoning-basics",
+          "name": "Patterns Basics",
           "tags": [
-            "force",
-            "nso",
-            "grade5"
-          ]
-        },
-        {
-          "code": "NSO-G5-T2-S2",
-          "name": "Light and Sound",
-          "description": "Properties and uses.",
-          "learningObjectives": [
-            "Explain reflection",
-            "Describe sound properties"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium",
-            "hard"
-          ],
-          "recommendedQuestionCount": 23,
-          "tags": [
-            "light",
-            "sound",
+            "logical-reasoning",
             "nso",
             "grade5"
           ]
@@ -102,147 +40,37 @@
       ]
     },
     {
-      "code": "NSO-G5-T3",
-      "name": "Energy",
-      "description": "Energy forms and sources.",
+      "code": "NSO-G5-ANIMALS",
+      "name": "Animals",
+      "slug": "animals",
+      "description": "Animals for Grade 5.",
       "weightage": "medium",
-      "recommendedQuestionCount": 40,
+      "recommendedQuestionCount": 25,
       "subtopics": [
         {
-          "code": "NSO-G5-T3-S1",
-          "name": "Energy Forms",
-          "description": "Kinetic, potential, heat.",
-          "learningObjectives": [
-            "Identify energy forms",
-            "Explain conversion"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium",
-            "hard"
-          ],
-          "recommendedQuestionCount": 20,
+          "code": "animals-basics",
+          "name": "Animals Basics",
           "tags": [
-            "energy",
-            "nso",
-            "grade5"
-          ]
-        },
-        {
-          "code": "NSO-G5-T3-S2",
-          "name": "Energy Sources",
-          "description": "Renewable and non-renewable.",
-          "learningObjectives": [
-            "Compare sources",
-            "Discuss sustainability"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium",
-            "hard"
-          ],
-          "recommendedQuestionCount": 20,
-          "tags": [
-            "energy",
-            "nso",
-            "grade5"
-          ]
-        }
-      ]
-    },
-    {
-      "code": "NSO-G5-T4",
-      "name": "Earth and Space",
-      "description": "Earth systems.",
-      "weightage": "medium",
-      "recommendedQuestionCount": 45,
-      "subtopics": [
-        {
-          "code": "NSO-G5-T4-S1",
-          "name": "Earth Systems",
-          "description": "Geosphere, hydrosphere.",
-          "learningObjectives": [
-            "Describe Earth systems",
-            "Explain interactions"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium",
-            "hard"
-          ],
-          "recommendedQuestionCount": 22,
-          "tags": [
-            "earth",
-            "nso",
-            "grade5"
-          ]
-        },
-        {
-          "code": "NSO-G5-T4-S2",
-          "name": "Solar System",
-          "description": "Planets and motion.",
-          "learningObjectives": [
-            "Describe solar system",
-            "Explain seasons"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium",
-            "hard"
-          ],
-          "recommendedQuestionCount": 23,
-          "tags": [
-            "space",
-            "nso",
-            "grade5"
-          ]
-        }
-      ]
-    },
-    {
-      "code": "NSO-G5-T5",
-      "name": "Living World",
-      "description": "Plants, animals, body.",
-      "weightage": "high",
-      "recommendedQuestionCount": 55,
-      "subtopics": [
-        {
-          "code": "NSO-G5-T5-S1",
-          "name": "Life Processes",
-          "description": "Nutrition, respiration.",
-          "learningObjectives": [
-            "Describe life processes",
-            "Compare organisms"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium",
-            "hard"
-          ],
-          "recommendedQuestionCount": 28,
-          "tags": [
-            "plants",
             "animals",
             "nso",
             "grade5"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "code": "NSO-G5-HUMAN_BODY",
+      "name": "Human Body and Health",
+      "slug": "human-body",
+      "description": "Human Body and Health for Grade 5.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 25,
+      "subtopics": [
         {
-          "code": "NSO-G5-T5-S2",
-          "name": "Human Body Systems",
-          "description": "Major systems.",
-          "learningObjectives": [
-            "Identify systems",
-            "Describe functions"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium",
-            "hard"
-          ],
-          "recommendedQuestionCount": 27,
+          "code": "human-body-basics",
+          "name": "Human Body and Health Basics",
           "tags": [
-            "body",
+            "human-body",
             "nso",
             "grade5"
           ]
@@ -250,48 +78,94 @@
       ]
     },
     {
-      "code": "NSO-G5-T6",
-      "name": "Environment",
-      "description": "Ecosystem and conservation.",
+      "code": "NSO-G5-PLANTS",
+      "name": "Plants",
+      "slug": "plants",
+      "description": "Plants for Grade 5.",
       "weightage": "medium",
-      "recommendedQuestionCount": 35,
+      "recommendedQuestionCount": 25,
       "subtopics": [
         {
-          "code": "NSO-G5-T6-S1",
-          "name": "Ecosystems",
-          "description": "Food chains and balance.",
-          "learningObjectives": [
-            "Describe ecosystems",
-            "Explain balance"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium",
-            "hard"
-          ],
-          "recommendedQuestionCount": 18,
+          "code": "plants-basics",
+          "name": "Plants Basics",
           "tags": [
-            "environment",
+            "plants",
             "nso",
             "grade5"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "code": "NSO-G5-EARTH_AND_UNIVERSE",
+      "name": "Natural Resources and Indian Heritage",
+      "slug": "earth-and-universe",
+      "description": "Natural Resources and Indian Heritage for Grade 5.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 25,
+      "subtopics": [
         {
-          "code": "NSO-G5-T6-S2",
-          "name": "Conservation",
-          "description": "Protecting nature.",
-          "learningObjectives": [
-            "Explain conservation",
-            "Suggest actions"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium",
-            "hard"
-          ],
-          "recommendedQuestionCount": 17,
+          "code": "earth-and-universe-basics",
+          "name": "Natural Resources and Indian Heritage Basics",
           "tags": [
-            "environment",
+            "earth-and-universe",
+            "nso",
+            "grade5"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "NSO-G5-OUR_ENVIRONMENT",
+      "name": "Pollution and Calamities",
+      "slug": "our-environment",
+      "description": "Pollution and Calamities for Grade 5.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 25,
+      "subtopics": [
+        {
+          "code": "our-environment-basics",
+          "name": "Pollution and Calamities Basics",
+          "tags": [
+            "our-environment",
+            "nso",
+            "grade5"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "NSO-G5-MATTER_AND_MATERIALS",
+      "name": "Matter and Materials",
+      "slug": "matter-and-materials",
+      "description": "Matter and Materials for Grade 5.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 25,
+      "subtopics": [
+        {
+          "code": "matter-and-materials-basics",
+          "name": "Matter and Materials Basics",
+          "tags": [
+            "matter-and-materials",
+            "nso",
+            "grade5"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "NSO-G5-FORCE_AND_ENERGY",
+      "name": "Force and Energy",
+      "slug": "force-and-energy",
+      "description": "Force and Energy for Grade 5.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 25,
+      "subtopics": [
+        {
+          "code": "force-and-energy-basics",
+          "name": "Force and Energy Basics",
+          "tags": [
+            "force-and-energy",
             "nso",
             "grade5"
           ]

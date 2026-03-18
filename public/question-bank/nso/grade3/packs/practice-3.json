@@ -1,15 +1,15 @@
 {
-  "packId": "nso-grade3-matter-energy-and-force-practice-01",
+  "packId": "nso-grade3-food-practice-01",
   "exam": "nso",
   "grade": 3,
   "mode": "practice",
-  "title": "Matter, Energy, and Force Practice Test",
-  "topic": "Matter, Energy, and Force",
+  "title": "Food Practice",
+  "topic": "Food",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "Matter, Energy, and Force"
+      "Food"
     ],
     "difficultyMix": {
       "easy": 15,

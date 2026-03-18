@@ -1,9 +1,11 @@
 {
   "files": [
+    "logical-reasoning.json",
     "living-and-non-living.json",
     "plants.json",
     "animals.json",
-    "food.json",
-    "human-body-basics.json"
+    "human-body.json",
+    "air-and-water.json",
+    "weather-and-sky.json"
   ]
 }

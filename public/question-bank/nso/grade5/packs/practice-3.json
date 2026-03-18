@@ -1,15 +1,15 @@
 {
-  "packId": "nso-grade5-energy-practice-01",
+  "packId": "nso-grade5-human-body-practice-01",
   "exam": "nso",
   "grade": 5,
   "mode": "practice",
-  "title": "Energy Practice Test",
-  "topic": "Energy",
+  "title": "Human Body and Health Practice",
+  "topic": "Human Body and Health",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "Energy"
+      "Human Body and Health"
     ],
     "difficultyMix": {
       "easy": 15,

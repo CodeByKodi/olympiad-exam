@@ -27,7 +27,9 @@
     "generate:igko-syllabus": "node scripts/generate-igko-syllabus.js",
     "generate:igko-questions": "node scripts/generate-igko-questions.js",
     "generate:imo-questions": "node scripts/generate-imo-questions.js",
+    "generate:nso-questions": "node scripts/generate-nso-questions.js",
     "validate:syllabus": "node scripts/validate-syllabus.js",
+    "validate:syllabus-coverage": "node scripts/validate-syllabus-coverage.js",
     "e2e": "playwright test",
     "e2e:ui": "playwright test --ui"
   },

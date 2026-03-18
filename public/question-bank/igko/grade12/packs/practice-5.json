@@ -1,0 +1,20 @@
+{
+  "packId": "igko-grade12-environment-practice-01",
+  "exam": "igko",
+  "grade": 12,
+  "mode": "practice",
+  "title": "Environment Practice",
+  "topic": "Environment",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Environment"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

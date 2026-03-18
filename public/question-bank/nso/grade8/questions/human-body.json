@@ -1,0 +1,702 @@
+[
+  {
+    "id": "nso-g8-human-body-0001",
+    "exam": "nso",
+    "grade": "8",
+    "topic": "Reproduction and Endocrine System",
+    "subtopic": "Reproduction and Endocrine System",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many sense organs do we have?",
+    "image": "",
+    "options": [
+      "Three",
+      "Four",
+      "Five",
+      "Six"
+    ],
+    "correctAnswer": 2,
+    "explanation": "We have five sense organs: eyes, ears, nose, tongue, skin.",
+    "tags": [
+      "human-body",
+      "nso",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g8-human-body-0002",
+    "exam": "nso",
+    "grade": "8",
+    "topic": "Reproduction and Endocrine System",
+    "subtopic": "Reproduction and Endocrine System",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which organ helps us see?",
+    "image": "",
+    "options": [
+      "Ears",
+      "Eyes",
+      "Nose",
+      "Tongue"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Eyes help us see.",
+    "tags": [
+      "human-body",
+      "nso",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g8-human-body-0003",
+    "exam": "nso",
+    "grade": "8",
+    "topic": "Reproduction and Endocrine System",
+    "subtopic": "Reproduction and Endocrine System",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which organ helps us hear?",
+    "image": "",
+    "options": [
+      "Eyes",
+      "Ears",
+      "Nose",
+      "Skin"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ears help us hear.",
+    "tags": [
+      "human-body",
+      "nso",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g8-human-body-0004",
+    "exam": "nso",
+    "grade": "8",
+    "topic": "Reproduction and Endocrine System",
+    "subtopic": "Reproduction and Endocrine System",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "We breathe through our ___.",
+    "image": "",
+    "options": [
+      "Ears",
+      "Eyes",
+      "Nose",
+      "Mouth"
+    ],
+    "correctAnswer": 2,
+    "explanation": "We breathe through nose and mouth.",
+    "tags": [
+      "human-body",
+      "nso",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g8-human-body-0005",
+    "exam": "nso",
+    "grade": "8",
+    "topic": "Reproduction and Endocrine System",
+    "subtopic": "Reproduction and Endocrine System",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which organ helps us taste?",
+    "image": "",
+    "options": [
+      "Eyes",
+      "Ears",
+      "Tongue",
+      "Nose"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Tongue helps us taste.",
+    "tags": [
+      "human-body",
+      "nso",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g8-human-body-0006",
+    "exam": "nso",
+    "grade": "8",
+    "topic": "Reproduction and Endocrine System",
+    "subtopic": "Reproduction and Endocrine System",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many legs does a person have?",
+    "image": "",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Humans have two legs.",
+    "tags": [
+      "human-body",
+      "nso",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g8-human-body-0007",
+    "exam": "nso",
+    "grade": "8",
+    "topic": "Reproduction and Endocrine System",
+    "subtopic": "Reproduction and Endocrine System",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Blood is pumped by the ___.",
+    "image": "",
+    "options": [
+      "Lungs",
+      "Heart",
+      "Brain",
+      "Stomach"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The heart pumps blood.",
+    "tags": [
+      "human-body",
+      "nso",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g8-human-body-0008",
+    "exam": "nso",
+    "grade": "8",
+    "topic": "Reproduction and Endocrine System",
+    "subtopic": "Reproduction and Endocrine System",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "We digest food in our ___.",
+    "image": "",
+    "options": [
+      "Heart",
+      "Stomach",
+      "Lungs",
+      "Brain"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Stomach helps digest food.",
+    "tags": [
+      "human-body",
+      "nso",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g8-human-body-0009",
+    "exam": "nso",
+    "grade": "8",
+    "topic": "Reproduction and Endocrine System",
+    "subtopic": "Reproduction and Endocrine System",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which organ controls our body?",
+    "image": "",
+    "options": [
+      "Heart",
+      "Stomach",
+      "Brain",
+      "Lungs"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Brain controls our body.",
+    "tags": [
+      "human-body",
+      "nso",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g8-human-body-0010",
+    "exam": "nso",
+    "grade": "8",
+    "topic": "Reproduction and Endocrine System",
+    "subtopic": "Reproduction and Endocrine System",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "We have ___ bones in our body.",
+    "image": "",
+    "options": [
+      "About 100",
+      "About 206",
+      "About 300",
+      "About 50"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Adults have about 206 bones.",
+    "tags": [
+      "human-body",
+      "nso",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g8-human-body-0011",
+    "exam": "nso",
+    "grade": "8",
+    "topic": "Reproduction and Endocrine System",
+    "subtopic": "Reproduction and Endocrine System",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which organ helps us smell?",
+    "image": "",
+    "options": [
+      "Ears",
+      "Eyes",
+      "Nose",
+      "Tongue"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Nose helps us smell.",
+    "tags": [
+      "human-body",
+      "nso",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g8-human-body-0012",
+    "exam": "nso",
+    "grade": "8",
+    "topic": "Reproduction and Endocrine System",
+    "subtopic": "Reproduction and Endocrine System",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Oxygen is taken in by the ___.",
+    "image": "",
+    "options": [
+      "Heart",
+      "Lungs",
+      "Stomach",
+      "Brain"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Lungs take in oxygen.",
+    "tags": [
+      "human-body",
+      "nso",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g8-human-body-0013",
+    "exam": "nso",
+    "grade": "8",
+    "topic": "Reproduction and Endocrine System",
+    "subtopic": "Reproduction and Endocrine System",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is the largest organ?",
+    "image": "",
+    "options": [
+      "Heart",
+      "Skin",
+      "Brain",
+      "Liver"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Skin is the largest organ.",
+    "tags": [
+      "human-body",
+      "nso",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g8-human-body-0014",
+    "exam": "nso",
+    "grade": "8",
+    "topic": "Reproduction and Endocrine System",
+    "subtopic": "Reproduction and Endocrine System",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many fingers do we have?",
+    "image": "",
+    "options": [
+      "Eight",
+      "Ten",
+      "Twelve",
+      "Five"
+    ],
+    "correctAnswer": 1,
+    "explanation": "We have 10 fingers (5 on each hand).",
+    "tags": [
+      "human-body",
+      "nso",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g8-human-body-0015",
+    "exam": "nso",
+    "grade": "8",
+    "topic": "Reproduction and Endocrine System",
+    "subtopic": "Reproduction and Endocrine System",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which protects our brain?",
+    "image": "",
+    "options": [
+      "Skin",
+      "Skull",
+      "Ribs",
+      "Spine"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Skull protects the brain.",
+    "tags": [
+      "human-body",
+      "nso",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g8-human-body-0016",
+    "exam": "nso",
+    "grade": "8",
+    "topic": "Reproduction and Endocrine System",
+    "subtopic": "Reproduction and Endocrine System",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "We need ___ to stay healthy.",
+    "image": "",
+    "options": [
+      "Only water",
+      "Food and water",
+      "Only air",
+      "Nothing"
+    ],
+    "correctAnswer": 1,
+    "explanation": "We need food, water, and air.",
+    "tags": [
+      "human-body",
+      "nso",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g8-human-body-0017",
+    "exam": "nso",
+    "grade": "8",
+    "topic": "Reproduction and Endocrine System",
+    "subtopic": "Reproduction and Endocrine System",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which organ filters blood?",
+    "image": "",
+    "options": [
+      "Heart",
+      "Kidneys",
+      "Lungs",
+      "Stomach"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kidneys filter waste from blood.",
+    "tags": [
+      "human-body",
+      "nso",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g8-human-body-0018",
+    "exam": "nso",
+    "grade": "8",
+    "topic": "Reproduction and Endocrine System",
+    "subtopic": "Reproduction and Endocrine System",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Muscles help us ___.",
+    "image": "",
+    "options": [
+      "Think",
+      "Move",
+      "Digest",
+      "Breathe"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Muscles help us move.",
+    "tags": [
+      "human-body",
+      "nso",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g8-human-body-0019",
+    "exam": "nso",
+    "grade": "8",
+    "topic": "Reproduction and Endocrine System",
+    "subtopic": "Reproduction and Endocrine System",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many chambers does the heart have?",
+    "image": "",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The heart has four chambers.",
+    "tags": [
+      "human-body",
+      "nso",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g8-human-body-0020",
+    "exam": "nso",
+    "grade": "8",
+    "topic": "Reproduction and Endocrine System",
+    "subtopic": "Reproduction and Endocrine System",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which vitamin helps us see in dim light?",
+    "image": "",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Vitamin A helps with vision.",
+    "tags": [
+      "human-body",
+      "nso",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g8-human-body-0021",
+    "exam": "nso",
+    "grade": "8",
+    "topic": "Reproduction and Endocrine System",
+    "subtopic": "Reproduction and Endocrine System",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "We sweat to ___.",
+    "image": "",
+    "options": [
+      "Eat",
+      "Cool down",
+      "Sleep",
+      "Think"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sweating helps cool the body.",
+    "tags": [
+      "human-body",
+      "nso",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g8-human-body-0022",
+    "exam": "nso",
+    "grade": "8",
+    "topic": "Reproduction and Endocrine System",
+    "subtopic": "Reproduction and Endocrine System",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which part connects mouth to stomach?",
+    "image": "",
+    "options": [
+      "Heart",
+      "Oesophagus",
+      "Lungs",
+      "Brain"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Oesophagus connects mouth to stomach.",
+    "tags": [
+      "human-body",
+      "nso",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g8-human-body-0023",
+    "exam": "nso",
+    "grade": "8",
+    "topic": "Reproduction and Endocrine System",
+    "subtopic": "Reproduction and Endocrine System",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Red blood cells carry ___.",
+    "image": "",
+    "options": [
+      "Food",
+      "Oxygen",
+      "Water",
+      "Waste"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Red blood cells carry oxygen.",
+    "tags": [
+      "human-body",
+      "nso",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g8-human-body-0024",
+    "exam": "nso",
+    "grade": "8",
+    "topic": "Reproduction and Endocrine System",
+    "subtopic": "Reproduction and Endocrine System",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which organ makes bile?",
+    "image": "",
+    "options": [
+      "Heart",
+      "Liver",
+      "Kidneys",
+      "Lungs"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Liver produces bile.",
+    "tags": [
+      "human-body",
+      "nso",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g8-human-body-0025",
+    "exam": "nso",
+    "grade": "8",
+    "topic": "Reproduction and Endocrine System",
+    "subtopic": "Reproduction and Endocrine System",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "We have ___ teeth as adults.",
+    "image": "",
+    "options": [
+      "20",
+      "28",
+      "32",
+      "36"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Adults typically have 32 teeth.",
+    "tags": [
+      "human-body",
+      "nso",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  }
+]

@@ -1,0 +1,674 @@
+[
+  {
+    "id": "nso-g12-plants-and-animals-0001",
+    "exam": "nso",
+    "grade": "12",
+    "topic": "Alternating Current",
+    "subtopic": "Alternating Current",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do plants need to make food?",
+    "image": "",
+    "options": [
+      "Water only",
+      "Sunlight only",
+      "Sunlight and water",
+      "Soil only"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Plants need sunlight and water.",
+    "tags": [
+      "plants-and-animals",
+      "nso",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g12-plants-and-animals-0002",
+    "exam": "nso",
+    "grade": "12",
+    "topic": "Alternating Current",
+    "subtopic": "Alternating Current",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which animal gives us milk?",
+    "image": "",
+    "options": [
+      "Lion",
+      "Cow",
+      "Tiger",
+      "Deer"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cows give us milk.",
+    "tags": [
+      "plants-and-animals",
+      "nso",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g12-plants-and-animals-0003",
+    "exam": "nso",
+    "grade": "12",
+    "topic": "Alternating Current",
+    "subtopic": "Alternating Current",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the home of a bird?",
+    "image": "",
+    "options": [
+      "Den",
+      "Nest",
+      "Hive",
+      "Burrow"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Birds live in nests.",
+    "tags": [
+      "plants-and-animals",
+      "nso",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g12-plants-and-animals-0004",
+    "exam": "nso",
+    "grade": "12",
+    "topic": "Alternating Current",
+    "subtopic": "Alternating Current",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which animal has a long trunk?",
+    "image": "",
+    "options": [
+      "Lion",
+      "Elephant",
+      "Bear",
+      "Monkey"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Elephants have trunks.",
+    "tags": [
+      "plants-and-animals",
+      "nso",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g12-plants-and-animals-0005",
+    "exam": "nso",
+    "grade": "12",
+    "topic": "Alternating Current",
+    "subtopic": "Alternating Current",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which animal barks?",
+    "image": "",
+    "options": [
+      "Cat",
+      "Dog",
+      "Cow",
+      "Goat"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dogs bark.",
+    "tags": [
+      "plants-and-animals",
+      "nso",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g12-plants-and-animals-0006",
+    "exam": "nso",
+    "grade": "12",
+    "topic": "Alternating Current",
+    "subtopic": "Alternating Current",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a baby horse?",
+    "image": "",
+    "options": [
+      "Cub",
+      "Puppy",
+      "Foal",
+      "Calf"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A baby horse is a foal.",
+    "tags": [
+      "plants-and-animals",
+      "nso",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g12-plants-and-animals-0007",
+    "exam": "nso",
+    "grade": "12",
+    "topic": "Alternating Current",
+    "subtopic": "Alternating Current",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which animal can fly?",
+    "image": "",
+    "options": [
+      "Fish",
+      "Bird",
+      "Snake",
+      "Rabbit"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Birds can fly.",
+    "tags": [
+      "plants-and-animals",
+      "nso",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g12-plants-and-animals-0008",
+    "exam": "nso",
+    "grade": "12",
+    "topic": "Alternating Current",
+    "subtopic": "Alternating Current",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do bees collect from flowers?",
+    "image": "",
+    "options": [
+      "Water",
+      "Nectar",
+      "Leaves",
+      "Seeds"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bees collect nectar.",
+    "tags": [
+      "plants-and-animals",
+      "nso",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g12-plants-and-animals-0009",
+    "exam": "nso",
+    "grade": "12",
+    "topic": "Alternating Current",
+    "subtopic": "Alternating Current",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which plant do we get rice from?",
+    "image": "",
+    "options": [
+      "Wheat plant",
+      "Rice plant",
+      "Corn plant",
+      "Barley plant"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Rice comes from rice plants.",
+    "tags": [
+      "plants-and-animals",
+      "nso",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g12-plants-and-animals-0010",
+    "exam": "nso",
+    "grade": "12",
+    "topic": "Alternating Current",
+    "subtopic": "Alternating Current",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a baby dog?",
+    "image": "",
+    "options": [
+      "Kitten",
+      "Puppy",
+      "Calf",
+      "Cub"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A baby dog is a puppy.",
+    "tags": [
+      "plants-and-animals",
+      "nso",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g12-plants-and-animals-0011",
+    "exam": "nso",
+    "grade": "12",
+    "topic": "Alternating Current",
+    "subtopic": "Alternating Current",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which animal has a shell?",
+    "image": "",
+    "options": [
+      "Fish",
+      "Tortoise",
+      "Lion",
+      "Eagle"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tortoise has a shell.",
+    "tags": [
+      "plants-and-animals",
+      "nso",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g12-plants-and-animals-0012",
+    "exam": "nso",
+    "grade": "12",
+    "topic": "Alternating Current",
+    "subtopic": "Alternating Current",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do caterpillars turn into?",
+    "image": "",
+    "options": [
+      "Birds",
+      "Butterflies",
+      "Fish",
+      "Frogs"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Caterpillars become butterflies.",
+    "tags": [
+      "plants-and-animals",
+      "nso",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g12-plants-and-animals-0013",
+    "exam": "nso",
+    "grade": "12",
+    "topic": "Alternating Current",
+    "subtopic": "Alternating Current",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which animal lives in water?",
+    "image": "",
+    "options": [
+      "Cat",
+      "Dog",
+      "Fish",
+      "Rabbit"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fish live in water.",
+    "tags": [
+      "plants-and-animals",
+      "nso",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g12-plants-and-animals-0014",
+    "exam": "nso",
+    "grade": "12",
+    "topic": "Alternating Current",
+    "subtopic": "Alternating Current",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do plants need from the soil?",
+    "image": "",
+    "options": [
+      "Light",
+      "Water and nutrients",
+      "Wind",
+      "Sound"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Plants get nutrients from soil.",
+    "tags": [
+      "plants-and-animals",
+      "nso",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g12-plants-and-animals-0015",
+    "exam": "nso",
+    "grade": "12",
+    "topic": "Alternating Current",
+    "subtopic": "Alternating Current",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which bird cannot fly?",
+    "image": "",
+    "options": [
+      "Sparrow",
+      "Penguin",
+      "Eagle",
+      "Crow"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Penguins cannot fly.",
+    "tags": [
+      "plants-and-animals",
+      "nso",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g12-plants-and-animals-0016",
+    "exam": "nso",
+    "grade": "12",
+    "topic": "Alternating Current",
+    "subtopic": "Alternating Current",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a group of fish?",
+    "image": "",
+    "options": [
+      "Herd",
+      "School",
+      "Flock",
+      "Pack"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A group of fish is a school.",
+    "tags": [
+      "plants-and-animals",
+      "nso",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g12-plants-and-animals-0017",
+    "exam": "nso",
+    "grade": "12",
+    "topic": "Alternating Current",
+    "subtopic": "Alternating Current",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which animal has stripes?",
+    "image": "",
+    "options": [
+      "Cow",
+      "Tiger",
+      "Dog",
+      "Cat"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tigers have stripes.",
+    "tags": [
+      "plants-and-animals",
+      "nso",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g12-plants-and-animals-0018",
+    "exam": "nso",
+    "grade": "12",
+    "topic": "Alternating Current",
+    "subtopic": "Alternating Current",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What part of a plant is usually green?",
+    "image": "",
+    "options": [
+      "Root",
+      "Leaf",
+      "Flower",
+      "Seed"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Leaves are usually green.",
+    "tags": [
+      "plants-and-animals",
+      "nso",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g12-plants-and-animals-0019",
+    "exam": "nso",
+    "grade": "12",
+    "topic": "Alternating Current",
+    "subtopic": "Alternating Current",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which animal hibernates in winter?",
+    "image": "",
+    "options": [
+      "Lion",
+      "Bear",
+      "Monkey",
+      "Deer"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bears hibernate.",
+    "tags": [
+      "plants-and-animals",
+      "nso",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g12-plants-and-animals-0020",
+    "exam": "nso",
+    "grade": "12",
+    "topic": "Alternating Current",
+    "subtopic": "Alternating Current",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do frogs eat?",
+    "image": "",
+    "options": [
+      "Grass",
+      "Insects",
+      "Leaves",
+      "Fruits"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Frogs eat insects.",
+    "tags": [
+      "plants-and-animals",
+      "nso",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g12-plants-and-animals-0021",
+    "exam": "nso",
+    "grade": "12",
+    "topic": "Alternating Current",
+    "subtopic": "Alternating Current",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which animal has a hump?",
+    "image": "",
+    "options": [
+      "Horse",
+      "Camel",
+      "Elephant",
+      "Lion"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Camels have humps.",
+    "tags": [
+      "plants-and-animals",
+      "nso",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g12-plants-and-animals-0022",
+    "exam": "nso",
+    "grade": "12",
+    "topic": "Alternating Current",
+    "subtopic": "Alternating Current",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we get from hens?",
+    "image": "",
+    "options": [
+      "Milk",
+      "Eggs",
+      "Wool",
+      "Honey"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hens lay eggs.",
+    "tags": [
+      "plants-and-animals",
+      "nso",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g12-plants-and-animals-0023",
+    "exam": "nso",
+    "grade": "12",
+    "topic": "Alternating Current",
+    "subtopic": "Alternating Current",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which insect makes honey?",
+    "image": "",
+    "options": [
+      "Ant",
+      "Bee",
+      "Fly",
+      "Mosquito"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bees make honey.",
+    "tags": [
+      "plants-and-animals",
+      "nso",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g12-plants-and-animals-0024",
+    "exam": "nso",
+    "grade": "12",
+    "topic": "Alternating Current",
+    "subtopic": "Alternating Current",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a baby cat?",
+    "image": "",
+    "options": [
+      "Puppy",
+      "Kitten",
+      "Calf",
+      "Cub"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A baby cat is a kitten.",
+    "tags": [
+      "plants-and-animals",
+      "nso",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  }
+]

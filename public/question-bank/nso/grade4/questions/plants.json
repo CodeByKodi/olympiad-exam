@@ -1,0 +1,702 @@
+[
+  {
+    "id": "nso-g4-plants-0001",
+    "exam": "nso",
+    "grade": "4",
+    "topic": "Plants",
+    "subtopic": "Plants",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which part of a plant grows underground?",
+    "image": "",
+    "options": [
+      "Leaf",
+      "Flower",
+      "Root",
+      "Stem"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Roots grow under the soil.",
+    "tags": [
+      "plants",
+      "nso",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g4-plants-0002",
+    "exam": "nso",
+    "grade": "4",
+    "topic": "Plants",
+    "subtopic": "Plants",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do plants need to make food?",
+    "image": "",
+    "options": [
+      "Water only",
+      "Sunlight only",
+      "Sunlight and water",
+      "Soil only"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Plants need sunlight and water.",
+    "tags": [
+      "plants",
+      "nso",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g4-plants-0003",
+    "exam": "nso",
+    "grade": "4",
+    "topic": "Plants",
+    "subtopic": "Plants",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do bees collect from flowers?",
+    "image": "",
+    "options": [
+      "Water",
+      "Nectar",
+      "Leaves",
+      "Seeds"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bees collect nectar.",
+    "tags": [
+      "plants",
+      "nso",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g4-plants-0004",
+    "exam": "nso",
+    "grade": "4",
+    "topic": "Plants",
+    "subtopic": "Plants",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which plant do we get rice from?",
+    "image": "",
+    "options": [
+      "Wheat plant",
+      "Rice plant",
+      "Corn plant",
+      "Barley plant"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Rice comes from rice plants.",
+    "tags": [
+      "plants",
+      "nso",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g4-plants-0005",
+    "exam": "nso",
+    "grade": "4",
+    "topic": "Plants",
+    "subtopic": "Plants",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do plants need from the soil?",
+    "image": "",
+    "options": [
+      "Light",
+      "Water and nutrients",
+      "Wind",
+      "Sound"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Plants get nutrients from soil.",
+    "tags": [
+      "plants",
+      "nso",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g4-plants-0006",
+    "exam": "nso",
+    "grade": "4",
+    "topic": "Plants",
+    "subtopic": "Plants",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What part of a plant is usually green?",
+    "image": "",
+    "options": [
+      "Root",
+      "Leaf",
+      "Flower",
+      "Seed"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Leaves are usually green.",
+    "tags": [
+      "plants",
+      "nso",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g4-plants-0007",
+    "exam": "nso",
+    "grade": "4",
+    "topic": "Plants",
+    "subtopic": "Plants",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which part of a plant carries water to the leaves?",
+    "image": "",
+    "options": [
+      "Root",
+      "Stem",
+      "Flower",
+      "Leaf"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The stem carries water to the leaves.",
+    "tags": [
+      "plants",
+      "nso",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g4-plants-0008",
+    "exam": "nso",
+    "grade": "4",
+    "topic": "Plants",
+    "subtopic": "Plants",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do plants give out that we breathe?",
+    "image": "",
+    "options": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Nitrogen",
+      "Smoke"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Plants give out oxygen.",
+    "tags": [
+      "plants",
+      "nso",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g4-plants-0009",
+    "exam": "nso",
+    "grade": "4",
+    "topic": "Plants",
+    "subtopic": "Plants",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which part of a plant becomes a fruit?",
+    "image": "",
+    "options": [
+      "Root",
+      "Stem",
+      "Flower",
+      "Leaf"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The flower becomes a fruit.",
+    "tags": [
+      "plants",
+      "nso",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g4-plants-0010",
+    "exam": "nso",
+    "grade": "4",
+    "topic": "Plants",
+    "subtopic": "Plants",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What gas do plants take in for photosynthesis?",
+    "image": "",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Plants take in carbon dioxide.",
+    "tags": [
+      "plants",
+      "nso",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g4-plants-0011",
+    "exam": "nso",
+    "grade": "4",
+    "topic": "Plants",
+    "subtopic": "Plants",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which of these is a vegetable?",
+    "image": "",
+    "options": [
+      "Apple",
+      "Carrot",
+      "Mango",
+      "Banana"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Carrot is a vegetable.",
+    "tags": [
+      "plants",
+      "nso",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g4-plants-0012",
+    "exam": "nso",
+    "grade": "4",
+    "topic": "Plants",
+    "subtopic": "Plants",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which of these is a fruit?",
+    "image": "",
+    "options": [
+      "Potato",
+      "Tomato",
+      "Onion",
+      "Carrot"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tomato is a fruit.",
+    "tags": [
+      "plants",
+      "nso",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g4-plants-0013",
+    "exam": "nso",
+    "grade": "4",
+    "topic": "Plants",
+    "subtopic": "Plants",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Where do plants get their green colour from?",
+    "image": "",
+    "options": [
+      "Flowers",
+      "Chlorophyll",
+      "Roots",
+      "Seeds"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Chlorophyll gives plants their green colour.",
+    "tags": [
+      "plants",
+      "nso",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g4-plants-0014",
+    "exam": "nso",
+    "grade": "4",
+    "topic": "Plants",
+    "subtopic": "Plants",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the process by which plants make food?",
+    "image": "",
+    "options": [
+      "Respiration",
+      "Photosynthesis",
+      "Digestion",
+      "Evaporation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Plants make food by photosynthesis.",
+    "tags": [
+      "plants",
+      "nso",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g4-plants-0015",
+    "exam": "nso",
+    "grade": "4",
+    "topic": "Plants",
+    "subtopic": "Plants",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which part of a plant absorbs water from soil?",
+    "image": "",
+    "options": [
+      "Leaf",
+      "Flower",
+      "Root",
+      "Stem"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Roots absorb water from soil.",
+    "tags": [
+      "plants",
+      "nso",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g4-plants-0016",
+    "exam": "nso",
+    "grade": "4",
+    "topic": "Plants",
+    "subtopic": "Plants",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which plant do we get wheat from?",
+    "image": "",
+    "options": [
+      "Rice plant",
+      "Wheat plant",
+      "Corn plant",
+      "Barley plant"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Wheat comes from wheat plants.",
+    "tags": [
+      "plants",
+      "nso",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g4-plants-0017",
+    "exam": "nso",
+    "grade": "4",
+    "topic": "Plants",
+    "subtopic": "Plants",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Do plants need sunlight to grow?",
+    "image": "",
+    "options": [
+      "No",
+      "Yes",
+      "Only at night",
+      "Only in winter"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Plants need sunlight to grow.",
+    "tags": [
+      "plants",
+      "nso",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g4-plants-0018",
+    "exam": "nso",
+    "grade": "4",
+    "topic": "Plants",
+    "subtopic": "Plants",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which part of a plant holds the seeds?",
+    "image": "",
+    "options": [
+      "Root",
+      "Stem",
+      "Leaf",
+      "Fruit"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The fruit holds the seeds.",
+    "tags": [
+      "plants",
+      "nso",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g4-plants-0019",
+    "exam": "nso",
+    "grade": "4",
+    "topic": "Plants",
+    "subtopic": "Plants",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a young plant?",
+    "image": "",
+    "options": [
+      "Leaf",
+      "Seedling",
+      "Root",
+      "Flower"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A young plant is called a seedling.",
+    "tags": [
+      "plants",
+      "nso",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g4-plants-0020",
+    "exam": "nso",
+    "grade": "4",
+    "topic": "Plants",
+    "subtopic": "Plants",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which of these grows from a seed?",
+    "image": "",
+    "options": [
+      "Stone",
+      "Plant",
+      "Plastic",
+      "Metal"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Plants grow from seeds.",
+    "tags": [
+      "plants",
+      "nso",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g4-plants-0021",
+    "exam": "nso",
+    "grade": "4",
+    "topic": "Plants",
+    "subtopic": "Plants",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do plants need besides sunlight and water?",
+    "image": "",
+    "options": [
+      "Sand",
+      "Air and nutrients",
+      "Rocks",
+      "Plastic"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Plants need air and nutrients from soil.",
+    "tags": [
+      "plants",
+      "nso",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g4-plants-0022",
+    "exam": "nso",
+    "grade": "4",
+    "topic": "Plants",
+    "subtopic": "Plants",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which plant part is used to make paper?",
+    "image": "",
+    "options": [
+      "Root",
+      "Flower",
+      "Stem and leaves",
+      "Seed"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Paper is made from plant stems and leaves.",
+    "tags": [
+      "plants",
+      "nso",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g4-plants-0023",
+    "exam": "nso",
+    "grade": "4",
+    "topic": "Plants",
+    "subtopic": "Plants",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call plants that live for one year?",
+    "image": "",
+    "options": [
+      "Trees",
+      "Annuals",
+      "Shrubs",
+      "Perennials"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Plants that live one year are annuals.",
+    "tags": [
+      "plants",
+      "nso",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g4-plants-0024",
+    "exam": "nso",
+    "grade": "4",
+    "topic": "Plants",
+    "subtopic": "Plants",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which of these is a flowering plant?",
+    "image": "",
+    "options": [
+      "Fern",
+      "Moss",
+      "Rose",
+      "Pine"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Rose is a flowering plant.",
+    "tags": [
+      "plants",
+      "nso",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g4-plants-0025",
+    "exam": "nso",
+    "grade": "4",
+    "topic": "Plants",
+    "subtopic": "Plants",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do plants release at night?",
+    "image": "",
+    "options": [
+      "Oxygen only",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Water vapour only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Plants release carbon dioxide at night.",
+    "tags": [
+      "plants",
+      "nso",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  }
+]

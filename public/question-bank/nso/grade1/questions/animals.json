@@ -1,947 +1,702 @@
 [
   {
-    "id": "nso-g1-animals-0066",
+    "id": "nso-g1-animals-0001",
     "exam": "nso",
     "grade": "1",
     "topic": "Animals",
-    "subtopic": "Types of Animals",
+    "subtopic": "Animals",
     "difficulty": "easy",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "Which object gives us light at night?",
+    "questionText": "Which animal gives us milk?",
     "image": "",
     "options": [
-      "Moon",
-      "Cloud",
-      "Stone",
-      "Tree"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The Moon reflects sunlight and gives us light at night.",
-    "tags": [
-      "matter-energy-and-force",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "nso-g1-animals-0067",
-    "exam": "nso",
-    "grade": "1",
-    "topic": "Animals",
-    "subtopic": "Types of Animals",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "Which is a liquid?",
-    "image": "",
-    "options": [
-      "Rock",
-      "Milk",
-      "Wood",
-      "Iron"
+      "Lion",
+      "Cow",
+      "Tiger",
+      "Deer"
     ],
     "correctAnswer": 1,
-    "explanation": "Milk is a liquid. It flows and takes the shape of its container.",
+    "explanation": "Cows give us milk.",
     "tags": [
-      "matter-energy-and-force",
-      "grade3"
+      "animals",
+      "nso",
+      "grade1"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "nso-g1-animals-0068",
+    "id": "nso-g1-animals-0002",
     "exam": "nso",
     "grade": "1",
     "topic": "Animals",
-    "subtopic": "Types of Animals",
+    "subtopic": "Animals",
     "difficulty": "easy",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "How does sound travel to our ears?",
+    "questionText": "What do we call the home of a bird?",
     "image": "",
     "options": [
-      "Through light",
-      "Through air",
-      "Through water only",
-      "It does not travel"
+      "Den",
+      "Nest",
+      "Hive",
+      "Burrow"
     ],
     "correctAnswer": 1,
-    "explanation": "Sound travels through air (and other materials) to reach our ears.",
+    "explanation": "Birds live in nests.",
     "tags": [
-      "matter-energy-and-force",
-      "grade3"
+      "animals",
+      "nso",
+      "grade1"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "nso-g1-animals-0069",
+    "id": "nso-g1-animals-0003",
     "exam": "nso",
     "grade": "1",
     "topic": "Animals",
-    "subtopic": "Types of Animals",
-    "difficulty": "easy",
+    "subtopic": "Animals",
+    "difficulty": "medium",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "What do we need to make a shadow?",
+    "questionText": "Which animal has a long trunk?",
     "image": "",
     "options": [
-      "Only an object",
-      "Light and an object",
-      "Only darkness",
-      "Water"
+      "Lion",
+      "Elephant",
+      "Bear",
+      "Monkey"
     ],
     "correctAnswer": 1,
-    "explanation": "A shadow forms when light is blocked by an object.",
+    "explanation": "Elephants have trunks.",
     "tags": [
-      "matter-energy-and-force",
-      "grade3"
+      "animals",
+      "nso",
+      "grade1"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "nso-g1-animals-0070",
+    "id": "nso-g1-animals-0004",
     "exam": "nso",
     "grade": "1",
     "topic": "Animals",
-    "subtopic": "Types of Animals",
+    "subtopic": "Animals",
     "difficulty": "easy",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "Which is a gas?",
+    "questionText": "Which animal barks?",
     "image": "",
     "options": [
-      "Water",
-      "Air",
-      "Ice",
-      "Stone"
+      "Cat",
+      "Dog",
+      "Cow",
+      "Goat"
     ],
     "correctAnswer": 1,
-    "explanation": "Air is a mixture of gases. We cannot see it but we can feel it.",
+    "explanation": "Dogs bark.",
     "tags": [
-      "matter-energy-and-force",
-      "grade3"
+      "animals",
+      "nso",
+      "grade1"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "nso-g1-animals-0071",
+    "id": "nso-g1-animals-0005",
     "exam": "nso",
     "grade": "1",
     "topic": "Animals",
-    "subtopic": "Types of Animals",
+    "subtopic": "Animals",
     "difficulty": "easy",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "What happens when we throw a ball up?",
+    "questionText": "Which animal can fly?",
     "image": "",
     "options": [
-      "It stays up",
-      "Gravity pulls it down",
-      "It disappears",
-      "Nothing"
+      "Fish",
+      "Bird",
+      "Snake",
+      "Rabbit"
     ],
     "correctAnswer": 1,
-    "explanation": "Gravity pulls the ball back down toward the Earth.",
+    "explanation": "Birds can fly.",
     "tags": [
-      "matter-energy-and-force",
-      "grade3"
+      "animals",
+      "nso",
+      "grade1"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "nso-g1-animals-0072",
+    "id": "nso-g1-animals-0006",
     "exam": "nso",
     "grade": "1",
     "topic": "Animals",
-    "subtopic": "Types of Animals",
-    "difficulty": "easy",
+    "subtopic": "Animals",
+    "difficulty": "medium",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "Which gives us heat and light?",
+    "questionText": "Which animal has a shell?",
     "image": "",
     "options": [
-      "Moon",
-      "Sun",
-      "Star at night",
-      "Cloud"
+      "Fish",
+      "Tortoise",
+      "Lion",
+      "Eagle"
     ],
     "correctAnswer": 1,
-    "explanation": "The Sun gives us heat and light during the day.",
+    "explanation": "Tortoise has a shell.",
     "tags": [
-      "matter-energy-and-force",
-      "grade3"
+      "animals",
+      "nso",
+      "grade1"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "nso-g1-animals-0073",
+    "id": "nso-g1-animals-0007",
     "exam": "nso",
     "grade": "1",
     "topic": "Animals",
-    "subtopic": "Types of Animals",
+    "subtopic": "Animals",
     "difficulty": "easy",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "What do we use to measure how hot or cold something is?",
+    "questionText": "Which animal lives in water?",
     "image": "",
     "options": [
-      "Ruler",
-      "Thermometer",
-      "Clock",
-      "Scale"
-    ],
-    "correctAnswer": 1,
-    "explanation": "A thermometer measures temperature.",
-    "tags": [
-      "matter-energy-and-force",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "nso-g1-animals-0074",
-    "exam": "nso",
-    "grade": "1",
-    "topic": "Animals",
-    "subtopic": "Types of Animals",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "Which object makes a loud sound?",
-    "image": "",
-    "options": [
-      "A feather",
-      "A drum",
-      "A pillow",
-      "A cloth"
-    ],
-    "correctAnswer": 1,
-    "explanation": "A drum makes a loud sound when we hit it.",
-    "tags": [
-      "matter-energy-and-force",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "nso-g1-animals-0075",
-    "exam": "nso",
-    "grade": "1",
-    "topic": "Animals",
-    "subtopic": "Types of Animals",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "What do magnets attract?",
-    "image": "",
-    "options": [
-      "Wood",
-      "Plastic",
-      "Iron",
-      "Paper"
+      "Cat",
+      "Dog",
+      "Fish",
+      "Rabbit"
     ],
     "correctAnswer": 2,
-    "explanation": "Magnets attract objects made of iron and some other metals.",
+    "explanation": "Fish live in water.",
     "tags": [
-      "matter-energy-and-force",
-      "grade3"
+      "animals",
+      "nso",
+      "grade1"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "nso-g1-animals-0076",
+    "id": "nso-g1-animals-0008",
     "exam": "nso",
     "grade": "1",
     "topic": "Animals",
-    "subtopic": "Types of Animals",
+    "subtopic": "Animals",
     "difficulty": "easy",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "When does ice melt?",
+    "questionText": "Which bird cannot fly?",
     "image": "",
     "options": [
-      "When it is very cold",
-      "When we heat it",
-      "Never",
-      "In water only"
+      "Sparrow",
+      "Penguin",
+      "Eagle",
+      "Crow"
     ],
     "correctAnswer": 1,
-    "explanation": "Ice melts when we heat it. It turns into liquid water.",
+    "explanation": "Penguins cannot fly.",
     "tags": [
-      "matter-energy-and-force",
-      "grade3"
+      "animals",
+      "nso",
+      "grade1"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "nso-g1-animals-0077",
+    "id": "nso-g1-animals-0009",
     "exam": "nso",
     "grade": "1",
     "topic": "Animals",
-    "subtopic": "Types of Animals",
+    "subtopic": "Animals",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a group of fish?",
+    "image": "",
+    "options": [
+      "Herd",
+      "School",
+      "Flock",
+      "Pack"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A group of fish is a school.",
+    "tags": [
+      "animals",
+      "nso",
+      "grade1"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g1-animals-0010",
+    "exam": "nso",
+    "grade": "1",
+    "topic": "Animals",
+    "subtopic": "Animals",
     "difficulty": "easy",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "Which is a solid?",
+    "questionText": "Which animal has stripes?",
     "image": "",
     "options": [
-      "Juice",
-      "Steam",
-      "Table",
-      "Air"
+      "Cow",
+      "Tiger",
+      "Dog",
+      "Cat"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tigers have stripes.",
+    "tags": [
+      "animals",
+      "nso",
+      "grade1"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g1-animals-0011",
+    "exam": "nso",
+    "grade": "1",
+    "topic": "Animals",
+    "subtopic": "Animals",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which animal hibernates in winter?",
+    "image": "",
+    "options": [
+      "Lion",
+      "Bear",
+      "Monkey",
+      "Deer"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bears hibernate.",
+    "tags": [
+      "animals",
+      "nso",
+      "grade1"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g1-animals-0012",
+    "exam": "nso",
+    "grade": "1",
+    "topic": "Animals",
+    "subtopic": "Animals",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which animal has a hump?",
+    "image": "",
+    "options": [
+      "Horse",
+      "Camel",
+      "Elephant",
+      "Lion"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Camels have humps.",
+    "tags": [
+      "animals",
+      "nso",
+      "grade1"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g1-animals-0013",
+    "exam": "nso",
+    "grade": "1",
+    "topic": "Animals",
+    "subtopic": "Animals",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which animal has a long neck?",
+    "image": "",
+    "options": [
+      "Elephant",
+      "Giraffe",
+      "Lion",
+      "Bear"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Giraffes have long necks.",
+    "tags": [
+      "animals",
+      "nso",
+      "grade1"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g1-animals-0014",
+    "exam": "nso",
+    "grade": "1",
+    "topic": "Animals",
+    "subtopic": "Animals",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which animal hops?",
+    "image": "",
+    "options": [
+      "Dog",
+      "Cat",
+      "Rabbit",
+      "Cow"
     ],
     "correctAnswer": 2,
-    "explanation": "A table is a solid. It has a fixed shape and size.",
+    "explanation": "Rabbits hop.",
     "tags": [
-      "matter-energy-and-force",
-      "grade3"
+      "animals",
+      "nso",
+      "grade1"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "nso-g1-animals-0078",
+    "id": "nso-g1-animals-0015",
     "exam": "nso",
     "grade": "1",
     "topic": "Animals",
-    "subtopic": "Types of Animals",
-    "difficulty": "easy",
+    "subtopic": "Animals",
+    "difficulty": "medium",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "What do we need to move a heavy box?",
+    "questionText": "Which animal has black and white stripes?",
     "image": "",
     "options": [
-      "Light",
-      "Force",
-      "Sound",
-      "Water"
+      "Tiger",
+      "Zebra",
+      "Cow",
+      "Horse"
     ],
     "correctAnswer": 1,
-    "explanation": "We need to push or pull (apply force) to move a heavy box.",
+    "explanation": "Zebras have black and white stripes.",
     "tags": [
-      "matter-energy-and-force",
-      "grade3"
+      "animals",
+      "nso",
+      "grade1"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "nso-g1-animals-0079",
+    "id": "nso-g1-animals-0016",
     "exam": "nso",
     "grade": "1",
     "topic": "Animals",
-    "subtopic": "Types of Animals",
+    "subtopic": "Animals",
     "difficulty": "easy",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "What is the main source of energy on Earth?",
+    "questionText": "Which animal is known as man's best friend?",
     "image": "",
     "options": [
-      "Moon",
-      "Sun",
-      "Stars",
-      "Clouds"
+      "Cat",
+      "Dog",
+      "Bird",
+      "Fish"
     ],
     "correctAnswer": 1,
-    "explanation": "The Sun is the main source of light and heat energy on Earth.",
+    "explanation": "Dogs are called man's best friend.",
     "tags": [
-      "matter-energy-and-force",
-      "grade3"
+      "animals",
+      "nso",
+      "grade1"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "nso-g1-animals-0080",
+    "id": "nso-g1-animals-0017",
     "exam": "nso",
     "grade": "1",
     "topic": "Animals",
-    "subtopic": "Types of Animals",
+    "subtopic": "Animals",
     "difficulty": "easy",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "Which has a fixed shape?",
+    "questionText": "Which animal has a pouch?",
     "image": "",
     "options": [
-      "Water",
-      "Air",
-      "Book",
-      "Juice"
+      "Bear",
+      "Kangaroo",
+      "Lion",
+      "Monkey"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kangaroos have pouches.",
+    "tags": [
+      "animals",
+      "nso",
+      "grade1"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g1-animals-0018",
+    "exam": "nso",
+    "grade": "1",
+    "topic": "Animals",
+    "subtopic": "Animals",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which animal slithers?",
+    "image": "",
+    "options": [
+      "Fish",
+      "Snake",
+      "Bird",
+      "Rabbit"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Snakes slither.",
+    "tags": [
+      "animals",
+      "nso",
+      "grade1"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g1-animals-0019",
+    "exam": "nso",
+    "grade": "1",
+    "topic": "Animals",
+    "subtopic": "Animals",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which animal has eight legs?",
+    "image": "",
+    "options": [
+      "Ant",
+      "Spider",
+      "Bee",
+      "Butterfly"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Spiders have eight legs.",
+    "tags": [
+      "animals",
+      "nso",
+      "grade1"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g1-animals-0020",
+    "exam": "nso",
+    "grade": "1",
+    "topic": "Animals",
+    "subtopic": "Animals",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which animal is the king of the jungle?",
+    "image": "",
+    "options": [
+      "Elephant",
+      "Lion",
+      "Tiger",
+      "Bear"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The lion is called the king of the jungle.",
+    "tags": [
+      "animals",
+      "nso",
+      "grade1"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g1-animals-0021",
+    "exam": "nso",
+    "grade": "1",
+    "topic": "Animals",
+    "subtopic": "Animals",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which animal has a curly tail?",
+    "image": "",
+    "options": [
+      "Dog",
+      "Pig",
+      "Cat",
+      "Cow"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pigs have curly tails.",
+    "tags": [
+      "animals",
+      "nso",
+      "grade1"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g1-animals-0022",
+    "exam": "nso",
+    "grade": "1",
+    "topic": "Animals",
+    "subtopic": "Animals",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a baby horse?",
+    "image": "",
+    "options": [
+      "Cub",
+      "Puppy",
+      "Foal",
+      "Calf"
     ],
     "correctAnswer": 2,
-    "explanation": "A book is a solid and has a fixed shape.",
+    "explanation": "A baby horse is a foal.",
     "tags": [
-      "matter-energy-and-force",
-      "grade3"
+      "animals",
+      "nso",
+      "grade1"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "nso-g1-animals-0081",
+    "id": "nso-g1-animals-0023",
     "exam": "nso",
     "grade": "1",
     "topic": "Animals",
-    "subtopic": "Types of Animals",
+    "subtopic": "Animals",
     "difficulty": "easy",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "What do we call water when it turns into gas?",
+    "questionText": "What do we call a baby dog?",
     "image": "",
     "options": [
-      "Ice",
-      "Steam",
-      "Rain",
-      "Snow"
+      "Kitten",
+      "Puppy",
+      "Calf",
+      "Cub"
     ],
     "correctAnswer": 1,
-    "explanation": "When water is heated, it turns into steam (water vapor).",
+    "explanation": "A baby dog is a puppy.",
     "tags": [
-      "matter",
-      "grade3"
+      "animals",
+      "nso",
+      "grade1"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "nso-g1-animals-0082",
+    "id": "nso-g1-animals-0024",
     "exam": "nso",
     "grade": "1",
     "topic": "Animals",
-    "subtopic": "Types of Animals",
-    "difficulty": "easy",
+    "subtopic": "Animals",
+    "difficulty": "medium",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "What makes a ball fall when we drop it?",
+    "questionText": "What do caterpillars turn into?",
     "image": "",
     "options": [
-      "Wind",
-      "Gravity",
-      "Light",
-      "Sound"
+      "Birds",
+      "Butterflies",
+      "Fish",
+      "Frogs"
     ],
     "correctAnswer": 1,
-    "explanation": "Gravity pulls the ball toward the Earth.",
+    "explanation": "Caterpillars become butterflies.",
     "tags": [
-      "force",
-      "grade3"
+      "animals",
+      "nso",
+      "grade1"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "nso-g1-animals-0083",
+    "id": "nso-g1-animals-0025",
     "exam": "nso",
     "grade": "1",
     "topic": "Animals",
-    "subtopic": "Types of Animals",
+    "subtopic": "Animals",
     "difficulty": "easy",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "What do we use to measure temperature?",
+    "questionText": "What do frogs eat?",
     "image": "",
     "options": [
-      "Ruler",
-      "Thermometer",
-      "Clock",
-      "Scale"
+      "Grass",
+      "Insects",
+      "Leaves",
+      "Fruits"
     ],
     "correctAnswer": 1,
-    "explanation": "A thermometer measures how hot or cold something is.",
+    "explanation": "Frogs eat insects.",
     "tags": [
-      "matter",
-      "grade3"
+      "animals",
+      "nso",
+      "grade1"
     ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "nso-g1-animals-0084",
-    "exam": "nso",
-    "grade": "1",
-    "topic": "Animals",
-    "subtopic": "Types of Animals",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "Which state of matter has no fixed shape?",
-    "image": "",
-    "options": [
-      "Solid",
-      "Liquid",
-      "Both solid and liquid",
-      "Neither"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Liquids and gases have no fixed shape.",
-    "tags": [
-      "matter",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "nso-g1-animals-0085",
-    "exam": "nso",
-    "grade": "1",
-    "topic": "Animals",
-    "subtopic": "Types of Animals",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "Which can flow and take the shape of its container?",
-    "image": "",
-    "options": [
-      "Rock",
-      "Wood",
-      "Water",
-      "Iron"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Water is a liquid. It flows and takes the shape of its container.",
-    "tags": [
-      "matter",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "nso-g1-animals-0086",
-    "exam": "nso",
-    "grade": "1",
-    "topic": "Animals",
-    "subtopic": "Types of Animals",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "What happens when we cool water below 0°C?",
-    "image": "",
-    "options": [
-      "It boils",
-      "It freezes",
-      "It disappears",
-      "Nothing"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Water freezes into ice when cooled below 0°C.",
-    "tags": [
-      "matter",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "nso-g1-animals-0087",
-    "exam": "nso",
-    "grade": "1",
-    "topic": "Animals",
-    "subtopic": "Types of Animals",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "What do magnets pull?",
-    "image": "",
-    "options": [
-      "Wood",
-      "Paper",
-      "Iron",
-      "Plastic"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Magnets attract objects made of iron.",
-    "tags": [
-      "force",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "nso-g1-animals-0088",
-    "exam": "nso",
-    "grade": "1",
-    "topic": "Animals",
-    "subtopic": "Types of Animals",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "Which is a gas we cannot see?",
-    "image": "",
-    "options": [
-      "Water",
-      "Air",
-      "Ice",
-      "Stone"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Air is a mixture of gases we cannot see.",
-    "tags": [
-      "matter",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "nso-g1-animals-0089",
-    "exam": "nso",
-    "grade": "1",
-    "topic": "Animals",
-    "subtopic": "Types of Animals",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "What do we use to measure length?",
-    "image": "",
-    "options": [
-      "Thermometer",
-      "Ruler",
-      "Clock",
-      "Scale"
-    ],
-    "correctAnswer": 1,
-    "explanation": "A ruler measures length in centimetres.",
-    "tags": [
-      "matter",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "nso-g1-animals-0090",
-    "exam": "nso",
-    "grade": "1",
-    "topic": "Animals",
-    "subtopic": "Types of Animals",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "What do we breathe in from the air?",
-    "image": "",
-    "options": [
-      "Carbon dioxide",
-      "Oxygen",
-      "Smoke",
-      "Dust"
-    ],
-    "correctAnswer": 1,
-    "explanation": "We breathe in oxygen from the air. It is essential for life.",
-    "tags": [
-      "earth-environment-and-space",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "nso-g1-animals-0091",
-    "exam": "nso",
-    "grade": "1",
-    "topic": "Animals",
-    "subtopic": "Types of Animals",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "Which planet do we live on?",
-    "image": "",
-    "options": [
-      "Moon",
-      "Sun",
-      "Earth",
-      "Mars"
-    ],
-    "correctAnswer": 2,
-    "explanation": "We live on Earth. It is the only planet with life.",
-    "tags": [
-      "earth-environment-and-space",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "nso-g1-animals-0092",
-    "exam": "nso",
-    "grade": "1",
-    "topic": "Animals",
-    "subtopic": "Types of Animals",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "What causes day and night?",
-    "image": "",
-    "options": [
-      "The Moon moves",
-      "Earth spins on its axis",
-      "The Sun moves",
-      "Stars appear"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Earth spins on its axis. When our side faces the Sun it is day.",
-    "tags": [
-      "earth-environment-and-space",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "nso-g1-animals-0093",
-    "exam": "nso",
-    "grade": "1",
-    "topic": "Animals",
-    "subtopic": "Types of Animals",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "Which is a source of fresh water?",
-    "image": "",
-    "options": [
-      "Sea",
-      "River",
-      "Ocean",
-      "All of these"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Rivers are a source of fresh water. Seas and oceans have salty water.",
-    "tags": [
-      "earth-environment-and-space",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "nso-g1-animals-0094",
-    "exam": "nso",
-    "grade": "1",
-    "topic": "Animals",
-    "subtopic": "Types of Animals",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "How many seasons are there in a year?",
-    "image": "",
-    "options": [
-      "Two",
-      "Three",
-      "Four",
-      "Five"
-    ],
-    "correctAnswer": 2,
-    "explanation": "There are four seasons: spring, summer, autumn, and winter.",
-    "tags": [
-      "earth-environment-and-space",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "nso-g1-animals-0095",
-    "exam": "nso",
-    "grade": "1",
-    "topic": "Animals",
-    "subtopic": "Types of Animals",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "What falls from clouds when it rains?",
-    "image": "",
-    "options": [
-      "Snow",
-      "Hail",
-      "Rain drops",
-      "Dust"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Rain drops fall from clouds when water vapor condenses.",
-    "tags": [
-      "earth-environment-and-space",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "nso-g1-animals-0096",
-    "exam": "nso",
-    "grade": "1",
-    "topic": "Animals",
-    "subtopic": "Types of Animals",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "Which is the closest star to Earth?",
-    "image": "",
-    "options": [
-      "Moon",
-      "Sun",
-      "Mars",
-      "Venus"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The Sun is the closest star to Earth. It is a ball of hot gas.",
-    "tags": [
-      "earth-environment-and-space",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "nso-g1-animals-0097",
-    "exam": "nso",
-    "grade": "1",
-    "topic": "Animals",
-    "subtopic": "Types of Animals",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "What should we do to keep our environment clean?",
-    "image": "",
-    "options": [
-      "Throw garbage everywhere",
-      "Reduce, reuse, recycle",
-      "Burn plastic",
-      "Nothing"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Reduce, reuse, and recycle help keep our environment clean.",
-    "tags": [
-      "earth-environment-and-space",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "nso-g1-animals-0098",
-    "exam": "nso",
-    "grade": "1",
-    "topic": "Animals",
-    "subtopic": "Types of Animals",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "Which direction does the Sun rise from?",
-    "image": "",
-    "options": [
-      "North",
-      "South",
-      "East",
-      "West"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The Sun rises in the East and sets in the West.",
-    "tags": [
-      "earth-environment-and-space",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "nso-g1-animals-0099",
-    "exam": "nso",
-    "grade": "1",
-    "topic": "Animals",
-    "subtopic": "Types of Animals",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "What do we use a map for?",
-    "image": "",
-    "options": [
-      "To eat",
-      "To find places",
-      "To sleep",
-      "To play"
-    ],
-    "correctAnswer": 1,
-    "explanation": "A map helps us find places and understand locations.",
-    "tags": [
-      "earth-environment-and-space",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "nso-g1-animals-0100",
-    "exam": "nso",
-    "grade": "1",
-    "topic": "Animals",
-    "subtopic": "Types of Animals",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "When do we see the Moon?",
-    "image": "",
-    "options": [
-      "Only at noon",
-      "At night and sometimes during day",
-      "Never",
-      "Only in summer"
-    ],
-    "correctAnswer": 1,
-    "explanation": "We usually see the Moon at night. Sometimes we see it during the day too.",
-    "tags": [
-      "earth-environment-and-space",
-      "grade3"
-    ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   }
 ]

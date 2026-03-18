@@ -1,15 +1,15 @@
 {
-  "packId": "imo-grade7-measurement-practice-01",
+  "packId": "imo-grade7-percentages-and-ratios-practice-01",
   "exam": "imo",
   "grade": 7,
   "mode": "practice",
-  "title": "Perimeter and Area Practice",
-  "topic": "Perimeter and Area",
+  "title": "Comparing Quantities Practice",
+  "topic": "Comparing Quantities",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "Perimeter and Area"
+      "Comparing Quantities"
     ],
     "difficultyMix": {
       "easy": 15,

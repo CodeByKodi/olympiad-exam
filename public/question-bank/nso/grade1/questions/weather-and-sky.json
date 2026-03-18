@@ -1,0 +1,702 @@
+[
+  {
+    "id": "nso-g1-weather-and-sky-0001",
+    "exam": "nso",
+    "grade": "1",
+    "topic": "Weather and The Sky",
+    "subtopic": "Weather and The Sky",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many planets are in our solar system?",
+    "image": "",
+    "options": [
+      "Six",
+      "Seven",
+      "Eight",
+      "Nine"
+    ],
+    "correctAnswer": 2,
+    "explanation": "There are 8 planets in our solar system.",
+    "tags": [
+      "weather-and-sky",
+      "nso",
+      "grade1"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g1-weather-and-sky-0002",
+    "exam": "nso",
+    "grade": "1",
+    "topic": "Weather and The Sky",
+    "subtopic": "Weather and The Sky",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "The Sun rises in the ___.",
+    "image": "",
+    "options": [
+      "North",
+      "South",
+      "East",
+      "West"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Sun rises in the east.",
+    "tags": [
+      "weather-and-sky",
+      "nso",
+      "grade1"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g1-weather-and-sky-0003",
+    "exam": "nso",
+    "grade": "1",
+    "topic": "Weather and The Sky",
+    "subtopic": "Weather and The Sky",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which season is the hottest?",
+    "image": "",
+    "options": [
+      "Winter",
+      "Summer",
+      "Spring",
+      "Autumn"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Summer is usually the hottest.",
+    "tags": [
+      "weather-and-sky",
+      "nso",
+      "grade1"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g1-weather-and-sky-0004",
+    "exam": "nso",
+    "grade": "1",
+    "topic": "Weather and The Sky",
+    "subtopic": "Weather and The Sky",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "The Moon gets light from the ___.",
+    "image": "",
+    "options": [
+      "Stars",
+      "Sun",
+      "Earth",
+      "Mars"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Moon reflects sunlight.",
+    "tags": [
+      "weather-and-sky",
+      "nso",
+      "grade1"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g1-weather-and-sky-0005",
+    "exam": "nso",
+    "grade": "1",
+    "topic": "Weather and The Sky",
+    "subtopic": "Weather and The Sky",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Rain comes from ___.",
+    "image": "",
+    "options": [
+      "Ground",
+      "Clouds",
+      "Rivers",
+      "Sea"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Rain falls from clouds.",
+    "tags": [
+      "weather-and-sky",
+      "nso",
+      "grade1"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g1-weather-and-sky-0006",
+    "exam": "nso",
+    "grade": "1",
+    "topic": "Weather and The Sky",
+    "subtopic": "Weather and The Sky",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many days does the Moon take to orbit Earth?",
+    "image": "",
+    "options": [
+      "7",
+      "14",
+      "28",
+      "365"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Moon takes about 28 days.",
+    "tags": [
+      "weather-and-sky",
+      "nso",
+      "grade1"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g1-weather-and-sky-0007",
+    "exam": "nso",
+    "grade": "1",
+    "topic": "Weather and The Sky",
+    "subtopic": "Weather and The Sky",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is the closest star to Earth?",
+    "image": "",
+    "options": [
+      "Polaris",
+      "Sun",
+      "Sirius",
+      "Venus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Sun is the closest star.",
+    "tags": [
+      "weather-and-sky",
+      "nso",
+      "grade1"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g1-weather-and-sky-0008",
+    "exam": "nso",
+    "grade": "1",
+    "topic": "Weather and The Sky",
+    "subtopic": "Weather and The Sky",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Thunder is caused by ___.",
+    "image": "",
+    "options": [
+      "Wind",
+      "Lightning",
+      "Rain",
+      "Clouds"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Thunder is the sound of lightning.",
+    "tags": [
+      "weather-and-sky",
+      "nso",
+      "grade1"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g1-weather-and-sky-0009",
+    "exam": "nso",
+    "grade": "1",
+    "topic": "Weather and The Sky",
+    "subtopic": "Weather and The Sky",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "We see the Moon at ___.",
+    "image": "",
+    "options": [
+      "Noon only",
+      "Night",
+      "Morning only",
+      "Never"
+    ],
+    "correctAnswer": 1,
+    "explanation": "We usually see the Moon at night.",
+    "tags": [
+      "weather-and-sky",
+      "nso",
+      "grade1"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g1-weather-and-sky-0010",
+    "exam": "nso",
+    "grade": "1",
+    "topic": "Weather and The Sky",
+    "subtopic": "Weather and The Sky",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which planet do we live on?",
+    "image": "",
+    "options": [
+      "Mars",
+      "Venus",
+      "Earth",
+      "Jupiter"
+    ],
+    "correctAnswer": 2,
+    "explanation": "We live on Earth.",
+    "tags": [
+      "weather-and-sky",
+      "nso",
+      "grade1"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g1-weather-and-sky-0011",
+    "exam": "nso",
+    "grade": "1",
+    "topic": "Weather and The Sky",
+    "subtopic": "Weather and The Sky",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "A rainbow has ___ colours.",
+    "image": "",
+    "options": [
+      "Five",
+      "Six",
+      "Seven",
+      "Eight"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A rainbow has seven colours.",
+    "tags": [
+      "weather-and-sky",
+      "nso",
+      "grade1"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g1-weather-and-sky-0012",
+    "exam": "nso",
+    "grade": "1",
+    "topic": "Weather and The Sky",
+    "subtopic": "Weather and The Sky",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "The Sun sets in the ___.",
+    "image": "",
+    "options": [
+      "North",
+      "South",
+      "East",
+      "West"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Sun sets in the west.",
+    "tags": [
+      "weather-and-sky",
+      "nso",
+      "grade1"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g1-weather-and-sky-0013",
+    "exam": "nso",
+    "grade": "1",
+    "topic": "Weather and The Sky",
+    "subtopic": "Weather and The Sky",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which season has the most rain?",
+    "image": "",
+    "options": [
+      "Winter",
+      "Summer",
+      "Monsoon",
+      "Autumn"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Monsoon brings heavy rain.",
+    "tags": [
+      "weather-and-sky",
+      "nso",
+      "grade1"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g1-weather-and-sky-0014",
+    "exam": "nso",
+    "grade": "1",
+    "topic": "Weather and The Sky",
+    "subtopic": "Weather and The Sky",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Stars are ___.",
+    "image": "",
+    "options": [
+      "Planets",
+      "Balls of gas",
+      "Moons",
+      "Asteroids"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Stars are balls of hot gas.",
+    "tags": [
+      "weather-and-sky",
+      "nso",
+      "grade1"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g1-weather-and-sky-0015",
+    "exam": "nso",
+    "grade": "1",
+    "topic": "Weather and The Sky",
+    "subtopic": "Weather and The Sky",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Day and night are caused by ___.",
+    "image": "",
+    "options": [
+      "Moon",
+      "Earth spinning",
+      "Stars",
+      "Clouds"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Earth spinning causes day and night.",
+    "tags": [
+      "weather-and-sky",
+      "nso",
+      "grade1"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g1-weather-and-sky-0016",
+    "exam": "nso",
+    "grade": "1",
+    "topic": "Weather and The Sky",
+    "subtopic": "Weather and The Sky",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is NOT a season?",
+    "image": "",
+    "options": [
+      "Summer",
+      "Winter",
+      "Rainy",
+      "Monday"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Monday is a day, not a season.",
+    "tags": [
+      "weather-and-sky",
+      "nso",
+      "grade1"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g1-weather-and-sky-0017",
+    "exam": "nso",
+    "grade": "1",
+    "topic": "Weather and The Sky",
+    "subtopic": "Weather and The Sky",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "The Earth orbits the ___.",
+    "image": "",
+    "options": [
+      "Moon",
+      "Sun",
+      "Mars",
+      "Stars"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Earth orbits the Sun.",
+    "tags": [
+      "weather-and-sky",
+      "nso",
+      "grade1"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g1-weather-and-sky-0018",
+    "exam": "nso",
+    "grade": "1",
+    "topic": "Weather and The Sky",
+    "subtopic": "Weather and The Sky",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Lightning is a form of ___.",
+    "image": "",
+    "options": [
+      "Sound",
+      "Electricity",
+      "Wind",
+      "Rain"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Lightning is an electric discharge.",
+    "tags": [
+      "weather-and-sky",
+      "nso",
+      "grade1"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g1-weather-and-sky-0019",
+    "exam": "nso",
+    "grade": "1",
+    "topic": "Weather and The Sky",
+    "subtopic": "Weather and The Sky",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which season is the coldest?",
+    "image": "",
+    "options": [
+      "Summer",
+      "Winter",
+      "Spring",
+      "Monsoon"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Winter is usually the coldest.",
+    "tags": [
+      "weather-and-sky",
+      "nso",
+      "grade1"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g1-weather-and-sky-0020",
+    "exam": "nso",
+    "grade": "1",
+    "topic": "Weather and The Sky",
+    "subtopic": "Weather and The Sky",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Clouds are ___ in the sky.",
+    "image": "",
+    "options": [
+      "Solid",
+      "Water droplets",
+      "Fire",
+      "Rocks"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Clouds are made of water droplets.",
+    "tags": [
+      "weather-and-sky",
+      "nso",
+      "grade1"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g1-weather-and-sky-0021",
+    "exam": "nso",
+    "grade": "1",
+    "topic": "Weather and The Sky",
+    "subtopic": "Weather and The Sky",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How long does Earth take to orbit the Sun?",
+    "image": "",
+    "options": [
+      "1 day",
+      "1 month",
+      "1 year",
+      "1 week"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Earth takes 1 year to orbit the Sun.",
+    "tags": [
+      "weather-and-sky",
+      "nso",
+      "grade1"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g1-weather-and-sky-0022",
+    "exam": "nso",
+    "grade": "1",
+    "topic": "Weather and The Sky",
+    "subtopic": "Weather and The Sky",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which comes after sunset?",
+    "image": "",
+    "options": [
+      "Noon",
+      "Morning",
+      "Night",
+      "Dawn"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Night comes after sunset.",
+    "tags": [
+      "weather-and-sky",
+      "nso",
+      "grade1"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g1-weather-and-sky-0023",
+    "exam": "nso",
+    "grade": "1",
+    "topic": "Weather and The Sky",
+    "subtopic": "Weather and The Sky",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "A thermometer measures ___.",
+    "image": "",
+    "options": [
+      "Wind",
+      "Temperature",
+      "Rain",
+      "Light"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Thermometer measures temperature.",
+    "tags": [
+      "weather-and-sky",
+      "nso",
+      "grade1"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g1-weather-and-sky-0024",
+    "exam": "nso",
+    "grade": "1",
+    "topic": "Weather and The Sky",
+    "subtopic": "Weather and The Sky",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a natural satellite?",
+    "image": "",
+    "options": [
+      "Airplane",
+      "Moon",
+      "Rocket",
+      "Satellite"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Moon is Earth natural satellite.",
+    "tags": [
+      "weather-and-sky",
+      "nso",
+      "grade1"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g1-weather-and-sky-0025",
+    "exam": "nso",
+    "grade": "1",
+    "topic": "Weather and The Sky",
+    "subtopic": "Weather and The Sky",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Wind is caused by ___.",
+    "image": "",
+    "options": [
+      "Moving air",
+      "Still air",
+      "Water",
+      "Fire"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Wind is moving air.",
+    "tags": [
+      "weather-and-sky",
+      "nso",
+      "grade1"
+    ],
+    "sourceType": "generated"
+  }
+]

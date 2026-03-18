@@ -1,0 +1,702 @@
+[
+  {
+    "id": "igko-g11-important-days-0001",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Important Days",
+    "subtopic": "Important Days Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "When is Republic Day celebrated in India?",
+    "image": "",
+    "options": [
+      "15 August",
+      "26 January",
+      "2 October",
+      "25 December"
+    ],
+    "correctAnswer": 1,
+    "explanation": "26 January is Republic Day.",
+    "tags": [
+      "important-days",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-important-days-0002",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Important Days",
+    "subtopic": "Important Days Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "When is Independence Day celebrated?",
+    "image": "",
+    "options": [
+      "26 January",
+      "15 August",
+      "2 October",
+      "14 November"
+    ],
+    "correctAnswer": 1,
+    "explanation": "15 August is Independence Day.",
+    "tags": [
+      "important-days",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-important-days-0003",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Important Days",
+    "subtopic": "Important Days Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "When is Gandhi Jayanti celebrated?",
+    "image": "",
+    "options": [
+      "15 August",
+      "26 January",
+      "2 October",
+      "25 December"
+    ],
+    "correctAnswer": 2,
+    "explanation": "2 October is Gandhi Jayanti.",
+    "tags": [
+      "important-days",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-important-days-0004",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Important Days",
+    "subtopic": "Important Days Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "When is World Environment Day?",
+    "image": "",
+    "options": [
+      "22 April",
+      "5 June",
+      "15 September",
+      "10 December"
+    ],
+    "correctAnswer": 1,
+    "explanation": "5 June is World Environment Day.",
+    "tags": [
+      "important-days",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-important-days-0005",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Important Days",
+    "subtopic": "Important Days Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "When is Teachers Day celebrated in India?",
+    "image": "",
+    "options": [
+      "15 August",
+      "5 September",
+      "2 October",
+      "14 November"
+    ],
+    "correctAnswer": 1,
+    "explanation": "5 September is Teachers Day.",
+    "tags": [
+      "important-days",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-important-days-0006",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Important Days",
+    "subtopic": "Important Days Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "When is Children's Day celebrated in India?",
+    "image": "",
+    "options": [
+      "5 September",
+      "14 November",
+      "25 December",
+      "1 January"
+    ],
+    "correctAnswer": 1,
+    "explanation": "14 November is Children's Day.",
+    "tags": [
+      "important-days",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-important-days-0007",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Important Days",
+    "subtopic": "Important Days Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "When is World Health Day?",
+    "image": "",
+    "options": [
+      "1 March",
+      "7 April",
+      "12 May",
+      "20 June"
+    ],
+    "correctAnswer": 1,
+    "explanation": "7 April is World Health Day.",
+    "tags": [
+      "important-days",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-important-days-0008",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Important Days",
+    "subtopic": "Important Days Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "When is International Women's Day?",
+    "image": "",
+    "options": [
+      "1 January",
+      "8 March",
+      "15 May",
+      "10 October"
+    ],
+    "correctAnswer": 1,
+    "explanation": "8 March is International Women's Day.",
+    "tags": [
+      "important-days",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-important-days-0009",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Important Days",
+    "subtopic": "Important Days Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "When is Earth Day celebrated?",
+    "image": "",
+    "options": [
+      "5 June",
+      "22 April",
+      "15 September",
+      "10 December"
+    ],
+    "correctAnswer": 1,
+    "explanation": "22 April is Earth Day.",
+    "tags": [
+      "important-days",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-important-days-0010",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Important Days",
+    "subtopic": "Important Days Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "When is Human Rights Day?",
+    "image": "",
+    "options": [
+      "1 January",
+      "10 December",
+      "15 August",
+      "25 December"
+    ],
+    "correctAnswer": 1,
+    "explanation": "10 December is Human Rights Day.",
+    "tags": [
+      "important-days",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-important-days-0011",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Important Days",
+    "subtopic": "Important Days Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "When is World Water Day?",
+    "image": "",
+    "options": [
+      "5 June",
+      "22 March",
+      "15 September",
+      "10 October"
+    ],
+    "correctAnswer": 1,
+    "explanation": "22 March is World Water Day.",
+    "tags": [
+      "important-days",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-important-days-0012",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Important Days",
+    "subtopic": "Important Days Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "When is International Literacy Day?",
+    "image": "",
+    "options": [
+      "5 September",
+      "8 September",
+      "2 October",
+      "14 November"
+    ],
+    "correctAnswer": 1,
+    "explanation": "8 September is International Literacy Day.",
+    "tags": [
+      "important-days",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-important-days-0013",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Important Days",
+    "subtopic": "Important Days Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "When is World Food Day?",
+    "image": "",
+    "options": [
+      "5 June",
+      "16 October",
+      "15 September",
+      "10 December"
+    ],
+    "correctAnswer": 1,
+    "explanation": "16 October is World Food Day.",
+    "tags": [
+      "important-days",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-important-days-0014",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Important Days",
+    "subtopic": "Important Days Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "When is National Science Day in India?",
+    "image": "",
+    "options": [
+      "5 September",
+      "28 February",
+      "2 October",
+      "14 November"
+    ],
+    "correctAnswer": 1,
+    "explanation": "28 February is National Science Day.",
+    "tags": [
+      "important-days",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-important-days-0015",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Important Days",
+    "subtopic": "Important Days Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "When is World Wildlife Day?",
+    "image": "",
+    "options": [
+      "5 June",
+      "3 March",
+      "22 April",
+      "10 December"
+    ],
+    "correctAnswer": 1,
+    "explanation": "3 March is World Wildlife Day.",
+    "tags": [
+      "important-days",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-important-days-0016",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Important Days",
+    "subtopic": "Important Days Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "When is International Day of Peace?",
+    "image": "",
+    "options": [
+      "15 August",
+      "21 September",
+      "2 October",
+      "10 December"
+    ],
+    "correctAnswer": 1,
+    "explanation": "21 September is International Day of Peace.",
+    "tags": [
+      "important-days",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-important-days-0017",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Important Days",
+    "subtopic": "Important Days Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "When is World Tourism Day?",
+    "image": "",
+    "options": [
+      "5 June",
+      "27 September",
+      "22 April",
+      "10 October"
+    ],
+    "correctAnswer": 1,
+    "explanation": "27 September is World Tourism Day.",
+    "tags": [
+      "important-days",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-important-days-0018",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Important Days",
+    "subtopic": "Important Days Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "When is World Animal Welfare Day?",
+    "image": "",
+    "options": [
+      "5 June",
+      "4 October",
+      "22 April",
+      "10 December"
+    ],
+    "correctAnswer": 1,
+    "explanation": "4 October is World Animal Welfare Day.",
+    "tags": [
+      "important-days",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-important-days-0019",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Important Days",
+    "subtopic": "Important Days Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "When is Constitution Day in India?",
+    "image": "",
+    "options": [
+      "26 January",
+      "15 August",
+      "26 November",
+      "2 October"
+    ],
+    "correctAnswer": 2,
+    "explanation": "26 November is Constitution Day.",
+    "tags": [
+      "important-days",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-important-days-0020",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Important Days",
+    "subtopic": "Important Days Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "When is World Diabetes Day?",
+    "image": "",
+    "options": [
+      "7 April",
+      "14 November",
+      "10 December",
+      "1 January"
+    ],
+    "correctAnswer": 1,
+    "explanation": "14 November is World Diabetes Day.",
+    "tags": [
+      "important-days",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-important-days-0021",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Important Days",
+    "subtopic": "Important Days Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "When is International Day of Yoga?",
+    "image": "",
+    "options": [
+      "5 September",
+      "21 June",
+      "2 October",
+      "14 November"
+    ],
+    "correctAnswer": 1,
+    "explanation": "21 June is International Day of Yoga.",
+    "tags": [
+      "important-days",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-important-days-0022",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Important Days",
+    "subtopic": "Important Days Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "When is World Ozone Day?",
+    "image": "",
+    "options": [
+      "5 June",
+      "16 September",
+      "22 April",
+      "10 December"
+    ],
+    "correctAnswer": 1,
+    "explanation": "16 September is World Ozone Day.",
+    "tags": [
+      "important-days",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-important-days-0023",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Important Days",
+    "subtopic": "Important Days Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "When is World AIDS Day?",
+    "image": "",
+    "options": [
+      "7 April",
+      "1 December",
+      "10 October",
+      "25 December"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1 December is World AIDS Day.",
+    "tags": [
+      "important-days",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-important-days-0024",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Important Days",
+    "subtopic": "Important Days Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "When is National Sports Day in India?",
+    "image": "",
+    "options": [
+      "15 August",
+      "29 August",
+      "2 October",
+      "14 November"
+    ],
+    "correctAnswer": 1,
+    "explanation": "29 August is National Sports Day.",
+    "tags": [
+      "important-days",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-important-days-0025",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "Important Days",
+    "subtopic": "Important Days Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "When is World Heritage Day?",
+    "image": "",
+    "options": [
+      "5 June",
+      "18 April",
+      "22 April",
+      "10 December"
+    ],
+    "correctAnswer": 1,
+    "explanation": "18 April is World Heritage Day.",
+    "tags": [
+      "important-days",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  }
+]
