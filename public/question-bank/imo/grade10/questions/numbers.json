@@ -1,0 +1,702 @@
+[
+  {
+    "id": "imo-g10-numbers-0001",
+    "exam": "imo",
+    "grade": "10",
+    "topic": "Real Numbers",
+    "subtopic": "Real Numbers",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the place value of 5 in 456?",
+    "image": "",
+    "options": [
+      "5",
+      "50",
+      "500",
+      "5000"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In 456, 5 is in the tens place, so its value is 50.",
+    "tags": [
+      "numbers",
+      "imo",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g10-numbers-0002",
+    "exam": "imo",
+    "grade": "10",
+    "topic": "Real Numbers",
+    "subtopic": "Real Numbers",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which number is greater: 234 or 243?",
+    "image": "",
+    "options": [
+      "234",
+      "243",
+      "Both equal",
+      "Cannot tell"
+    ],
+    "correctAnswer": 1,
+    "explanation": "243 is greater because 4 tens is more than 3 tens.",
+    "tags": [
+      "numbers",
+      "imo",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g10-numbers-0003",
+    "exam": "imo",
+    "grade": "10",
+    "topic": "Real Numbers",
+    "subtopic": "Real Numbers",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 45 + 38?",
+    "image": "",
+    "options": [
+      "73",
+      "83",
+      "93",
+      "103"
+    ],
+    "correctAnswer": 1,
+    "explanation": "45 + 38 = 83.",
+    "tags": [
+      "numbers",
+      "imo",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g10-numbers-0004",
+    "exam": "imo",
+    "grade": "10",
+    "topic": "Real Numbers",
+    "subtopic": "Real Numbers",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 72 − 29?",
+    "image": "",
+    "options": [
+      "43",
+      "44",
+      "53",
+      "54"
+    ],
+    "correctAnswer": 0,
+    "explanation": "72 − 29 = 43.",
+    "tags": [
+      "numbers",
+      "imo",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g10-numbers-0005",
+    "exam": "imo",
+    "grade": "10",
+    "topic": "Real Numbers",
+    "subtopic": "Real Numbers",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many hundreds are in 500?",
+    "image": "",
+    "options": [
+      "5",
+      "50",
+      "500",
+      "5000"
+    ],
+    "correctAnswer": 0,
+    "explanation": "500 has 5 hundreds.",
+    "tags": [
+      "numbers",
+      "imo",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g10-numbers-0006",
+    "exam": "imo",
+    "grade": "10",
+    "topic": "Real Numbers",
+    "subtopic": "Real Numbers",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which number comes just after 399?",
+    "image": "",
+    "options": [
+      "398",
+      "400",
+      "401",
+      "410"
+    ],
+    "correctAnswer": 1,
+    "explanation": "399 + 1 = 400.",
+    "tags": [
+      "numbers",
+      "imo",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g10-numbers-0007",
+    "exam": "imo",
+    "grade": "10",
+    "topic": "Real Numbers",
+    "subtopic": "Real Numbers",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 156 + 244?",
+    "image": "",
+    "options": [
+      "390",
+      "400",
+      "410",
+      "500"
+    ],
+    "correctAnswer": 1,
+    "explanation": "156 + 244 = 400.",
+    "tags": [
+      "numbers",
+      "imo",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g10-numbers-0008",
+    "exam": "imo",
+    "grade": "10",
+    "topic": "Real Numbers",
+    "subtopic": "Real Numbers",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 100 − 37?",
+    "image": "",
+    "options": [
+      "53",
+      "63",
+      "73",
+      "83"
+    ],
+    "correctAnswer": 1,
+    "explanation": "100 − 37 = 63.",
+    "tags": [
+      "numbers",
+      "imo",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g10-numbers-0009",
+    "exam": "imo",
+    "grade": "10",
+    "topic": "Real Numbers",
+    "subtopic": "Real Numbers",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is the smallest 3-digit number?",
+    "image": "",
+    "options": [
+      "99",
+      "100",
+      "101",
+      "111"
+    ],
+    "correctAnswer": 1,
+    "explanation": "100 is the smallest 3-digit number.",
+    "tags": [
+      "numbers",
+      "imo",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g10-numbers-0010",
+    "exam": "imo",
+    "grade": "10",
+    "topic": "Real Numbers",
+    "subtopic": "Real Numbers",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 89 + 11?",
+    "image": "",
+    "options": [
+      "90",
+      "99",
+      "100",
+      "101"
+    ],
+    "correctAnswer": 2,
+    "explanation": "89 + 11 = 100.",
+    "tags": [
+      "numbers",
+      "imo",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g10-numbers-0011",
+    "exam": "imo",
+    "grade": "10",
+    "topic": "Real Numbers",
+    "subtopic": "Real Numbers",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Arrange from smallest to largest: 312, 231, 321",
+    "image": "",
+    "options": [
+      "312, 231, 321",
+      "231, 312, 321",
+      "321, 312, 231",
+      "231, 321, 312"
+    ],
+    "correctAnswer": 1,
+    "explanation": "231 < 312 < 321.",
+    "tags": [
+      "numbers",
+      "imo",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g10-numbers-0012",
+    "exam": "imo",
+    "grade": "10",
+    "topic": "Real Numbers",
+    "subtopic": "Real Numbers",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 200 + 50 + 8?",
+    "image": "",
+    "options": [
+      "258",
+      "268",
+      "250",
+      "208"
+    ],
+    "correctAnswer": 0,
+    "explanation": "200 + 50 + 8 = 258.",
+    "tags": [
+      "numbers",
+      "imo",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g10-numbers-0013",
+    "exam": "imo",
+    "grade": "10",
+    "topic": "Real Numbers",
+    "subtopic": "Real Numbers",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 85 − 47?",
+    "image": "",
+    "options": [
+      "28",
+      "38",
+      "48",
+      "58"
+    ],
+    "correctAnswer": 1,
+    "explanation": "85 − 47 = 38.",
+    "tags": [
+      "numbers",
+      "imo",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g10-numbers-0014",
+    "exam": "imo",
+    "grade": "10",
+    "topic": "Real Numbers",
+    "subtopic": "Real Numbers",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "In 678, which digit is in the ones place?",
+    "image": "",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "0"
+    ],
+    "correctAnswer": 2,
+    "explanation": "8 is in the ones place in 678.",
+    "tags": [
+      "numbers",
+      "imo",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g10-numbers-0015",
+    "exam": "imo",
+    "grade": "10",
+    "topic": "Real Numbers",
+    "subtopic": "Real Numbers",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we get when we add 0 to any number?",
+    "image": "",
+    "options": [
+      "0",
+      "The same number",
+      "Double the number",
+      "Nothing"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Adding 0 to any number gives the same number.",
+    "tags": [
+      "numbers",
+      "imo",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g10-numbers-0016",
+    "exam": "imo",
+    "grade": "10",
+    "topic": "Real Numbers",
+    "subtopic": "Real Numbers",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which number is between 450 and 452?",
+    "image": "",
+    "options": [
+      "449",
+      "451",
+      "453",
+      "454"
+    ],
+    "correctAnswer": 1,
+    "explanation": "451 is between 450 and 452.",
+    "tags": [
+      "numbers",
+      "imo",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g10-numbers-0017",
+    "exam": "imo",
+    "grade": "10",
+    "topic": "Real Numbers",
+    "subtopic": "Real Numbers",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 67 + 33?",
+    "image": "",
+    "options": [
+      "90",
+      "99",
+      "100",
+      "110"
+    ],
+    "correctAnswer": 2,
+    "explanation": "67 + 33 = 100.",
+    "tags": [
+      "numbers",
+      "imo",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g10-numbers-0018",
+    "exam": "imo",
+    "grade": "10",
+    "topic": "Real Numbers",
+    "subtopic": "Real Numbers",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the expanded form of 345?",
+    "image": "",
+    "options": [
+      "3 + 4 + 5",
+      "300 + 40 + 5",
+      "300 + 45",
+      "34 + 5"
+    ],
+    "correctAnswer": 1,
+    "explanation": "345 = 300 + 40 + 5.",
+    "tags": [
+      "numbers",
+      "imo",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g10-numbers-0019",
+    "exam": "imo",
+    "grade": "10",
+    "topic": "Real Numbers",
+    "subtopic": "Real Numbers",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is greater: 567 or 576?",
+    "image": "",
+    "options": [
+      "567",
+      "576",
+      "Both equal",
+      "Cannot tell"
+    ],
+    "correctAnswer": 1,
+    "explanation": "576 is greater because 7 tens > 6 tens.",
+    "tags": [
+      "numbers",
+      "imo",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g10-numbers-0020",
+    "exam": "imo",
+    "grade": "10",
+    "topic": "Real Numbers",
+    "subtopic": "Real Numbers",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 234 + 166?",
+    "image": "",
+    "options": [
+      "390",
+      "400",
+      "410",
+      "500"
+    ],
+    "correctAnswer": 1,
+    "explanation": "234 + 166 = 400.",
+    "tags": [
+      "numbers",
+      "imo",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g10-numbers-0021",
+    "exam": "imo",
+    "grade": "10",
+    "topic": "Real Numbers",
+    "subtopic": "Real Numbers",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 90 − 45?",
+    "image": "",
+    "options": [
+      "35",
+      "45",
+      "55",
+      "65"
+    ],
+    "correctAnswer": 1,
+    "explanation": "90 − 45 = 45.",
+    "tags": [
+      "numbers",
+      "imo",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g10-numbers-0022",
+    "exam": "imo",
+    "grade": "10",
+    "topic": "Real Numbers",
+    "subtopic": "Real Numbers",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Ravi has 45 marbles. He gets 28 more. How many does he have now?",
+    "image": "",
+    "options": [
+      "63",
+      "73",
+      "83",
+      "93"
+    ],
+    "correctAnswer": 1,
+    "explanation": "45 + 28 = 73 marbles.",
+    "tags": [
+      "numbers",
+      "imo",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g10-numbers-0023",
+    "exam": "imo",
+    "grade": "10",
+    "topic": "Real Numbers",
+    "subtopic": "Real Numbers",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which number is 10 more than 290?",
+    "image": "",
+    "options": [
+      "280",
+      "300",
+      "310",
+      "291"
+    ],
+    "correctAnswer": 1,
+    "explanation": "290 + 10 = 300.",
+    "tags": [
+      "numbers",
+      "imo",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g10-numbers-0024",
+    "exam": "imo",
+    "grade": "10",
+    "topic": "Real Numbers",
+    "subtopic": "Real Numbers",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 52 + 39?",
+    "image": "",
+    "options": [
+      "81",
+      "91",
+      "101",
+      "111"
+    ],
+    "correctAnswer": 1,
+    "explanation": "52 + 39 = 91.",
+    "tags": [
+      "numbers",
+      "imo",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g10-numbers-0025",
+    "exam": "imo",
+    "grade": "10",
+    "topic": "Real Numbers",
+    "subtopic": "Real Numbers",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 95 − 48?",
+    "image": "",
+    "options": [
+      "47",
+      "48",
+      "57",
+      "58"
+    ],
+    "correctAnswer": 0,
+    "explanation": "95 − 48 = 47.",
+    "tags": [
+      "numbers",
+      "imo",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  }
+]

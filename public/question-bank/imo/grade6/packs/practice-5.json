@@ -1,0 +1,20 @@
+{
+  "packId": "imo-grade6-data-handling-practice-01",
+  "exam": "imo",
+  "grade": 6,
+  "mode": "practice",
+  "title": "Data Handling and Presentation Practice",
+  "topic": "Data Handling and Presentation",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Data Handling and Presentation"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

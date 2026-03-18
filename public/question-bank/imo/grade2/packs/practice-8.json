@@ -1,0 +1,20 @@
+{
+  "packId": "imo-grade2-data-handling-practice-01",
+  "exam": "imo",
+  "grade": 2,
+  "mode": "practice",
+  "title": "Pictographs Practice",
+  "topic": "Pictographs",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Pictographs"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

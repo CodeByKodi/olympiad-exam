@@ -1,15 +1,15 @@
 {
-  "packId": "imo-grade3-addition-and-subtraction-practice-01",
+  "packId": "imo-grade3-logical-reasoning-practice-01",
   "exam": "imo",
   "grade": 3,
   "mode": "practice",
-  "title": "Addition and Subtraction Practice Test",
-  "topic": "Addition and Subtraction",
+  "title": "Analogy and Classification Practice",
+  "topic": "Analogy and Classification",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "Addition and Subtraction"
+      "Analogy and Classification"
     ],
     "difficultyMix": {
       "easy": 15,

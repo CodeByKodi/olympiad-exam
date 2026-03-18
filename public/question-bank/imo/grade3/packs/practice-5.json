@@ -1,14 +1,20 @@
 {
-  "packId": "imo-grade3-fractions-practice-01",
+  "packId": "imo-grade3-addition-and-subtraction-practice-01",
   "exam": "imo",
   "grade": 3,
   "mode": "practice",
-  "title": "Fractions Practice Test",
-  "topic": "Fractions",
+  "title": "Computation Operations Practice",
+  "topic": "Computation Operations",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
-    "topics": ["Fractions"],
-    "difficultyMix": { "easy": 15, "medium": 8, "hard": 2 }
+    "topics": [
+      "Computation Operations"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
   }
 }

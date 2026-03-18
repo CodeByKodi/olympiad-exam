@@ -1,15 +1,15 @@
 {
-  "packId": "imo-grade9-percentages-and-ratios-practice-01",
+  "packId": "imo-grade9-algebra-practice-01",
   "exam": "imo",
   "grade": 9,
   "mode": "practice",
-  "title": "Percentages and Ratios Practice Test",
-  "topic": "Percentages and Ratios",
+  "title": "Polynomials Practice",
+  "topic": "Polynomials",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "Percentages and Ratios"
+      "Polynomials"
     ],
     "difficultyMix": {
       "easy": 15,

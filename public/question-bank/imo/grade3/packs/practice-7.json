@@ -1,14 +1,20 @@
 {
-  "packId": "imo-grade3-money-practice-01",
+  "packId": "imo-grade3-measurement-practice-01",
   "exam": "imo",
   "grade": 3,
   "mode": "practice",
-  "title": "Money Practice Test",
-  "topic": "Money",
+  "title": "Length, Weight, Capacity Practice",
+  "topic": "Length, Weight, Capacity",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
-    "topics": ["Money"],
-    "difficultyMix": { "easy": 15, "medium": 8, "hard": 2 }
+    "topics": [
+      "Length, Weight, Capacity"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
   }
 }

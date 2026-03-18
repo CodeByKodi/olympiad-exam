@@ -1,0 +1,2799 @@
+{
+  "logical-reasoning": [
+    {
+      "q": "Dog is to puppy as cat is to ___?",
+      "opts": [
+        "Cub",
+        "Kitten",
+        "Calf",
+        "Chick"
+      ],
+      "c": 1,
+      "e": "A baby dog is a puppy, and a baby cat is a kitten."
+    },
+    {
+      "q": "Which one is different: Apple, Banana, Carrot, Orange?",
+      "opts": [
+        "Apple",
+        "Banana",
+        "Carrot",
+        "Orange"
+      ],
+      "c": 2,
+      "e": "Carrot is a vegetable. Apple, Banana, and Orange are fruits."
+    },
+    {
+      "q": "If A=1, B=2, C=3, what is the value of CAT?",
+      "opts": [
+        "24",
+        "24 (3+1+20)",
+        "6",
+        "3120"
+      ],
+      "c": 0,
+      "e": "C=3, A=1, T=20. 3+1+20=24."
+    },
+    {
+      "q": "Which letter comes exactly in the middle of the alphabet?",
+      "opts": [
+        "L",
+        "M",
+        "N",
+        "O"
+      ],
+      "c": 1,
+      "e": "M is the 13th letter. There are 26 letters, so M is in the middle."
+    },
+    {
+      "q": "In a queue of 5 children, Riya is 2nd from the front. What is her position from the back?",
+      "opts": [
+        "2nd",
+        "3rd",
+        "4th",
+        "5th"
+      ],
+      "c": 2,
+      "e": "In a queue of 5, 2nd from front means 4th from back."
+    },
+    {
+      "q": "Pen is to write as knife is to ___?",
+      "opts": [
+        "Eat",
+        "Cut",
+        "Draw",
+        "Read"
+      ],
+      "c": 1,
+      "e": "We use a pen to write and a knife to cut."
+    },
+    {
+      "q": "Which one is different: Square, Circle, Triangle, Rectangle?",
+      "opts": [
+        "Square",
+        "Circle",
+        "Triangle",
+        "Rectangle"
+      ],
+      "c": 1,
+      "e": "Circle has no corners. Square, Triangle, and Rectangle have corners."
+    },
+    {
+      "q": "How many days are in a week?",
+      "opts": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "c": 2,
+      "e": "There are 7 days in a week: Sunday to Saturday."
+    },
+    {
+      "q": "How many months are in a year?",
+      "opts": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "c": 2,
+      "e": "There are 12 months in a year."
+    },
+    {
+      "q": "You have a red shirt and a blue shirt. You have black pants and white pants. How many different outfits can you make?",
+      "opts": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "c": 2,
+      "e": "Red+Black, Red+White, Blue+Black, Blue+White = 4 outfits."
+    },
+    {
+      "q": "What comes next: 2, 4, 6, 8, ___?",
+      "opts": [
+        "9",
+        "10",
+        "12",
+        "14"
+      ],
+      "c": 1,
+      "e": "The pattern adds 2 each time. 8 + 2 = 10."
+    },
+    {
+      "q": "Which one is different: Dog, Cat, Cow, Lion?",
+      "opts": [
+        "Dog",
+        "Cat",
+        "Cow",
+        "Lion"
+      ],
+      "c": 3,
+      "e": "Lion is a wild animal. Dog, Cat, and Cow are domestic animals."
+    },
+    {
+      "q": "If A=1, B=2, C=3, what is the value of BAD?",
+      "opts": [
+        "1+1+4",
+        "7",
+        "8",
+        "6"
+      ],
+      "c": 2,
+      "e": "B=2, A=1, D=4. 2+1+4=7."
+    },
+    {
+      "q": "Which letter comes after G in the alphabet?",
+      "opts": [
+        "F",
+        "H",
+        "I",
+        "J"
+      ],
+      "c": 1,
+      "e": "The alphabet order is ... F, G, H, I, J ..."
+    },
+    {
+      "q": "In a line of 7 children, Sita is 3rd from the front. What is her position from the back?",
+      "opts": [
+        "3rd",
+        "4th",
+        "5th",
+        "6th"
+      ],
+      "c": 2,
+      "e": "In a line of 7, 3rd from front = 5th from back."
+    },
+    {
+      "q": "Bird is to fly as fish is to ___?",
+      "opts": [
+        "Walk",
+        "Swim",
+        "Run",
+        "Jump"
+      ],
+      "c": 1,
+      "e": "Birds fly and fish swim."
+    },
+    {
+      "q": "What comes next: 5, 10, 15, 20, ___?",
+      "opts": [
+        "22",
+        "24",
+        "25",
+        "30"
+      ],
+      "c": 2,
+      "e": "The pattern adds 5 each time. 20 + 5 = 25."
+    },
+    {
+      "q": "How many days are in February in a leap year?",
+      "opts": [
+        "27",
+        "28",
+        "29",
+        "30"
+      ],
+      "c": 2,
+      "e": "February has 29 days in a leap year."
+    },
+    {
+      "q": "A triangle has how many sides?",
+      "opts": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "c": 1,
+      "e": "A triangle has 3 sides."
+    },
+    {
+      "q": "You can choose juice or milk. You can choose bread or rice. How many different meals can you make?",
+      "opts": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "c": 2,
+      "e": "Juice+Bread, Juice+Rice, Milk+Bread, Milk+Rice = 4 meals."
+    },
+    {
+      "q": "Book is to read as song is to ___?",
+      "opts": [
+        "Write",
+        "Sing",
+        "Draw",
+        "Count"
+      ],
+      "c": 1,
+      "e": "We read books and sing songs."
+    },
+    {
+      "q": "What comes next: 1, 3, 5, 7, ___?",
+      "opts": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "c": 1,
+      "e": "The pattern adds 2 each time. 7 + 2 = 9."
+    },
+    {
+      "q": "A square has how many corners (vertices)?",
+      "opts": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "c": 2,
+      "e": "A square has 4 corners."
+    },
+    {
+      "q": "Which letter comes before D in the alphabet?",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "c": 2,
+      "e": "The alphabet order is ... A, B, C, D, E ..."
+    },
+    {
+      "q": "Which one is different: Red, Blue, Green, Apple?",
+      "opts": [
+        "Red",
+        "Blue",
+        "Green",
+        "Apple"
+      ],
+      "c": 3,
+      "e": "Apple is a fruit. Red, Blue, and Green are colours."
+    }
+  ],
+  "numbers": [
+    {
+      "q": "What is the place value of 5 in 456?",
+      "opts": [
+        "5",
+        "50",
+        "500",
+        "5000"
+      ],
+      "c": 1,
+      "e": "In 456, 5 is in the tens place, so its value is 50."
+    },
+    {
+      "q": "Which number is greater: 234 or 243?",
+      "opts": [
+        "234",
+        "243",
+        "Both equal",
+        "Cannot tell"
+      ],
+      "c": 1,
+      "e": "243 is greater because 4 tens is more than 3 tens."
+    },
+    {
+      "q": "What is 45 + 38?",
+      "opts": [
+        "73",
+        "83",
+        "93",
+        "103"
+      ],
+      "c": 1,
+      "e": "45 + 38 = 83."
+    },
+    {
+      "q": "What is 72 − 29?",
+      "opts": [
+        "43",
+        "44",
+        "53",
+        "54"
+      ],
+      "c": 0,
+      "e": "72 − 29 = 43."
+    },
+    {
+      "q": "How many hundreds are in 500?",
+      "opts": [
+        "5",
+        "50",
+        "500",
+        "5000"
+      ],
+      "c": 0,
+      "e": "500 has 5 hundreds."
+    },
+    {
+      "q": "Which number comes just after 399?",
+      "opts": [
+        "398",
+        "400",
+        "401",
+        "410"
+      ],
+      "c": 1,
+      "e": "399 + 1 = 400."
+    },
+    {
+      "q": "What is 156 + 244?",
+      "opts": [
+        "390",
+        "400",
+        "410",
+        "500"
+      ],
+      "c": 1,
+      "e": "156 + 244 = 400."
+    },
+    {
+      "q": "What is 100 − 37?",
+      "opts": [
+        "53",
+        "63",
+        "73",
+        "83"
+      ],
+      "c": 1,
+      "e": "100 − 37 = 63."
+    },
+    {
+      "q": "Which is the smallest 3-digit number?",
+      "opts": [
+        "99",
+        "100",
+        "101",
+        "111"
+      ],
+      "c": 1,
+      "e": "100 is the smallest 3-digit number."
+    },
+    {
+      "q": "What is 89 + 11?",
+      "opts": [
+        "90",
+        "99",
+        "100",
+        "101"
+      ],
+      "c": 2,
+      "e": "89 + 11 = 100."
+    },
+    {
+      "q": "Arrange from smallest to largest: 312, 231, 321",
+      "opts": [
+        "312, 231, 321",
+        "231, 312, 321",
+        "321, 312, 231",
+        "231, 321, 312"
+      ],
+      "c": 1,
+      "e": "231 < 312 < 321."
+    },
+    {
+      "q": "What is 200 + 50 + 8?",
+      "opts": [
+        "258",
+        "268",
+        "250",
+        "208"
+      ],
+      "c": 0,
+      "e": "200 + 50 + 8 = 258."
+    },
+    {
+      "q": "What is 85 − 47?",
+      "opts": [
+        "28",
+        "38",
+        "48",
+        "58"
+      ],
+      "c": 1,
+      "e": "85 − 47 = 38."
+    },
+    {
+      "q": "In 678, which digit is in the ones place?",
+      "opts": [
+        "6",
+        "7",
+        "8",
+        "0"
+      ],
+      "c": 2,
+      "e": "8 is in the ones place in 678."
+    },
+    {
+      "q": "What do we get when we add 0 to any number?",
+      "opts": [
+        "0",
+        "The same number",
+        "Double the number",
+        "Nothing"
+      ],
+      "c": 1,
+      "e": "Adding 0 to any number gives the same number."
+    },
+    {
+      "q": "Which number is between 450 and 452?",
+      "opts": [
+        "449",
+        "451",
+        "453",
+        "454"
+      ],
+      "c": 1,
+      "e": "451 is between 450 and 452."
+    },
+    {
+      "q": "What is 67 + 33?",
+      "opts": [
+        "90",
+        "99",
+        "100",
+        "110"
+      ],
+      "c": 2,
+      "e": "67 + 33 = 100."
+    },
+    {
+      "q": "What is the expanded form of 345?",
+      "opts": [
+        "3 + 4 + 5",
+        "300 + 40 + 5",
+        "300 + 45",
+        "34 + 5"
+      ],
+      "c": 1,
+      "e": "345 = 300 + 40 + 5."
+    },
+    {
+      "q": "Which is greater: 567 or 576?",
+      "opts": [
+        "567",
+        "576",
+        "Both equal",
+        "Cannot tell"
+      ],
+      "c": 1,
+      "e": "576 is greater because 7 tens > 6 tens."
+    },
+    {
+      "q": "What is 234 + 166?",
+      "opts": [
+        "390",
+        "400",
+        "410",
+        "500"
+      ],
+      "c": 1,
+      "e": "234 + 166 = 400."
+    },
+    {
+      "q": "What is 90 − 45?",
+      "opts": [
+        "35",
+        "45",
+        "55",
+        "65"
+      ],
+      "c": 1,
+      "e": "90 − 45 = 45."
+    },
+    {
+      "q": "Ravi has 45 marbles. He gets 28 more. How many does he have now?",
+      "opts": [
+        "63",
+        "73",
+        "83",
+        "93"
+      ],
+      "c": 1,
+      "e": "45 + 28 = 73 marbles."
+    },
+    {
+      "q": "Which number is 10 more than 290?",
+      "opts": [
+        "280",
+        "300",
+        "310",
+        "291"
+      ],
+      "c": 1,
+      "e": "290 + 10 = 300."
+    },
+    {
+      "q": "What is 52 + 39?",
+      "opts": [
+        "81",
+        "91",
+        "101",
+        "111"
+      ],
+      "c": 1,
+      "e": "52 + 39 = 91."
+    },
+    {
+      "q": "What is 95 − 48?",
+      "opts": [
+        "47",
+        "48",
+        "57",
+        "58"
+      ],
+      "c": 0,
+      "e": "95 − 48 = 47."
+    },
+    {
+      "q": "What is 78 + 22?",
+      "opts": [
+        "90",
+        "99",
+        "100",
+        "110"
+      ],
+      "c": 2,
+      "e": "78 + 22 = 100."
+    },
+    {
+      "q": "What is 120 − 55?",
+      "opts": [
+        "55",
+        "65",
+        "75",
+        "85"
+      ],
+      "c": 1,
+      "e": "120 − 55 = 65."
+    },
+    {
+      "q": "What is 168 + 132?",
+      "opts": [
+        "290",
+        "300",
+        "310",
+        "400"
+      ],
+      "c": 1,
+      "e": "168 + 132 = 300."
+    },
+    {
+      "q": "What is 76 − 39?",
+      "opts": [
+        "36",
+        "37",
+        "47",
+        "48"
+      ],
+      "c": 1,
+      "e": "76 − 39 = 37."
+    },
+    {
+      "q": "Which is the largest 2-digit number?",
+      "opts": [
+        "89",
+        "90",
+        "99",
+        "100"
+      ],
+      "c": 2,
+      "e": "99 is the largest 2-digit number."
+    }
+  ],
+  "addition-and-subtraction": [
+    {
+      "q": "What is 4 × 8?",
+      "opts": [
+        "12",
+        "28",
+        "32",
+        "36"
+      ],
+      "c": 2,
+      "e": "4 × 8 = 32."
+    },
+    {
+      "q": "What is 35 ÷ 5?",
+      "opts": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "c": 2,
+      "e": "35 ÷ 5 = 7."
+    },
+    {
+      "q": "What does 2/3 mean?",
+      "opts": [
+        "2 out of 3 parts",
+        "3 out of 2 parts",
+        "2 plus 3",
+        "2 minus 3"
+      ],
+      "c": 0,
+      "e": "2/3 means 2 out of 3 equal parts."
+    },
+    {
+      "q": "What is 9 × 4?",
+      "opts": [
+        "32",
+        "36",
+        "40",
+        "45"
+      ],
+      "c": 1,
+      "e": "9 × 4 = 36."
+    },
+    {
+      "q": "What is 42 ÷ 6?",
+      "opts": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "c": 1,
+      "e": "42 ÷ 6 = 7."
+    },
+    {
+      "q": "If 1 pizza is cut into 8 equal slices, how many slices make half?",
+      "opts": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "c": 1,
+      "e": "Half of 8 slices is 4 slices."
+    },
+    {
+      "q": "What is 3 × 9?",
+      "opts": [
+        "24",
+        "27",
+        "30",
+        "36"
+      ],
+      "c": 1,
+      "e": "3 × 9 = 27."
+    },
+    {
+      "q": "What is 56 ÷ 8?",
+      "opts": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "c": 1,
+      "e": "56 ÷ 8 = 7."
+    },
+    {
+      "q": "What is 8 × 5?",
+      "opts": [
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "c": 1,
+      "e": "8 × 5 = 40."
+    },
+    {
+      "q": "How many 4s are in 24?",
+      "opts": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "c": 2,
+      "e": "24 ÷ 4 = 6. There are 6 fours in 24."
+    },
+    {
+      "q": "What is 1/2 + 1/2?",
+      "opts": [
+        "1/4",
+        "1/2",
+        "1",
+        "2"
+      ],
+      "c": 2,
+      "e": "Half plus half equals one whole."
+    },
+    {
+      "q": "What is 10 × 3?",
+      "opts": [
+        "13",
+        "30",
+        "33",
+        "300"
+      ],
+      "c": 1,
+      "e": "10 × 3 = 30."
+    },
+    {
+      "q": "There are 32 apples in 4 baskets. How many in each basket?",
+      "opts": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "c": 2,
+      "e": "32 ÷ 4 = 8 apples per basket."
+    },
+    {
+      "q": "What is 5 × 6?",
+      "opts": [
+        "11",
+        "25",
+        "30",
+        "35"
+      ],
+      "c": 2,
+      "e": "5 × 6 = 30."
+    },
+    {
+      "q": "Which fraction equals 1?",
+      "opts": [
+        "1/2",
+        "2/2",
+        "1/4",
+        "3/4"
+      ],
+      "c": 1,
+      "e": "2/2 = 1. Two halves make one whole."
+    },
+    {
+      "q": "How many minutes are in 1 hour?",
+      "opts": [
+        "30",
+        "60",
+        "90",
+        "100"
+      ],
+      "c": 1,
+      "e": "1 hour = 60 minutes."
+    },
+    {
+      "q": "How many paise make 1 rupee?",
+      "opts": [
+        "10",
+        "50",
+        "100",
+        "1000"
+      ],
+      "c": 2,
+      "e": "100 paise = 1 rupee."
+    },
+    {
+      "q": "What is the standard unit of length?",
+      "opts": [
+        "Kilogram",
+        "Litre",
+        "Metre",
+        "Rupee"
+      ],
+      "c": 2,
+      "e": "Metre is the standard unit for measuring length."
+    },
+    {
+      "q": "How many hours are in 1 day?",
+      "opts": [
+        "12",
+        "20",
+        "24",
+        "30"
+      ],
+      "c": 2,
+      "e": "1 day = 24 hours."
+    },
+    {
+      "q": "If a pencil costs ₹5, how much do 3 pencils cost?",
+      "opts": [
+        "₹8",
+        "₹15",
+        "₹18",
+        "₹20"
+      ],
+      "c": 1,
+      "e": "3 × 5 = ₹15."
+    },
+    {
+      "q": "How many centimetres are in 1 metre?",
+      "opts": [
+        "10",
+        "50",
+        "100",
+        "1000"
+      ],
+      "c": 2,
+      "e": "1 metre = 100 centimetres."
+    },
+    {
+      "q": "How many days are in 1 week?",
+      "opts": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "c": 2,
+      "e": "1 week = 7 days."
+    },
+    {
+      "q": "Riya has ₹20. She buys a toy for ₹12. How much is left?",
+      "opts": [
+        "₹6",
+        "₹8",
+        "₹10",
+        "₹12"
+      ],
+      "c": 1,
+      "e": "20 − 12 = ₹8."
+    },
+    {
+      "q": "What do we use to measure weight?",
+      "opts": [
+        "Ruler",
+        "Thermometer",
+        "Clock",
+        "Scale"
+      ],
+      "c": 3,
+      "e": "A scale or balance measures weight."
+    },
+    {
+      "q": "How many months are in 1 year?",
+      "opts": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "c": 2,
+      "e": "1 year = 12 months."
+    },
+    {
+      "q": "Which coin is worth the most?",
+      "opts": [
+        "50 paise",
+        "₹1",
+        "₹2",
+        "₹5"
+      ],
+      "c": 3,
+      "e": "₹5 is worth the most among these."
+    },
+    {
+      "q": "What is 2 metres in centimetres?",
+      "opts": [
+        "20",
+        "200",
+        "2000",
+        "2"
+      ],
+      "c": 1,
+      "e": "2 m = 2 × 100 = 200 cm."
+    },
+    {
+      "q": "If it is 3:00 now, what time will it be in 2 hours?",
+      "opts": [
+        "1:00",
+        "4:00",
+        "5:00",
+        "6:00"
+      ],
+      "c": 2,
+      "e": "3:00 + 2 hours = 5:00."
+    },
+    {
+      "q": "How many 50 paise coins make ₹1?",
+      "opts": [
+        "1",
+        "2",
+        "5",
+        "10"
+      ],
+      "c": 1,
+      "e": "2 × 50 paise = 100 paise = ₹1."
+    },
+    {
+      "q": "Which is longer: 1 metre or 100 centimetres?",
+      "opts": [
+        "1 metre",
+        "100 cm",
+        "Both equal",
+        "Cannot tell"
+      ],
+      "c": 2,
+      "e": "1 m = 100 cm. They are the same length."
+    }
+  ],
+  "patterns": [
+    {
+      "q": "What comes next: 2, 4, 6, 8, __?",
+      "opts": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "c": 1,
+      "e": "The pattern adds 2 each time. 8 + 2 = 10."
+    },
+    {
+      "q": "How many corners does a square have?",
+      "opts": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "c": 2,
+      "e": "A square has 4 corners (vertices)."
+    },
+    {
+      "q": "What shape has no corners?",
+      "opts": [
+        "Square",
+        "Triangle",
+        "Circle",
+        "Rectangle"
+      ],
+      "c": 2,
+      "e": "A circle has no corners. It is round."
+    },
+    {
+      "q": "What comes next: 5, 10, 15, 20, __?",
+      "opts": [
+        "22",
+        "24",
+        "25",
+        "30"
+      ],
+      "c": 2,
+      "e": "The pattern adds 5 each time. 20 + 5 = 25."
+    },
+    {
+      "q": "In a bar chart, what do the bars show?",
+      "opts": [
+        "Colors",
+        "Numbers or amounts",
+        "Names only",
+        "Nothing"
+      ],
+      "c": 1,
+      "e": "Bars in a bar chart show numbers or amounts."
+    },
+    {
+      "q": "How many sides does a rectangle have?",
+      "opts": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "c": 2,
+      "e": "A rectangle has 4 sides."
+    },
+    {
+      "q": "What comes next: 1, 3, 5, 7, __?",
+      "opts": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "c": 1,
+      "e": "Odd numbers. 7 + 2 = 9."
+    },
+    {
+      "q": "If 3 + 5 = 8, what is 5 + 3?",
+      "opts": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "c": 3,
+      "e": "5 + 3 = 8. Order does not matter in addition."
+    },
+    {
+      "q": "What shape is a ball?",
+      "opts": [
+        "Circle",
+        "Square",
+        "Sphere",
+        "Triangle"
+      ],
+      "c": 2,
+      "e": "A ball is round like a sphere."
+    },
+    {
+      "q": "What comes next: 10, 20, 30, 40, __?",
+      "opts": [
+        "45",
+        "50",
+        "55",
+        "60"
+      ],
+      "c": 1,
+      "e": "The pattern adds 10 each time. 40 + 10 = 50."
+    },
+    {
+      "q": "How many days are in 2 weeks?",
+      "opts": [
+        "7",
+        "12",
+        "14",
+        "21"
+      ],
+      "c": 2,
+      "e": "2 × 7 = 14 days."
+    },
+    {
+      "q": "Which shape has all sides equal?",
+      "opts": [
+        "Rectangle",
+        "Square",
+        "Triangle",
+        "Circle"
+      ],
+      "c": 1,
+      "e": "A square has all 4 sides equal."
+    },
+    {
+      "q": "If 4 children share 12 apples equally, how many does each get?",
+      "opts": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "c": 1,
+      "e": "12 ÷ 4 = 3 apples each."
+    },
+    {
+      "q": "How many faces does a cube have?",
+      "opts": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "c": 2,
+      "e": "A cube has 6 faces."
+    },
+    {
+      "q": "Which is the largest: 3-digit number?",
+      "opts": [
+        "99",
+        "100",
+        "999",
+        "1000"
+      ],
+      "c": 2,
+      "e": "999 is the largest 3-digit number."
+    },
+    {
+      "q": "What comes next: 100, 90, 80, 70, __?",
+      "opts": [
+        "65",
+        "60",
+        "55",
+        "50"
+      ],
+      "c": 1,
+      "e": "The pattern subtracts 10 each time. 70 − 10 = 60."
+    },
+    {
+      "q": "Which shape can roll?",
+      "opts": [
+        "Cube",
+        "Cylinder",
+        "Square",
+        "Triangle"
+      ],
+      "c": 1,
+      "e": "A cylinder can roll because it is round."
+    },
+    {
+      "q": "How many corners does a triangle have?",
+      "opts": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "c": 1,
+      "e": "A triangle has 3 corners."
+    },
+    {
+      "q": "What comes next: 3, 6, 9, 12, __?",
+      "opts": [
+        "14",
+        "15",
+        "16",
+        "18"
+      ],
+      "c": 1,
+      "e": "The pattern adds 3 each time. 12 + 3 = 15."
+    },
+    {
+      "q": "What comes next: 20, 18, 16, 14, __?",
+      "opts": [
+        "12",
+        "13",
+        "15",
+        "16"
+      ],
+      "c": 0,
+      "e": "The pattern subtracts 2 each time. 14 − 2 = 12."
+    },
+    {
+      "q": "What comes next: 1, 4, 7, 10, __?",
+      "opts": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "c": 1,
+      "e": "The pattern adds 3 each time. 10 + 3 = 13."
+    },
+    {
+      "q": "What comes next: 100, 95, 90, 85, __?",
+      "opts": [
+        "80",
+        "82",
+        "84",
+        "90"
+      ],
+      "c": 0,
+      "e": "The pattern subtracts 5 each time. 85 − 5 = 80."
+    },
+    {
+      "q": "Which shape has 6 sides?",
+      "opts": [
+        "Pentagon",
+        "Hexagon",
+        "Octagon",
+        "Triangle"
+      ],
+      "c": 1,
+      "e": "A hexagon has 6 sides."
+    },
+    {
+      "q": "What comes next: 2, 4, 8, 16, __?",
+      "opts": [
+        "18",
+        "20",
+        "24",
+        "32"
+      ],
+      "c": 3,
+      "e": "Each number doubles. 16 × 2 = 32."
+    },
+    {
+      "q": "What comes next: A, C, E, G, __?",
+      "opts": [
+        "H",
+        "I",
+        "J",
+        "K"
+      ],
+      "c": 1,
+      "e": "Skip one letter. After G comes I."
+    },
+    {
+      "q": "How many sides does a pentagon have?",
+      "opts": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "c": 1,
+      "e": "A pentagon has 5 sides."
+    },
+    {
+      "q": "If 1 = 3 and 2 = 6, what is 3?",
+      "opts": [
+        "6",
+        "8",
+        "9",
+        "12"
+      ],
+      "c": 2,
+      "e": "Pattern: multiply by 3. 3 × 3 = 9."
+    },
+    {
+      "q": "What comes next: 1, 2, 4, 7, 11, __?",
+      "opts": [
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "c": 2,
+      "e": "Add 1, 2, 3, 4, 5. 11 + 5 = 16."
+    },
+    {
+      "q": "What is 500 − 125?",
+      "opts": [
+        "375",
+        "385",
+        "425",
+        "475"
+      ],
+      "c": 0,
+      "e": "500 − 125 = 375."
+    },
+    {
+      "q": "How many tens are in 360?",
+      "opts": [
+        "3",
+        "6",
+        "36",
+        "360"
+      ],
+      "c": 2,
+      "e": "360 has 36 tens."
+    }
+  ],
+  "shapes": [
+    {
+      "q": "What shape is a dice?",
+      "opts": [
+        "Circle",
+        "Sphere",
+        "Cube",
+        "Cylinder"
+      ],
+      "c": 2,
+      "e": "A dice is cube-shaped."
+    },
+    {
+      "q": "Which shape has all sides equal and 4 corners?",
+      "opts": [
+        "Rectangle",
+        "Square",
+        "Triangle",
+        "Circle"
+      ],
+      "c": 1,
+      "e": "A square has all 4 sides equal and 4 corners."
+    },
+    {
+      "q": "What is the place value of 3 in 234?",
+      "opts": [
+        "3",
+        "30",
+        "300",
+        "3000"
+      ],
+      "c": 1,
+      "e": "In 234, 3 is in the tens place, so its value is 30."
+    },
+    {
+      "q": "Which number is smaller: 412 or 421?",
+      "opts": [
+        "412",
+        "421",
+        "Both equal",
+        "Cannot tell"
+      ],
+      "c": 0,
+      "e": "412 is smaller because 1 ten is less than 2 tens."
+    },
+    {
+      "q": "What is 6 × 4?",
+      "opts": [
+        "10",
+        "20",
+        "24",
+        "28"
+      ],
+      "c": 2,
+      "e": "6 × 4 = 24."
+    },
+    {
+      "q": "What is 28 ÷ 4?",
+      "opts": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "c": 2,
+      "e": "28 ÷ 4 = 7."
+    },
+    {
+      "q": "How many quarters make one whole?",
+      "opts": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "c": 2,
+      "e": "4 quarters (1/4 each) make one whole."
+    },
+    {
+      "q": "What is 48 ÷ 6?",
+      "opts": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "c": 2,
+      "e": "48 ÷ 6 = 8."
+    },
+    {
+      "q": "What is 7 × 7?",
+      "opts": [
+        "42",
+        "49",
+        "56",
+        "63"
+      ],
+      "c": 1,
+      "e": "7 × 7 = 49."
+    },
+    {
+      "q": "What is 63 ÷ 7?",
+      "opts": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "c": 2,
+      "e": "63 ÷ 7 = 9."
+    },
+    {
+      "q": "What is 5 × 9?",
+      "opts": [
+        "40",
+        "45",
+        "50",
+        "54"
+      ],
+      "c": 1,
+      "e": "5 × 9 = 45."
+    },
+    {
+      "q": "What is 36 ÷ 4?",
+      "opts": [
+        "8",
+        "9",
+        "10",
+        "12"
+      ],
+      "c": 1,
+      "e": "36 ÷ 4 = 9."
+    },
+    {
+      "q": "What does 3/4 mean?",
+      "opts": [
+        "3 out of 4 parts",
+        "4 out of 3 parts",
+        "3 plus 4",
+        "3 minus 4"
+      ],
+      "c": 0,
+      "e": "3/4 means 3 out of 4 equal parts."
+    },
+    {
+      "q": "What is 9 × 6?",
+      "opts": [
+        "54",
+        "56",
+        "63",
+        "72"
+      ],
+      "c": 0,
+      "e": "9 × 6 = 54."
+    },
+    {
+      "q": "How many 50 paise coins make ₹2?",
+      "opts": [
+        "2",
+        "4",
+        "5",
+        "10"
+      ],
+      "c": 1,
+      "e": "4 × 50 paise = 200 paise = ₹2."
+    },
+    {
+      "q": "What unit do we use to measure weight?",
+      "opts": [
+        "Metre",
+        "Litre",
+        "Kilogram",
+        "Rupee"
+      ],
+      "c": 2,
+      "e": "Kilogram is used to measure weight."
+    },
+    {
+      "q": "A book costs ₹35. How much do 2 books cost?",
+      "opts": [
+        "₹37",
+        "₹70",
+        "₹75",
+        "₹80"
+      ],
+      "c": 1,
+      "e": "2 × 35 = ₹70."
+    },
+    {
+      "q": "How many metres are in 300 centimetres?",
+      "opts": [
+        "3",
+        "30",
+        "300",
+        "3000"
+      ],
+      "c": 0,
+      "e": "300 cm = 3 m."
+    },
+    {
+      "q": "What do we use to measure liquids?",
+      "opts": [
+        "Ruler",
+        "Thermometer",
+        "Litre",
+        "Scale"
+      ],
+      "c": 2,
+      "e": "We use litres to measure liquids."
+    },
+    {
+      "q": "Vikram had ₹50. He spent ₹23. How much is left?",
+      "opts": [
+        "₹25",
+        "₹27",
+        "₹30",
+        "₹33"
+      ],
+      "c": 1,
+      "e": "50 − 23 = ₹27."
+    },
+    {
+      "q": "If it is 10:00 now, what time will it be in 3 hours?",
+      "opts": [
+        "11:00",
+        "12:00",
+        "1:00",
+        "2:00"
+      ],
+      "c": 2,
+      "e": "10:00 + 3 hours = 1:00 (13:00)."
+    },
+    {
+      "q": "What is 5 metres in centimetres?",
+      "opts": [
+        "50",
+        "500",
+        "5000",
+        "5"
+      ],
+      "c": 1,
+      "e": "5 m = 5 × 100 = 500 cm."
+    },
+    {
+      "q": "How much is ₹20 + ₹15 + ₹5?",
+      "opts": [
+        "₹35",
+        "₹40",
+        "₹45",
+        "₹50"
+      ],
+      "c": 1,
+      "e": "20 + 15 + 5 = ₹40."
+    },
+    {
+      "q": "What unit do we use to measure length?",
+      "opts": [
+        "Kilogram",
+        "Litre",
+        "Metre",
+        "Gram"
+      ],
+      "c": 2,
+      "e": "Metre is used to measure length."
+    },
+    {
+      "q": "How many minutes are in 3 hours?",
+      "opts": [
+        "90",
+        "120",
+        "180",
+        "300"
+      ],
+      "c": 2,
+      "e": "3 × 60 = 180 minutes."
+    },
+    {
+      "q": "In a pictograph, what do pictures represent?",
+      "opts": [
+        "Colors",
+        "Numbers or amounts",
+        "Names only",
+        "Nothing"
+      ],
+      "c": 1,
+      "e": "Pictures in a pictograph represent numbers or amounts."
+    },
+    {
+      "q": "If 5 children share 20 toffees equally, how many does each get?",
+      "opts": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "c": 1,
+      "e": "20 ÷ 5 = 4 toffees each."
+    },
+    {
+      "q": "How many sides does a hexagon have?",
+      "opts": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "c": 2,
+      "e": "A hexagon has 6 sides."
+    },
+    {
+      "q": "Which shape has 5 sides?",
+      "opts": [
+        "Square",
+        "Pentagon",
+        "Hexagon",
+        "Triangle"
+      ],
+      "c": 1,
+      "e": "A pentagon has 5 sides."
+    },
+    {
+      "q": "How many edges does a cube have?",
+      "opts": [
+        "6",
+        "8",
+        "12",
+        "24"
+      ],
+      "c": 2,
+      "e": "A cube has 12 edges."
+    }
+  ],
+  "fractions": [
+    {
+      "q": "What does 1/2 mean?",
+      "opts": [
+        "1 out of 2 equal parts",
+        "2 out of 1 parts",
+        "1 plus 2",
+        "2 minus 1"
+      ],
+      "c": 0,
+      "e": "1/2 means one out of two equal parts, or half."
+    },
+    {
+      "q": "What does 1/4 mean?",
+      "opts": [
+        "1 out of 4 equal parts",
+        "4 out of 1 parts",
+        "One quarter",
+        "Both A and C"
+      ],
+      "c": 3,
+      "e": "1/4 means one out of four equal parts, which is also called one quarter."
+    },
+    {
+      "q": "If a pizza is cut into 4 equal slices and you eat 1 slice, what fraction did you eat?",
+      "opts": [
+        "1/2",
+        "1/3",
+        "1/4",
+        "1/5"
+      ],
+      "c": 2,
+      "e": "One slice out of 4 equal slices is 1/4."
+    },
+    {
+      "q": "Between 1/2 and 1/4, which fraction is larger?",
+      "opts": [
+        "1/2",
+        "1/4",
+        "Both equal",
+        "Cannot tell"
+      ],
+      "c": 0,
+      "e": "1/2 (half) is greater than 1/4 (quarter) because half of something is more than a quarter."
+    },
+    {
+      "q": "If you shade 2 out of 4 equal parts of a shape, what fraction is shaded?",
+      "opts": [
+        "1/4",
+        "2/4",
+        "3/4",
+        "4/4"
+      ],
+      "c": 1,
+      "e": "2 out of 4 equal parts is 2/4, which is the same as 1/2."
+    },
+    {
+      "q": "What is 1/2 of 10?",
+      "opts": [
+        "2",
+        "5",
+        "8",
+        "20"
+      ],
+      "c": 1,
+      "e": "Half of 10 is 5."
+    },
+    {
+      "q": "What is 1/4 of 8?",
+      "opts": [
+        "1",
+        "2",
+        "4",
+        "6"
+      ],
+      "c": 1,
+      "e": "One quarter of 8 is 2."
+    },
+    {
+      "q": "Which fraction represents three quarters?",
+      "opts": [
+        "1/3",
+        "2/4",
+        "3/4",
+        "4/3"
+      ],
+      "c": 2,
+      "e": "3/4 means three out of four equal parts, or three quarters."
+    },
+    {
+      "q": "Riya ate 1/2 of a chocolate bar. Her brother ate 1/4. Who ate more?",
+      "opts": [
+        "Riya",
+        "Brother",
+        "Both ate equal",
+        "Cannot tell"
+      ],
+      "c": 0,
+      "e": "1/2 is greater than 1/4, so Riya ate more."
+    },
+    {
+      "q": "In the fraction 3/4, what does the 4 represent?",
+      "opts": [
+        "Number of parts taken",
+        "Total number of equal parts",
+        "The whole number",
+        "The numerator"
+      ],
+      "c": 1,
+      "e": "In a fraction, the bottom number (denominator) shows the total number of equal parts."
+    },
+    {
+      "q": "In the fraction 2/5, what does the 2 represent?",
+      "opts": [
+        "Total number of parts",
+        "Number of parts taken",
+        "The whole",
+        "The denominator"
+      ],
+      "c": 1,
+      "e": "The top number (numerator) shows how many parts are taken."
+    },
+    {
+      "q": "What is 1/2 of 16?",
+      "opts": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "c": 2,
+      "e": "Half of 16 is 8."
+    },
+    {
+      "q": "A ribbon is cut into 5 equal pieces. You take 2 pieces. What fraction of the ribbon do you have?",
+      "opts": [
+        "1/5",
+        "2/5",
+        "3/5",
+        "2/3"
+      ],
+      "c": 1,
+      "e": "2 out of 5 equal pieces is 2/5."
+    },
+    {
+      "q": "Which fraction is greater: 1/3 or 1/2?",
+      "opts": [
+        "1/3",
+        "1/2",
+        "Both equal",
+        "Cannot compare"
+      ],
+      "c": 1,
+      "e": "1/2 (half) is greater than 1/3 (one third)."
+    },
+    {
+      "q": "If 3 out of 6 equal parts are shaded, what fraction is shaded?",
+      "opts": [
+        "1/6",
+        "2/6",
+        "3/6",
+        "4/6"
+      ],
+      "c": 2,
+      "e": "3 out of 6 equal parts is 3/6, which equals 1/2."
+    },
+    {
+      "q": "What is 1/4 of 20?",
+      "opts": [
+        "4",
+        "5",
+        "8",
+        "10"
+      ],
+      "c": 1,
+      "e": "One quarter of 20 is 5."
+    },
+    {
+      "q": "Which fraction is the same as 2/4?",
+      "opts": [
+        "1/2",
+        "1/4",
+        "3/4",
+        "4/2"
+      ],
+      "c": 0,
+      "e": "2/4 = 1/2. Both represent half."
+    },
+    {
+      "q": "A cake is divided into 8 equal slices. You eat 3 slices. What fraction of the cake is left?",
+      "opts": [
+        "3/8",
+        "5/8",
+        "3/5",
+        "8/3"
+      ],
+      "c": 1,
+      "e": "8 - 3 = 5 slices left. 5 out of 8 is 5/8."
+    },
+    {
+      "q": "Between 2/3 and 1/3, which is larger?",
+      "opts": [
+        "1/3",
+        "2/3",
+        "Both equal",
+        "Cannot tell"
+      ],
+      "c": 1,
+      "e": "2/3 means two parts out of three, which is more than 1/3."
+    },
+    {
+      "q": "What does 4/4 mean?",
+      "opts": [
+        "Four quarters",
+        "The whole",
+        "Half",
+        "One quarter"
+      ],
+      "c": 1,
+      "e": "4/4 means all 4 parts, which is the whole."
+    },
+    {
+      "q": "What is 3/4 of 12?",
+      "opts": [
+        "3",
+        "6",
+        "9",
+        "4"
+      ],
+      "c": 2,
+      "e": "One quarter of 12 is 3. Three quarters is 3 × 3 = 9."
+    },
+    {
+      "q": "Which fraction represents one third?",
+      "opts": [
+        "1/2",
+        "1/3",
+        "1/4",
+        "3/1"
+      ],
+      "c": 1,
+      "e": "1/3 means one out of three equal parts."
+    },
+    {
+      "q": "A book has 24 pages. You read 1/3 of it. How many pages did you read?",
+      "opts": [
+        "6",
+        "8",
+        "12",
+        "18"
+      ],
+      "c": 1,
+      "e": "1/3 of 24 = 24 ÷ 3 = 8 pages."
+    },
+    {
+      "q": "If a shape is divided into 6 equal parts and 3 are shaded, what fraction is shaded?",
+      "opts": [
+        "1/6",
+        "2/6",
+        "3/6",
+        "4/6"
+      ],
+      "c": 2,
+      "e": "3 out of 6 equal parts is 3/6, which equals 1/2."
+    },
+    {
+      "q": "Which is smaller: 1/4 or 1/2?",
+      "opts": [
+        "1/4",
+        "1/2",
+        "Both equal",
+        "Cannot tell"
+      ],
+      "c": 0,
+      "e": "1/4 (quarter) is smaller than 1/2 (half)."
+    }
+  ],
+  "measurement": [
+    {
+      "q": "Which unit do we use to measure the length of a pencil?",
+      "opts": [
+        "Kilogram",
+        "Litre",
+        "Centimetre",
+        "Rupee"
+      ],
+      "c": 2,
+      "e": "We use centimetres (cm) to measure short lengths like a pencil."
+    },
+    {
+      "q": "One metre is equal to how many centimetres?",
+      "opts": [
+        "10",
+        "50",
+        "100",
+        "1000"
+      ],
+      "c": 2,
+      "e": "1 metre = 100 centimetres."
+    },
+    {
+      "q": "Which unit do we use to measure the weight of a bag of rice?",
+      "opts": [
+        "Metre",
+        "Kilogram",
+        "Litre",
+        "Centimetre"
+      ],
+      "c": 1,
+      "e": "We use kilograms (kg) to measure weight of heavy things like rice."
+    },
+    {
+      "q": "How many grams are in 1 kilogram?",
+      "opts": [
+        "10",
+        "100",
+        "500",
+        "1000"
+      ],
+      "c": 3,
+      "e": "1 kilogram = 1000 grams."
+    },
+    {
+      "q": "Which unit do we use to measure the amount of water in a bottle?",
+      "opts": [
+        "Kilogram",
+        "Metre",
+        "Litre",
+        "Gram"
+      ],
+      "c": 2,
+      "e": "We use litres (L) to measure liquids like water."
+    },
+    {
+      "q": "How many millilitres are in 1 litre?",
+      "opts": [
+        "10",
+        "100",
+        "500",
+        "1000"
+      ],
+      "c": 3,
+      "e": "1 litre = 1000 millilitres (ml)."
+    },
+    {
+      "q": "What do we use to measure how hot or cold something is?",
+      "opts": [
+        "Ruler",
+        "Thermometer",
+        "Scale",
+        "Clock"
+      ],
+      "c": 1,
+      "e": "A thermometer measures temperature in degrees Celsius."
+    },
+    {
+      "q": "One hour has how many minutes?",
+      "opts": [
+        "30",
+        "60",
+        "100",
+        "12"
+      ],
+      "c": 1,
+      "e": "1 hour = 60 minutes."
+    },
+    {
+      "q": "If school starts at 8:00 and ends at 12:00, how many hours is the school day?",
+      "opts": [
+        "3 hours",
+        "4 hours",
+        "5 hours",
+        "6 hours"
+      ],
+      "c": 1,
+      "e": "From 8:00 to 12:00 is 4 hours."
+    },
+    {
+      "q": "A table is 150 cm long. How many metres is that?",
+      "opts": [
+        "0.15 m",
+        "1.5 m",
+        "15 m",
+        "150 m"
+      ],
+      "c": 1,
+      "e": "150 cm = 1.5 metres (since 100 cm = 1 m)."
+    },
+    {
+      "q": "Which unit do we use to measure the length of a room?",
+      "opts": [
+        "Centimetre",
+        "Metre",
+        "Kilogram",
+        "Litre"
+      ],
+      "c": 1,
+      "e": "We use metres (m) to measure longer lengths like rooms."
+    },
+    {
+      "q": "Which unit do we use to measure the weight of an apple?",
+      "opts": [
+        "Kilogram",
+        "Gram",
+        "Litre",
+        "Metre"
+      ],
+      "c": 1,
+      "e": "We use grams (g) for lighter items like an apple."
+    },
+    {
+      "q": "A jug holds 2 litres of water. How many millilitres is that?",
+      "opts": [
+        "20 ml",
+        "200 ml",
+        "2000 ml",
+        "20,000 ml"
+      ],
+      "c": 2,
+      "e": "1 litre = 1000 ml, so 2 litres = 2000 ml."
+    },
+    {
+      "q": "A rope is 3 metres long. How many centimetres is that?",
+      "opts": [
+        "30 cm",
+        "300 cm",
+        "3000 cm",
+        "3 cm"
+      ],
+      "c": 1,
+      "e": "1 m = 100 cm, so 3 m = 300 cm."
+    },
+    {
+      "q": "Which unit do we use to measure the amount of milk in a glass?",
+      "opts": [
+        "Kilogram",
+        "Metre",
+        "Millilitre",
+        "Gram"
+      ],
+      "c": 2,
+      "e": "We use millilitres (ml) for small amounts of liquid."
+    },
+    {
+      "q": "One minute has how many seconds?",
+      "opts": [
+        "30",
+        "60",
+        "100",
+        "12"
+      ],
+      "c": 1,
+      "e": "1 minute = 60 seconds."
+    },
+    {
+      "q": "If a bag weighs 2 kg, how many grams is that?",
+      "opts": [
+        "20 g",
+        "200 g",
+        "2000 g",
+        "20,000 g"
+      ],
+      "c": 2,
+      "e": "1 kg = 1000 g, so 2 kg = 2000 g."
+    },
+    {
+      "q": "If a movie starts at 2:00 and ends at 4:30, how long is the movie?",
+      "opts": [
+        "1 hour 30 minutes",
+        "2 hours",
+        "2 hours 30 minutes",
+        "3 hours"
+      ],
+      "c": 2,
+      "e": "From 2:00 to 4:30 is 2 hours and 30 minutes."
+    },
+    {
+      "q": "Are 1 metre and 100 centimetres the same length?",
+      "opts": [
+        "Yes, they are equal",
+        "No, 1 m is longer",
+        "No, 100 cm is longer",
+        "Cannot tell"
+      ],
+      "c": 0,
+      "e": "1 metre = 100 centimetres."
+    },
+    {
+      "q": "What unit do we use to measure temperature?",
+      "opts": [
+        "Metres",
+        "Kilograms",
+        "Degrees Celsius",
+        "Litres"
+      ],
+      "c": 2,
+      "e": "Temperature is measured in degrees Celsius (°C)."
+    },
+    {
+      "q": "A desk is 80 cm wide. How many metres is that?",
+      "opts": [
+        "0.8 m",
+        "8 m",
+        "8.0 m",
+        "80 m"
+      ],
+      "c": 0,
+      "e": "80 cm = 0.8 m (since 100 cm = 1 m)."
+    },
+    {
+      "q": "Which tool do we use to measure length?",
+      "opts": [
+        "Scale",
+        "Ruler",
+        "Thermometer",
+        "Clock"
+      ],
+      "c": 1,
+      "e": "A ruler is used to measure length in centimetres."
+    },
+    {
+      "q": "Which tool do we use to measure weight?",
+      "opts": [
+        "Ruler",
+        "Thermometer",
+        "Weighing scale",
+        "Clock"
+      ],
+      "c": 2,
+      "e": "A weighing scale measures weight in kilograms or grams."
+    },
+    {
+      "q": "500 ml + 500 ml = ?",
+      "opts": [
+        "500 ml",
+        "1 litre",
+        "1000 ml",
+        "Both B and C"
+      ],
+      "c": 3,
+      "e": "500 + 500 = 1000 ml = 1 litre."
+    },
+    {
+      "q": "How many hours are in one day?",
+      "opts": [
+        "12",
+        "20",
+        "24",
+        "60"
+      ],
+      "c": 2,
+      "e": "One day has 24 hours."
+    }
+  ],
+  "money": [
+    {
+      "q": "One rupee equals how many paise?",
+      "opts": [
+        "10",
+        "50",
+        "100",
+        "1000"
+      ],
+      "c": 2,
+      "e": "1 rupee = 100 paise."
+    },
+    {
+      "q": "Ravi has 2 coins of ₹5 each. How much money does he have?",
+      "opts": [
+        "₹5",
+        "₹7",
+        "₹10",
+        "₹15"
+      ],
+      "c": 2,
+      "e": "2 × ₹5 = ₹10."
+    },
+    {
+      "q": "A pencil costs ₹12. How much do 2 pencils cost?",
+      "opts": [
+        "₹14",
+        "₹24",
+        "₹10",
+        "₹6"
+      ],
+      "c": 1,
+      "e": "2 × ₹12 = ₹24."
+    },
+    {
+      "q": "Priya has ₹50. She buys a book for ₹35. How much money is left with her?",
+      "opts": [
+        "₹15",
+        "₹25",
+        "₹85",
+        "₹20"
+      ],
+      "c": 0,
+      "e": "₹50 - ₹35 = ₹15."
+    },
+    {
+      "q": "Which is the smallest Indian currency note?",
+      "opts": [
+        "₹10",
+        "₹20",
+        "₹50",
+        "₹100"
+      ],
+      "c": 0,
+      "e": "₹10 is the smallest Indian currency note in common use."
+    },
+    {
+      "q": "An eraser costs ₹8 and a sharpener costs ₹5. How much do both cost together?",
+      "opts": [
+        "₹3",
+        "₹13",
+        "₹40",
+        "₹14"
+      ],
+      "c": 1,
+      "e": "₹8 + ₹5 = ₹13."
+    },
+    {
+      "q": "50 paise + 50 paise = ?",
+      "opts": [
+        "50 paise",
+        "1 rupee",
+        "2 rupees",
+        "100 paise"
+      ],
+      "c": 1,
+      "e": "50 + 50 = 100 paise = 1 rupee."
+    },
+    {
+      "q": "A toy costs ₹45. Rohan has ₹30. How much more money does he need?",
+      "opts": [
+        "₹15",
+        "₹75",
+        "₹25",
+        "₹10"
+      ],
+      "c": 0,
+      "e": "₹45 - ₹30 = ₹15 more needed."
+    },
+    {
+      "q": "Which symbol do we use for rupees?",
+      "opts": [
+        "$",
+        "₹",
+        "€",
+        "#"
+      ],
+      "c": 1,
+      "e": "₹ is the symbol for Indian Rupee."
+    },
+    {
+      "q": "Three friends share ₹60 equally. How much does each get?",
+      "opts": [
+        "₹10",
+        "₹20",
+        "₹30",
+        "₹15"
+      ],
+      "c": 1,
+      "e": "₹60 ÷ 3 = ₹20 each."
+    },
+    {
+      "q": "How many 50 paise coins make 1 rupee?",
+      "opts": [
+        "1",
+        "2",
+        "5",
+        "10"
+      ],
+      "c": 1,
+      "e": "50 + 50 = 100 paise = 1 rupee."
+    },
+    {
+      "q": "A notebook costs ₹25 and a pen costs ₹15. How much do both cost together?",
+      "opts": [
+        "₹10",
+        "₹35",
+        "₹40",
+        "₹45"
+      ],
+      "c": 2,
+      "e": "₹25 + ₹15 = ₹40."
+    },
+    {
+      "q": "If you have 1 note of ₹10 and 2 coins of ₹5, how much do you have?",
+      "opts": [
+        "₹15",
+        "₹17",
+        "₹20",
+        "₹25"
+      ],
+      "c": 2,
+      "e": "₹10 + (2 × ₹5) = ₹10 + ₹10 = ₹20."
+    },
+    {
+      "q": "A toy costs ₹80. You pay with ₹100. How much change do you get back?",
+      "opts": [
+        "₹20",
+        "₹80",
+        "₹180",
+        "₹10"
+      ],
+      "c": 0,
+      "e": "₹100 - ₹80 = ₹20 change."
+    },
+    {
+      "q": "25 paise + 25 paise + 25 paise + 25 paise = ?",
+      "opts": [
+        "50 paise",
+        "1 rupee",
+        "75 paise",
+        "2 rupees"
+      ],
+      "c": 1,
+      "e": "4 × 25 = 100 paise = 1 rupee."
+    },
+    {
+      "q": "Four ice creams cost ₹48. How much does one ice cream cost?",
+      "opts": [
+        "₹10",
+        "₹12",
+        "₹14",
+        "₹16"
+      ],
+      "c": 1,
+      "e": "₹48 ÷ 4 = ₹12."
+    },
+    {
+      "q": "Which is more: ₹50 or 500 paise?",
+      "opts": [
+        "₹50",
+        "500 paise",
+        "Both equal",
+        "Cannot tell"
+      ],
+      "c": 0,
+      "e": "500 paise = ₹5. ₹50 is more than ₹5."
+    },
+    {
+      "q": "Maya has ₹100. She buys a book for ₹65. How much money does she have left?",
+      "opts": [
+        "₹35",
+        "₹45",
+        "₹55",
+        "₹165"
+      ],
+      "c": 0,
+      "e": "₹100 - ₹65 = ₹35."
+    },
+    {
+      "q": "How many 50 paise coins make ₹5?",
+      "opts": [
+        "5",
+        "10",
+        "50",
+        "100"
+      ],
+      "c": 1,
+      "e": "₹5 = 500 paise. 500 ÷ 50 = 10 coins."
+    },
+    {
+      "q": "A shirt costs ₹120 and a cap costs ₹40. How much more does the shirt cost?",
+      "opts": [
+        "₹80",
+        "₹160",
+        "₹40",
+        "₹90"
+      ],
+      "c": 0,
+      "e": "₹120 - ₹40 = ₹80 more."
+    },
+    {
+      "q": "3 pencils cost ₹18. How much does 1 pencil cost?",
+      "opts": [
+        "₹5",
+        "₹6",
+        "₹9",
+        "₹15"
+      ],
+      "c": 1,
+      "e": "₹18 ÷ 3 = ₹6."
+    },
+    {
+      "q": "Amit has ₹75. He needs ₹95 to buy a game. How much more does he need?",
+      "opts": [
+        "₹20",
+        "₹25",
+        "₹30",
+        "₹170"
+      ],
+      "c": 0,
+      "e": "₹95 - ₹75 = ₹20 more needed."
+    },
+    {
+      "q": "₹20 + ₹30 + ₹50 = ?",
+      "opts": [
+        "₹90",
+        "₹100",
+        "₹1000",
+        "₹50"
+      ],
+      "c": 1,
+      "e": "₹20 + ₹30 + ₹50 = ₹100."
+    },
+    {
+      "q": "Five friends share ₹100 equally. How much does each get?",
+      "opts": [
+        "₹15",
+        "₹20",
+        "₹25",
+        "₹50"
+      ],
+      "c": 1,
+      "e": "₹100 ÷ 5 = ₹20 each."
+    },
+    {
+      "q": "A chocolate costs ₹15. How much do 2 chocolates cost?",
+      "opts": [
+        "₹17",
+        "₹25",
+        "₹30",
+        "₹45"
+      ],
+      "c": 2,
+      "e": "2 × ₹15 = ₹30."
+    }
+  ],
+  "data-handling": [
+    {
+      "q": "A pictograph uses ___ to show data.",
+      "opts": [
+        "Numbers only",
+        "Pictures or symbols",
+        "Words only",
+        "Colours only"
+      ],
+      "c": 1,
+      "e": "A pictograph uses pictures or symbols to represent data."
+    },
+    {
+      "q": "In a survey, 5 children like apples, 8 like bananas, and 3 like oranges. Which fruit is most liked?",
+      "opts": [
+        "Apples",
+        "Bananas",
+        "Oranges",
+        "All equal"
+      ],
+      "c": 1,
+      "e": "8 children like bananas, which is more than apples (5) and oranges (3)."
+    },
+    {
+      "q": "How many children are there in total if 4 like red, 6 like blue, and 5 like green?",
+      "opts": [
+        "10",
+        "11",
+        "15",
+        "20"
+      ],
+      "c": 2,
+      "e": "4 + 6 + 5 = 15 children in total."
+    },
+    {
+      "q": "In a class, 12 students have dogs, 8 have cats, and 5 have both. How many students have at least one pet?",
+      "opts": [
+        "20",
+        "15",
+        "25",
+        "17"
+      ],
+      "c": 1,
+      "e": "12 + 8 - 5 = 15 (we subtract 5 because they were counted twice)."
+    },
+    {
+      "q": "What do we call a table that shows data in rows and columns?",
+      "opts": [
+        "Pictograph",
+        "Data table",
+        "Graph",
+        "Chart"
+      ],
+      "c": 1,
+      "e": "A data table organizes information in rows and columns."
+    },
+    {
+      "q": "The heights of 4 friends are: 120 cm, 125 cm, 118 cm, 130 cm. What is the tallest height?",
+      "opts": [
+        "118 cm",
+        "120 cm",
+        "125 cm",
+        "130 cm"
+      ],
+      "c": 3,
+      "e": "130 cm is the greatest number, so it is the tallest."
+    },
+    {
+      "q": "If each 🍎 represents 2 apples, how many apples does 🍎🍎🍎 represent?",
+      "opts": [
+        "3",
+        "5",
+        "6",
+        "8"
+      ],
+      "c": 2,
+      "e": "3 symbols × 2 apples each = 6 apples."
+    },
+    {
+      "q": "To find the most common item in data, we look for the ___ value.",
+      "opts": [
+        "Smallest",
+        "Largest",
+        "Middle",
+        "First"
+      ],
+      "c": 1,
+      "e": "The largest value or highest count shows the most common item."
+    },
+    {
+      "q": "Scores in a test: 8, 9, 7, 9, 10. What is the total of all scores?",
+      "opts": [
+        "40",
+        "43",
+        "42",
+        "41"
+      ],
+      "c": 1,
+      "e": "8 + 9 + 7 + 9 + 10 = 43."
+    },
+    {
+      "q": "What do we call collecting information by asking questions?",
+      "opts": [
+        "Guessing",
+        "Survey",
+        "Counting",
+        "Drawing"
+      ],
+      "c": 1,
+      "e": "A survey is a way to collect data by asking questions."
+    },
+    {
+      "q": "In a class, 6 children like cricket, 4 like football, and 7 like badminton. Which sport is least liked?",
+      "opts": [
+        "Cricket",
+        "Football",
+        "Badminton",
+        "All equal"
+      ],
+      "c": 1,
+      "e": "4 children like football, which is fewer than cricket (6) and badminton (7)."
+    },
+    {
+      "q": "If each ⭐ represents 3 stars, how many stars does ⭐⭐⭐⭐ represent?",
+      "opts": [
+        "4",
+        "7",
+        "12",
+        "16"
+      ],
+      "c": 2,
+      "e": "4 symbols × 3 stars each = 12 stars."
+    },
+    {
+      "q": "A tally of |||| means how many?",
+      "opts": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "c": 1,
+      "e": "Each vertical line in a tally represents 1. |||| = 4."
+    },
+    {
+      "q": "Ages of 5 children: 7, 8, 7, 9, 7. What is the most common age?",
+      "opts": [
+        "8",
+        "9",
+        "7",
+        "5"
+      ],
+      "c": 2,
+      "e": "7 appears 3 times, which is more than 8 or 9."
+    },
+    {
+      "q": "In a pictograph, if 🍊 = 2 oranges, then 🍊🍊🍊 = ?",
+      "opts": [
+        "3 oranges",
+        "5 oranges",
+        "6 oranges",
+        "8 oranges"
+      ],
+      "c": 2,
+      "e": "3 symbols × 2 oranges each = 6 oranges."
+    },
+    {
+      "q": "Marks of 4 students: 85, 90, 78, 92. What is the highest mark?",
+      "opts": [
+        "78",
+        "85",
+        "90",
+        "92"
+      ],
+      "c": 3,
+      "e": "92 is the greatest number."
+    },
+    {
+      "q": "To find the total, we ___ all the numbers.",
+      "opts": [
+        "Subtract",
+        "Add",
+        "Multiply",
+        "Divide"
+      ],
+      "c": 1,
+      "e": "To find the total, we add all the numbers together."
+    },
+    {
+      "q": "Fruits sold: 10 apples, 15 bananas, 12 oranges. How many fruits were sold in total?",
+      "opts": [
+        "25",
+        "35",
+        "37",
+        "40"
+      ],
+      "c": 2,
+      "e": "10 + 15 + 12 = 37 fruits."
+    },
+    {
+      "q": "What do we call a chart that uses bars to show data?",
+      "opts": [
+        "Pictograph",
+        "Bar graph",
+        "Table",
+        "Tally"
+      ],
+      "c": 1,
+      "e": "A bar graph uses bars to show and compare data."
+    },
+    {
+      "q": "Temperatures for 4 days: 28°C, 32°C, 25°C, 30°C. What is the lowest temperature?",
+      "opts": [
+        "28°C",
+        "32°C",
+        "25°C",
+        "30°C"
+      ],
+      "c": 2,
+      "e": "25°C is the smallest number."
+    },
+    {
+      "q": "A tally of |||| |||| means how many?",
+      "opts": [
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "c": 2,
+      "e": "|||| = 4 and |||| = 4. 4 + 4 = 8."
+    },
+    {
+      "q": "Books read: Riya 5, Amit 7, Sita 6, Rohan 9. Who read the most?",
+      "opts": [
+        "Riya",
+        "Amit",
+        "Sita",
+        "Rohan"
+      ],
+      "c": 3,
+      "e": "Rohan read 9 books, which is the highest."
+    },
+    {
+      "q": "To compare data, we look at the ___ of the bars in a bar graph.",
+      "opts": [
+        "Colour",
+        "Height",
+        "Width",
+        "Position"
+      ],
+      "c": 1,
+      "e": "The height of bars shows the value and helps us compare."
+    },
+    {
+      "q": "Scores: 7, 9, 8, 9, 7. What is the total score?",
+      "opts": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "c": 2,
+      "e": "7 + 9 + 8 + 9 + 7 = 40."
+    },
+    {
+      "q": "What do we call the list that shows what each symbol means in a pictograph?",
+      "opts": [
+        "Title",
+        "Key",
+        "Label",
+        "Graph"
+      ],
+      "c": 1,
+      "e": "The key tells us what each symbol represents."
+    }
+  ],
+  "algebra": [
+    { "q": "If x + 5 = 12, what is x?", "opts": ["5", "6", "7", "8"], "c": 2, "e": "x = 12 - 5 = 7." },
+    { "q": "If 2y = 10, what is y?", "opts": ["3", "4", "5", "6"], "c": 2, "e": "y = 10 ÷ 2 = 5." },
+    { "q": "Simplify: 3a + 2a", "opts": ["5a", "6a", "5a²", "6a²"], "c": 0, "e": "3a + 2a = 5a." },
+    { "q": "What is 4 × 3 + 2?", "opts": ["14", "18", "20", "24"], "c": 0, "e": "4 × 3 = 12, 12 + 2 = 14." },
+    { "q": "If n - 7 = 15, what is n?", "opts": ["8", "21", "22", "23"], "c": 2, "e": "n = 15 + 7 = 22." },
+    { "q": "What is 2³?", "opts": ["5", "6", "8", "9"], "c": 2, "e": "2³ = 2 × 2 × 2 = 8." },
+    { "q": "If 5m = 25, what is m?", "opts": ["4", "5", "6", "7"], "c": 1, "e": "m = 25 ÷ 5 = 5." },
+    { "q": "Simplify: 7b - 3b", "opts": ["4b", "10b", "4", "21b"], "c": 0, "e": "7b - 3b = 4b." },
+    { "q": "What is 10% of 80?", "opts": ["5", "8", "10", "80"], "c": 1, "e": "10% of 80 = 8." },
+    { "q": "If 3x + 4 = 13, what is x?", "opts": ["2", "3", "4", "5"], "c": 1, "e": "3x = 9, x = 3." },
+    { "q": "What is 5²?", "opts": ["10", "15", "20", "25"], "c": 3, "e": "5² = 5 × 5 = 25." },
+    { "q": "If 2p + 3 = 11, what is p?", "opts": ["3", "4", "5", "6"], "c": 1, "e": "2p = 8, p = 4." },
+    { "q": "What is 20% of 50?", "opts": ["5", "10", "15", "20"], "c": 1, "e": "20% of 50 = 10." },
+    { "q": "If 4k = 36, what is k?", "opts": ["8", "9", "10", "12"], "c": 1, "e": "k = 36 ÷ 4 = 9." },
+    { "q": "Simplify: 6x + 4x - 2x", "opts": ["8x", "12x", "10x", "6x"], "c": 0, "e": "6x + 4x - 2x = 8x." },
+    { "q": "What is 3 × 4 + 5 × 2?", "opts": ["22", "24", "26", "34"], "c": 0, "e": "12 + 10 = 22." },
+    { "q": "If 2a + 5 = 15, what is a?", "opts": ["4", "5", "6", "7"], "c": 1, "e": "2a = 10, a = 5." },
+    { "q": "What is 6²?", "opts": ["12", "24", "36", "48"], "c": 2, "e": "6² = 36." },
+    { "q": "If 50% of a number is 25, what is the number?", "opts": ["40", "50", "60", "75"], "c": 1, "e": "50% = half, so number = 50." },
+    { "q": "If 7 - 2t = 1, what is t?", "opts": ["2", "3", "4", "5"], "c": 1, "e": "2t = 6, t = 3." },
+    { "q": "What is 15% of 60?", "opts": ["6", "9", "12", "15"], "c": 1, "e": "15% of 60 = 9." },
+    { "q": "If 8 ÷ 2 + 3 × 2 = ?", "opts": ["7", "10", "14", "16"], "c": 1, "e": "4 + 6 = 10." },
+    { "q": "If 4x - 3 = 9, what is x?", "opts": ["2", "3", "4", "5"], "c": 1, "e": "4x = 12, x = 3." },
+    { "q": "What is 25% of 80?", "opts": ["15", "20", "25", "30"], "c": 1, "e": "25% of 80 = 20." },
+    { "q": "If 2(x + 3) = 14, what is x?", "opts": ["3", "4", "5", "6"], "c": 1, "e": "x + 3 = 7, x = 4." },
+    { "q": "What is 7 × 8?", "opts": ["54", "56", "58", "64"], "c": 1, "e": "7 × 8 = 56." }
+  ],
+  "advanced-math": [
+    { "q": "How many 4s are in 24?", "opts": ["4", "5", "6", "8"], "c": 2, "e": "24 ÷ 4 = 6." },
+    { "q": "What is 12 × 4?", "opts": ["44", "46", "48", "52"], "c": 2, "e": "12 × 4 = 48." },
+    { "q": "If 2³ × 2² = 2ⁿ, what is n?", "opts": ["5", "6", "7", "8"], "c": 0, "e": "2³ × 2² = 2⁵, n = 5." },
+    { "q": "What is 15% of 200?", "opts": ["20", "25", "30", "35"], "c": 2, "e": "15% of 200 = 30." },
+    { "q": "How many sides does a hexagon have?", "opts": ["5", "6", "7", "8"], "c": 1, "e": "A hexagon has 6 sides." },
+    { "q": "What is 18 ÷ 3?", "opts": ["5", "6", "7", "8"], "c": 1, "e": "18 ÷ 3 = 6." },
+    { "q": "If 5! = 5 × 4 × 3 × 2 × 1, what is 4!?", "opts": ["12", "16", "24", "32"], "c": 2, "e": "4! = 4 × 3 × 2 × 1 = 24." },
+    { "q": "What is 25% of 120?", "opts": ["25", "30", "35", "40"], "c": 1, "e": "25% of 120 = 30." },
+    { "q": "How many faces does a cube have?", "opts": ["4", "5", "6", "8"], "c": 2, "e": "A cube has 6 faces." },
+    { "q": "What is 9 + 6?", "opts": ["14", "15", "16", "17"], "c": 1, "e": "9 + 6 = 15." },
+    { "q": "If log₁₀(100) = n, what is n?", "opts": ["1", "2", "3", "4"], "c": 1, "e": "10² = 100, so log₁₀(100) = 2." },
+    { "q": "What is 50% of 80?", "opts": ["30", "40", "50", "60"], "c": 1, "e": "50% of 80 = 40." },
+    { "q": "How many vertices does a triangular prism have?", "opts": ["4", "5", "6", "8"], "c": 2, "e": "A triangular prism has 6 vertices." },
+    { "q": "What is 7 × 9?", "opts": ["61", "63", "65", "72"], "c": 1, "e": "7 × 9 = 63." },
+    { "q": "If 3ⁿ = 9, what is n?", "opts": ["1", "2", "3", "4"], "c": 1, "e": "3² = 9, so n = 2." },
+    { "q": "What is 1/4 of 64?", "opts": ["12", "14", "16", "18"], "c": 2, "e": "64 ÷ 4 = 16." },
+    { "q": "How many edges does a cube have?", "opts": ["6", "8", "12", "24"], "c": 2, "e": "A cube has 12 edges." },
+    { "q": "What is 144 ÷ 12?", "opts": ["10", "11", "12", "13"], "c": 2, "e": "144 ÷ 12 = 12." },
+    { "q": "If 2⁴ = 16, what is 2⁵?", "opts": ["24", "32", "48", "64"], "c": 1, "e": "2⁵ = 2 × 16 = 32." },
+    { "q": "What is 3/4 of 40?", "opts": ["25", "28", "30", "35"], "c": 2, "e": "3/4 × 40 = 30." },
+    { "q": "How many diagonals does a square have?", "opts": ["1", "2", "3", "4"], "c": 1, "e": "A square has 2 diagonals." },
+    { "q": "What is 8 × 7?", "opts": ["54", "56", "58", "64"], "c": 1, "e": "8 × 7 = 56." },
+    { "q": "If 10ⁿ = 1000, what is n?", "opts": ["2", "3", "4", "5"], "c": 1, "e": "10³ = 1000, n = 3." },
+    { "q": "What is 2/5 of 50?", "opts": ["15", "18", "20", "25"], "c": 2, "e": "2/5 × 50 = 20." },
+    { "q": "If 5 × 4 + 3 × 2 = ?", "opts": ["24", "26", "28", "30"], "c": 1, "e": "20 + 6 = 26." },
+    { "q": "What is 100 - 37?", "opts": ["53", "63", "73", "83"], "c": 1, "e": "100 - 37 = 63." }
+  ],
+  "trigonometry": [
+    { "q": "In a right triangle, sin(90°) = ?", "opts": ["0", "0.5", "1", "2"], "c": 2, "e": "sin(90°) = 1." },
+    { "q": "What is cos(0°)?", "opts": ["0", "0.5", "1", "2"], "c": 2, "e": "cos(0°) = 1." },
+    { "q": "In a right triangle, what is the side opposite the right angle called?", "opts": ["Base", "Height", "Hypotenuse", "Perpendicular"], "c": 2, "e": "The hypotenuse is opposite the right angle." },
+    { "q": "What is tan(45°)?", "opts": ["0", "0.5", "1", "2"], "c": 2, "e": "tan(45°) = 1." },
+    { "q": "sin²θ + cos²θ = ?", "opts": ["0", "1", "2", "sin θ"], "c": 1, "e": "Pythagorean identity: sin²θ + cos²θ = 1." },
+    { "q": "What is the value of sin(30°)?", "opts": ["0", "0.5", "1", "2"], "c": 1, "e": "sin(30°) = 1/2 = 0.5." },
+    { "q": "What is cos(60°)?", "opts": ["0", "0.5", "1", "2"], "c": 1, "e": "cos(60°) = 1/2 = 0.5." },
+    { "q": "tan θ = sin θ / ?", "opts": ["cos θ", "sec θ", "cot θ", "cosec θ"], "c": 0, "e": "tan θ = sin θ / cos θ." },
+    { "q": "What is the range of sin θ?", "opts": ["0 to 2", "-2 to 2", "-1 to 1", "0 to 1"], "c": 2, "e": "sin θ is always between -1 and 1." },
+    { "q": "In a right triangle with angle 30°, the side opposite 30° is half of the ___?", "opts": ["Base", "Hypotenuse", "Perpendicular", "Area"], "c": 1, "e": "Opposite 30° = half of hypotenuse." },
+    { "q": "What is cosec(90°)?", "opts": ["0", "0.5", "1", "2"], "c": 2, "e": "cosec(90°) = 1/sin(90°) = 1." },
+    { "q": "sec θ = 1 / ?", "opts": ["sin θ", "cos θ", "tan θ", "cot θ"], "c": 1, "e": "sec θ = 1/cos θ." },
+    { "q": "What is sin(0°)?", "opts": ["0", "0.5", "1", "2"], "c": 0, "e": "sin(0°) = 0." },
+    { "q": "What is cos(90°)?", "opts": ["0", "0.5", "1", "2"], "c": 0, "e": "cos(90°) = 0." },
+    { "q": "cot θ = 1 / ?", "opts": ["sin θ", "cos θ", "tan θ", "sec θ"], "c": 2, "e": "cot θ = 1/tan θ." },
+    { "q": "In a 30-60-90 triangle, the ratio of sides is?", "opts": ["1:1:1", "1:2:√3", "1:√2:√3", "3:4:5"], "c": 1, "e": "Sides are in ratio 1 : 2 : √3." },
+    { "q": "What is tan(0°)?", "opts": ["0", "0.5", "1", "2"], "c": 0, "e": "tan(0°) = 0." },
+    { "q": "1 + tan²θ = ?", "opts": ["sin²θ", "cos²θ", "sec²θ", "cosec²θ"], "c": 2, "e": "1 + tan²θ = sec²θ." },
+    { "q": "What is the period of sin θ?", "opts": ["90°", "180°", "360°", "720°"], "c": 2, "e": "sin repeats every 360°." },
+    { "q": "In a right triangle, if one angle is 45°, the other acute angle is?", "opts": ["30°", "45°", "60°", "90°"], "c": 1, "e": "Sum of angles = 180°, so 90° + 45° + 45°." },
+    { "q": "cosec θ = 1 / ?", "opts": ["sin θ", "cos θ", "tan θ", "sec θ"], "c": 0, "e": "cosec θ = 1/sin θ." },
+    { "q": "What is sin(60°)?", "opts": ["0", "0.5", "√3/2", "1"], "c": 2, "e": "sin(60°) = √3/2." },
+    { "q": "What is cos(45°)?", "opts": ["0", "0.5", "1/√2", "1"], "c": 2, "e": "cos(45°) = 1/√2." },
+    { "q": "1 + cot²θ = ?", "opts": ["sin²θ", "cos²θ", "sec²θ", "cosec²θ"], "c": 3, "e": "1 + cot²θ = cosec²θ." },
+    { "q": "What is the height of a pole if its shadow is 10 m and angle of elevation is 45°?", "opts": ["5 m", "10 m", "15 m", "20 m"], "c": 1, "e": "tan(45°) = 1, so height = shadow length." },
+    { "q": "If sin θ = 3/5, what is cos θ? (Assume right triangle)", "opts": ["3/5", "4/5", "5/3", "5/4"], "c": 1, "e": "cos θ = adj/hyp = 4/5 for 3-4-5 triangle." }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "packId": "imo-grade8-measurement-practice-01",
+  "exam": "imo",
+  "grade": 8,
+  "mode": "practice",
+  "title": "Mensuration Practice",
+  "topic": "Mensuration",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Mensuration"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

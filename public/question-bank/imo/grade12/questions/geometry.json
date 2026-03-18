@@ -1,0 +1,702 @@
+[
+  {
+    "id": "imo-g12-geometry-0001",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Three Dimensional Geometry",
+    "subtopic": "Three Dimensional Geometry",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What shape is a dice?",
+    "image": "",
+    "options": [
+      "Circle",
+      "Sphere",
+      "Cube",
+      "Cylinder"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A dice is cube-shaped.",
+    "tags": [
+      "geometry",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-geometry-0002",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Three Dimensional Geometry",
+    "subtopic": "Three Dimensional Geometry",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which shape has all sides equal and 4 corners?",
+    "image": "",
+    "options": [
+      "Rectangle",
+      "Square",
+      "Triangle",
+      "Circle"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A square has all 4 sides equal and 4 corners.",
+    "tags": [
+      "geometry",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-geometry-0003",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Three Dimensional Geometry",
+    "subtopic": "Three Dimensional Geometry",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the place value of 3 in 234?",
+    "image": "",
+    "options": [
+      "3",
+      "30",
+      "300",
+      "3000"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In 234, 3 is in the tens place, so its value is 30.",
+    "tags": [
+      "geometry",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-geometry-0004",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Three Dimensional Geometry",
+    "subtopic": "Three Dimensional Geometry",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which number is smaller: 412 or 421?",
+    "image": "",
+    "options": [
+      "412",
+      "421",
+      "Both equal",
+      "Cannot tell"
+    ],
+    "correctAnswer": 0,
+    "explanation": "412 is smaller because 1 ten is less than 2 tens.",
+    "tags": [
+      "geometry",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-geometry-0005",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Three Dimensional Geometry",
+    "subtopic": "Three Dimensional Geometry",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 6 × 4?",
+    "image": "",
+    "options": [
+      "10",
+      "20",
+      "24",
+      "28"
+    ],
+    "correctAnswer": 2,
+    "explanation": "6 × 4 = 24.",
+    "tags": [
+      "geometry",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-geometry-0006",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Three Dimensional Geometry",
+    "subtopic": "Three Dimensional Geometry",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 28 ÷ 4?",
+    "image": "",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswer": 2,
+    "explanation": "28 ÷ 4 = 7.",
+    "tags": [
+      "geometry",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-geometry-0007",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Three Dimensional Geometry",
+    "subtopic": "Three Dimensional Geometry",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many quarters make one whole?",
+    "image": "",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": 2,
+    "explanation": "4 quarters (1/4 each) make one whole.",
+    "tags": [
+      "geometry",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-geometry-0008",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Three Dimensional Geometry",
+    "subtopic": "Three Dimensional Geometry",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 48 ÷ 6?",
+    "image": "",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correctAnswer": 2,
+    "explanation": "48 ÷ 6 = 8.",
+    "tags": [
+      "geometry",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-geometry-0009",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Three Dimensional Geometry",
+    "subtopic": "Three Dimensional Geometry",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 7 × 7?",
+    "image": "",
+    "options": [
+      "42",
+      "49",
+      "56",
+      "63"
+    ],
+    "correctAnswer": 1,
+    "explanation": "7 × 7 = 49.",
+    "tags": [
+      "geometry",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-geometry-0010",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Three Dimensional Geometry",
+    "subtopic": "Three Dimensional Geometry",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 63 ÷ 7?",
+    "image": "",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correctAnswer": 2,
+    "explanation": "63 ÷ 7 = 9.",
+    "tags": [
+      "geometry",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-geometry-0011",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Three Dimensional Geometry",
+    "subtopic": "Three Dimensional Geometry",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 5 × 9?",
+    "image": "",
+    "options": [
+      "40",
+      "45",
+      "50",
+      "54"
+    ],
+    "correctAnswer": 1,
+    "explanation": "5 × 9 = 45.",
+    "tags": [
+      "geometry",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-geometry-0012",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Three Dimensional Geometry",
+    "subtopic": "Three Dimensional Geometry",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 36 ÷ 4?",
+    "image": "",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "12"
+    ],
+    "correctAnswer": 1,
+    "explanation": "36 ÷ 4 = 9.",
+    "tags": [
+      "geometry",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-geometry-0013",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Three Dimensional Geometry",
+    "subtopic": "Three Dimensional Geometry",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What does 3/4 mean?",
+    "image": "",
+    "options": [
+      "3 out of 4 parts",
+      "4 out of 3 parts",
+      "3 plus 4",
+      "3 minus 4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "3/4 means 3 out of 4 equal parts.",
+    "tags": [
+      "geometry",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-geometry-0014",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Three Dimensional Geometry",
+    "subtopic": "Three Dimensional Geometry",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 9 × 6?",
+    "image": "",
+    "options": [
+      "54",
+      "56",
+      "63",
+      "72"
+    ],
+    "correctAnswer": 0,
+    "explanation": "9 × 6 = 54.",
+    "tags": [
+      "geometry",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-geometry-0015",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Three Dimensional Geometry",
+    "subtopic": "Three Dimensional Geometry",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many 50 paise coins make ₹2?",
+    "image": "",
+    "options": [
+      "2",
+      "4",
+      "5",
+      "10"
+    ],
+    "correctAnswer": 1,
+    "explanation": "4 × 50 paise = 200 paise = ₹2.",
+    "tags": [
+      "geometry",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-geometry-0016",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Three Dimensional Geometry",
+    "subtopic": "Three Dimensional Geometry",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What unit do we use to measure weight?",
+    "image": "",
+    "options": [
+      "Metre",
+      "Litre",
+      "Kilogram",
+      "Rupee"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kilogram is used to measure weight.",
+    "tags": [
+      "geometry",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-geometry-0017",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Three Dimensional Geometry",
+    "subtopic": "Three Dimensional Geometry",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "A book costs ₹35. How much do 2 books cost?",
+    "image": "",
+    "options": [
+      "₹37",
+      "₹70",
+      "₹75",
+      "₹80"
+    ],
+    "correctAnswer": 1,
+    "explanation": "2 × 35 = ₹70.",
+    "tags": [
+      "geometry",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-geometry-0018",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Three Dimensional Geometry",
+    "subtopic": "Three Dimensional Geometry",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many metres are in 300 centimetres?",
+    "image": "",
+    "options": [
+      "3",
+      "30",
+      "300",
+      "3000"
+    ],
+    "correctAnswer": 0,
+    "explanation": "300 cm = 3 m.",
+    "tags": [
+      "geometry",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-geometry-0019",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Three Dimensional Geometry",
+    "subtopic": "Three Dimensional Geometry",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to measure liquids?",
+    "image": "",
+    "options": [
+      "Ruler",
+      "Thermometer",
+      "Litre",
+      "Scale"
+    ],
+    "correctAnswer": 2,
+    "explanation": "We use litres to measure liquids.",
+    "tags": [
+      "geometry",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-geometry-0020",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Three Dimensional Geometry",
+    "subtopic": "Three Dimensional Geometry",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Vikram had ₹50. He spent ₹23. How much is left?",
+    "image": "",
+    "options": [
+      "₹25",
+      "₹27",
+      "₹30",
+      "₹33"
+    ],
+    "correctAnswer": 1,
+    "explanation": "50 − 23 = ₹27.",
+    "tags": [
+      "geometry",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-geometry-0021",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Three Dimensional Geometry",
+    "subtopic": "Three Dimensional Geometry",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "If it is 10:00 now, what time will it be in 3 hours?",
+    "image": "",
+    "options": [
+      "11:00",
+      "12:00",
+      "1:00",
+      "2:00"
+    ],
+    "correctAnswer": 2,
+    "explanation": "10:00 + 3 hours = 1:00 (13:00).",
+    "tags": [
+      "geometry",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-geometry-0022",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Three Dimensional Geometry",
+    "subtopic": "Three Dimensional Geometry",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 5 metres in centimetres?",
+    "image": "",
+    "options": [
+      "50",
+      "500",
+      "5000",
+      "5"
+    ],
+    "correctAnswer": 1,
+    "explanation": "5 m = 5 × 100 = 500 cm.",
+    "tags": [
+      "geometry",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-geometry-0023",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Three Dimensional Geometry",
+    "subtopic": "Three Dimensional Geometry",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How much is ₹20 + ₹15 + ₹5?",
+    "image": "",
+    "options": [
+      "₹35",
+      "₹40",
+      "₹45",
+      "₹50"
+    ],
+    "correctAnswer": 1,
+    "explanation": "20 + 15 + 5 = ₹40.",
+    "tags": [
+      "geometry",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-geometry-0024",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Three Dimensional Geometry",
+    "subtopic": "Three Dimensional Geometry",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What unit do we use to measure length?",
+    "image": "",
+    "options": [
+      "Kilogram",
+      "Litre",
+      "Metre",
+      "Gram"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Metre is used to measure length.",
+    "tags": [
+      "geometry",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-geometry-0025",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Three Dimensional Geometry",
+    "subtopic": "Three Dimensional Geometry",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many minutes are in 3 hours?",
+    "image": "",
+    "options": [
+      "90",
+      "120",
+      "180",
+      "300"
+    ],
+    "correctAnswer": 2,
+    "explanation": "3 × 60 = 180 minutes.",
+    "tags": [
+      "geometry",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  }
+]

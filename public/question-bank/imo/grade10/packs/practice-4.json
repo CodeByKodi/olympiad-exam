@@ -1,15 +1,15 @@
 {
-  "packId": "imo-grade10-probability-practice-01",
+  "packId": "imo-grade10-geometry-practice-01",
   "exam": "imo",
   "grade": 10,
   "mode": "practice",
-  "title": "Probability Practice Test",
-  "topic": "Probability",
+  "title": "Triangles Practice",
+  "topic": "Triangles",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "Probability"
+      "Triangles"
     ],
     "difficultyMix": {
       "easy": 15,

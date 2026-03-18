@@ -1,8 +1,10 @@
 {
   "files": [
+    "logical-reasoning.json",
+    "numbers.json",
     "algebra.json",
-    "number-system.json",
-    "percentages-and-ratios.json",
-    "geometry.json"
+    "geometry.json",
+    "measurement.json",
+    "data-handling.json"
   ]
 }

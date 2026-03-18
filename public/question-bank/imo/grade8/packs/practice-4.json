@@ -3,13 +3,13 @@
   "exam": "imo",
   "grade": 8,
   "mode": "practice",
-  "title": "Geometry Practice Test",
-  "topic": "Geometry",
+  "title": "Understanding Quadrilaterals Practice",
+  "topic": "Understanding Quadrilaterals",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "Geometry"
+      "Understanding Quadrilaterals"
     ],
     "difficultyMix": {
       "easy": 15,

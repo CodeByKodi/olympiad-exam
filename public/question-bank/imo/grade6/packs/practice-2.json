@@ -1,15 +1,15 @@
 {
-  "packId": "imo-grade6-fractions-and-decimals-practice-01",
+  "packId": "imo-grade6-patterns-practice-01",
   "exam": "imo",
   "grade": 6,
   "mode": "practice",
-  "title": "Fractions and Decimals Practice Test",
-  "topic": "Fractions and Decimals",
+  "title": "Patterns in Mathematics Practice",
+  "topic": "Patterns in Mathematics",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "Fractions and Decimals"
+      "Patterns in Mathematics"
     ],
     "difficultyMix": {
       "easy": 15,

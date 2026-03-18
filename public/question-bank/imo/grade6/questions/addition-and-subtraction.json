@@ -1,0 +1,702 @@
+[
+  {
+    "id": "imo-g6-addition-and-subtraction-0001",
+    "exam": "imo",
+    "grade": "6",
+    "topic": "Prime Time",
+    "subtopic": "Prime Time",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 4 × 8?",
+    "image": "",
+    "options": [
+      "12",
+      "28",
+      "32",
+      "36"
+    ],
+    "correctAnswer": 2,
+    "explanation": "4 × 8 = 32.",
+    "tags": [
+      "addition-and-subtraction",
+      "imo",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g6-addition-and-subtraction-0002",
+    "exam": "imo",
+    "grade": "6",
+    "topic": "Prime Time",
+    "subtopic": "Prime Time",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 35 ÷ 5?",
+    "image": "",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswer": 2,
+    "explanation": "35 ÷ 5 = 7.",
+    "tags": [
+      "addition-and-subtraction",
+      "imo",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g6-addition-and-subtraction-0003",
+    "exam": "imo",
+    "grade": "6",
+    "topic": "Prime Time",
+    "subtopic": "Prime Time",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What does 2/3 mean?",
+    "image": "",
+    "options": [
+      "2 out of 3 parts",
+      "3 out of 2 parts",
+      "2 plus 3",
+      "2 minus 3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "2/3 means 2 out of 3 equal parts.",
+    "tags": [
+      "addition-and-subtraction",
+      "imo",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g6-addition-and-subtraction-0004",
+    "exam": "imo",
+    "grade": "6",
+    "topic": "Prime Time",
+    "subtopic": "Prime Time",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 9 × 4?",
+    "image": "",
+    "options": [
+      "32",
+      "36",
+      "40",
+      "45"
+    ],
+    "correctAnswer": 1,
+    "explanation": "9 × 4 = 36.",
+    "tags": [
+      "addition-and-subtraction",
+      "imo",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g6-addition-and-subtraction-0005",
+    "exam": "imo",
+    "grade": "6",
+    "topic": "Prime Time",
+    "subtopic": "Prime Time",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 42 ÷ 6?",
+    "image": "",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correctAnswer": 1,
+    "explanation": "42 ÷ 6 = 7.",
+    "tags": [
+      "addition-and-subtraction",
+      "imo",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g6-addition-and-subtraction-0006",
+    "exam": "imo",
+    "grade": "6",
+    "topic": "Prime Time",
+    "subtopic": "Prime Time",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "If 1 pizza is cut into 8 equal slices, how many slices make half?",
+    "image": "",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Half of 8 slices is 4 slices.",
+    "tags": [
+      "addition-and-subtraction",
+      "imo",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g6-addition-and-subtraction-0007",
+    "exam": "imo",
+    "grade": "6",
+    "topic": "Prime Time",
+    "subtopic": "Prime Time",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 3 × 9?",
+    "image": "",
+    "options": [
+      "24",
+      "27",
+      "30",
+      "36"
+    ],
+    "correctAnswer": 1,
+    "explanation": "3 × 9 = 27.",
+    "tags": [
+      "addition-and-subtraction",
+      "imo",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g6-addition-and-subtraction-0008",
+    "exam": "imo",
+    "grade": "6",
+    "topic": "Prime Time",
+    "subtopic": "Prime Time",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 56 ÷ 8?",
+    "image": "",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correctAnswer": 1,
+    "explanation": "56 ÷ 8 = 7.",
+    "tags": [
+      "addition-and-subtraction",
+      "imo",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g6-addition-and-subtraction-0009",
+    "exam": "imo",
+    "grade": "6",
+    "topic": "Prime Time",
+    "subtopic": "Prime Time",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 8 × 5?",
+    "image": "",
+    "options": [
+      "35",
+      "40",
+      "45",
+      "50"
+    ],
+    "correctAnswer": 1,
+    "explanation": "8 × 5 = 40.",
+    "tags": [
+      "addition-and-subtraction",
+      "imo",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g6-addition-and-subtraction-0010",
+    "exam": "imo",
+    "grade": "6",
+    "topic": "Prime Time",
+    "subtopic": "Prime Time",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many 4s are in 24?",
+    "image": "",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correctAnswer": 2,
+    "explanation": "24 ÷ 4 = 6. There are 6 fours in 24.",
+    "tags": [
+      "addition-and-subtraction",
+      "imo",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g6-addition-and-subtraction-0011",
+    "exam": "imo",
+    "grade": "6",
+    "topic": "Prime Time",
+    "subtopic": "Prime Time",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 1/2 + 1/2?",
+    "image": "",
+    "options": [
+      "1/4",
+      "1/2",
+      "1",
+      "2"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Half plus half equals one whole.",
+    "tags": [
+      "addition-and-subtraction",
+      "imo",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g6-addition-and-subtraction-0012",
+    "exam": "imo",
+    "grade": "6",
+    "topic": "Prime Time",
+    "subtopic": "Prime Time",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 10 × 3?",
+    "image": "",
+    "options": [
+      "13",
+      "30",
+      "33",
+      "300"
+    ],
+    "correctAnswer": 1,
+    "explanation": "10 × 3 = 30.",
+    "tags": [
+      "addition-and-subtraction",
+      "imo",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g6-addition-and-subtraction-0013",
+    "exam": "imo",
+    "grade": "6",
+    "topic": "Prime Time",
+    "subtopic": "Prime Time",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "There are 32 apples in 4 baskets. How many in each basket?",
+    "image": "",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correctAnswer": 2,
+    "explanation": "32 ÷ 4 = 8 apples per basket.",
+    "tags": [
+      "addition-and-subtraction",
+      "imo",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g6-addition-and-subtraction-0014",
+    "exam": "imo",
+    "grade": "6",
+    "topic": "Prime Time",
+    "subtopic": "Prime Time",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 5 × 6?",
+    "image": "",
+    "options": [
+      "11",
+      "25",
+      "30",
+      "35"
+    ],
+    "correctAnswer": 2,
+    "explanation": "5 × 6 = 30.",
+    "tags": [
+      "addition-and-subtraction",
+      "imo",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g6-addition-and-subtraction-0015",
+    "exam": "imo",
+    "grade": "6",
+    "topic": "Prime Time",
+    "subtopic": "Prime Time",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which fraction equals 1?",
+    "image": "",
+    "options": [
+      "1/2",
+      "2/2",
+      "1/4",
+      "3/4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "2/2 = 1. Two halves make one whole.",
+    "tags": [
+      "addition-and-subtraction",
+      "imo",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g6-addition-and-subtraction-0016",
+    "exam": "imo",
+    "grade": "6",
+    "topic": "Prime Time",
+    "subtopic": "Prime Time",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many minutes are in 1 hour?",
+    "image": "",
+    "options": [
+      "30",
+      "60",
+      "90",
+      "100"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1 hour = 60 minutes.",
+    "tags": [
+      "addition-and-subtraction",
+      "imo",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g6-addition-and-subtraction-0017",
+    "exam": "imo",
+    "grade": "6",
+    "topic": "Prime Time",
+    "subtopic": "Prime Time",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many paise make 1 rupee?",
+    "image": "",
+    "options": [
+      "10",
+      "50",
+      "100",
+      "1000"
+    ],
+    "correctAnswer": 2,
+    "explanation": "100 paise = 1 rupee.",
+    "tags": [
+      "addition-and-subtraction",
+      "imo",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g6-addition-and-subtraction-0018",
+    "exam": "imo",
+    "grade": "6",
+    "topic": "Prime Time",
+    "subtopic": "Prime Time",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the standard unit of length?",
+    "image": "",
+    "options": [
+      "Kilogram",
+      "Litre",
+      "Metre",
+      "Rupee"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Metre is the standard unit for measuring length.",
+    "tags": [
+      "addition-and-subtraction",
+      "imo",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g6-addition-and-subtraction-0019",
+    "exam": "imo",
+    "grade": "6",
+    "topic": "Prime Time",
+    "subtopic": "Prime Time",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many hours are in 1 day?",
+    "image": "",
+    "options": [
+      "12",
+      "20",
+      "24",
+      "30"
+    ],
+    "correctAnswer": 2,
+    "explanation": "1 day = 24 hours.",
+    "tags": [
+      "addition-and-subtraction",
+      "imo",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g6-addition-and-subtraction-0020",
+    "exam": "imo",
+    "grade": "6",
+    "topic": "Prime Time",
+    "subtopic": "Prime Time",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "If a pencil costs ₹5, how much do 3 pencils cost?",
+    "image": "",
+    "options": [
+      "₹8",
+      "₹15",
+      "₹18",
+      "₹20"
+    ],
+    "correctAnswer": 1,
+    "explanation": "3 × 5 = ₹15.",
+    "tags": [
+      "addition-and-subtraction",
+      "imo",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g6-addition-and-subtraction-0021",
+    "exam": "imo",
+    "grade": "6",
+    "topic": "Prime Time",
+    "subtopic": "Prime Time",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many centimetres are in 1 metre?",
+    "image": "",
+    "options": [
+      "10",
+      "50",
+      "100",
+      "1000"
+    ],
+    "correctAnswer": 2,
+    "explanation": "1 metre = 100 centimetres.",
+    "tags": [
+      "addition-and-subtraction",
+      "imo",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g6-addition-and-subtraction-0022",
+    "exam": "imo",
+    "grade": "6",
+    "topic": "Prime Time",
+    "subtopic": "Prime Time",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many days are in 1 week?",
+    "image": "",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswer": 2,
+    "explanation": "1 week = 7 days.",
+    "tags": [
+      "addition-and-subtraction",
+      "imo",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g6-addition-and-subtraction-0023",
+    "exam": "imo",
+    "grade": "6",
+    "topic": "Prime Time",
+    "subtopic": "Prime Time",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Riya has ₹20. She buys a toy for ₹12. How much is left?",
+    "image": "",
+    "options": [
+      "₹6",
+      "₹8",
+      "₹10",
+      "₹12"
+    ],
+    "correctAnswer": 1,
+    "explanation": "20 − 12 = ₹8.",
+    "tags": [
+      "addition-and-subtraction",
+      "imo",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g6-addition-and-subtraction-0024",
+    "exam": "imo",
+    "grade": "6",
+    "topic": "Prime Time",
+    "subtopic": "Prime Time",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to measure weight?",
+    "image": "",
+    "options": [
+      "Ruler",
+      "Thermometer",
+      "Clock",
+      "Scale"
+    ],
+    "correctAnswer": 3,
+    "explanation": "A scale or balance measures weight.",
+    "tags": [
+      "addition-and-subtraction",
+      "imo",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g6-addition-and-subtraction-0025",
+    "exam": "imo",
+    "grade": "6",
+    "topic": "Prime Time",
+    "subtopic": "Prime Time",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many months are in 1 year?",
+    "image": "",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "correctAnswer": 2,
+    "explanation": "1 year = 12 months.",
+    "tags": [
+      "addition-and-subtraction",
+      "imo",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  }
+]

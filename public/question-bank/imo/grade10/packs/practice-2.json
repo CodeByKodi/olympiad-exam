@@ -1,15 +1,15 @@
 {
-  "packId": "imo-grade10-trigonometry-practice-01",
+  "packId": "imo-grade10-numbers-practice-01",
   "exam": "imo",
   "grade": 10,
   "mode": "practice",
-  "title": "Trigonometry Practice Test",
-  "topic": "Trigonometry",
+  "title": "Real Numbers Practice",
+  "topic": "Real Numbers",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "Trigonometry"
+      "Real Numbers"
     ],
     "difficultyMix": {
       "easy": 15,

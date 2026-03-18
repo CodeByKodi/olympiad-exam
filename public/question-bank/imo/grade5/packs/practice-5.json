@@ -1,0 +1,20 @@
+{
+  "packId": "imo-grade5-addition-and-subtraction-practice-01",
+  "exam": "imo",
+  "grade": 5,
+  "mode": "practice",
+  "title": "Computation Operations Practice",
+  "topic": "Computation Operations",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Computation Operations"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}
