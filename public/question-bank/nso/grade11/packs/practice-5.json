@@ -1,0 +1,20 @@
+{
+  "packId": "nso-grade11-living-and-non-living-practice-01",
+  "exam": "nso",
+  "grade": 11,
+  "mode": "practice",
+  "title": "Diversity in the Living World Practice",
+  "topic": "Diversity in the Living World",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Diversity in the Living World"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

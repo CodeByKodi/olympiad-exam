@@ -1,0 +1,20 @@
+{
+  "packId": "nso-grade2-living-and-non-living-practice-01",
+  "exam": "nso",
+  "grade": 2,
+  "mode": "practice",
+  "title": "Housing and Clothing Practice",
+  "topic": "Housing and Clothing",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Housing and Clothing"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

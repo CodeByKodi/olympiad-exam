@@ -1,15 +1,15 @@
 {
-  "packId": "nso-grade6-matter-practice-01",
+  "packId": "nso-grade6-logical-reasoning-practice-01",
   "exam": "nso",
   "grade": 6,
   "mode": "practice",
-  "title": "Matter Practice Test",
-  "topic": "Matter",
+  "title": "Verbal and Non-Verbal Reasoning Practice",
+  "topic": "Verbal and Non-Verbal Reasoning",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "Matter"
+      "Verbal and Non-Verbal Reasoning"
     ],
     "difficultyMix": {
       "easy": 15,

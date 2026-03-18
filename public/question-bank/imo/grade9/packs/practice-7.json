@@ -1,0 +1,20 @@
+{
+  "packId": "imo-grade9-percentages-and-ratios-practice-01",
+  "exam": "imo",
+  "grade": 9,
+  "mode": "practice",
+  "title": "Comparing Quantities Practice",
+  "topic": "Comparing Quantities",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Comparing Quantities"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

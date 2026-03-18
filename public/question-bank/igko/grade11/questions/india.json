@@ -10,21 +10,22 @@
       "practice",
       "mock"
     ],
-    "questionText": "What do we call the national bird of India?",
+    "questionText": "What is the capital of India?",
     "image": "",
     "options": [
-      "Crow",
-      "Peacock",
-      "Parrot",
-      "Sparrow"
+      "Mumbai",
+      "Kolkata",
+      "New Delhi",
+      "Chennai"
     ],
-    "correctAnswer": 1,
-    "explanation": "The Peacock is the national bird.",
+    "correctAnswer": 2,
+    "explanation": "New Delhi is the capital.",
     "tags": [
-      "symbols-signs-and-national-symbols",
-      "grade3"
+      "india",
+      "igko",
+      "grade11"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
     "id": "igko-g11-india-0002",
@@ -37,21 +38,22 @@
       "practice",
       "mock"
     ],
-    "questionText": "Which sport is the national game of India?",
+    "questionText": "How many colours are in the Indian flag?",
     "image": "",
     "options": [
-      "Cricket",
-      "Hockey",
-      "Football",
-      "Tennis"
+      "Two",
+      "Three",
+      "Four",
+      "Five"
     ],
     "correctAnswer": 1,
-    "explanation": "Hockey is the national game.",
+    "explanation": "The flag has saffron, white, and green.",
     "tags": [
-      "symbols-signs-and-national-symbols",
-      "grade3"
+      "india",
+      "igko",
+      "grade11"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
     "id": "igko-g11-india-0003",
@@ -59,26 +61,27 @@
     "grade": "11",
     "topic": "India",
     "subtopic": "India Basics",
-    "difficulty": "easy",
+    "difficulty": "medium",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "What does a red traffic light mean?",
+    "questionText": "Which animal is our national animal?",
     "image": "",
     "options": [
-      "Go",
-      "Stop",
-      "Slow",
-      "Ready"
+      "Lion",
+      "Tiger",
+      "Elephant",
+      "Peacock"
     ],
     "correctAnswer": 1,
-    "explanation": "Red means stop.",
+    "explanation": "The tiger is our national animal.",
     "tags": [
-      "symbols-signs-and-national-symbols",
-      "grade3"
+      "india",
+      "igko",
+      "grade11"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
     "id": "igko-g11-india-0004",
@@ -91,21 +94,22 @@
       "practice",
       "mock"
     ],
-    "questionText": "What does a green traffic light mean?",
+    "questionText": "Which bird is our national bird?",
     "image": "",
     "options": [
-      "Stop",
-      "Go",
-      "Slow",
-      "Wait"
+      "Crow",
+      "Sparrow",
+      "Peacock",
+      "Parrot"
     ],
-    "correctAnswer": 1,
-    "explanation": "Green means go.",
+    "correctAnswer": 2,
+    "explanation": "The peacock is our national bird.",
     "tags": [
-      "symbols-signs-and-national-symbols",
-      "grade3"
+      "india",
+      "igko",
+      "grade11"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
     "id": "igko-g11-india-0005",
@@ -118,21 +122,22 @@
       "practice",
       "mock"
     ],
-    "questionText": "What does a yellow traffic light mean?",
+    "questionText": "Which flower is our national flower?",
     "image": "",
     "options": [
-      "Go",
-      "Stop",
-      "Slow down or get ready",
-      "Speed up"
+      "Rose",
+      "Lotus",
+      "Sunflower",
+      "Jasmine"
     ],
-    "correctAnswer": 2,
-    "explanation": "Yellow means slow down.",
+    "correctAnswer": 1,
+    "explanation": "The lotus is our national flower.",
     "tags": [
-      "symbols-signs-and-national-symbols",
-      "grade3"
+      "india",
+      "igko",
+      "grade11"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
     "id": "igko-g11-india-0006",
@@ -140,26 +145,27 @@
     "grade": "11",
     "topic": "India",
     "subtopic": "India Basics",
-    "difficulty": "easy",
+    "difficulty": "medium",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "What do we call the national animal of India?",
+    "questionText": "How many continents are there in the world?",
     "image": "",
     "options": [
-      "Lion",
-      "Tiger",
-      "Elephant",
-      "Deer"
+      "Five",
+      "Six",
+      "Seven",
+      "Eight"
     ],
-    "correctAnswer": 1,
-    "explanation": "The Tiger is the national animal.",
+    "correctAnswer": 2,
+    "explanation": "There are seven continents.",
     "tags": [
-      "symbols-signs-and-national-symbols",
-      "grade3"
+      "india",
+      "igko",
+      "grade11"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
     "id": "igko-g11-india-0007",
@@ -172,21 +178,22 @@
       "practice",
       "mock"
     ],
-    "questionText": "What do we call the national flower of India?",
+    "questionText": "Which is the largest ocean?",
     "image": "",
     "options": [
-      "Rose",
-      "Lotus",
-      "Sunflower",
-      "Jasmine"
+      "Indian",
+      "Atlantic",
+      "Pacific",
+      "Arctic"
     ],
-    "correctAnswer": 1,
-    "explanation": "The Lotus is the national flower.",
+    "correctAnswer": 2,
+    "explanation": "The Pacific is the largest.",
     "tags": [
-      "symbols-signs-and-national-symbols",
-      "grade3"
+      "india",
+      "igko",
+      "grade11"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
     "id": "igko-g11-india-0008",
@@ -199,21 +206,22 @@
       "practice",
       "mock"
     ],
-    "questionText": "What do we call the flag of a country?",
+    "questionText": "Which country is to the north of India?",
     "image": "",
     "options": [
-      "Banner",
-      "National flag",
-      "Cloth",
-      "Symbol"
+      "Sri Lanka",
+      "China",
+      "Bangladesh",
+      "Pakistan"
     ],
     "correctAnswer": 1,
-    "explanation": "Each country has a national flag.",
+    "explanation": "China is to the north.",
     "tags": [
-      "symbols-signs-and-national-symbols",
-      "grade3"
+      "india",
+      "igko",
+      "grade11"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
     "id": "igko-g11-india-0009",
@@ -221,26 +229,27 @@
     "grade": "11",
     "topic": "India",
     "subtopic": "India Basics",
-    "difficulty": "easy",
+    "difficulty": "medium",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "How many colors does the Indian flag have?",
+    "questionText": "What is the capital of India's neighbour Pakistan?",
     "image": "",
     "options": [
-      "Two",
-      "Three",
-      "Four",
-      "Five"
+      "Lahore",
+      "Karachi",
+      "Islamabad",
+      "Rawalpindi"
     ],
-    "correctAnswer": 1,
-    "explanation": "The Indian flag has saffron, white, and green.",
+    "correctAnswer": 2,
+    "explanation": "Islamabad is the capital.",
     "tags": [
-      "symbols-signs-and-national-symbols",
-      "grade3"
+      "india",
+      "igko",
+      "grade11"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
     "id": "igko-g11-india-0010",
@@ -253,21 +262,22 @@
       "practice",
       "mock"
     ],
-    "questionText": "What do we call a sign that tells us to be careful?",
+    "questionText": "Which river is considered holy in India?",
     "image": "",
     "options": [
-      "Go sign",
-      "Warning sign",
-      "Stop sign",
-      "Info sign"
+      "Yamuna",
+      "Ganga",
+      "Brahmaputra",
+      "Godavari"
     ],
     "correctAnswer": 1,
-    "explanation": "Warning signs tell us to be careful.",
+    "explanation": "The Ganga is the holy river.",
     "tags": [
-      "symbols-signs-and-national-symbols",
-      "grade3"
+      "india",
+      "igko",
+      "grade11"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
     "id": "igko-g11-india-0011",
@@ -280,21 +290,22 @@
       "practice",
       "mock"
     ],
-    "questionText": "What do we call the symbol that represents a country?",
+    "questionText": "What is the national anthem of India?",
     "image": "",
     "options": [
-      "Logo",
-      "Emblem",
-      "Badge",
-      "Mark"
+      "Vande Mataram",
+      "Jana Gana Mana",
+      "Sare Jahan Se",
+      "Saare Jahan Se Achha"
     ],
     "correctAnswer": 1,
-    "explanation": "An emblem represents a country.",
+    "explanation": "Jana Gana Mana is the national anthem.",
     "tags": [
-      "symbols-signs-and-national-symbols",
-      "grade3"
+      "india",
+      "igko",
+      "grade11"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
     "id": "igko-g11-india-0012",
@@ -302,488 +313,30 @@
     "grade": "11",
     "topic": "India",
     "subtopic": "India Basics",
-    "difficulty": "easy",
+    "difficulty": "medium",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "What do we call the song that represents a country?",
+    "questionText": "Which is the smallest continent?",
     "image": "",
     "options": [
-      "Folk song",
-      "National anthem",
-      "Pop song",
-      "Classical song"
+      "Asia",
+      "Australia",
+      "Europe",
+      "Africa"
     ],
     "correctAnswer": 1,
-    "explanation": "The national anthem represents a country.",
+    "explanation": "Australia is the smallest continent.",
     "tags": [
-      "symbols-signs-and-national-symbols",
-      "grade3"
+      "india",
+      "igko",
+      "grade11"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
     "id": "igko-g11-india-0013",
-    "exam": "igko",
-    "grade": "11",
-    "topic": "India",
-    "subtopic": "India Basics",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "When should we stand up when the national anthem plays?",
-    "image": "",
-    "options": [
-      "Never",
-      "Sometimes",
-      "Always",
-      "Only at home"
-    ],
-    "correctAnswer": 2,
-    "explanation": "We should stand when the anthem plays.",
-    "tags": [
-      "symbols-signs-and-national-symbols",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "igko-g11-india-0014",
-    "exam": "igko",
-    "grade": "11",
-    "topic": "India",
-    "subtopic": "India Basics",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "What do we call a picture or shape that stands for something?",
-    "image": "",
-    "options": [
-      "Word",
-      "Symbol",
-      "Number",
-      "Letter"
-    ],
-    "correctAnswer": 1,
-    "explanation": "A symbol stands for something.",
-    "tags": [
-      "symbols-signs-and-national-symbols",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "igko-g11-india-0015",
-    "exam": "igko",
-    "grade": "11",
-    "topic": "India",
-    "subtopic": "India Basics",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "What does a plus sign usually mean in hospitals?",
-    "image": "",
-    "options": [
-      "School",
-      "Hospital",
-      "Park",
-      "Restaurant"
-    ],
-    "correctAnswer": 1,
-    "explanation": "A plus sign often means hospital.",
-    "tags": [
-      "symbols-signs-and-national-symbols",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "igko-g11-india-0016",
-    "exam": "igko",
-    "grade": "11",
-    "topic": "India",
-    "subtopic": "India Basics",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "What is the wheel in the center of the Indian flag?",
-    "image": "",
-    "options": [
-      "Sun",
-      "Ashoka Chakra",
-      "Star",
-      "Moon"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The Ashoka Chakra is in the center.",
-    "tags": [
-      "symbols-signs-and-national-symbols",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "igko-g11-india-0017",
-    "exam": "igko",
-    "grade": "11",
-    "topic": "India",
-    "subtopic": "India Basics",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "What do we call a sign that shows us where to go?",
-    "image": "",
-    "options": [
-      "Stop sign",
-      "Direction sign",
-      "Warning sign",
-      "No entry sign"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Direction signs show the way.",
-    "tags": [
-      "symbols-signs-and-national-symbols",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "igko-g11-india-0018",
-    "exam": "igko",
-    "grade": "11",
-    "topic": "India",
-    "subtopic": "India Basics",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "What does a red cross usually mean?",
-    "image": "",
-    "options": [
-      "Danger",
-      "Medical help",
-      "Stop",
-      "Go"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Red cross often means medical help.",
-    "tags": [
-      "symbols-signs-and-national-symbols",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "igko-g11-india-0019",
-    "exam": "igko",
-    "grade": "11",
-    "topic": "India",
-    "subtopic": "India Basics",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "What do we call the animal that represents a country?",
-    "image": "",
-    "options": [
-      "Pet",
-      "National animal",
-      "Wild animal",
-      "Farm animal"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Each country has a national animal.",
-    "tags": [
-      "symbols-signs-and-national-symbols",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "igko-g11-india-0020",
-    "exam": "igko",
-    "grade": "11",
-    "topic": "India",
-    "subtopic": "India Basics",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "What do we call the bird that represents a country?",
-    "image": "",
-    "options": [
-      "Pet bird",
-      "National bird",
-      "Wild bird",
-      "Sea bird"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Each country has a national bird.",
-    "tags": [
-      "symbols-signs-and-national-symbols",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "igko-g11-india-0021",
-    "exam": "igko",
-    "grade": "11",
-    "topic": "India",
-    "subtopic": "India Basics",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "What do we call the national tree of India?",
-    "image": "",
-    "options": [
-      "Oak",
-      "Banyan",
-      "Pine",
-      "Mango"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The Banyan is the national tree.",
-    "tags": [
-      "symbols-signs-and-national-symbols",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "igko-g11-india-0022",
-    "exam": "igko",
-    "grade": "11",
-    "topic": "India",
-    "subtopic": "India Basics",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "What do we call a sign that tells us we cannot do something?",
-    "image": "",
-    "options": [
-      "Go sign",
-      "Prohibition sign",
-      "Info sign",
-      "Warning sign"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Prohibition signs forbid actions.",
-    "tags": [
-      "symbols-signs-and-national-symbols",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "igko-g11-india-0023",
-    "exam": "igko",
-    "grade": "11",
-    "topic": "India",
-    "subtopic": "India Basics",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "What is the top color of the Indian flag?",
-    "image": "",
-    "options": [
-      "Green",
-      "White",
-      "Saffron",
-      "Blue"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Saffron is at the top.",
-    "tags": [
-      "symbols-signs-and-national-symbols",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "igko-g11-india-0024",
-    "exam": "igko",
-    "grade": "11",
-    "topic": "India",
-    "subtopic": "India Basics",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "What should we do when we see a pedestrian crossing sign?",
-    "image": "",
-    "options": [
-      "Speed up",
-      "Slow down and watch for people",
-      "Honk loudly",
-      "Ignore it"
-    ],
-    "correctAnswer": 1,
-    "explanation": "We should slow down for pedestrians.",
-    "tags": [
-      "symbols-signs-and-national-symbols",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "igko-g11-india-0025",
-    "exam": "igko",
-    "grade": "11",
-    "topic": "India",
-    "subtopic": "India Basics",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "What is the national bird of India?",
-    "image": "",
-    "options": [
-      "Crow",
-      "Peacock",
-      "Parrot",
-      "Sparrow"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The Peacock is the national bird.",
-    "tags": [
-      "national-symbols",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "igko-g11-india-0026",
-    "exam": "igko",
-    "grade": "11",
-    "topic": "India",
-    "subtopic": "India Basics",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "Which sport is India's national game?",
-    "image": "",
-    "options": [
-      "Cricket",
-      "Hockey",
-      "Football",
-      "Tennis"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Hockey is the national game.",
-    "tags": [
-      "national-symbols",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "igko-g11-india-0027",
-    "exam": "igko",
-    "grade": "11",
-    "topic": "India",
-    "subtopic": "India Basics",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "Which city is the capital of India?",
-    "image": "",
-    "options": [
-      "Mumbai",
-      "Kolkata",
-      "New Delhi",
-      "Chennai"
-    ],
-    "correctAnswer": 2,
-    "explanation": "New Delhi is the capital.",
-    "tags": [
-      "capitals",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "igko-g11-india-0028",
-    "exam": "igko",
-    "grade": "11",
-    "topic": "India",
-    "subtopic": "India Basics",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "What is the national animal of India?",
-    "image": "",
-    "options": [
-      "Lion",
-      "Tiger",
-      "Elephant",
-      "Deer"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The Tiger is the national animal.",
-    "tags": [
-      "national-symbols",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "igko-g11-india-0029",
-    "exam": "igko",
-    "grade": "11",
-    "topic": "India",
-    "subtopic": "India Basics",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "What is the national flower of India?",
-    "image": "",
-    "options": [
-      "Rose",
-      "Lotus",
-      "Sunflower",
-      "Jasmine"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The Lotus is the national flower.",
-    "tags": [
-      "national-symbols",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "igko-g11-india-0030",
     "exam": "igko",
     "grade": "11",
     "topic": "India",
@@ -804,13 +357,14 @@
     "correctAnswer": 2,
     "explanation": "Tokyo is the capital of Japan.",
     "tags": [
-      "capitals",
-      "grade3"
+      "india",
+      "igko",
+      "grade11"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "igko-g11-india-0031",
+    "id": "igko-g11-india-0014",
     "exam": "igko",
     "grade": "11",
     "topic": "India",
@@ -820,24 +374,53 @@
       "practice",
       "mock"
     ],
-    "questionText": "What is the capital of China?",
+    "questionText": "Which ocean is to the west of India?",
     "image": "",
     "options": [
-      "Shanghai",
-      "Beijing",
-      "Hong Kong",
-      "Tokyo"
+      "Pacific",
+      "Atlantic",
+      "Indian",
+      "Arctic"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Arabian Sea is part of Indian Ocean.",
+    "tags": [
+      "india",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-india-0015",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "India",
+    "subtopic": "India Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the currency of Japan?",
+    "image": "",
+    "options": [
+      "Dollar",
+      "Yen",
+      "Pound",
+      "Euro"
     ],
     "correctAnswer": 1,
-    "explanation": "Beijing is the capital.",
+    "explanation": "Yen is Japan's currency.",
     "tags": [
-      "capitals",
-      "grade3"
+      "india",
+      "igko",
+      "grade11"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "igko-g11-india-0032",
+    "id": "igko-g11-india-0016",
     "exam": "igko",
     "grade": "11",
     "topic": "India",
@@ -847,24 +430,193 @@
       "practice",
       "mock"
     ],
-    "questionText": "What is the capital of England?",
+    "questionText": "Which country has the Great Wall?",
     "image": "",
     "options": [
-      "Paris",
+      "India",
+      "China",
+      "Japan",
+      "Korea"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Great Wall is in China.",
+    "tags": [
+      "india",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-india-0017",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "India",
+    "subtopic": "India Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the capital of France?",
+    "image": "",
+    "options": [
       "London",
       "Berlin",
+      "Paris",
       "Rome"
     ],
-    "correctAnswer": 1,
-    "explanation": "London is the capital.",
+    "correctAnswer": 2,
+    "explanation": "Paris is the capital of France.",
     "tags": [
-      "capitals",
-      "grade3"
+      "india",
+      "igko",
+      "grade11"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "igko-g11-india-0033",
+    "id": "igko-g11-india-0018",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "India",
+    "subtopic": "India Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which country is known as the Land of the Rising Sun?",
+    "image": "",
+    "options": [
+      "China",
+      "Japan",
+      "India",
+      "Korea"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Japan is the Land of the Rising Sun.",
+    "tags": [
+      "india",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-india-0019",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "India",
+    "subtopic": "India Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the largest country in the world?",
+    "image": "",
+    "options": [
+      "China",
+      "USA",
+      "Russia",
+      "Canada"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Russia is the largest by area.",
+    "tags": [
+      "india",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-india-0020",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "India",
+    "subtopic": "India Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which festival is known as the festival of lights?",
+    "image": "",
+    "options": [
+      "Holi",
+      "Diwali",
+      "Eid",
+      "Christmas"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Diwali is the festival of lights.",
+    "tags": [
+      "india",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-india-0021",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "India",
+    "subtopic": "India Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the capital of the USA?",
+    "image": "",
+    "options": [
+      "New York",
+      "Los Angeles",
+      "Washington D.C.",
+      "Chicago"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Washington D.C. is the capital.",
+    "tags": [
+      "india",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-india-0022",
+    "exam": "igko",
+    "grade": "11",
+    "topic": "India",
+    "subtopic": "India Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which mountain is the highest in the world?",
+    "image": "",
+    "options": [
+      "K2",
+      "Mount Everest",
+      "Kilimanjaro",
+      "Alps"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mount Everest is the highest.",
+    "tags": [
+      "india",
+      "igko",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g11-india-0023",
     "exam": "igko",
     "grade": "11",
     "topic": "India",
@@ -877,48 +629,50 @@
     "questionText": "What is the national tree of India?",
     "image": "",
     "options": [
-      "Oak",
+      "Neem",
       "Banyan",
-      "Pine",
+      "Peepal",
       "Mango"
     ],
     "correctAnswer": 1,
-    "explanation": "The Banyan is the national tree.",
+    "explanation": "Banyan is the national tree.",
     "tags": [
-      "national-symbols",
-      "grade3"
+      "india",
+      "igko",
+      "grade11"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "igko-g11-india-0034",
+    "id": "igko-g11-india-0024",
     "exam": "igko",
     "grade": "11",
     "topic": "India",
     "subtopic": "India Basics",
-    "difficulty": "easy",
+    "difficulty": "medium",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "What do we call the wheel in the center of the Indian flag?",
+    "questionText": "Which country has the Pyramids?",
     "image": "",
     "options": [
-      "Sun",
-      "Ashoka Chakra",
-      "Star",
-      "Moon"
+      "India",
+      "Egypt",
+      "Greece",
+      "Italy"
     ],
     "correctAnswer": 1,
-    "explanation": "The Ashoka Chakra is in the center.",
+    "explanation": "The Pyramids are in Egypt.",
     "tags": [
-      "national-symbols",
-      "grade3"
+      "india",
+      "igko",
+      "grade11"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "igko-g11-india-0035",
+    "id": "igko-g11-india-0025",
     "exam": "igko",
     "grade": "11",
     "topic": "India",
@@ -928,155 +682,21 @@
       "practice",
       "mock"
     ],
-    "questionText": "What do we call the top color of the Indian flag?",
+    "questionText": "What is the national fruit of India?",
     "image": "",
     "options": [
-      "Green",
-      "White",
-      "Saffron",
-      "Blue"
+      "Apple",
+      "Mango",
+      "Banana",
+      "Orange"
     ],
-    "correctAnswer": 2,
-    "explanation": "Saffron is at the top.",
+    "correctAnswer": 1,
+    "explanation": "Mango is the national fruit.",
     "tags": [
-      "national-symbols",
-      "grade3"
+      "india",
+      "igko",
+      "grade11"
     ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "igko-g11-india-0036",
-    "exam": "igko",
-    "grade": "11",
-    "topic": "India",
-    "subtopic": "India Basics",
-    "difficulty": "medium",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "What shape is usually used for stop signs?",
-    "image": "",
-    "options": [
-      "Circle",
-      "Triangle",
-      "Octagon",
-      "Square"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Stop signs are often octagonal.",
-    "tags": [
-      "symbols-signs-and-national-symbols",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "igko-g11-india-0037",
-    "exam": "igko",
-    "grade": "11",
-    "topic": "India",
-    "subtopic": "India Basics",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "How many continents are there in the world?",
-    "image": "",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
-    ],
-    "correctAnswer": 2,
-    "explanation": "There are 7 continents.",
-    "tags": [
-      "continents-oceans-and-geography",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "igko-g11-india-0038",
-    "exam": "igko",
-    "grade": "11",
-    "topic": "India",
-    "subtopic": "India Basics",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "Which ocean is the largest in the world?",
-    "image": "",
-    "options": [
-      "Atlantic",
-      "Indian",
-      "Pacific",
-      "Arctic"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The Pacific is the largest ocean.",
-    "tags": [
-      "continents-oceans-and-geography",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "igko-g11-india-0039",
-    "exam": "igko",
-    "grade": "11",
-    "topic": "India",
-    "subtopic": "India Basics",
-    "difficulty": "medium",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "What is the smallest continent?",
-    "image": "",
-    "options": [
-      "Europe",
-      "Antarctica",
-      "Australia",
-      "South America"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Australia is the smallest continent.",
-    "tags": [
-      "continents-oceans-and-geography",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "igko-g11-india-0040",
-    "exam": "igko",
-    "grade": "11",
-    "topic": "India",
-    "subtopic": "India Basics",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "What continent has the most people?",
-    "image": "",
-    "options": [
-      "Africa",
-      "Europe",
-      "Asia",
-      "North America"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Asia has the most people.",
-    "tags": [
-      "continents-oceans-and-geography",
-      "grade3"
-    ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   }
 ]

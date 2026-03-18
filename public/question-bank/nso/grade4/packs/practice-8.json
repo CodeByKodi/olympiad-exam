@@ -1,0 +1,20 @@
+{
+  "packId": "nso-grade4-our-environment-practice-01",
+  "exam": "nso",
+  "grade": 4,
+  "mode": "practice",
+  "title": "Our Environment Practice",
+  "topic": "Our Environment",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Our Environment"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

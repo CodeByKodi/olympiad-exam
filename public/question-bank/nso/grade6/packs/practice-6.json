@@ -1,0 +1,20 @@
+{
+  "packId": "nso-grade6-force-and-energy-practice-01",
+  "exam": "nso",
+  "grade": 6,
+  "mode": "practice",
+  "title": "Measurement of Length and Motion Practice",
+  "topic": "Measurement of Length and Motion",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Measurement of Length and Motion"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

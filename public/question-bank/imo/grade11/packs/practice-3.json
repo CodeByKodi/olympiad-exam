@@ -1,15 +1,15 @@
 {
-  "packId": "imo-grade11-numbers-practice-01",
+  "packId": "imo-grade11-algebra-practice-01",
   "exam": "imo",
   "grade": 11,
   "mode": "practice",
-  "title": "Complex Numbers Practice",
-  "topic": "Complex Numbers",
+  "title": "Relations and Functions Practice",
+  "topic": "Relations and Functions",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "Complex Numbers"
+      "Relations and Functions"
     ],
     "difficultyMix": {
       "easy": 15,

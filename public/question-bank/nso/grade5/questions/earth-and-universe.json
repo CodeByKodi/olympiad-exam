@@ -1,0 +1,702 @@
+[
+  {
+    "id": "nso-g5-earth-and-universe-0001",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Natural Resources and Indian Heritage",
+    "subtopic": "Natural Resources and Indian Heritage",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Earth is a ___.",
+    "image": "",
+    "options": [
+      "Star",
+      "Planet",
+      "Moon",
+      "Asteroid"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Earth is a planet.",
+    "tags": [
+      "earth-and-universe",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-earth-and-universe-0002",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Natural Resources and Indian Heritage",
+    "subtopic": "Natural Resources and Indian Heritage",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is the largest planet?",
+    "image": "",
+    "options": [
+      "Earth",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Jupiter is the largest.",
+    "tags": [
+      "earth-and-universe",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-earth-and-universe-0003",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Natural Resources and Indian Heritage",
+    "subtopic": "Natural Resources and Indian Heritage",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "The Moon orbits the ___.",
+    "image": "",
+    "options": [
+      "Sun",
+      "Earth",
+      "Mars",
+      "Jupiter"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Moon orbits Earth.",
+    "tags": [
+      "earth-and-universe",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-earth-and-universe-0004",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Natural Resources and Indian Heritage",
+    "subtopic": "Natural Resources and Indian Heritage",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Rocks are made of ___.",
+    "image": "",
+    "options": [
+      "Water",
+      "Minerals",
+      "Air",
+      "Plastic"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Rocks are made of minerals.",
+    "tags": [
+      "earth-and-universe",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-earth-and-universe-0005",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Natural Resources and Indian Heritage",
+    "subtopic": "Natural Resources and Indian Heritage",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Soil contains ___.",
+    "image": "",
+    "options": [
+      "Only sand",
+      "Minerals, water, air",
+      "Only water",
+      "Only air"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Soil has minerals, water, air.",
+    "tags": [
+      "earth-and-universe",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-earth-and-universe-0006",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Natural Resources and Indian Heritage",
+    "subtopic": "Natural Resources and Indian Heritage",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which layer protects us from Sun rays?",
+    "image": "",
+    "options": [
+      "Soil",
+      "Ozone",
+      "Water",
+      "Rocks"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ozone layer protects from UV.",
+    "tags": [
+      "earth-and-universe",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-earth-and-universe-0007",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Natural Resources and Indian Heritage",
+    "subtopic": "Natural Resources and Indian Heritage",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Fossils are found in ___.",
+    "image": "",
+    "options": [
+      "Water",
+      "Rocks",
+      "Air",
+      "Fire"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fossils are in rocks.",
+    "tags": [
+      "earth-and-universe",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-earth-and-universe-0008",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Natural Resources and Indian Heritage",
+    "subtopic": "Natural Resources and Indian Heritage",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a renewable resource?",
+    "image": "",
+    "options": [
+      "Coal",
+      "Forest",
+      "Petroleum",
+      "Natural gas"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Forests can be renewed.",
+    "tags": [
+      "earth-and-universe",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-earth-and-universe-0009",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Natural Resources and Indian Heritage",
+    "subtopic": "Natural Resources and Indian Heritage",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "The Earth has ___ layers.",
+    "image": "",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Earth has crust, mantle, core.",
+    "tags": [
+      "earth-and-universe",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-earth-and-universe-0010",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Natural Resources and Indian Heritage",
+    "subtopic": "Natural Resources and Indian Heritage",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which planet is red?",
+    "image": "",
+    "options": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mars is the red planet.",
+    "tags": [
+      "earth-and-universe",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-earth-and-universe-0011",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Natural Resources and Indian Heritage",
+    "subtopic": "Natural Resources and Indian Heritage",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Earth takes ___ to spin once.",
+    "image": "",
+    "options": [
+      "1 month",
+      "1 day",
+      "1 year",
+      "1 week"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Earth spins in 24 hours.",
+    "tags": [
+      "earth-and-universe",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-earth-and-universe-0012",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Natural Resources and Indian Heritage",
+    "subtopic": "Natural Resources and Indian Heritage",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is NOT a natural resource?",
+    "image": "",
+    "options": [
+      "Water",
+      "Air",
+      "Plastic",
+      "Forest"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Plastic is man-made.",
+    "tags": [
+      "earth-and-universe",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-earth-and-universe-0013",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Natural Resources and Indian Heritage",
+    "subtopic": "Natural Resources and Indian Heritage",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Stars are ___ at night.",
+    "image": "",
+    "options": [
+      "Invisible",
+      "Visible",
+      "Gone",
+      "Small"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Stars are visible at night.",
+    "tags": [
+      "earth-and-universe",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-earth-and-universe-0014",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Natural Resources and Indian Heritage",
+    "subtopic": "Natural Resources and Indian Heritage",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which causes day and night?",
+    "image": "",
+    "options": [
+      "Moon",
+      "Earth rotation",
+      "Sun movement",
+      "Stars"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Earth rotation causes day and night.",
+    "tags": [
+      "earth-and-universe",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-earth-and-universe-0015",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Natural Resources and Indian Heritage",
+    "subtopic": "Natural Resources and Indian Heritage",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Minerals are found in ___.",
+    "image": "",
+    "options": [
+      "Air",
+      "Rocks and soil",
+      "Water only",
+      "Sky"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Minerals are in rocks and soil.",
+    "tags": [
+      "earth-and-universe",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-earth-and-universe-0016",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Natural Resources and Indian Heritage",
+    "subtopic": "Natural Resources and Indian Heritage",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is the smallest planet?",
+    "image": "",
+    "options": [
+      "Earth",
+      "Mars",
+      "Mercury",
+      "Venus"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Mercury is the smallest.",
+    "tags": [
+      "earth-and-universe",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-earth-and-universe-0017",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Natural Resources and Indian Heritage",
+    "subtopic": "Natural Resources and Indian Heritage",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "The solar system has ___ planets.",
+    "image": "",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correctAnswer": 2,
+    "explanation": "There are 8 planets.",
+    "tags": [
+      "earth-and-universe",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-earth-and-universe-0018",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Natural Resources and Indian Heritage",
+    "subtopic": "Natural Resources and Indian Heritage",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Soil erosion is caused by ___.",
+    "image": "",
+    "options": [
+      "Plants",
+      "Wind and water",
+      "Rocks",
+      "Minerals"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Wind and water cause erosion.",
+    "tags": [
+      "earth-and-universe",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-earth-and-universe-0019",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Natural Resources and Indian Heritage",
+    "subtopic": "Natural Resources and Indian Heritage",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which planet has rings?",
+    "image": "",
+    "options": [
+      "Earth",
+      "Mars",
+      "Saturn",
+      "Mercury"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Saturn has visible rings.",
+    "tags": [
+      "earth-and-universe",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-earth-and-universe-0020",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Natural Resources and Indian Heritage",
+    "subtopic": "Natural Resources and Indian Heritage",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Fossil fuels include ___.",
+    "image": "",
+    "options": [
+      "Solar",
+      "Coal and petroleum",
+      "Wind",
+      "Water"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Coal and petroleum are fossil fuels.",
+    "tags": [
+      "earth-and-universe",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-earth-and-universe-0021",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Natural Resources and Indian Heritage",
+    "subtopic": "Natural Resources and Indian Heritage",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "The Sun is a ___.",
+    "image": "",
+    "options": [
+      "Planet",
+      "Star",
+      "Moon",
+      "Asteroid"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Sun is a star.",
+    "tags": [
+      "earth-and-universe",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-earth-and-universe-0022",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Natural Resources and Indian Heritage",
+    "subtopic": "Natural Resources and Indian Heritage",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which protects Earth from meteors?",
+    "image": "",
+    "options": [
+      "Moon",
+      "Atmosphere",
+      "Ocean",
+      "Rocks"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Atmosphere burns up meteors.",
+    "tags": [
+      "earth-and-universe",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-earth-and-universe-0023",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Natural Resources and Indian Heritage",
+    "subtopic": "Natural Resources and Indian Heritage",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Recycling helps ___.",
+    "image": "",
+    "options": [
+      "Waste more",
+      "Save resources",
+      "Pollute",
+      "Use more"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Recycling saves resources.",
+    "tags": [
+      "earth-and-universe",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-earth-and-universe-0024",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Natural Resources and Indian Heritage",
+    "subtopic": "Natural Resources and Indian Heritage",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a constellation?",
+    "image": "",
+    "options": [
+      "Sun",
+      "Big Dipper",
+      "Moon",
+      "Earth"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Big Dipper is a constellation.",
+    "tags": [
+      "earth-and-universe",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-earth-and-universe-0025",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Natural Resources and Indian Heritage",
+    "subtopic": "Natural Resources and Indian Heritage",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we get from hens?",
+    "image": "",
+    "options": [
+      "Milk",
+      "Eggs",
+      "Wool",
+      "Honey"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hens lay eggs.",
+    "tags": [
+      "earth-and-universe",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  }
+]

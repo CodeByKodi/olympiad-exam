@@ -1,0 +1,674 @@
+[
+  {
+    "id": "nso-g3-our-environment-0001",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Our Environment",
+    "subtopic": "Our Environment",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Pollution harms ___.",
+    "image": "",
+    "options": [
+      "Nothing",
+      "Environment and health",
+      "Only plants",
+      "Only animals"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pollution harms all.",
+    "tags": [
+      "our-environment",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-our-environment-0002",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Our Environment",
+    "subtopic": "Our Environment",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "We should ___ to save the environment.",
+    "image": "",
+    "options": [
+      "Litter",
+      "Reduce, reuse, recycle",
+      "Waste more",
+      "Pollute"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Reduce, reuse, recycle.",
+    "tags": [
+      "our-environment",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-our-environment-0003",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Our Environment",
+    "subtopic": "Our Environment",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Trees help by ___.",
+    "image": "",
+    "options": [
+      "Causing pollution",
+      "Giving oxygen",
+      "Making noise",
+      "Blocking light"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trees give oxygen.",
+    "tags": [
+      "our-environment",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-our-environment-0004",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Our Environment",
+    "subtopic": "Our Environment",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which causes air pollution?",
+    "image": "",
+    "options": [
+      "Trees",
+      "Vehicle smoke",
+      "Plants",
+      "Rain"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Vehicle smoke pollutes air.",
+    "tags": [
+      "our-environment",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-our-environment-0005",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Our Environment",
+    "subtopic": "Our Environment",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Composting uses ___.",
+    "image": "",
+    "options": [
+      "Plastic",
+      "Organic waste",
+      "Metal",
+      "Glass"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Composting uses organic waste.",
+    "tags": [
+      "our-environment",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-our-environment-0006",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Our Environment",
+    "subtopic": "Our Environment",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "We should not ___ in water bodies.",
+    "image": "",
+    "options": [
+      "Swim",
+      "Throw waste",
+      "Fish",
+      "Boat"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Throwing waste pollutes water.",
+    "tags": [
+      "our-environment",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-our-environment-0007",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Our Environment",
+    "subtopic": "Our Environment",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Deforestation means ___.",
+    "image": "",
+    "options": [
+      "Planting trees",
+      "Cutting trees",
+      "Watering trees",
+      "Protecting trees"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Deforestation is cutting trees.",
+    "tags": [
+      "our-environment",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-our-environment-0008",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Our Environment",
+    "subtopic": "Our Environment",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Global warming is caused by ___.",
+    "image": "",
+    "options": [
+      "Cooling",
+      "Greenhouse gases",
+      "Trees",
+      "Rain"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Greenhouse gases cause warming.",
+    "tags": [
+      "our-environment",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-our-environment-0009",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Our Environment",
+    "subtopic": "Our Environment",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which saves water?",
+    "image": "",
+    "options": [
+      "Leaving tap on",
+      "Fixing leaks",
+      "Long showers",
+      "Wasting"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fixing leaks saves water.",
+    "tags": [
+      "our-environment",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-our-environment-0010",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Our Environment",
+    "subtopic": "Our Environment",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "We should use ___ bags.",
+    "image": "",
+    "options": [
+      "Plastic",
+      "Cloth",
+      "Single-use",
+      "Disposable"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cloth bags are reusable.",
+    "tags": [
+      "our-environment",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-our-environment-0011",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Our Environment",
+    "subtopic": "Our Environment",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which reduces pollution?",
+    "image": "",
+    "options": [
+      "More cars",
+      "Public transport",
+      "Burning waste",
+      "Littering"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Public transport reduces pollution.",
+    "tags": [
+      "our-environment",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-our-environment-0012",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Our Environment",
+    "subtopic": "Our Environment",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Habitat is where animals ___.",
+    "image": "",
+    "options": [
+      "Never go",
+      "Live",
+      "Eat only",
+      "Sleep only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Habitat is where animals live.",
+    "tags": [
+      "our-environment",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-our-environment-0013",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Our Environment",
+    "subtopic": "Our Environment",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Conservation means ___.",
+    "image": "",
+    "options": [
+      "Wasting",
+      "Protecting resources",
+      "Polluting",
+      "Destroying"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Conservation protects resources.",
+    "tags": [
+      "our-environment",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-our-environment-0014",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Our Environment",
+    "subtopic": "Our Environment",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a natural resource?",
+    "image": "",
+    "options": [
+      "Plastic",
+      "Forest",
+      "Concrete",
+      "Nylon"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Forest is a natural resource.",
+    "tags": [
+      "our-environment",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-our-environment-0015",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Our Environment",
+    "subtopic": "Our Environment",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Ozone layer protects from ___.",
+    "image": "",
+    "options": [
+      "Rain",
+      "UV rays",
+      "Wind",
+      "Cold"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ozone protects from UV.",
+    "tags": [
+      "our-environment",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-our-environment-0016",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Our Environment",
+    "subtopic": "Our Environment",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "We should ___ electricity.",
+    "image": "",
+    "options": [
+      "Waste",
+      "Save",
+      "Use more",
+      "Ignore"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Saving electricity helps.",
+    "tags": [
+      "our-environment",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-our-environment-0017",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Our Environment",
+    "subtopic": "Our Environment",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which causes water pollution?",
+    "image": "",
+    "options": [
+      "Rain",
+      "Industrial waste",
+      "Trees",
+      "Birds"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Industrial waste pollutes water.",
+    "tags": [
+      "our-environment",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-our-environment-0018",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Our Environment",
+    "subtopic": "Our Environment",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Ecosystem includes ___.",
+    "image": "",
+    "options": [
+      "Only plants",
+      "Plants, animals, environment",
+      "Only animals",
+      "Only humans"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ecosystem has living and non-living.",
+    "tags": [
+      "our-environment",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-our-environment-0019",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Our Environment",
+    "subtopic": "Our Environment",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Recycling means ___.",
+    "image": "",
+    "options": [
+      "Throwing away",
+      "Making new from old",
+      "Burning",
+      "Burying"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Recycling makes new from old.",
+    "tags": [
+      "our-environment",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-our-environment-0020",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Our Environment",
+    "subtopic": "Our Environment",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which helps the environment?",
+    "image": "",
+    "options": [
+      "Littering",
+      "Planting trees",
+      "Polluting",
+      "Wasting"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Planting trees helps.",
+    "tags": [
+      "our-environment",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-our-environment-0021",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Our Environment",
+    "subtopic": "Our Environment",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Endangered species need ___.",
+    "image": "",
+    "options": [
+      "No help",
+      "Protection",
+      "Hunting",
+      "Pollution"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Endangered species need protection.",
+    "tags": [
+      "our-environment",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-our-environment-0022",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Our Environment",
+    "subtopic": "Our Environment",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is renewable?",
+    "image": "",
+    "options": [
+      "Coal",
+      "Solar energy",
+      "Petroleum",
+      "Natural gas"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Solar is renewable.",
+    "tags": [
+      "our-environment",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-our-environment-0023",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Our Environment",
+    "subtopic": "Our Environment",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "We should ___ plastic use.",
+    "image": "",
+    "options": [
+      "Increase",
+      "Reduce",
+      "Ignore",
+      "Double"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Reducing plastic helps.",
+    "tags": [
+      "our-environment",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g3-our-environment-0024",
+    "exam": "nso",
+    "grade": "3",
+    "topic": "Our Environment",
+    "subtopic": "Our Environment",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is good for soil?",
+    "image": "",
+    "options": [
+      "Chemicals",
+      "Compost",
+      "Plastic",
+      "Waste"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Compost enriches soil.",
+    "tags": [
+      "our-environment",
+      "nso",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  }
+]

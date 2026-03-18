@@ -3,13 +3,13 @@
   "exam": "imo",
   "grade": 10,
   "mode": "practice",
-  "title": "Probability Practice",
-  "topic": "Probability",
+  "title": "Introduction to Calculus Practice",
+  "topic": "Introduction to Calculus",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "Probability"
+      "Introduction to Calculus"
     ],
     "difficultyMix": {
       "easy": 15,

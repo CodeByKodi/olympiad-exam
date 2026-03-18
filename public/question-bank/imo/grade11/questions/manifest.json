@@ -2,6 +2,7 @@
   "files": [
     "logical-reasoning.json",
     "advanced-math.json",
+    "algebra.json",
     "numbers.json",
     "geometry.json",
     "trigonometry.json",

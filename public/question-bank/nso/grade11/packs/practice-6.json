@@ -1,0 +1,20 @@
+{
+  "packId": "nso-grade11-human-body-practice-01",
+  "exam": "nso",
+  "grade": 11,
+  "mode": "practice",
+  "title": "Cell: Structure and Functions Practice",
+  "topic": "Cell: Structure and Functions",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Cell: Structure and Functions"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

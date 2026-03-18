@@ -1,0 +1,702 @@
+[
+  {
+    "id": "nso-g9-food-0001",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Improvement in Food Resources",
+    "subtopic": "Improvement in Food Resources",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which gives us energy?",
+    "image": "",
+    "options": [
+      "Water only",
+      "Food",
+      "Air only",
+      "Nothing"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Food gives us energy.",
+    "tags": [
+      "food",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-food-0002",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Improvement in Food Resources",
+    "subtopic": "Improvement in Food Resources",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a source of protein?",
+    "image": "",
+    "options": [
+      "Rice",
+      "Eggs",
+      "Sugar",
+      "Salt"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Eggs are rich in protein.",
+    "tags": [
+      "food",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-food-0003",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Improvement in Food Resources",
+    "subtopic": "Improvement in Food Resources",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "We need ___ for strong bones.",
+    "image": "",
+    "options": [
+      "Sugar",
+      "Calcium",
+      "Salt",
+      "Oil"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Calcium helps build strong bones.",
+    "tags": [
+      "food",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-food-0004",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Improvement in Food Resources",
+    "subtopic": "Improvement in Food Resources",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which vitamin do we get from sunlight?",
+    "image": "",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Vitamin D is made when skin gets sunlight.",
+    "tags": [
+      "food",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-food-0005",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Improvement in Food Resources",
+    "subtopic": "Improvement in Food Resources",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Fruits are rich in ___.",
+    "image": "",
+    "options": [
+      "Protein",
+      "Vitamins",
+      "Fat",
+      "Salt"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fruits are rich in vitamins.",
+    "tags": [
+      "food",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-food-0006",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Improvement in Food Resources",
+    "subtopic": "Improvement in Food Resources",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which food group gives quick energy?",
+    "image": "",
+    "options": [
+      "Proteins",
+      "Carbohydrates",
+      "Fats",
+      "Minerals"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Carbohydrates give quick energy.",
+    "tags": [
+      "food",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-food-0007",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Improvement in Food Resources",
+    "subtopic": "Improvement in Food Resources",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "We should drink ___ glasses of water daily.",
+    "image": "",
+    "options": [
+      "2-3",
+      "6-8",
+      "10-12",
+      "1"
+    ],
+    "correctAnswer": 1,
+    "explanation": "6-8 glasses of water is recommended.",
+    "tags": [
+      "food",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-food-0008",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Improvement in Food Resources",
+    "subtopic": "Improvement in Food Resources",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a dairy product?",
+    "image": "",
+    "options": [
+      "Bread",
+      "Milk",
+      "Rice",
+      "Apple"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Milk is a dairy product.",
+    "tags": [
+      "food",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-food-0009",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Improvement in Food Resources",
+    "subtopic": "Improvement in Food Resources",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Junk food is ___ for health.",
+    "image": "",
+    "options": [
+      "Good",
+      "Bad",
+      "Neutral",
+      "Essential"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Junk food is unhealthy.",
+    "tags": [
+      "food",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-food-0010",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Improvement in Food Resources",
+    "subtopic": "Improvement in Food Resources",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which helps in digestion?",
+    "image": "",
+    "options": [
+      "Sugar",
+      "Fibre",
+      "Oil",
+      "Salt"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fibre helps in digestion.",
+    "tags": [
+      "food",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-food-0011",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Improvement in Food Resources",
+    "subtopic": "Improvement in Food Resources",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Iron is found in ___.",
+    "image": "",
+    "options": [
+      "Sugar",
+      "Spinach",
+      "Salt",
+      "Oil"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Spinach is rich in iron.",
+    "tags": [
+      "food",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-food-0012",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Improvement in Food Resources",
+    "subtopic": "Improvement in Food Resources",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which vitamin prevents scurvy?",
+    "image": "",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Vitamin C prevents scurvy.",
+    "tags": [
+      "food",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-food-0013",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Improvement in Food Resources",
+    "subtopic": "Improvement in Food Resources",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Breakfast is the ___ meal of the day.",
+    "image": "",
+    "options": [
+      "Last",
+      "Most important",
+      "Optional",
+      "Smallest"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Breakfast gives energy for the day.",
+    "tags": [
+      "food",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-food-0014",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Improvement in Food Resources",
+    "subtopic": "Improvement in Food Resources",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a carbohydrate?",
+    "image": "",
+    "options": [
+      "Meat",
+      "Bread",
+      "Egg",
+      "Cheese"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bread contains carbohydrates.",
+    "tags": [
+      "food",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-food-0015",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Improvement in Food Resources",
+    "subtopic": "Improvement in Food Resources",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "We need a ___ diet.",
+    "image": "",
+    "options": [
+      "Junk",
+      "Balanced",
+      "Only sweet",
+      "Only salty"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A balanced diet keeps us healthy.",
+    "tags": [
+      "food",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-food-0016",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Improvement in Food Resources",
+    "subtopic": "Improvement in Food Resources",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which food builds muscles?",
+    "image": "",
+    "options": [
+      "Sugar",
+      "Protein",
+      "Oil",
+      "Salt"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Protein helps build muscles.",
+    "tags": [
+      "food",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-food-0017",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Improvement in Food Resources",
+    "subtopic": "Improvement in Food Resources",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Green vegetables are rich in ___.",
+    "image": "",
+    "options": [
+      "Fat",
+      "Vitamins and minerals",
+      "Sugar",
+      "Oil"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Green vegetables have vitamins and minerals.",
+    "tags": [
+      "food",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-food-0018",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Improvement in Food Resources",
+    "subtopic": "Improvement in Food Resources",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is NOT a nutrient?",
+    "image": "",
+    "options": [
+      "Protein",
+      "Carbohydrate",
+      "Plastic",
+      "Vitamin"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Plastic is not a nutrient.",
+    "tags": [
+      "food",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-food-0019",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Improvement in Food Resources",
+    "subtopic": "Improvement in Food Resources",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "We should ___ before eating.",
+    "image": "",
+    "options": [
+      "Run",
+      "Wash hands",
+      "Sleep",
+      "Jump"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Washing hands prevents germs.",
+    "tags": [
+      "food",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-food-0020",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Improvement in Food Resources",
+    "subtopic": "Improvement in Food Resources",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which helps absorb calcium?",
+    "image": "",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Vitamin D helps absorb calcium.",
+    "tags": [
+      "food",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-food-0021",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Improvement in Food Resources",
+    "subtopic": "Improvement in Food Resources",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Raw vegetables should be ___ before eating.",
+    "image": "",
+    "options": [
+      "Fried",
+      "Washed",
+      "Salted",
+      "Sugared"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Washing removes dirt and germs.",
+    "tags": [
+      "food",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-food-0022",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Improvement in Food Resources",
+    "subtopic": "Improvement in Food Resources",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a source of omega-3?",
+    "image": "",
+    "options": [
+      "Sugar",
+      "Fish",
+      "Salt",
+      "Bread"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fish is rich in omega-3 fatty acids.",
+    "tags": [
+      "food",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-food-0023",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Improvement in Food Resources",
+    "subtopic": "Improvement in Food Resources",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Overeating can lead to ___.",
+    "image": "",
+    "options": [
+      "Hunger",
+      "Obesity",
+      "Strength",
+      "Energy"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Overeating can cause obesity.",
+    "tags": [
+      "food",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-food-0024",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Improvement in Food Resources",
+    "subtopic": "Improvement in Food Resources",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which meal should not be skipped?",
+    "image": "",
+    "options": [
+      "None",
+      "Breakfast",
+      "Dinner only",
+      "Lunch only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Breakfast should not be skipped.",
+    "tags": [
+      "food",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-food-0025",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Improvement in Food Resources",
+    "subtopic": "Improvement in Food Resources",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Water helps in ___.",
+    "image": "",
+    "options": [
+      "Digestion only",
+      "Many body functions",
+      "Nothing",
+      "Only cooling"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Water helps in many body functions.",
+    "tags": [
+      "food",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  }
+]

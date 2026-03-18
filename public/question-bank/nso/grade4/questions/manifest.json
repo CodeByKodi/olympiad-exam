@@ -1,8 +1,13 @@
 {
   "files": [
-    "matter.json",
-    "force-and-motion.json",
-    "light-and-sound.json",
-    "energy.json"
+    "logical-reasoning.json",
+    "plants.json",
+    "animals.json",
+    "food.json",
+    "human-body.json",
+    "matter-and-materials.json",
+    "force-and-energy.json",
+    "our-environment.json",
+    "earth-and-universe.json"
   ]
 }

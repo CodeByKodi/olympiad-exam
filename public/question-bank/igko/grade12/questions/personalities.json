@@ -1,0 +1,702 @@
+[
+  {
+    "id": "igko-g12-personalities-0001",
+    "exam": "igko",
+    "grade": "12",
+    "topic": "Personalities",
+    "subtopic": "Personalities Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Who is known as the Father of the Nation in India?",
+    "image": "",
+    "options": [
+      "Nehru",
+      "Gandhi",
+      "Tagore",
+      "Patel"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mahatma Gandhi is the Father of the Nation.",
+    "tags": [
+      "personalities",
+      "igko",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g12-personalities-0002",
+    "exam": "igko",
+    "grade": "12",
+    "topic": "Personalities",
+    "subtopic": "Personalities Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Who wrote the Indian national anthem?",
+    "image": "",
+    "options": [
+      "Gandhi",
+      "Tagore",
+      "Nehru",
+      "Patel"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Rabindranath Tagore wrote Jana Gana Mana.",
+    "tags": [
+      "personalities",
+      "igko",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g12-personalities-0003",
+    "exam": "igko",
+    "grade": "12",
+    "topic": "Personalities",
+    "subtopic": "Personalities Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Who was the first Prime Minister of India?",
+    "image": "",
+    "options": [
+      "Gandhi",
+      "Nehru",
+      "Patel",
+      "Bose"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Jawaharlal Nehru was the first PM.",
+    "tags": [
+      "personalities",
+      "igko",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g12-personalities-0004",
+    "exam": "igko",
+    "grade": "12",
+    "topic": "Personalities",
+    "subtopic": "Personalities Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Who discovered gravity?",
+    "image": "",
+    "options": [
+      "Einstein",
+      "Newton",
+      "Galileo",
+      "Copernicus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Isaac Newton discovered gravity.",
+    "tags": [
+      "personalities",
+      "igko",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g12-personalities-0005",
+    "exam": "igko",
+    "grade": "12",
+    "topic": "Personalities",
+    "subtopic": "Personalities Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Who invented the light bulb?",
+    "image": "",
+    "options": [
+      "Tesla",
+      "Edison",
+      "Faraday",
+      "Bell"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Thomas Edison invented the light bulb.",
+    "tags": [
+      "personalities",
+      "igko",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g12-personalities-0006",
+    "exam": "igko",
+    "grade": "12",
+    "topic": "Personalities",
+    "subtopic": "Personalities Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Who is known as the Missile Man of India?",
+    "image": "",
+    "options": [
+      "Nehru",
+      "Kalam",
+      "Bose",
+      "Patel"
+    ],
+    "correctAnswer": 1,
+    "explanation": "APJ Abdul Kalam was the Missile Man.",
+    "tags": [
+      "personalities",
+      "igko",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g12-personalities-0007",
+    "exam": "igko",
+    "grade": "12",
+    "topic": "Personalities",
+    "subtopic": "Personalities Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Who founded the Red Cross?",
+    "image": "",
+    "options": [
+      "Florence Nightingale",
+      "Henri Dunant",
+      "Clara Barton",
+      "Mother Teresa"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Henri Dunant founded the Red Cross.",
+    "tags": [
+      "personalities",
+      "igko",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g12-personalities-0008",
+    "exam": "igko",
+    "grade": "12",
+    "topic": "Personalities",
+    "subtopic": "Personalities Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Who painted the Mona Lisa?",
+    "image": "",
+    "options": [
+      "Picasso",
+      "Van Gogh",
+      "Leonardo da Vinci",
+      "Rembrandt"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Leonardo da Vinci painted the Mona Lisa.",
+    "tags": [
+      "personalities",
+      "igko",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g12-personalities-0009",
+    "exam": "igko",
+    "grade": "12",
+    "topic": "Personalities",
+    "subtopic": "Personalities Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Who wrote Romeo and Juliet?",
+    "image": "",
+    "options": [
+      "Dickens",
+      "Shakespeare",
+      "Austen",
+      "Twain"
+    ],
+    "correctAnswer": 1,
+    "explanation": "William Shakespeare wrote Romeo and Juliet.",
+    "tags": [
+      "personalities",
+      "igko",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g12-personalities-0010",
+    "exam": "igko",
+    "grade": "12",
+    "topic": "Personalities",
+    "subtopic": "Personalities Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Who was the first woman Prime Minister of India?",
+    "image": "",
+    "options": [
+      "Sonia Gandhi",
+      "Indira Gandhi",
+      "Pratibha Patil",
+      "Sarojini Naidu"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Indira Gandhi was the first woman PM.",
+    "tags": [
+      "personalities",
+      "igko",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g12-personalities-0011",
+    "exam": "igko",
+    "grade": "12",
+    "topic": "Personalities",
+    "subtopic": "Personalities Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Who invented the telephone?",
+    "image": "",
+    "options": [
+      "Edison",
+      "Tesla",
+      "Bell",
+      "Marconi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Alexander Graham Bell invented the telephone.",
+    "tags": [
+      "personalities",
+      "igko",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g12-personalities-0012",
+    "exam": "igko",
+    "grade": "12",
+    "topic": "Personalities",
+    "subtopic": "Personalities Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Who discovered America?",
+    "image": "",
+    "options": [
+      "Magellan",
+      "Columbus",
+      "Vasco da Gama",
+      "Marco Polo"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Christopher Columbus reached America.",
+    "tags": [
+      "personalities",
+      "igko",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g12-personalities-0013",
+    "exam": "igko",
+    "grade": "12",
+    "topic": "Personalities",
+    "subtopic": "Personalities Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Who founded Microsoft?",
+    "image": "",
+    "options": [
+      "Jobs",
+      "Gates",
+      "Zuckerberg",
+      "Bezos"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bill Gates co-founded Microsoft.",
+    "tags": [
+      "personalities",
+      "igko",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g12-personalities-0014",
+    "exam": "igko",
+    "grade": "12",
+    "topic": "Personalities",
+    "subtopic": "Personalities Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Who was known as the Nightingale of India?",
+    "image": "",
+    "options": [
+      "Indira Gandhi",
+      "Sarojini Naidu",
+      "Mother Teresa",
+      "Rani Lakshmibai"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sarojini Naidu was the Nightingale of India.",
+    "tags": [
+      "personalities",
+      "igko",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g12-personalities-0015",
+    "exam": "igko",
+    "grade": "12",
+    "topic": "Personalities",
+    "subtopic": "Personalities Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Who developed the theory of relativity?",
+    "image": "",
+    "options": [
+      "Newton",
+      "Einstein",
+      "Hawking",
+      "Bohr"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Albert Einstein developed the theory of relativity.",
+    "tags": [
+      "personalities",
+      "igko",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g12-personalities-0016",
+    "exam": "igko",
+    "grade": "12",
+    "topic": "Personalities",
+    "subtopic": "Personalities Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Who founded the Mughal Empire in India?",
+    "image": "",
+    "options": [
+      "Akbar",
+      "Babur",
+      "Shah Jahan",
+      "Aurangzeb"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Babur founded the Mughal Empire.",
+    "tags": [
+      "personalities",
+      "igko",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g12-personalities-0017",
+    "exam": "igko",
+    "grade": "12",
+    "topic": "Personalities",
+    "subtopic": "Personalities Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Who invented the printing press?",
+    "image": "",
+    "options": [
+      "Edison",
+      "Gutenberg",
+      "Bell",
+      "Marconi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Johannes Gutenberg invented the printing press.",
+    "tags": [
+      "personalities",
+      "igko",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g12-personalities-0018",
+    "exam": "igko",
+    "grade": "12",
+    "topic": "Personalities",
+    "subtopic": "Personalities Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Who was the first President of India?",
+    "image": "",
+    "options": [
+      "Nehru",
+      "Prasad",
+      "Radhakrishnan",
+      "Patel"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Rajendra Prasad was the first President.",
+    "tags": [
+      "personalities",
+      "igko",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g12-personalities-0019",
+    "exam": "igko",
+    "grade": "12",
+    "topic": "Personalities",
+    "subtopic": "Personalities Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Who discovered penicillin?",
+    "image": "",
+    "options": [
+      "Pasteur",
+      "Fleming",
+      "Koch",
+      "Lister"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Alexander Fleming discovered penicillin.",
+    "tags": [
+      "personalities",
+      "igko",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g12-personalities-0020",
+    "exam": "igko",
+    "grade": "12",
+    "topic": "Personalities",
+    "subtopic": "Personalities Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Who founded Facebook?",
+    "image": "",
+    "options": [
+      "Jobs",
+      "Gates",
+      "Zuckerberg",
+      "Bezos"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Mark Zuckerberg founded Facebook.",
+    "tags": [
+      "personalities",
+      "igko",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g12-personalities-0021",
+    "exam": "igko",
+    "grade": "12",
+    "topic": "Personalities",
+    "subtopic": "Personalities Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Who was the Iron Man of India?",
+    "image": "",
+    "options": [
+      "Nehru",
+      "Patel",
+      "Bose",
+      "Gandhi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sardar Vallabhbhai Patel was the Iron Man.",
+    "tags": [
+      "personalities",
+      "igko",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g12-personalities-0022",
+    "exam": "igko",
+    "grade": "12",
+    "topic": "Personalities",
+    "subtopic": "Personalities Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Who wrote the Ramayana?",
+    "image": "",
+    "options": [
+      "Vyasa",
+      "Valmiki",
+      "Tulsidas",
+      "Kalidasa"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Valmiki wrote the Ramayana.",
+    "tags": [
+      "personalities",
+      "igko",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g12-personalities-0023",
+    "exam": "igko",
+    "grade": "12",
+    "topic": "Personalities",
+    "subtopic": "Personalities Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Who invented the aeroplane?",
+    "image": "",
+    "options": [
+      "Edison",
+      "Wright brothers",
+      "Bell",
+      "Tesla"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Wright brothers invented the aeroplane.",
+    "tags": [
+      "personalities",
+      "igko",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g12-personalities-0024",
+    "exam": "igko",
+    "grade": "12",
+    "topic": "Personalities",
+    "subtopic": "Personalities Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Who was Mother Teresa?",
+    "image": "",
+    "options": [
+      "Scientist",
+      "Nun and humanitarian",
+      "Politician",
+      "Writer"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mother Teresa was a nun and humanitarian.",
+    "tags": [
+      "personalities",
+      "igko",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g12-personalities-0025",
+    "exam": "igko",
+    "grade": "12",
+    "topic": "Personalities",
+    "subtopic": "Personalities Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Who founded Apple Inc.?",
+    "image": "",
+    "options": [
+      "Gates",
+      "Jobs",
+      "Zuckerberg",
+      "Bezos"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Steve Jobs co-founded Apple.",
+    "tags": [
+      "personalities",
+      "igko",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  }
+]

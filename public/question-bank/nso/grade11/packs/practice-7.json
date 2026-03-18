@@ -1,0 +1,20 @@
+{
+  "packId": "nso-grade11-plants-practice-01",
+  "exam": "nso",
+  "grade": 11,
+  "mode": "practice",
+  "title": "Plant Physiology Practice",
+  "topic": "Plant Physiology",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Plant Physiology"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

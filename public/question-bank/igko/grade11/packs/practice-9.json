@@ -1,0 +1,20 @@
+{
+  "packId": "igko-grade11-important-days-practice-01",
+  "exam": "igko",
+  "grade": 11,
+  "mode": "practice",
+  "title": "Important Days Practice",
+  "topic": "Important Days",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Important Days"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

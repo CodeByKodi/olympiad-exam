@@ -1,15 +1,15 @@
 {
-  "packId": "nso-grade11-chemistry-basics-practice-01",
+  "packId": "nso-grade11-matter-and-materials-practice-01",
   "exam": "nso",
   "grade": 11,
   "mode": "practice",
-  "title": "Chemistry Basics Practice Test",
-  "topic": "Chemistry Basics",
+  "title": "Properties of Matter Practice",
+  "topic": "Properties of Matter",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "Chemistry Basics"
+      "Properties of Matter"
     ],
     "difficultyMix": {
       "easy": 15,

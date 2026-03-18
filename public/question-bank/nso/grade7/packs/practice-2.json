@@ -1,15 +1,15 @@
 {
-  "packId": "nso-grade7-chemistry-basics-practice-01",
+  "packId": "nso-grade7-force-and-energy-practice-01",
   "exam": "nso",
   "grade": 7,
   "mode": "practice",
-  "title": "Chemistry Basics Practice Test",
-  "topic": "Chemistry Basics",
+  "title": "Heat Practice",
+  "topic": "Heat",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "Chemistry Basics"
+      "Heat"
     ],
     "difficultyMix": {
       "easy": 15,

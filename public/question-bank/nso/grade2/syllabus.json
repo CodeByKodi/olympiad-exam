@@ -1,237 +1,133 @@
 {
   "exam": "nso",
   "grade": 2,
+  "sections_overview": [
+    {
+      "code": "S1",
+      "name": "Logical Reasoning Section",
+      "description": "Questions related to Verbal and Non-Verbal Reasoning."
+    },
+    {
+      "code": "S2",
+      "name": "Science Section",
+      "description": "Covers relevant topics and sub-topics of current and previous class science syllabus."
+    },
+    {
+      "code": "S3",
+      "name": "Achiever's Section",
+      "description": "Contains Higher Order Thinking Questions of the same topics as in Section 2."
+    }
+  ],
+  "achievers_section": "Higher Order Thinking Questions - Syllabus as per Section 2.",
   "topics": [
     {
-      "code": "NSO-G2-T1",
-      "name": "Living and Non-living",
-      "description": "Characteristics.",
-      "weightage": "high",
-      "recommendedQuestionCount": 30,
-      "subtopics": [
-        {
-          "code": "NSO-G2-T1-S1",
-          "name": "Living Things",
-          "description": "Grow, move, need food.",
-          "learningObjectives": [
-            "Describe living things",
-            "Compare with non-living"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
-          "recommendedQuestionCount": 15,
-          "tags": [
-            "living",
-            "nso",
-            "grade2"
-          ]
-        },
-        {
-          "code": "NSO-G2-T1-S2",
-          "name": "Non-living Things",
-          "description": "Do not grow.",
-          "learningObjectives": [
-            "Identify non-living",
-            "Give examples"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
-          "recommendedQuestionCount": 15,
-          "tags": [
-            "non-living",
-            "nso",
-            "grade2"
-          ]
-        }
-      ]
-    },
-    {
-      "code": "NSO-G2-T2",
-      "name": "Plants",
-      "description": "Plant parts and functions.",
-      "weightage": "high",
-      "recommendedQuestionCount": 40,
-      "subtopics": [
-        {
-          "code": "NSO-G2-T2-S1",
-          "name": "Parts of Plants",
-          "description": "Roots, stems, leaves, flowers.",
-          "learningObjectives": [
-            "Identify parts",
-            "Describe functions"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
-          "recommendedQuestionCount": 20,
-          "tags": [
-            "plants",
-            "nso",
-            "grade2"
-          ]
-        },
-        {
-          "code": "NSO-G2-T2-S2",
-          "name": "How Plants Grow",
-          "description": "Seeds and germination.",
-          "learningObjectives": [
-            "Describe growth",
-            "Identify seeds"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
-          "recommendedQuestionCount": 20,
-          "tags": [
-            "plants",
-            "nso",
-            "grade2"
-          ]
-        }
-      ]
-    },
-    {
-      "code": "NSO-G2-T3",
-      "name": "Animals",
-      "description": "Animal groups and habits.",
-      "weightage": "high",
-      "recommendedQuestionCount": 40,
-      "subtopics": [
-        {
-          "code": "NSO-G2-T3-S1",
-          "name": "Animal Groups",
-          "description": "Birds, mammals, fish.",
-          "learningObjectives": [
-            "Group animals",
-            "Identify features"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
-          "recommendedQuestionCount": 20,
-          "tags": [
-            "animals",
-            "nso",
-            "grade2"
-          ]
-        },
-        {
-          "code": "NSO-G2-T3-S2",
-          "name": "Animal Food",
-          "description": "Food habits.",
-          "learningObjectives": [
-            "Identify herbivores/carnivores",
-            "Match animal to food"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
-          "recommendedQuestionCount": 20,
-          "tags": [
-            "animals",
-            "nso",
-            "grade2"
-          ]
-        }
-      ]
-    },
-    {
-      "code": "NSO-G2-T4",
-      "name": "Food and Human Body",
-      "description": "Food groups and body.",
+      "code": "NSO-G2-LOGICAL_REASONING",
+      "name": "Patterns",
+      "slug": "logical-reasoning",
+      "description": "Patterns for Grade 2.",
       "weightage": "medium",
-      "recommendedQuestionCount": 30,
+      "recommendedQuestionCount": 25,
       "subtopics": [
         {
-          "code": "NSO-G2-T4-S1",
-          "name": "Food Groups",
-          "description": "Fruits, vegetables, grains.",
-          "learningObjectives": [
-            "Classify foods",
-            "Identify balanced diet"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
-          "recommendedQuestionCount": 15,
+          "code": "logical-reasoning-basics",
+          "name": "Patterns Basics",
+          "tags": [
+            "logical-reasoning",
+            "nso",
+            "grade2"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "NSO-G2-PLANTS",
+      "name": "Plants",
+      "slug": "plants",
+      "description": "Plants for Grade 2.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 25,
+      "subtopics": [
+        {
+          "code": "plants-basics",
+          "name": "Plants Basics",
+          "tags": [
+            "plants",
+            "nso",
+            "grade2"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "NSO-G2-ANIMALS",
+      "name": "Animals",
+      "slug": "animals",
+      "description": "Animals for Grade 2.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 25,
+      "subtopics": [
+        {
+          "code": "animals-basics",
+          "name": "Animals Basics",
+          "tags": [
+            "animals",
+            "nso",
+            "grade2"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "NSO-G2-HUMAN_BODY",
+      "name": "Human Body",
+      "slug": "human-body",
+      "description": "Human Body for Grade 2.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 25,
+      "subtopics": [
+        {
+          "code": "human-body-basics",
+          "name": "Human Body Basics",
+          "tags": [
+            "human-body",
+            "nso",
+            "grade2"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "NSO-G2-FOOD",
+      "name": "Food",
+      "slug": "food",
+      "description": "Food for Grade 2.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 25,
+      "subtopics": [
+        {
+          "code": "food-basics",
+          "name": "Food Basics",
           "tags": [
             "food",
             "nso",
             "grade2"
           ]
-        },
-        {
-          "code": "NSO-G2-T4-S2",
-          "name": "Body and Senses",
-          "description": "Sense organs.",
-          "learningObjectives": [
-            "Describe sense organs",
-            "Relate to function"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
-          "recommendedQuestionCount": 15,
-          "tags": [
-            "body",
-            "nso",
-            "grade2"
-          ]
         }
       ]
     },
     {
-      "code": "NSO-G2-T5",
-      "name": "Air, Water, and Weather",
-      "description": "Basics.",
+      "code": "NSO-G2-LIVING_AND_NON_LIVING",
+      "name": "Housing and Clothing",
+      "slug": "living-and-non-living",
+      "description": "Housing and Clothing for Grade 2.",
       "weightage": "medium",
       "recommendedQuestionCount": 25,
       "subtopics": [
         {
-          "code": "NSO-G2-T5-S1",
-          "name": "Air and Water",
-          "description": "Importance and uses.",
-          "learningObjectives": [
-            "Explain importance",
-            "List uses"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
-          "recommendedQuestionCount": 15,
+          "code": "living-and-non-living-basics",
+          "name": "Housing and Clothing Basics",
           "tags": [
-            "air",
-            "water",
-            "nso",
-            "grade2"
-          ]
-        },
-        {
-          "code": "NSO-G2-T5-S2",
-          "name": "Weather and Seasons",
-          "description": "Types and seasons.",
-          "learningObjectives": [
-            "Describe weather",
-            "Identify seasons"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
-          "recommendedQuestionCount": 10,
-          "tags": [
-            "weather",
+            "living-and-non-living",
             "nso",
             "grade2"
           ]
@@ -239,27 +135,37 @@
       ]
     },
     {
-      "code": "NSO-G2-T6",
-      "name": "Environment",
-      "description": "Clean environment.",
-      "weightage": "low",
-      "recommendedQuestionCount": 15,
+      "code": "NSO-G2-AIR_AND_WATER",
+      "name": "Air, Water and Rocks",
+      "slug": "air-and-water",
+      "description": "Air, Water and Rocks for Grade 2.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 25,
       "subtopics": [
         {
-          "code": "NSO-G2-T6-S1",
-          "name": "Clean Environment",
-          "description": "Clean habits.",
-          "learningObjectives": [
-            "Describe clean habits",
-            "Understand waste"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
-          "recommendedQuestionCount": 15,
+          "code": "air-and-water-basics",
+          "name": "Air, Water and Rocks Basics",
           "tags": [
-            "environment",
+            "air-and-water",
+            "nso",
+            "grade2"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "NSO-G2-EARTH_AND_UNIVERSE",
+      "name": "Earth and Universe",
+      "slug": "earth-and-universe",
+      "description": "Earth and Universe for Grade 2.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 25,
+      "subtopics": [
+        {
+          "code": "earth-and-universe-basics",
+          "name": "Earth and Universe Basics",
+          "tags": [
+            "earth-and-universe",
             "nso",
             "grade2"
           ]

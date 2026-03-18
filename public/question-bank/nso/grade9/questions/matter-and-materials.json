@@ -1,0 +1,702 @@
+[
+  {
+    "id": "nso-g9-matter-and-materials-0001",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Matter in Our Surroundings",
+    "subtopic": "Matter in Our Surroundings",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which state of matter has a fixed shape?",
+    "image": "",
+    "options": [
+      "Gas",
+      "Liquid",
+      "Solid",
+      "Plasma"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Solids have a fixed shape.",
+    "tags": [
+      "matter-and-materials",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-matter-and-materials-0002",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Matter in Our Surroundings",
+    "subtopic": "Matter in Our Surroundings",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Water in ice form is a ___.",
+    "image": "",
+    "options": [
+      "Liquid",
+      "Gas",
+      "Solid",
+      "Plasma"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ice is solid water.",
+    "tags": [
+      "matter-and-materials",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-matter-and-materials-0003",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Matter in Our Surroundings",
+    "subtopic": "Matter in Our Surroundings",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which can flow?",
+    "image": "",
+    "options": [
+      "Stone",
+      "Water",
+      "Wood",
+      "Iron"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Water is a liquid and can flow.",
+    "tags": [
+      "matter-and-materials",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-matter-and-materials-0004",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Matter in Our Surroundings",
+    "subtopic": "Matter in Our Surroundings",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Air is a ___.",
+    "image": "",
+    "options": [
+      "Solid",
+      "Liquid",
+      "Gas",
+      "Plasma"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Air is a mixture of gases.",
+    "tags": [
+      "matter-and-materials",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-matter-and-materials-0005",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Matter in Our Surroundings",
+    "subtopic": "Matter in Our Surroundings",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a natural material?",
+    "image": "",
+    "options": [
+      "Plastic",
+      "Wood",
+      "Nylon",
+      "Polythene"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Wood comes from trees.",
+    "tags": [
+      "matter-and-materials",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-matter-and-materials-0006",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Matter in Our Surroundings",
+    "subtopic": "Matter in Our Surroundings",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Solids have ___ volume.",
+    "image": "",
+    "options": [
+      "No",
+      "Fixed",
+      "Changing",
+      "Zero"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Solids have fixed volume.",
+    "tags": [
+      "matter-and-materials",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-matter-and-materials-0007",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Matter in Our Surroundings",
+    "subtopic": "Matter in Our Surroundings",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is man-made?",
+    "image": "",
+    "options": [
+      "Stone",
+      "Plastic",
+      "Wood",
+      "Cotton"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Plastic is man-made.",
+    "tags": [
+      "matter-and-materials",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-matter-and-materials-0008",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Matter in Our Surroundings",
+    "subtopic": "Matter in Our Surroundings",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Melting is when solid turns to ___.",
+    "image": "",
+    "options": [
+      "Gas",
+      "Liquid",
+      "Plasma",
+      "Ice"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Melting turns solid to liquid.",
+    "tags": [
+      "matter-and-materials",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-matter-and-materials-0009",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Matter in Our Surroundings",
+    "subtopic": "Matter in Our Surroundings",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which material floats on water?",
+    "image": "",
+    "options": [
+      "Stone",
+      "Iron",
+      "Wood",
+      "Gold"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Wood floats on water.",
+    "tags": [
+      "matter-and-materials",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-matter-and-materials-0010",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Matter in Our Surroundings",
+    "subtopic": "Matter in Our Surroundings",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Boiling is when liquid turns to ___.",
+    "image": "",
+    "options": [
+      "Solid",
+      "Gas",
+      "Plasma",
+      "Ice"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Boiling turns liquid to gas.",
+    "tags": [
+      "matter-and-materials",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-matter-and-materials-0011",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Matter in Our Surroundings",
+    "subtopic": "Matter in Our Surroundings",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a conductor of heat?",
+    "image": "",
+    "options": [
+      "Wood",
+      "Plastic",
+      "Metal",
+      "Rubber"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Metals conduct heat well.",
+    "tags": [
+      "matter-and-materials",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-matter-and-materials-0012",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Matter in Our Surroundings",
+    "subtopic": "Matter in Our Surroundings",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Cotton comes from ___.",
+    "image": "",
+    "options": [
+      "Animals",
+      "Plants",
+      "Minerals",
+      "Rocks"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cotton comes from cotton plants.",
+    "tags": [
+      "matter-and-materials",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-matter-and-materials-0013",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Matter in Our Surroundings",
+    "subtopic": "Matter in Our Surroundings",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which state has no fixed shape?",
+    "image": "",
+    "options": [
+      "Solid only",
+      "Liquid and gas",
+      "Solid and liquid",
+      "None"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Liquids and gases have no fixed shape.",
+    "tags": [
+      "matter-and-materials",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-matter-and-materials-0014",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Matter in Our Surroundings",
+    "subtopic": "Matter in Our Surroundings",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Rubber is ___.",
+    "image": "",
+    "options": [
+      "Hard",
+      "Elastic",
+      "Brittle",
+      "Rigid"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Rubber is elastic.",
+    "tags": [
+      "matter-and-materials",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-matter-and-materials-0015",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Matter in Our Surroundings",
+    "subtopic": "Matter in Our Surroundings",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Glass is made from ___.",
+    "image": "",
+    "options": [
+      "Wood",
+      "Sand",
+      "Cotton",
+      "Wool"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Glass is made from sand.",
+    "tags": [
+      "matter-and-materials",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-matter-and-materials-0016",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Matter in Our Surroundings",
+    "subtopic": "Matter in Our Surroundings",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which dissolves in water?",
+    "image": "",
+    "options": [
+      "Oil",
+      "Salt",
+      "Sand",
+      "Stone"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Salt dissolves in water.",
+    "tags": [
+      "matter-and-materials",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-matter-and-materials-0017",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Matter in Our Surroundings",
+    "subtopic": "Matter in Our Surroundings",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Metals are ___.",
+    "image": "",
+    "options": [
+      "Transparent",
+      "Opaque",
+      "Soft",
+      "Liquid"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Metals are opaque.",
+    "tags": [
+      "matter-and-materials",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-matter-and-materials-0018",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Matter in Our Surroundings",
+    "subtopic": "Matter in Our Surroundings",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Freezing is when liquid turns to ___.",
+    "image": "",
+    "options": [
+      "Gas",
+      "Solid",
+      "Plasma",
+      "Vapour"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Freezing turns liquid to solid.",
+    "tags": [
+      "matter-and-materials",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-matter-and-materials-0019",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Matter in Our Surroundings",
+    "subtopic": "Matter in Our Surroundings",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is biodegradable?",
+    "image": "",
+    "options": [
+      "Plastic",
+      "Paper",
+      "Glass",
+      "Metal"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Paper is biodegradable.",
+    "tags": [
+      "matter-and-materials",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-matter-and-materials-0020",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Matter in Our Surroundings",
+    "subtopic": "Matter in Our Surroundings",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Wool comes from ___.",
+    "image": "",
+    "options": [
+      "Plants",
+      "Sheep",
+      "Rocks",
+      "Minerals"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Wool comes from sheep.",
+    "tags": [
+      "matter-and-materials",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-matter-and-materials-0021",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Matter in Our Surroundings",
+    "subtopic": "Matter in Our Surroundings",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a good insulator?",
+    "image": "",
+    "options": [
+      "Metal",
+      "Wood",
+      "Copper",
+      "Iron"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Wood is a good insulator.",
+    "tags": [
+      "matter-and-materials",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-matter-and-materials-0022",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Matter in Our Surroundings",
+    "subtopic": "Matter in Our Surroundings",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Condensation forms ___.",
+    "image": "",
+    "options": [
+      "Ice",
+      "Dew",
+      "Steam",
+      "Smoke"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dew is condensation.",
+    "tags": [
+      "matter-and-materials",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-matter-and-materials-0023",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Matter in Our Surroundings",
+    "subtopic": "Matter in Our Surroundings",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Silk comes from ___.",
+    "image": "",
+    "options": [
+      "Plants",
+      "Silkworm",
+      "Sheep",
+      "Cotton"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Silk comes from silkworms.",
+    "tags": [
+      "matter-and-materials",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-matter-and-materials-0024",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Matter in Our Surroundings",
+    "subtopic": "Matter in Our Surroundings",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which material is magnetic?",
+    "image": "",
+    "options": [
+      "Wood",
+      "Plastic",
+      "Iron",
+      "Glass"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Iron is magnetic.",
+    "tags": [
+      "matter-and-materials",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g9-matter-and-materials-0025",
+    "exam": "nso",
+    "grade": "9",
+    "topic": "Matter in Our Surroundings",
+    "subtopic": "Matter in Our Surroundings",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Evaporation happens when water ___.",
+    "image": "",
+    "options": [
+      "Freezes",
+      "Heats up",
+      "Cools",
+      "Mixes"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Heating causes evaporation.",
+    "tags": [
+      "matter-and-materials",
+      "nso",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  }
+]

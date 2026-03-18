@@ -1,15 +1,15 @@
 {
-  "packId": "nso-grade11-biology-basics-practice-01",
+  "packId": "nso-grade11-plants-and-animals-practice-01",
   "exam": "nso",
   "grade": 11,
   "mode": "practice",
-  "title": "Biology Basics Practice Test",
-  "topic": "Biology Basics",
+  "title": "Some Basic Concepts of Chemistry Practice",
+  "topic": "Some Basic Concepts of Chemistry",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "Biology Basics"
+      "Some Basic Concepts of Chemistry"
     ],
     "difficultyMix": {
       "easy": 15,

@@ -1,0 +1,702 @@
+[
+  {
+    "id": "nso-g7-air-and-water-0001",
+    "exam": "nso",
+    "grade": "7",
+    "topic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "subtopic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we breathe in?",
+    "image": "",
+    "options": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Nitrogen",
+      "Smoke"
+    ],
+    "correctAnswer": 1,
+    "explanation": "We breathe in oxygen.",
+    "tags": [
+      "air-and-water",
+      "nso",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g7-air-and-water-0002",
+    "exam": "nso",
+    "grade": "7",
+    "topic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "subtopic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do plants give out?",
+    "image": "",
+    "options": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Nitrogen",
+      "Smoke"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Plants release oxygen during photosynthesis.",
+    "tags": [
+      "air-and-water",
+      "nso",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g7-air-and-water-0003",
+    "exam": "nso",
+    "grade": "7",
+    "topic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "subtopic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Water boils at ___ degrees Celsius.",
+    "image": "",
+    "options": [
+      "50",
+      "80",
+      "100",
+      "120"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Water boils at 100°C.",
+    "tags": [
+      "air-and-water",
+      "nso",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g7-air-and-water-0004",
+    "exam": "nso",
+    "grade": "7",
+    "topic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "subtopic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which gas do we breathe out?",
+    "image": "",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "correctAnswer": 1,
+    "explanation": "We breathe out carbon dioxide.",
+    "tags": [
+      "air-and-water",
+      "nso",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g7-air-and-water-0005",
+    "exam": "nso",
+    "grade": "7",
+    "topic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "subtopic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Rain is made of ___.",
+    "image": "",
+    "options": [
+      "Milk",
+      "Water",
+      "Juice",
+      "Oil"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Rain is water from clouds.",
+    "tags": [
+      "air-and-water",
+      "nso",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g7-air-and-water-0006",
+    "exam": "nso",
+    "grade": "7",
+    "topic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "subtopic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Air contains mostly ___.",
+    "image": "",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Hydrogen"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Air is about 78% nitrogen.",
+    "tags": [
+      "air-and-water",
+      "nso",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g7-air-and-water-0007",
+    "exam": "nso",
+    "grade": "7",
+    "topic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "subtopic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "We cannot live without ___.",
+    "image": "",
+    "options": [
+      "TV",
+      "Air",
+      "Toys",
+      "Games"
+    ],
+    "correctAnswer": 1,
+    "explanation": "We need air to breathe.",
+    "tags": [
+      "air-and-water",
+      "nso",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g7-air-and-water-0008",
+    "exam": "nso",
+    "grade": "7",
+    "topic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "subtopic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Water freezes at ___ degrees Celsius.",
+    "image": "",
+    "options": [
+      "10",
+      "0",
+      "-10",
+      "5"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Water freezes at 0°C.",
+    "tags": [
+      "air-and-water",
+      "nso",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g7-air-and-water-0009",
+    "exam": "nso",
+    "grade": "7",
+    "topic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "subtopic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a source of water?",
+    "image": "",
+    "options": [
+      "Fire",
+      "Rain",
+      "Desert",
+      "Rock"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Rain is a source of water.",
+    "tags": [
+      "air-and-water",
+      "nso",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g7-air-and-water-0010",
+    "exam": "nso",
+    "grade": "7",
+    "topic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "subtopic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Polluted air can cause ___.",
+    "image": "",
+    "options": [
+      "Strength",
+      "Health problems",
+      "Energy",
+      "Growth"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Polluted air harms health.",
+    "tags": [
+      "air-and-water",
+      "nso",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g7-air-and-water-0011",
+    "exam": "nso",
+    "grade": "7",
+    "topic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "subtopic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many states can water exist in?",
+    "image": "",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Water can be solid, liquid, or gas.",
+    "tags": [
+      "air-and-water",
+      "nso",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g7-air-and-water-0012",
+    "exam": "nso",
+    "grade": "7",
+    "topic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "subtopic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Plants need ___ for photosynthesis.",
+    "image": "",
+    "options": [
+      "Only water",
+      "Carbon dioxide and water",
+      "Only soil",
+      "Only air"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Plants need CO2 and water for photosynthesis.",
+    "tags": [
+      "air-and-water",
+      "nso",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g7-air-and-water-0013",
+    "exam": "nso",
+    "grade": "7",
+    "topic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "subtopic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is NOT a use of water?",
+    "image": "",
+    "options": [
+      "Drinking",
+      "Cooking",
+      "Breathing",
+      "Washing"
+    ],
+    "correctAnswer": 2,
+    "explanation": "We breathe air, not water.",
+    "tags": [
+      "air-and-water",
+      "nso",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g7-air-and-water-0014",
+    "exam": "nso",
+    "grade": "7",
+    "topic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "subtopic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Wind is ___.",
+    "image": "",
+    "options": [
+      "Still air",
+      "Moving air",
+      "Water",
+      "Fire"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Wind is moving air.",
+    "tags": [
+      "air-and-water",
+      "nso",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g7-air-and-water-0015",
+    "exam": "nso",
+    "grade": "7",
+    "topic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "subtopic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "We should save water because ___.",
+    "image": "",
+    "options": [
+      "It is unlimited",
+      "It is limited",
+      "It is free",
+      "It is cold"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fresh water is limited.",
+    "tags": [
+      "air-and-water",
+      "nso",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g7-air-and-water-0016",
+    "exam": "nso",
+    "grade": "7",
+    "topic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "subtopic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Oxygen is needed for ___.",
+    "image": "",
+    "options": [
+      "Digestion only",
+      "Respiration",
+      "Sleep only",
+      "Eating only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "We need oxygen to breathe.",
+    "tags": [
+      "air-and-water",
+      "nso",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g7-air-and-water-0017",
+    "exam": "nso",
+    "grade": "7",
+    "topic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "subtopic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which pollutes water?",
+    "image": "",
+    "options": [
+      "Rain",
+      "Waste",
+      "Snow",
+      "Ice"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Waste can pollute water.",
+    "tags": [
+      "air-and-water",
+      "nso",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g7-air-and-water-0018",
+    "exam": "nso",
+    "grade": "7",
+    "topic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "subtopic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Clouds are made of ___.",
+    "image": "",
+    "options": [
+      "Cotton",
+      "Water vapour",
+      "Smoke",
+      "Dust"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Clouds are water vapour.",
+    "tags": [
+      "air-and-water",
+      "nso",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g7-air-and-water-0019",
+    "exam": "nso",
+    "grade": "7",
+    "topic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "subtopic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Air has ___.",
+    "image": "",
+    "options": [
+      "No weight",
+      "Weight",
+      "Colour",
+      "Smell only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Air has weight and takes up space.",
+    "tags": [
+      "air-and-water",
+      "nso",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g7-air-and-water-0020",
+    "exam": "nso",
+    "grade": "7",
+    "topic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "subtopic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which gas do plants take in?",
+    "image": "",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Plants take in CO2 for photosynthesis.",
+    "tags": [
+      "air-and-water",
+      "nso",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g7-air-and-water-0021",
+    "exam": "nso",
+    "grade": "7",
+    "topic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "subtopic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Evaporation is when water turns into ___.",
+    "image": "",
+    "options": [
+      "Ice",
+      "Vapour",
+      "Solid",
+      "Rain"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Evaporation turns liquid to vapour.",
+    "tags": [
+      "air-and-water",
+      "nso",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g7-air-and-water-0022",
+    "exam": "nso",
+    "grade": "7",
+    "topic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "subtopic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "We need ___ to stay alive.",
+    "image": "",
+    "options": [
+      "Only food",
+      "Air and water",
+      "Only air",
+      "Only water"
+    ],
+    "correctAnswer": 1,
+    "explanation": "We need both air and water.",
+    "tags": [
+      "air-and-water",
+      "nso",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g7-air-and-water-0023",
+    "exam": "nso",
+    "grade": "7",
+    "topic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "subtopic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a form of precipitation?",
+    "image": "",
+    "options": [
+      "Wind",
+      "Rain",
+      "Sunshine",
+      "Clouds"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Rain is a form of precipitation.",
+    "tags": [
+      "air-and-water",
+      "nso",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g7-air-and-water-0024",
+    "exam": "nso",
+    "grade": "7",
+    "topic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "subtopic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Water is a ___.",
+    "image": "",
+    "options": [
+      "Solid",
+      "Liquid",
+      "Gas",
+      "Plasma"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Water at room temperature is liquid.",
+    "tags": [
+      "air-and-water",
+      "nso",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g7-air-and-water-0025",
+    "exam": "nso",
+    "grade": "7",
+    "topic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "subtopic": "Natural Resources and Their Conservation (Forests: Our Lifeline, Wastewater Story)",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which helps clean air?",
+    "image": "",
+    "options": [
+      "Factories",
+      "Trees",
+      "Cars",
+      "Smoke"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trees help clean the air.",
+    "tags": [
+      "air-and-water",
+      "nso",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  }
+]

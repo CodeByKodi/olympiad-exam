@@ -1,0 +1,702 @@
+[
+  {
+    "id": "imo-g9-percentages-and-ratios-0001",
+    "exam": "imo",
+    "grade": "9",
+    "topic": "Comparing Quantities",
+    "subtopic": "Comparing Quantities",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 10% of 100?",
+    "image": "",
+    "options": [
+      "1",
+      "10",
+      "50",
+      "100"
+    ],
+    "correctAnswer": 1,
+    "explanation": "10% of 100 = 10.",
+    "tags": [
+      "percentages-and-ratios",
+      "imo",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g9-percentages-and-ratios-0002",
+    "exam": "imo",
+    "grade": "9",
+    "topic": "Comparing Quantities",
+    "subtopic": "Comparing Quantities",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "If 50% of a number is 30, what is the number?",
+    "image": "",
+    "options": [
+      "40",
+      "50",
+      "60",
+      "70"
+    ],
+    "correctAnswer": 2,
+    "explanation": "50% = half, so number = 60.",
+    "tags": [
+      "percentages-and-ratios",
+      "imo",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g9-percentages-and-ratios-0003",
+    "exam": "imo",
+    "grade": "9",
+    "topic": "Comparing Quantities",
+    "subtopic": "Comparing Quantities",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "The ratio of 2 to 6 in simplest form is?",
+    "image": "",
+    "options": [
+      "1:2",
+      "1:3",
+      "2:3",
+      "1:6"
+    ],
+    "correctAnswer": 1,
+    "explanation": "2:6 = 1:3.",
+    "tags": [
+      "percentages-and-ratios",
+      "imo",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g9-percentages-and-ratios-0004",
+    "exam": "imo",
+    "grade": "9",
+    "topic": "Comparing Quantities",
+    "subtopic": "Comparing Quantities",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "If 3:4 = x:8, what is x?",
+    "image": "",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswer": 2,
+    "explanation": "3/4 = x/8, so x = 6.",
+    "tags": [
+      "percentages-and-ratios",
+      "imo",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g9-percentages-and-ratios-0005",
+    "exam": "imo",
+    "grade": "9",
+    "topic": "Comparing Quantities",
+    "subtopic": "Comparing Quantities",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "A shirt costs ₹400. With 20% off, the sale price is?",
+    "image": "",
+    "options": [
+      "₹280",
+      "₹320",
+      "₹360",
+      "₹380"
+    ],
+    "correctAnswer": 1,
+    "explanation": "20% off = 80% of 400 = ₹320.",
+    "tags": [
+      "percentages-and-ratios",
+      "imo",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g9-percentages-and-ratios-0006",
+    "exam": "imo",
+    "grade": "9",
+    "topic": "Comparing Quantities",
+    "subtopic": "Comparing Quantities",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "The ratio 12:18 in simplest form is?",
+    "image": "",
+    "options": [
+      "2:3",
+      "3:4",
+      "4:6",
+      "6:9"
+    ],
+    "correctAnswer": 0,
+    "explanation": "12:18 = 2:3.",
+    "tags": [
+      "percentages-and-ratios",
+      "imo",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g9-percentages-and-ratios-0007",
+    "exam": "imo",
+    "grade": "9",
+    "topic": "Comparing Quantities",
+    "subtopic": "Comparing Quantities",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 5% of 200?",
+    "image": "",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "correctAnswer": 1,
+    "explanation": "5% of 200 = 10.",
+    "tags": [
+      "percentages-and-ratios",
+      "imo",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g9-percentages-and-ratios-0008",
+    "exam": "imo",
+    "grade": "9",
+    "topic": "Comparing Quantities",
+    "subtopic": "Comparing Quantities",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "If 2:5 = 6:x, what is x?",
+    "image": "",
+    "options": [
+      "12",
+      "15",
+      "18",
+      "20"
+    ],
+    "correctAnswer": 1,
+    "explanation": "2/5 = 6/x, so x = 15.",
+    "tags": [
+      "percentages-and-ratios",
+      "imo",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g9-percentages-and-ratios-0009",
+    "exam": "imo",
+    "grade": "9",
+    "topic": "Comparing Quantities",
+    "subtopic": "Comparing Quantities",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 75% of 40?",
+    "image": "",
+    "options": [
+      "25",
+      "30",
+      "35",
+      "40"
+    ],
+    "correctAnswer": 1,
+    "explanation": "75% of 40 = 30.",
+    "tags": [
+      "percentages-and-ratios",
+      "imo",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g9-percentages-and-ratios-0010",
+    "exam": "imo",
+    "grade": "9",
+    "topic": "Comparing Quantities",
+    "subtopic": "Comparing Quantities",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "A number increased by 20% becomes 120. The original number is?",
+    "image": "",
+    "options": [
+      "90",
+      "100",
+      "110",
+      "96"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1.2x = 120, x = 100.",
+    "tags": [
+      "percentages-and-ratios",
+      "imo",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g9-percentages-and-ratios-0011",
+    "exam": "imo",
+    "grade": "9",
+    "topic": "Comparing Quantities",
+    "subtopic": "Comparing Quantities",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "The ratio of boys to girls is 3:2. If there are 15 boys, how many girls?",
+    "image": "",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "15"
+    ],
+    "correctAnswer": 1,
+    "explanation": "3:2 = 15:10, so 10 girls.",
+    "tags": [
+      "percentages-and-ratios",
+      "imo",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g9-percentages-and-ratios-0012",
+    "exam": "imo",
+    "grade": "9",
+    "topic": "Comparing Quantities",
+    "subtopic": "Comparing Quantities",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 40% of 90?",
+    "image": "",
+    "options": [
+      "32",
+      "36",
+      "40",
+      "45"
+    ],
+    "correctAnswer": 1,
+    "explanation": "40% of 90 = 36.",
+    "tags": [
+      "percentages-and-ratios",
+      "imo",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g9-percentages-and-ratios-0013",
+    "exam": "imo",
+    "grade": "9",
+    "topic": "Comparing Quantities",
+    "subtopic": "Comparing Quantities",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "If 4:7 = 8:x, what is x?",
+    "image": "",
+    "options": [
+      "12",
+      "14",
+      "16",
+      "18"
+    ],
+    "correctAnswer": 1,
+    "explanation": "4/7 = 8/x, so x = 14.",
+    "tags": [
+      "percentages-and-ratios",
+      "imo",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g9-percentages-and-ratios-0014",
+    "exam": "imo",
+    "grade": "9",
+    "topic": "Comparing Quantities",
+    "subtopic": "Comparing Quantities",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 30% of 70?",
+    "image": "",
+    "options": [
+      "18",
+      "21",
+      "24",
+      "24"
+    ],
+    "correctAnswer": 1,
+    "explanation": "30% of 70 = 21.",
+    "tags": [
+      "percentages-and-ratios",
+      "imo",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g9-percentages-and-ratios-0015",
+    "exam": "imo",
+    "grade": "9",
+    "topic": "Comparing Quantities",
+    "subtopic": "Comparing Quantities",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "A price decreased by 25% becomes ₹75. Original price was?",
+    "image": "",
+    "options": [
+      "₹90",
+      "₹95",
+      "₹100",
+      "₹105"
+    ],
+    "correctAnswer": 2,
+    "explanation": "0.75x = 75, x = 100.",
+    "tags": [
+      "percentages-and-ratios",
+      "imo",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g9-percentages-and-ratios-0016",
+    "exam": "imo",
+    "grade": "9",
+    "topic": "Comparing Quantities",
+    "subtopic": "Comparing Quantities",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "The ratio 16:24 in simplest form is?",
+    "image": "",
+    "options": [
+      "2:3",
+      "3:4",
+      "4:6",
+      "8:12"
+    ],
+    "correctAnswer": 0,
+    "explanation": "16:24 = 2:3.",
+    "tags": [
+      "percentages-and-ratios",
+      "imo",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g9-percentages-and-ratios-0017",
+    "exam": "imo",
+    "grade": "9",
+    "topic": "Comparing Quantities",
+    "subtopic": "Comparing Quantities",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 8% of 250?",
+    "image": "",
+    "options": [
+      "15",
+      "18",
+      "20",
+      "25"
+    ],
+    "correctAnswer": 2,
+    "explanation": "8% of 250 = 20.",
+    "tags": [
+      "percentages-and-ratios",
+      "imo",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g9-percentages-and-ratios-0018",
+    "exam": "imo",
+    "grade": "9",
+    "topic": "Comparing Quantities",
+    "subtopic": "Comparing Quantities",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "If 5:8 = 15:x, what is x?",
+    "image": "",
+    "options": [
+      "20",
+      "24",
+      "28",
+      "32"
+    ],
+    "correctAnswer": 1,
+    "explanation": "5/8 = 15/x, so x = 24.",
+    "tags": [
+      "percentages-and-ratios",
+      "imo",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g9-percentages-and-ratios-0019",
+    "exam": "imo",
+    "grade": "9",
+    "topic": "Comparing Quantities",
+    "subtopic": "Comparing Quantities",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 60% of 45?",
+    "image": "",
+    "options": [
+      "25",
+      "27",
+      "30",
+      "35"
+    ],
+    "correctAnswer": 1,
+    "explanation": "60% of 45 = 27.",
+    "tags": [
+      "percentages-and-ratios",
+      "imo",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g9-percentages-and-ratios-0020",
+    "exam": "imo",
+    "grade": "9",
+    "topic": "Comparing Quantities",
+    "subtopic": "Comparing Quantities",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "In a class, 40% are girls. If there are 24 girls, how many students total?",
+    "image": "",
+    "options": [
+      "50",
+      "55",
+      "60",
+      "65"
+    ],
+    "correctAnswer": 2,
+    "explanation": "0.4x = 24, x = 60.",
+    "tags": [
+      "percentages-and-ratios",
+      "imo",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g9-percentages-and-ratios-0021",
+    "exam": "imo",
+    "grade": "9",
+    "topic": "Comparing Quantities",
+    "subtopic": "Comparing Quantities",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "The ratio 9:18 in simplest form is?",
+    "image": "",
+    "options": [
+      "1:2",
+      "2:3",
+      "3:6",
+      "3:9"
+    ],
+    "correctAnswer": 0,
+    "explanation": "9:18 = 1:2.",
+    "tags": [
+      "percentages-and-ratios",
+      "imo",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g9-percentages-and-ratios-0022",
+    "exam": "imo",
+    "grade": "9",
+    "topic": "Comparing Quantities",
+    "subtopic": "Comparing Quantities",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 12% of 150?",
+    "image": "",
+    "options": [
+      "15",
+      "18",
+      "20",
+      "25"
+    ],
+    "correctAnswer": 1,
+    "explanation": "12% of 150 = 18.",
+    "tags": [
+      "percentages-and-ratios",
+      "imo",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g9-percentages-and-ratios-0023",
+    "exam": "imo",
+    "grade": "9",
+    "topic": "Comparing Quantities",
+    "subtopic": "Comparing Quantities",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "If 2:3 = 10:x, what is x?",
+    "image": "",
+    "options": [
+      "12",
+      "15",
+      "18",
+      "20"
+    ],
+    "correctAnswer": 1,
+    "explanation": "2/3 = 10/x, so x = 15.",
+    "tags": [
+      "percentages-and-ratios",
+      "imo",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g9-percentages-and-ratios-0024",
+    "exam": "imo",
+    "grade": "9",
+    "topic": "Comparing Quantities",
+    "subtopic": "Comparing Quantities",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 35% of 80?",
+    "image": "",
+    "options": [
+      "24",
+      "26",
+      "28",
+      "30"
+    ],
+    "correctAnswer": 2,
+    "explanation": "35% of 80 = 28.",
+    "tags": [
+      "percentages-and-ratios",
+      "imo",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g9-percentages-and-ratios-0025",
+    "exam": "imo",
+    "grade": "9",
+    "topic": "Comparing Quantities",
+    "subtopic": "Comparing Quantities",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "A discount of 15% on ₹200 gives a sale price of?",
+    "image": "",
+    "options": [
+      "₹160",
+      "₹165",
+      "₹170",
+      "₹175"
+    ],
+    "correctAnswer": 2,
+    "explanation": "85% of 200 = ₹170.",
+    "tags": [
+      "percentages-and-ratios",
+      "imo",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  }
+]

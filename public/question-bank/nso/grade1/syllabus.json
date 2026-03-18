@@ -1,48 +1,38 @@
 {
   "exam": "nso",
   "grade": 1,
+  "sections_overview": [
+    {
+      "code": "S1",
+      "name": "Logical Reasoning Section",
+      "description": "Questions related to Verbal and Non-Verbal Reasoning."
+    },
+    {
+      "code": "S2",
+      "name": "Science Section",
+      "description": "Covers relevant topics and sub-topics of current and previous class science syllabus."
+    },
+    {
+      "code": "S3",
+      "name": "Achiever's Section",
+      "description": "Contains Higher Order Thinking Questions of the same topics as in Section 2."
+    }
+  ],
+  "achievers_section": "Higher Order Thinking Questions - Syllabus as per Section 2.",
   "topics": [
     {
-      "code": "NSO-G1-T1",
-      "name": "Living and Non-living",
-      "description": "Basic distinction.",
-      "weightage": "high",
-      "recommendedQuestionCount": 30,
+      "code": "NSO-G1-LOGICAL_REASONING",
+      "name": "Patterns",
+      "slug": "logical-reasoning",
+      "description": "Patterns for Grade 1.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 25,
       "subtopics": [
         {
-          "code": "NSO-G1-T1-S1",
-          "name": "Living Things",
-          "description": "Things that grow and need food.",
-          "learningObjectives": [
-            "Identify living things",
-            "Name examples"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
-          "recommendedQuestionCount": 15,
+          "code": "logical-reasoning-basics",
+          "name": "Patterns Basics",
           "tags": [
-            "living",
-            "nso",
-            "grade1"
-          ]
-        },
-        {
-          "code": "NSO-G1-T1-S2",
-          "name": "Non-living Things",
-          "description": "Things that do not grow.",
-          "learningObjectives": [
-            "Identify non-living",
-            "Compare with living"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
-          "recommendedQuestionCount": 15,
-          "tags": [
-            "non-living",
+            "logical-reasoning",
             "nso",
             "grade1"
           ]
@@ -50,44 +40,35 @@
       ]
     },
     {
-      "code": "NSO-G1-T2",
+      "code": "NSO-G1-LIVING_AND_NON_LIVING",
+      "name": "Living and Non-living Things",
+      "slug": "living-and-non-living",
+      "description": "Living and Non-living Things for Grade 1.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 25,
+      "subtopics": [
+        {
+          "code": "living-and-non-living-basics",
+          "name": "Living and Non-living Things Basics",
+          "tags": [
+            "living-and-non-living",
+            "nso",
+            "grade1"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "NSO-G1-PLANTS",
       "name": "Plants",
-      "description": "Basic plant concepts.",
-      "weightage": "high",
-      "recommendedQuestionCount": 35,
+      "slug": "plants",
+      "description": "Plants for Grade 1.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 25,
       "subtopics": [
         {
-          "code": "NSO-G1-T2-S1",
-          "name": "Parts of Plants",
-          "description": "Roots, stems, leaves.",
-          "learningObjectives": [
-            "Identify plant parts",
-            "Match parts with names"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
-          "recommendedQuestionCount": 20,
-          "tags": [
-            "plants",
-            "nso",
-            "grade1"
-          ]
-        },
-        {
-          "code": "NSO-G1-T2-S2",
-          "name": "What Plants Need",
-          "description": "Water, sunlight, air.",
-          "learningObjectives": [
-            "List what plants need",
-            "Describe growth"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
-          "recommendedQuestionCount": 15,
+          "code": "plants-basics",
+          "name": "Plants Basics",
           "tags": [
             "plants",
             "nso",
@@ -97,44 +78,16 @@
       ]
     },
     {
-      "code": "NSO-G1-T3",
+      "code": "NSO-G1-ANIMALS",
       "name": "Animals",
-      "description": "Basic animal concepts.",
-      "weightage": "high",
-      "recommendedQuestionCount": 35,
+      "slug": "animals",
+      "description": "Animals for Grade 1.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 25,
       "subtopics": [
         {
-          "code": "NSO-G1-T3-S1",
-          "name": "Types of Animals",
-          "description": "Birds, fish, land animals.",
-          "learningObjectives": [
-            "Identify animals",
-            "Group by type"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
-          "recommendedQuestionCount": 20,
-          "tags": [
-            "animals",
-            "nso",
-            "grade1"
-          ]
-        },
-        {
-          "code": "NSO-G1-T3-S2",
-          "name": "Where Animals Live",
-          "description": "Homes and habitats.",
-          "learningObjectives": [
-            "Match animals to homes",
-            "Identify habitats"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
-          "recommendedQuestionCount": 15,
+          "code": "animals-basics",
+          "name": "Animals Basics",
           "tags": [
             "animals",
             "nso",
@@ -144,46 +97,18 @@
       ]
     },
     {
-      "code": "NSO-G1-T4",
-      "name": "Food",
-      "description": "Food and eating.",
+      "code": "NSO-G1-HUMAN_BODY",
+      "name": "Human Beings and Their Needs",
+      "slug": "human-body",
+      "description": "Human Beings and Their Needs for Grade 1.",
       "weightage": "medium",
       "recommendedQuestionCount": 25,
       "subtopics": [
         {
-          "code": "NSO-G1-T4-S1",
-          "name": "Types of Food",
-          "description": "Fruits, vegetables, grains.",
-          "learningObjectives": [
-            "Identify food types",
-            "Name healthy foods"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
-          "recommendedQuestionCount": 15,
+          "code": "human-body-basics",
+          "name": "Human Beings and Their Needs Basics",
           "tags": [
-            "food",
-            "nso",
-            "grade1"
-          ]
-        },
-        {
-          "code": "NSO-G1-T4-S2",
-          "name": "Healthy Eating",
-          "description": "Balanced meals.",
-          "learningObjectives": [
-            "Identify healthy choices",
-            "Understand meal times"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
-          "recommendedQuestionCount": 10,
-          "tags": [
-            "food",
+            "human-body",
             "nso",
             "grade1"
           ]
@@ -191,93 +116,18 @@
       ]
     },
     {
-      "code": "NSO-G1-T5",
-      "name": "Human Body Basics",
-      "description": "Body parts and senses.",
-      "weightage": "medium",
-      "recommendedQuestionCount": 25,
-      "subtopics": [
-        {
-          "code": "NSO-G1-T5-S1",
-          "name": "Body Parts",
-          "description": "Head, hands, legs.",
-          "learningObjectives": [
-            "Name body parts",
-            "Identify parts"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
-          "recommendedQuestionCount": 15,
-          "tags": [
-            "body",
-            "nso",
-            "grade1"
-          ]
-        },
-        {
-          "code": "NSO-G1-T5-S2",
-          "name": "Five Senses",
-          "description": "See, hear, smell, taste, touch.",
-          "learningObjectives": [
-            "Name five senses",
-            "Match sense to use"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
-          "recommendedQuestionCount": 10,
-          "tags": [
-            "senses",
-            "nso",
-            "grade1"
-          ]
-        }
-      ]
-    },
-    {
-      "code": "NSO-G1-T6",
+      "code": "NSO-G1-AIR_AND_WATER",
       "name": "Air and Water",
-      "description": "Basics of air and water.",
+      "slug": "air-and-water",
+      "description": "Air and Water for Grade 1.",
       "weightage": "medium",
-      "recommendedQuestionCount": 20,
+      "recommendedQuestionCount": 25,
       "subtopics": [
         {
-          "code": "NSO-G1-T6-S1",
-          "name": "Air",
-          "description": "Air is everywhere.",
-          "learningObjectives": [
-            "Understand we need air",
-            "Identify air uses"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
-          "recommendedQuestionCount": 10,
+          "code": "air-and-water-basics",
+          "name": "Air and Water Basics",
           "tags": [
-            "air",
-            "nso",
-            "grade1"
-          ]
-        },
-        {
-          "code": "NSO-G1-T6-S2",
-          "name": "Water",
-          "description": "Uses of water.",
-          "learningObjectives": [
-            "List water uses",
-            "Understand importance"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
-          "recommendedQuestionCount": 10,
-          "tags": [
-            "water",
+            "air-and-water",
             "nso",
             "grade1"
           ]
@@ -285,46 +135,18 @@
       ]
     },
     {
-      "code": "NSO-G1-T7",
-      "name": "Environment and Weather",
-      "description": "Simple environment.",
-      "weightage": "low",
-      "recommendedQuestionCount": 15,
+      "code": "NSO-G1-WEATHER_AND_SKY",
+      "name": "Weather and The Sky",
+      "slug": "weather-and-sky",
+      "description": "Weather and The Sky for Grade 1.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 25,
       "subtopics": [
         {
-          "code": "NSO-G1-T7-S1",
-          "name": "Weather",
-          "description": "Sunny, rainy, cloudy.",
-          "learningObjectives": [
-            "Identify weather types",
-            "Describe weather"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
-          "recommendedQuestionCount": 10,
+          "code": "weather-and-sky-basics",
+          "name": "Weather and The Sky Basics",
           "tags": [
-            "weather",
-            "nso",
-            "grade1"
-          ]
-        },
-        {
-          "code": "NSO-G1-T7-S2",
-          "name": "Keeping Clean",
-          "description": "Clean surroundings.",
-          "learningObjectives": [
-            "Understand cleanliness",
-            "Identify clean habits"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
-          "recommendedQuestionCount": 5,
-          "tags": [
-            "environment",
+            "weather-and-sky",
             "nso",
             "grade1"
           ]

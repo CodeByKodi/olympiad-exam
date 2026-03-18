@@ -1,197 +1,38 @@
 {
   "exam": "nso",
   "grade": 12,
+  "sections_overview": [
+    {
+      "code": "S1",
+      "name": "Logical Reasoning Section",
+      "description": "Questions related to Verbal and Non-Verbal Reasoning."
+    },
+    {
+      "code": "S2",
+      "name": "Science Section",
+      "description": "Covers relevant topics and sub-topics of current and previous class science syllabus."
+    },
+    {
+      "code": "S3",
+      "name": "Achiever's Section",
+      "description": "Contains Higher Order Thinking Questions of the same topics as in Section 2."
+    }
+  ],
+  "achievers_section": "Higher Order Thinking Questions - Syllabus as per Section 2.",
   "topics": [
     {
-      "code": "NSO-G12-T1",
-      "name": "Physics Basics",
-      "description": "Motion, force, energy.",
-      "weightage": "high",
-      "recommendedQuestionCount": 50,
-      "subtopics": [
-        {
-          "code": "NSO-G12-T1-S1",
-          "name": "Mechanics",
-          "description": "Physics concepts.",
-          "learningObjectives": [
-            "Apply physics principles",
-            "Solve problems"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium",
-            "hard"
-          ],
-          "recommendedQuestionCount": 25,
-          "tags": [
-            "physics",
-            "nso",
-            "grade12"
-          ]
-        },
-        {
-          "code": "NSO-G12-T1-S2",
-          "name": "Waves and Energy",
-          "description": "Energy forms.",
-          "learningObjectives": [
-            "Explain concepts",
-            "Apply to situations"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium",
-            "hard"
-          ],
-          "recommendedQuestionCount": 25,
-          "tags": [
-            "physics",
-            "nso",
-            "grade12"
-          ]
-        }
-      ]
-    },
-    {
-      "code": "NSO-G12-T2",
-      "name": "Chemistry Basics",
-      "description": "Matter and reactions.",
-      "weightage": "high",
-      "recommendedQuestionCount": 50,
-      "subtopics": [
-        {
-          "code": "NSO-G12-T2-S1",
-          "name": "Matter and Changes",
-          "description": "Chemical concepts.",
-          "learningObjectives": [
-            "Describe reactions",
-            "Balance equations"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium",
-            "hard"
-          ],
-          "recommendedQuestionCount": 25,
-          "tags": [
-            "chemistry",
-            "nso",
-            "grade12"
-          ]
-        },
-        {
-          "code": "NSO-G12-T2-S2",
-          "name": "Acids, Bases, and Salts",
-          "description": "Chemical properties.",
-          "learningObjectives": [
-            "Identify types",
-            "Explain properties"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium",
-            "hard"
-          ],
-          "recommendedQuestionCount": 25,
-          "tags": [
-            "chemistry",
-            "nso",
-            "grade12"
-          ]
-        }
-      ]
-    },
-    {
-      "code": "NSO-G12-T3",
-      "name": "Biology Basics",
-      "description": "Life sciences.",
-      "weightage": "high",
-      "recommendedQuestionCount": 55,
-      "subtopics": [
-        {
-          "code": "NSO-G12-T3-S1",
-          "name": "Cells and Organisms",
-          "description": "Life processes.",
-          "learningObjectives": [
-            "Describe cell biology",
-            "Explain life processes"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium",
-            "hard"
-          ],
-          "recommendedQuestionCount": 28,
-          "tags": [
-            "biology",
-            "nso",
-            "grade12"
-          ]
-        },
-        {
-          "code": "NSO-G12-T3-S2",
-          "name": "Human Body and Health",
-          "description": "Body systems.",
-          "learningObjectives": [
-            "Describe systems",
-            "Explain health"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium",
-            "hard"
-          ],
-          "recommendedQuestionCount": 27,
-          "tags": [
-            "biology",
-            "nso",
-            "grade12"
-          ]
-        }
-      ]
-    },
-    {
-      "code": "NSO-G12-T4",
-      "name": "Earth and Environment",
-      "description": "Earth science.",
+      "code": "NSO-G12-EARTH_AND_UNIVERSE",
+      "name": "Electricity and Magnetism",
+      "slug": "earth-and-universe",
+      "description": "Electricity and Magnetism for Grade 12.",
       "weightage": "medium",
-      "recommendedQuestionCount": 40,
+      "recommendedQuestionCount": 25,
       "subtopics": [
         {
-          "code": "NSO-G12-T4-S1",
-          "name": "Earth Science",
-          "description": "Earth processes.",
-          "learningObjectives": [
-            "Describe Earth systems",
-            "Explain phenomena"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium",
-            "hard"
-          ],
-          "recommendedQuestionCount": 20,
+          "code": "earth-and-universe-basics",
+          "name": "Electricity and Magnetism Basics",
           "tags": [
-            "earth",
-            "nso",
-            "grade12"
-          ]
-        },
-        {
-          "code": "NSO-G12-T4-S2",
-          "name": "Environment",
-          "description": "Ecology and conservation.",
-          "learningObjectives": [
-            "Explain ecology",
-            "Discuss conservation"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium",
-            "hard"
-          ],
-          "recommendedQuestionCount": 20,
-          "tags": [
-            "environment",
+            "earth-and-universe",
             "nso",
             "grade12"
           ]
@@ -199,48 +40,75 @@
       ]
     },
     {
-      "code": "NSO-G12-T5",
-      "name": "Scientific Reasoning",
-      "description": "Experimental thinking.",
+      "code": "NSO-G12-PLANTS_AND_ANIMALS",
+      "name": "Alternating Current",
+      "slug": "plants-and-animals",
+      "description": "Alternating Current for Grade 12.",
       "weightage": "medium",
-      "recommendedQuestionCount": 35,
+      "recommendedQuestionCount": 25,
       "subtopics": [
         {
-          "code": "NSO-G12-T5-S1",
-          "name": "Experimental Design",
-          "description": "Scientific method.",
-          "learningObjectives": [
-            "Design experiments",
-            "Analyze data"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium",
-            "hard"
-          ],
-          "recommendedQuestionCount": 18,
+          "code": "plants-and-animals-basics",
+          "name": "Alternating Current Basics",
           "tags": [
-            "reasoning",
+            "plants-and-animals",
             "nso",
             "grade12"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "code": "NSO-G12-FORCE_AND_ENERGY",
+      "name": "Optics",
+      "slug": "force-and-energy",
+      "description": "Optics for Grade 12.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 25,
+      "subtopics": [
         {
-          "code": "NSO-G12-T5-S2",
-          "name": "Olympiad Application",
-          "description": "Advanced problem solving.",
-          "learningObjectives": [
-            "Apply concepts",
-            "Solve Olympiad-style problems"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium",
-            "hard"
-          ],
-          "recommendedQuestionCount": 17,
+          "code": "force-and-energy-basics",
+          "name": "Optics Basics",
           "tags": [
-            "olympiad",
+            "force-and-energy",
+            "nso",
+            "grade12"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "NSO-G12-MATTER_AND_MATERIALS",
+      "name": "Solutions",
+      "slug": "matter-and-materials",
+      "description": "Solutions for Grade 12.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 25,
+      "subtopics": [
+        {
+          "code": "matter-and-materials-basics",
+          "name": "Solutions Basics",
+          "tags": [
+            "matter-and-materials",
+            "nso",
+            "grade12"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "NSO-G12-HUMAN_BODY",
+      "name": "Coordination Compounds",
+      "slug": "human-body",
+      "description": "Coordination Compounds for Grade 12.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 25,
+      "subtopics": [
+        {
+          "code": "human-body-basics",
+          "name": "Coordination Compounds Basics",
+          "tags": [
+            "human-body",
             "nso",
             "grade12"
           ]

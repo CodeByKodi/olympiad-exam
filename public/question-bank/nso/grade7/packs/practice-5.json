@@ -1,0 +1,20 @@
+{
+  "packId": "nso-grade7-human-body-practice-01",
+  "exam": "nso",
+  "grade": 7,
+  "mode": "practice",
+  "title": "Respiration in Organisms Practice",
+  "topic": "Respiration in Organisms",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Respiration in Organisms"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

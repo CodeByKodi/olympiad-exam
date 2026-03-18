@@ -1,50 +1,38 @@
 {
   "exam": "nso",
   "grade": 3,
+  "sections_overview": [
+    {
+      "code": "S1",
+      "name": "Logical Reasoning Section",
+      "description": "Questions related to Verbal and Non-Verbal Reasoning."
+    },
+    {
+      "code": "S2",
+      "name": "Science Section",
+      "description": "Covers relevant topics and sub-topics of current and previous class science syllabus."
+    },
+    {
+      "code": "S3",
+      "name": "Achiever's Section",
+      "description": "Contains Higher Order Thinking Questions of the same topics as in Section 2."
+    }
+  ],
+  "achievers_section": "Higher Order Thinking Questions - Syllabus as per Section 2.",
   "topics": [
     {
-      "code": "NSO-G3-T1",
-      "name": "Plants and Animals",
-      "description": "Plant and animal concepts.",
-      "weightage": "high",
-      "recommendedQuestionCount": 50,
+      "code": "NSO-G3-LOGICAL_REASONING",
+      "name": "Patterns",
+      "slug": "logical-reasoning",
+      "description": "Patterns for Grade 3.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 25,
       "subtopics": [
         {
-          "code": "NSO-G3-T1-S1",
-          "name": "Plants",
-          "description": "Parts, functions, growth.",
-          "learningObjectives": [
-            "Identify plant parts and functions",
-            "Describe growth",
-            "Explain photosynthesis basics"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
-          "recommendedQuestionCount": 25,
+          "code": "logical-reasoning-basics",
+          "name": "Patterns Basics",
           "tags": [
-            "plants",
-            "nso",
-            "grade3"
-          ]
-        },
-        {
-          "code": "NSO-G3-T1-S2",
-          "name": "Animals",
-          "description": "Groups, habitats, food.",
-          "learningObjectives": [
-            "Classify animals",
-            "Identify habitats",
-            "Compare herbivores and carnivores"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
-          "recommendedQuestionCount": 25,
-          "tags": [
-            "animals",
+            "logical-reasoning",
             "nso",
             "grade3"
           ]
@@ -52,44 +40,35 @@
       ]
     },
     {
-      "code": "NSO-G3-T2",
-      "name": "Human Body and Food",
-      "description": "Body and nutrition.",
-      "weightage": "high",
-      "recommendedQuestionCount": 45,
+      "code": "NSO-G3-PLANTS_AND_ANIMALS",
+      "name": "Plants and Animals",
+      "slug": "plants-and-animals",
+      "description": "Plants and Animals for Grade 3.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 25,
       "subtopics": [
         {
-          "code": "NSO-G3-T2-S1",
-          "name": "Body Parts and Senses",
-          "description": "Organs and functions.",
-          "learningObjectives": [
-            "Describe body systems",
-            "Relate senses to organs"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
-          "recommendedQuestionCount": 22,
+          "code": "plants-and-animals-basics",
+          "name": "Plants and Animals Basics",
           "tags": [
-            "body",
+            "plants-and-animals",
             "nso",
             "grade3"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "code": "NSO-G3-FOOD",
+      "name": "Food",
+      "slug": "food",
+      "description": "Food for Grade 3.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 25,
+      "subtopics": [
         {
-          "code": "NSO-G3-T2-S2",
-          "name": "Food and Nutrition",
-          "description": "Food groups.",
-          "learningObjectives": [
-            "Classify food groups",
-            "Explain balanced diet"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
-          "recommendedQuestionCount": 23,
+          "code": "food-basics",
+          "name": "Food Basics",
           "tags": [
             "food",
             "nso",
@@ -99,65 +78,18 @@
       ]
     },
     {
-      "code": "NSO-G3-T3",
-      "name": "Matter, Energy, and Force",
-      "description": "Basic matter, energy, force.",
+      "code": "NSO-G3-LIVING_AND_NON_LIVING",
+      "name": "Housing, Clothing and Occupation",
+      "slug": "living-and-non-living",
+      "description": "Housing, Clothing and Occupation for Grade 3.",
       "weightage": "medium",
-      "recommendedQuestionCount": 40,
+      "recommendedQuestionCount": 25,
       "subtopics": [
         {
-          "code": "NSO-G3-T3-S1",
-          "name": "Matter",
-          "description": "Solids, liquids, gases.",
-          "learningObjectives": [
-            "Identify states of matter",
-            "Give examples"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
-          "recommendedQuestionCount": 15,
+          "code": "living-and-non-living-basics",
+          "name": "Housing, Clothing and Occupation Basics",
           "tags": [
-            "matter",
-            "nso",
-            "grade3"
-          ]
-        },
-        {
-          "code": "NSO-G3-T3-S2",
-          "name": "Energy",
-          "description": "Light, heat, sound.",
-          "learningObjectives": [
-            "Identify energy sources",
-            "Describe uses"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
-          "recommendedQuestionCount": 12,
-          "tags": [
-            "energy",
-            "nso",
-            "grade3"
-          ]
-        },
-        {
-          "code": "NSO-G3-T3-S3",
-          "name": "Force",
-          "description": "Push and pull.",
-          "learningObjectives": [
-            "Define push and pull",
-            "Identify force"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
-          "recommendedQuestionCount": 13,
-          "tags": [
-            "force",
+            "living-and-non-living",
             "nso",
             "grade3"
           ]
@@ -165,65 +97,94 @@
       ]
     },
     {
-      "code": "NSO-G3-T4",
-      "name": "Earth, Environment, and Space",
-      "description": "Earth, environment, space.",
+      "code": "NSO-G3-HUMAN_BODY",
+      "name": "Human Body",
+      "slug": "human-body",
+      "description": "Human Body for Grade 3.",
       "weightage": "medium",
-      "recommendedQuestionCount": 35,
+      "recommendedQuestionCount": 25,
       "subtopics": [
         {
-          "code": "NSO-G3-T4-S1",
-          "name": "Earth",
-          "description": "Land, water, air.",
-          "learningObjectives": [
-            "Identify land and water",
-            "Describe Earth"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
-          "recommendedQuestionCount": 12,
+          "code": "human-body-basics",
+          "name": "Human Body Basics",
           "tags": [
-            "earth",
+            "human-body",
             "nso",
             "grade3"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "code": "NSO-G3-EARTH_AND_UNIVERSE",
+      "name": "Earth and Universe",
+      "slug": "earth-and-universe",
+      "description": "Earth and Universe for Grade 3.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 25,
+      "subtopics": [
         {
-          "code": "NSO-G3-T4-S2",
-          "name": "Environment",
-          "description": "Conservation and pollution.",
-          "learningObjectives": [
-            "Understand conservation",
-            "Identify pollution"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
-          "recommendedQuestionCount": 12,
+          "code": "earth-and-universe-basics",
+          "name": "Earth and Universe Basics",
           "tags": [
-            "environment",
+            "earth-and-universe",
             "nso",
             "grade3"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "code": "NSO-G3-MATTER_AND_MATERIALS",
+      "name": "Matter and Materials",
+      "slug": "matter-and-materials",
+      "description": "Matter and Materials for Grade 3.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 25,
+      "subtopics": [
         {
-          "code": "NSO-G3-T4-S3",
-          "name": "Space",
-          "description": "Sun, Moon, stars.",
-          "learningObjectives": [
-            "Identify Sun and Moon",
-            "Describe day and night"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
-          "recommendedQuestionCount": 11,
+          "code": "matter-and-materials-basics",
+          "name": "Matter and Materials Basics",
           "tags": [
-            "space",
+            "matter-and-materials",
+            "nso",
+            "grade3"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "NSO-G3-FORCE_AND_ENERGY",
+      "name": "Light, Sound and Force",
+      "slug": "force-and-energy",
+      "description": "Light, Sound and Force for Grade 3.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 25,
+      "subtopics": [
+        {
+          "code": "force-and-energy-basics",
+          "name": "Light, Sound and Force Basics",
+          "tags": [
+            "force-and-energy",
+            "nso",
+            "grade3"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "NSO-G3-OUR_ENVIRONMENT",
+      "name": "Our Environment",
+      "slug": "our-environment",
+      "description": "Our Environment for Grade 3.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 25,
+      "subtopics": [
+        {
+          "code": "our-environment-basics",
+          "name": "Our Environment Basics",
+          "tags": [
+            "our-environment",
             "nso",
             "grade3"
           ]

@@ -1,15 +1,15 @@
 {
-  "packId": "nso-grade3-earth-environment-and-space-practice-01",
+  "packId": "nso-grade3-living-and-non-living-practice-01",
   "exam": "nso",
   "grade": 3,
   "mode": "practice",
-  "title": "Earth, Environment, and Space Practice Test",
-  "topic": "Earth, Environment, and Space",
+  "title": "Housing, Clothing and Occupation Practice",
+  "topic": "Housing, Clothing and Occupation",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "Earth, Environment, and Space"
+      "Housing, Clothing and Occupation"
     ],
     "difficultyMix": {
       "easy": 15,

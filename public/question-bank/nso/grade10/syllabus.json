@@ -1,197 +1,38 @@
 {
   "exam": "nso",
   "grade": 10,
+  "sections_overview": [
+    {
+      "code": "S1",
+      "name": "Logical Reasoning Section",
+      "description": "Questions related to Verbal and Non-Verbal Reasoning."
+    },
+    {
+      "code": "S2",
+      "name": "Science Section",
+      "description": "Covers relevant topics and sub-topics of current and previous class science syllabus."
+    },
+    {
+      "code": "S3",
+      "name": "Achiever's Section",
+      "description": "Contains Higher Order Thinking Questions of the same topics as in Section 2."
+    }
+  ],
+  "achievers_section": "Higher Order Thinking Questions - Syllabus as per Section 2.",
   "topics": [
     {
-      "code": "NSO-G10-T1",
-      "name": "Physics Basics",
-      "description": "Motion, force, energy.",
-      "weightage": "high",
-      "recommendedQuestionCount": 50,
-      "subtopics": [
-        {
-          "code": "NSO-G10-T1-S1",
-          "name": "Mechanics",
-          "description": "Physics concepts.",
-          "learningObjectives": [
-            "Apply physics principles",
-            "Solve problems"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium",
-            "hard"
-          ],
-          "recommendedQuestionCount": 25,
-          "tags": [
-            "physics",
-            "nso",
-            "grade10"
-          ]
-        },
-        {
-          "code": "NSO-G10-T1-S2",
-          "name": "Waves and Energy",
-          "description": "Energy forms.",
-          "learningObjectives": [
-            "Explain concepts",
-            "Apply to situations"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium",
-            "hard"
-          ],
-          "recommendedQuestionCount": 25,
-          "tags": [
-            "physics",
-            "nso",
-            "grade10"
-          ]
-        }
-      ]
-    },
-    {
-      "code": "NSO-G10-T2",
-      "name": "Chemistry Basics",
-      "description": "Matter and reactions.",
-      "weightage": "high",
-      "recommendedQuestionCount": 50,
-      "subtopics": [
-        {
-          "code": "NSO-G10-T2-S1",
-          "name": "Matter and Changes",
-          "description": "Chemical concepts.",
-          "learningObjectives": [
-            "Describe reactions",
-            "Balance equations"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium",
-            "hard"
-          ],
-          "recommendedQuestionCount": 25,
-          "tags": [
-            "chemistry",
-            "nso",
-            "grade10"
-          ]
-        },
-        {
-          "code": "NSO-G10-T2-S2",
-          "name": "Acids, Bases, and Salts",
-          "description": "Chemical properties.",
-          "learningObjectives": [
-            "Identify types",
-            "Explain properties"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium",
-            "hard"
-          ],
-          "recommendedQuestionCount": 25,
-          "tags": [
-            "chemistry",
-            "nso",
-            "grade10"
-          ]
-        }
-      ]
-    },
-    {
-      "code": "NSO-G10-T3",
-      "name": "Biology Basics",
-      "description": "Life sciences.",
-      "weightage": "high",
-      "recommendedQuestionCount": 55,
-      "subtopics": [
-        {
-          "code": "NSO-G10-T3-S1",
-          "name": "Cells and Organisms",
-          "description": "Life processes.",
-          "learningObjectives": [
-            "Describe cell biology",
-            "Explain life processes"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium",
-            "hard"
-          ],
-          "recommendedQuestionCount": 28,
-          "tags": [
-            "biology",
-            "nso",
-            "grade10"
-          ]
-        },
-        {
-          "code": "NSO-G10-T3-S2",
-          "name": "Human Body and Health",
-          "description": "Body systems.",
-          "learningObjectives": [
-            "Describe systems",
-            "Explain health"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium",
-            "hard"
-          ],
-          "recommendedQuestionCount": 27,
-          "tags": [
-            "biology",
-            "nso",
-            "grade10"
-          ]
-        }
-      ]
-    },
-    {
-      "code": "NSO-G10-T4",
-      "name": "Earth and Environment",
-      "description": "Earth science.",
+      "code": "NSO-G10-LOGICAL_REASONING",
+      "name": "Verbal and Non-Verbal Reasoning",
+      "slug": "logical-reasoning",
+      "description": "Verbal and Non-Verbal Reasoning for Grade 10.",
       "weightage": "medium",
-      "recommendedQuestionCount": 40,
+      "recommendedQuestionCount": 25,
       "subtopics": [
         {
-          "code": "NSO-G10-T4-S1",
-          "name": "Earth Science",
-          "description": "Earth processes.",
-          "learningObjectives": [
-            "Describe Earth systems",
-            "Explain phenomena"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium",
-            "hard"
-          ],
-          "recommendedQuestionCount": 20,
+          "code": "logical-reasoning-basics",
+          "name": "Verbal and Non-Verbal Reasoning Basics",
           "tags": [
-            "earth",
-            "nso",
-            "grade10"
-          ]
-        },
-        {
-          "code": "NSO-G10-T4-S2",
-          "name": "Environment",
-          "description": "Ecology and conservation.",
-          "learningObjectives": [
-            "Explain ecology",
-            "Discuss conservation"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium",
-            "hard"
-          ],
-          "recommendedQuestionCount": 20,
-          "tags": [
-            "environment",
+            "logical-reasoning",
             "nso",
             "grade10"
           ]
@@ -199,48 +40,94 @@
       ]
     },
     {
-      "code": "NSO-G10-T5",
-      "name": "Scientific Reasoning",
-      "description": "Experimental thinking.",
+      "code": "NSO-G10-MATTER_AND_MATERIALS",
+      "name": "Chemical Reactions and Equations",
+      "slug": "matter-and-materials",
+      "description": "Chemical Reactions and Equations for Grade 10.",
       "weightage": "medium",
-      "recommendedQuestionCount": 35,
+      "recommendedQuestionCount": 25,
       "subtopics": [
         {
-          "code": "NSO-G10-T5-S1",
-          "name": "Experimental Design",
-          "description": "Scientific method.",
-          "learningObjectives": [
-            "Design experiments",
-            "Analyze data"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium",
-            "hard"
-          ],
-          "recommendedQuestionCount": 18,
+          "code": "matter-and-materials-basics",
+          "name": "Chemical Reactions and Equations Basics",
           "tags": [
-            "reasoning",
+            "matter-and-materials",
             "nso",
             "grade10"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "code": "NSO-G10-FORCE_AND_ENERGY",
+      "name": "Acids, Bases and Salts",
+      "slug": "force-and-energy",
+      "description": "Acids, Bases and Salts for Grade 10.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 25,
+      "subtopics": [
         {
-          "code": "NSO-G10-T5-S2",
-          "name": "Olympiad Application",
-          "description": "Advanced problem solving.",
-          "learningObjectives": [
-            "Apply concepts",
-            "Solve Olympiad-style problems"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium",
-            "hard"
-          ],
-          "recommendedQuestionCount": 17,
+          "code": "force-and-energy-basics",
+          "name": "Acids, Bases and Salts Basics",
           "tags": [
-            "olympiad",
+            "force-and-energy",
+            "nso",
+            "grade10"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "NSO-G10-HUMAN_BODY",
+      "name": "Life Processes",
+      "slug": "human-body",
+      "description": "Life Processes for Grade 10.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 25,
+      "subtopics": [
+        {
+          "code": "human-body-basics",
+          "name": "Life Processes Basics",
+          "tags": [
+            "human-body",
+            "nso",
+            "grade10"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "NSO-G10-EARTH_AND_UNIVERSE",
+      "name": "Magnetic Effects of Electric Current",
+      "slug": "earth-and-universe",
+      "description": "Magnetic Effects of Electric Current for Grade 10.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 25,
+      "subtopics": [
+        {
+          "code": "earth-and-universe-basics",
+          "name": "Magnetic Effects of Electric Current Basics",
+          "tags": [
+            "earth-and-universe",
+            "nso",
+            "grade10"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "NSO-G10-OUR_ENVIRONMENT",
+      "name": "Our Environment and Its Management",
+      "slug": "our-environment",
+      "description": "Our Environment and Its Management for Grade 10.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 25,
+      "subtopics": [
+        {
+          "code": "our-environment-basics",
+          "name": "Our Environment and Its Management Basics",
+          "tags": [
+            "our-environment",
             "nso",
             "grade10"
           ]

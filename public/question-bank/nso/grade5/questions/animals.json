@@ -1,0 +1,702 @@
+[
+  {
+    "id": "nso-g5-animals-0001",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Animals",
+    "subtopic": "Animals",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which animal gives us milk?",
+    "image": "",
+    "options": [
+      "Lion",
+      "Cow",
+      "Tiger",
+      "Deer"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cows give us milk.",
+    "tags": [
+      "animals",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-animals-0002",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Animals",
+    "subtopic": "Animals",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the home of a bird?",
+    "image": "",
+    "options": [
+      "Den",
+      "Nest",
+      "Hive",
+      "Burrow"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Birds live in nests.",
+    "tags": [
+      "animals",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-animals-0003",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Animals",
+    "subtopic": "Animals",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which animal has a long trunk?",
+    "image": "",
+    "options": [
+      "Lion",
+      "Elephant",
+      "Bear",
+      "Monkey"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Elephants have trunks.",
+    "tags": [
+      "animals",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-animals-0004",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Animals",
+    "subtopic": "Animals",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which animal barks?",
+    "image": "",
+    "options": [
+      "Cat",
+      "Dog",
+      "Cow",
+      "Goat"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dogs bark.",
+    "tags": [
+      "animals",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-animals-0005",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Animals",
+    "subtopic": "Animals",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which animal can fly?",
+    "image": "",
+    "options": [
+      "Fish",
+      "Bird",
+      "Snake",
+      "Rabbit"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Birds can fly.",
+    "tags": [
+      "animals",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-animals-0006",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Animals",
+    "subtopic": "Animals",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which animal has a shell?",
+    "image": "",
+    "options": [
+      "Fish",
+      "Tortoise",
+      "Lion",
+      "Eagle"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tortoise has a shell.",
+    "tags": [
+      "animals",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-animals-0007",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Animals",
+    "subtopic": "Animals",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which animal lives in water?",
+    "image": "",
+    "options": [
+      "Cat",
+      "Dog",
+      "Fish",
+      "Rabbit"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fish live in water.",
+    "tags": [
+      "animals",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-animals-0008",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Animals",
+    "subtopic": "Animals",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which bird cannot fly?",
+    "image": "",
+    "options": [
+      "Sparrow",
+      "Penguin",
+      "Eagle",
+      "Crow"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Penguins cannot fly.",
+    "tags": [
+      "animals",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-animals-0009",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Animals",
+    "subtopic": "Animals",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a group of fish?",
+    "image": "",
+    "options": [
+      "Herd",
+      "School",
+      "Flock",
+      "Pack"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A group of fish is a school.",
+    "tags": [
+      "animals",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-animals-0010",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Animals",
+    "subtopic": "Animals",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which animal has stripes?",
+    "image": "",
+    "options": [
+      "Cow",
+      "Tiger",
+      "Dog",
+      "Cat"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tigers have stripes.",
+    "tags": [
+      "animals",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-animals-0011",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Animals",
+    "subtopic": "Animals",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which animal hibernates in winter?",
+    "image": "",
+    "options": [
+      "Lion",
+      "Bear",
+      "Monkey",
+      "Deer"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bears hibernate.",
+    "tags": [
+      "animals",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-animals-0012",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Animals",
+    "subtopic": "Animals",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which animal has a hump?",
+    "image": "",
+    "options": [
+      "Horse",
+      "Camel",
+      "Elephant",
+      "Lion"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Camels have humps.",
+    "tags": [
+      "animals",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-animals-0013",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Animals",
+    "subtopic": "Animals",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which animal has a long neck?",
+    "image": "",
+    "options": [
+      "Elephant",
+      "Giraffe",
+      "Lion",
+      "Bear"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Giraffes have long necks.",
+    "tags": [
+      "animals",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-animals-0014",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Animals",
+    "subtopic": "Animals",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which animal hops?",
+    "image": "",
+    "options": [
+      "Dog",
+      "Cat",
+      "Rabbit",
+      "Cow"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Rabbits hop.",
+    "tags": [
+      "animals",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-animals-0015",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Animals",
+    "subtopic": "Animals",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which animal has black and white stripes?",
+    "image": "",
+    "options": [
+      "Tiger",
+      "Zebra",
+      "Cow",
+      "Horse"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Zebras have black and white stripes.",
+    "tags": [
+      "animals",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-animals-0016",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Animals",
+    "subtopic": "Animals",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which animal is known as man's best friend?",
+    "image": "",
+    "options": [
+      "Cat",
+      "Dog",
+      "Bird",
+      "Fish"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dogs are called man's best friend.",
+    "tags": [
+      "animals",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-animals-0017",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Animals",
+    "subtopic": "Animals",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which animal has a pouch?",
+    "image": "",
+    "options": [
+      "Bear",
+      "Kangaroo",
+      "Lion",
+      "Monkey"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kangaroos have pouches.",
+    "tags": [
+      "animals",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-animals-0018",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Animals",
+    "subtopic": "Animals",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which animal slithers?",
+    "image": "",
+    "options": [
+      "Fish",
+      "Snake",
+      "Bird",
+      "Rabbit"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Snakes slither.",
+    "tags": [
+      "animals",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-animals-0019",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Animals",
+    "subtopic": "Animals",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which animal has eight legs?",
+    "image": "",
+    "options": [
+      "Ant",
+      "Spider",
+      "Bee",
+      "Butterfly"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Spiders have eight legs.",
+    "tags": [
+      "animals",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-animals-0020",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Animals",
+    "subtopic": "Animals",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which animal is the king of the jungle?",
+    "image": "",
+    "options": [
+      "Elephant",
+      "Lion",
+      "Tiger",
+      "Bear"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The lion is called the king of the jungle.",
+    "tags": [
+      "animals",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-animals-0021",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Animals",
+    "subtopic": "Animals",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which animal has a curly tail?",
+    "image": "",
+    "options": [
+      "Dog",
+      "Pig",
+      "Cat",
+      "Cow"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pigs have curly tails.",
+    "tags": [
+      "animals",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-animals-0022",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Animals",
+    "subtopic": "Animals",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which part of a plant grows underground?",
+    "image": "",
+    "options": [
+      "Leaf",
+      "Flower",
+      "Root",
+      "Stem"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Roots grow under the soil.",
+    "tags": [
+      "animals",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-animals-0023",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Animals",
+    "subtopic": "Animals",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do plants need to make food?",
+    "image": "",
+    "options": [
+      "Water only",
+      "Sunlight only",
+      "Sunlight and water",
+      "Soil only"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Plants need sunlight and water.",
+    "tags": [
+      "animals",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-animals-0024",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Animals",
+    "subtopic": "Animals",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a baby horse?",
+    "image": "",
+    "options": [
+      "Cub",
+      "Puppy",
+      "Foal",
+      "Calf"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A baby horse is a foal.",
+    "tags": [
+      "animals",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "nso-g5-animals-0025",
+    "exam": "nso",
+    "grade": "5",
+    "topic": "Animals",
+    "subtopic": "Animals",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do bees collect from flowers?",
+    "image": "",
+    "options": [
+      "Water",
+      "Nectar",
+      "Leaves",
+      "Seeds"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bees collect nectar.",
+    "tags": [
+      "animals",
+      "nso",
+      "grade5"
+    ],
+    "sourceType": "generated"
+  }
+]

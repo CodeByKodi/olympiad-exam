@@ -1,15 +1,15 @@
 {
-  "packId": "imo-grade8-geometry-practice-01",
+  "packId": "imo-grade8-percentages-and-ratios-practice-01",
   "exam": "imo",
   "grade": 8,
   "mode": "practice",
-  "title": "Understanding Quadrilaterals Practice",
-  "topic": "Understanding Quadrilaterals",
+  "title": "Comparing Quantities Practice",
+  "topic": "Comparing Quantities",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "Understanding Quadrilaterals"
+      "Comparing Quantities"
     ],
     "difficultyMix": {
       "easy": 15,
