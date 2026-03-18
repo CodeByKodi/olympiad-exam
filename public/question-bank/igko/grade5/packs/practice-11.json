@@ -1,0 +1,20 @@
+{
+  "packId": "igko-grade5-current-affairs-practice-01",
+  "exam": "igko",
+  "grade": 5,
+  "mode": "practice",
+  "title": "Current Affairs Practice",
+  "topic": "Current Affairs",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Current Affairs"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

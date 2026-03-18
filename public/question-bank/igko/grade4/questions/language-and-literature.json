@@ -1,0 +1,702 @@
+[
+  {
+    "id": "igko-g4-language-and-literature-0001",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Language and Literature",
+    "subtopic": "Language and Literature Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a story that is not true?",
+    "image": "",
+    "options": [
+      "News",
+      "Fiction",
+      "History",
+      "Report"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fiction means made-up story.",
+    "tags": [
+      "language-and-literature",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-language-and-literature-0002",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Language and Literature",
+    "subtopic": "Language and Literature Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Who writes books?",
+    "image": "",
+    "options": [
+      "Painter",
+      "Author",
+      "Singer",
+      "Dancer"
+    ],
+    "correctAnswer": 1,
+    "explanation": "An author writes books.",
+    "tags": [
+      "language-and-literature",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-language-and-literature-0003",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Language and Literature",
+    "subtopic": "Language and Literature Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a book of poems?",
+    "image": "",
+    "options": [
+      "Novel",
+      "Dictionary",
+      "Encyclopedia",
+      "Poetry book"
+    ],
+    "correctAnswer": 3,
+    "explanation": "A poetry book has poems.",
+    "tags": [
+      "language-and-literature",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-language-and-literature-0004",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Language and Literature",
+    "subtopic": "Language and Literature Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which letter is a vowel?",
+    "image": "",
+    "options": [
+      "B",
+      "C",
+      "A",
+      "D"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A is a vowel.",
+    "tags": [
+      "language-and-literature",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-language-and-literature-0005",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Language and Literature",
+    "subtopic": "Language and Literature Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the person in a story?",
+    "image": "",
+    "options": [
+      "Author",
+      "Character",
+      "Reader",
+      "Publisher"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Characters are people in stories.",
+    "tags": [
+      "language-and-literature",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-language-and-literature-0006",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Language and Literature",
+    "subtopic": "Language and Literature Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which word means the opposite of \"big\"?",
+    "image": "",
+    "options": [
+      "Large",
+      "Small",
+      "Huge",
+      "Giant"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Small is the opposite of big.",
+    "tags": [
+      "language-and-literature",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-language-and-literature-0007",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Language and Literature",
+    "subtopic": "Language and Literature Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a group of words that makes sense?",
+    "image": "",
+    "options": [
+      "Word",
+      "Letter",
+      "Sentence",
+      "Paragraph"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A sentence has complete meaning.",
+    "tags": [
+      "language-and-literature",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-language-and-literature-0008",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Language and Literature",
+    "subtopic": "Language and Literature Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Who wrote the Panchatantra?",
+    "image": "",
+    "options": [
+      "Shakespeare",
+      "Vishnu Sharma",
+      "Rabindranath Tagore",
+      "Premchand"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Vishnu Sharma wrote Panchatantra.",
+    "tags": [
+      "language-and-literature",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-language-and-literature-0009",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Language and Literature",
+    "subtopic": "Language and Literature Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the first letter of the English alphabet?",
+    "image": "",
+    "options": [
+      "Z",
+      "B",
+      "A",
+      "C"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A is the first letter.",
+    "tags": [
+      "language-and-literature",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-language-and-literature-0010",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Language and Literature",
+    "subtopic": "Language and Literature Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which punctuation mark ends a question?",
+    "image": "",
+    "options": [
+      ".",
+      ",",
+      "?",
+      "!"
+    ],
+    "correctAnswer": 2,
+    "explanation": "? is used for questions.",
+    "tags": [
+      "language-and-literature",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-language-and-literature-0011",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Language and Literature",
+    "subtopic": "Language and Literature Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a book that lists words and meanings?",
+    "image": "",
+    "options": [
+      "Novel",
+      "Dictionary",
+      "Magazine",
+      "Comic"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dictionary has word meanings.",
+    "tags": [
+      "language-and-literature",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-language-and-literature-0012",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Language and Literature",
+    "subtopic": "Language and Literature Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which word rhymes with \"cat\"?",
+    "image": "",
+    "options": [
+      "Dog",
+      "Bat",
+      "Bird",
+      "Fish"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bat rhymes with cat.",
+    "tags": [
+      "language-and-literature",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-language-and-literature-0013",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Language and Literature",
+    "subtopic": "Language and Literature Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the person who draws pictures in a book?",
+    "image": "",
+    "options": [
+      "Author",
+      "Illustrator",
+      "Publisher",
+      "Reader"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Illustrator draws pictures.",
+    "tags": [
+      "language-and-literature",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-language-and-literature-0014",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Language and Literature",
+    "subtopic": "Language and Literature Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a naming word?",
+    "image": "",
+    "options": [
+      "Run",
+      "Jump",
+      "Dog",
+      "Fast"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Dog is a noun (naming word).",
+    "tags": [
+      "language-and-literature",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-language-and-literature-0015",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Language and Literature",
+    "subtopic": "Language and Literature Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a story about someone's life?",
+    "image": "",
+    "options": [
+      "Fiction",
+      "Biography",
+      "Poetry",
+      "Essay"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Biography tells someone's life.",
+    "tags": [
+      "language-and-literature",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-language-and-literature-0016",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Language and Literature",
+    "subtopic": "Language and Literature Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which letter is a consonant?",
+    "image": "",
+    "options": [
+      "A",
+      "E",
+      "B",
+      "I"
+    ],
+    "correctAnswer": 2,
+    "explanation": "B is a consonant.",
+    "tags": [
+      "language-and-literature",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-language-and-literature-0017",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Language and Literature",
+    "subtopic": "Language and Literature Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the name of a book?",
+    "image": "",
+    "options": [
+      "Chapter",
+      "Title",
+      "Page",
+      "Index"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Title is the book's name.",
+    "tags": [
+      "language-and-literature",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-language-and-literature-0018",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Language and Literature",
+    "subtopic": "Language and Literature Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which word describes an action?",
+    "image": "",
+    "options": [
+      "Beautiful",
+      "Quickly",
+      "Run",
+      "Big"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Run is a verb (action word).",
+    "tags": [
+      "language-and-literature",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-language-and-literature-0019",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Language and Literature",
+    "subtopic": "Language and Literature Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a short form of a word?",
+    "image": "",
+    "options": [
+      "Abbreviation",
+      "Sentence",
+      "Paragraph",
+      "Story"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Abbreviation is short form.",
+    "tags": [
+      "language-and-literature",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-language-and-literature-0020",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Language and Literature",
+    "subtopic": "Language and Literature Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is the last letter of the alphabet?",
+    "image": "",
+    "options": [
+      "A",
+      "X",
+      "Y",
+      "Z"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Z is the last letter.",
+    "tags": [
+      "language-and-literature",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-language-and-literature-0021",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Language and Literature",
+    "subtopic": "Language and Literature Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call words that sound the same but mean different?",
+    "image": "",
+    "options": [
+      "Synonyms",
+      "Homophones",
+      "Antonyms",
+      "Rhymes"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Homophones sound the same.",
+    "tags": [
+      "language-and-literature",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-language-and-literature-0022",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Language and Literature",
+    "subtopic": "Language and Literature Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which punctuation shows strong feeling?",
+    "image": "",
+    "options": [
+      ".",
+      ",",
+      "?",
+      "!"
+    ],
+    "correctAnswer": 3,
+    "explanation": "! shows excitement.",
+    "tags": [
+      "language-and-literature",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-language-and-literature-0023",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Language and Literature",
+    "subtopic": "Language and Literature Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a story with a moral?",
+    "image": "",
+    "options": [
+      "Novel",
+      "Fable",
+      "Essay",
+      "Report"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fables teach lessons.",
+    "tags": [
+      "language-and-literature",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-language-and-literature-0024",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Language and Literature",
+    "subtopic": "Language and Literature Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which word means the same as \"happy\"?",
+    "image": "",
+    "options": [
+      "Sad",
+      "Joyful",
+      "Angry",
+      "Tired"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Joyful means happy.",
+    "tags": [
+      "language-and-literature",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-language-and-literature-0025",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Language and Literature",
+    "subtopic": "Language and Literature Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the beginning of a story?",
+    "image": "",
+    "options": [
+      "Ending",
+      "Introduction",
+      "Middle",
+      "Conclusion"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Introduction starts the story.",
+    "tags": [
+      "language-and-literature",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  }
+]

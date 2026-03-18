@@ -1,0 +1,702 @@
+[
+  {
+    "id": "igko-g9-language-literature-and-media-0001",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Language, Literature and Media",
+    "subtopic": "Language, Literature and Media Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call news on TV or internet?",
+    "image": "",
+    "options": [
+      "Book",
+      "Media",
+      "Letter",
+      "Diary"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Media includes TV and internet.",
+    "tags": [
+      "language-literature-and-media",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-language-literature-and-media-0002",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Language, Literature and Media",
+    "subtopic": "Language, Literature and Media Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Who writes news articles?",
+    "image": "",
+    "options": [
+      "Actor",
+      "Journalist",
+      "Singer",
+      "Painter"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Journalists write news.",
+    "tags": [
+      "language-literature-and-media",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-language-literature-and-media-0003",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Language, Literature and Media",
+    "subtopic": "Language, Literature and Media Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a story passed down through generations?",
+    "image": "",
+    "options": [
+      "News",
+      "Folktale",
+      "Report",
+      "Advertisement"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Folktales are traditional.",
+    "tags": [
+      "language-literature-and-media",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-language-literature-and-media-0004",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Language, Literature and Media",
+    "subtopic": "Language, Literature and Media Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a form of media?",
+    "image": "",
+    "options": [
+      "Chair",
+      "Newspaper",
+      "Table",
+      "Spoon"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Newspaper is media.",
+    "tags": [
+      "language-literature-and-media",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-language-literature-and-media-0005",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Language, Literature and Media",
+    "subtopic": "Language, Literature and Media Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call false information spread online?",
+    "image": "",
+    "options": [
+      "News",
+      "Fake news",
+      "Fact",
+      "Report"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fake news is false info.",
+    "tags": [
+      "language-literature-and-media",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-language-literature-and-media-0006",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Language, Literature and Media",
+    "subtopic": "Language, Literature and Media Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Who wrote Ramayana?",
+    "image": "",
+    "options": [
+      "Vyasa",
+      "Valmiki",
+      "Tulsidas",
+      "Kalidasa"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Valmiki wrote Ramayana.",
+    "tags": [
+      "language-literature-and-media",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-language-literature-and-media-0007",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Language, Literature and Media",
+    "subtopic": "Language, Literature and Media Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a short form of a word?",
+    "image": "",
+    "options": [
+      "Abbreviation",
+      "Sentence",
+      "Paragraph",
+      "Essay"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Abbreviation is short form.",
+    "tags": [
+      "language-literature-and-media",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-language-literature-and-media-0008",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Language, Literature and Media",
+    "subtopic": "Language, Literature and Media Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which book is an epic from India?",
+    "image": "",
+    "options": [
+      "Harry Potter",
+      "Mahabharata",
+      "Alice in Wonderland",
+      "Robinson Crusoe"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mahabharata is Indian epic.",
+    "tags": [
+      "language-literature-and-media",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-language-literature-and-media-0009",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Language, Literature and Media",
+    "subtopic": "Language, Literature and Media Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to find word meanings?",
+    "image": "",
+    "options": [
+      "Atlas",
+      "Dictionary",
+      "Encyclopedia",
+      "Novel"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dictionary has meanings.",
+    "tags": [
+      "language-literature-and-media",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-language-literature-and-media-0010",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Language, Literature and Media",
+    "subtopic": "Language, Literature and Media Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is responsible use of media?",
+    "image": "",
+    "options": [
+      "Spreading rumours",
+      "Verifying facts",
+      "Ignoring news",
+      "Sharing everything"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Verifying facts is responsible.",
+    "tags": [
+      "language-literature-and-media",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-language-literature-and-media-0011",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Language, Literature and Media",
+    "subtopic": "Language, Literature and Media Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a story based on real events?",
+    "image": "",
+    "options": [
+      "Fiction",
+      "Non-fiction",
+      "Poetry",
+      "Drama"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Non-fiction is based on facts.",
+    "tags": [
+      "language-literature-and-media",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-language-literature-and-media-0012",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Language, Literature and Media",
+    "subtopic": "Language, Literature and Media Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a form of social media?",
+    "image": "",
+    "options": [
+      "Newspaper",
+      "Radio",
+      "Blog",
+      "Book"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Blogs are a form of social media.",
+    "tags": [
+      "language-literature-and-media",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-language-literature-and-media-0013",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Language, Literature and Media",
+    "subtopic": "Language, Literature and Media Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the main idea of a story?",
+    "image": "",
+    "options": [
+      "Character",
+      "Theme",
+      "Setting",
+      "Plot"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Theme is the main idea.",
+    "tags": [
+      "language-literature-and-media",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-language-literature-and-media-0014",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Language, Literature and Media",
+    "subtopic": "Language, Literature and Media Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which helps us find information online?",
+    "image": "",
+    "options": [
+      "Book",
+      "Search engine",
+      "Radio",
+      "TV"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Search engines find information.",
+    "tags": [
+      "language-literature-and-media",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-language-literature-and-media-0015",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Language, Literature and Media",
+    "subtopic": "Language, Literature and Media Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a picture that represents something?",
+    "image": "",
+    "options": [
+      "Word",
+      "Symbol",
+      "Number",
+      "Letter"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Symbols represent ideas.",
+    "tags": [
+      "language-literature-and-media",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-language-literature-and-media-0016",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Language, Literature and Media",
+    "subtopic": "Language, Literature and Media Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a primary source of history?",
+    "image": "",
+    "options": [
+      "Textbook",
+      "Diary",
+      "Encyclopedia",
+      "Novel"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Diaries are primary sources.",
+    "tags": [
+      "language-literature-and-media",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-language-literature-and-media-0017",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Language, Literature and Media",
+    "subtopic": "Language, Literature and Media Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the person who presents news on TV?",
+    "image": "",
+    "options": [
+      "Actor",
+      "Anchor",
+      "Singer",
+      "Painter"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Anchor presents news.",
+    "tags": [
+      "language-literature-and-media",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-language-literature-and-media-0018",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Language, Literature and Media",
+    "subtopic": "Language, Literature and Media Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a way to check if information is true?",
+    "image": "",
+    "options": [
+      "Believe everything",
+      "Cross-check sources",
+      "Ignore",
+      "Share immediately"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cross-checking verifies facts.",
+    "tags": [
+      "language-literature-and-media",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-language-literature-and-media-0019",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Language, Literature and Media",
+    "subtopic": "Language, Literature and Media Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a short written work?",
+    "image": "",
+    "options": [
+      "Novel",
+      "Essay",
+      "Encyclopedia",
+      "Dictionary"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Essay is a short composition.",
+    "tags": [
+      "language-literature-and-media",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-language-literature-and-media-0020",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Language, Literature and Media",
+    "subtopic": "Language, Literature and Media Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which media reaches the most people?",
+    "image": "",
+    "options": [
+      "Letter",
+      "Television",
+      "Notice board",
+      "Pamphlet"
+    ],
+    "correctAnswer": 1,
+    "explanation": "TV reaches many people.",
+    "tags": [
+      "language-literature-and-media",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-language-literature-and-media-0021",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Language, Literature and Media",
+    "subtopic": "Language, Literature and Media Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the time and place of a story?",
+    "image": "",
+    "options": [
+      "Character",
+      "Setting",
+      "Plot",
+      "Theme"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Setting is time and place.",
+    "tags": [
+      "language-literature-and-media",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-language-literature-and-media-0022",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Language, Literature and Media",
+    "subtopic": "Language, Literature and Media Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a bias in media?",
+    "image": "",
+    "options": [
+      "Facts",
+      "One-sided view",
+      "Balance",
+      "Evidence"
+    ],
+    "correctAnswer": 1,
+    "explanation": "One-sided view is bias.",
+    "tags": [
+      "language-literature-and-media",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-language-literature-and-media-0023",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Language, Literature and Media",
+    "subtopic": "Language, Literature and Media Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a story passed orally?",
+    "image": "",
+    "options": [
+      "Novel",
+      "Oral tradition",
+      "Essay",
+      "Report"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Oral tradition is spoken history.",
+    "tags": [
+      "language-literature-and-media",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-language-literature-and-media-0024",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Language, Literature and Media",
+    "subtopic": "Language, Literature and Media Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which helps in digital literacy?",
+    "image": "",
+    "options": [
+      "Ignoring technology",
+      "Understanding and using tech",
+      "Avoiding internet",
+      "No learning"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Understanding tech is digital literacy.",
+    "tags": [
+      "language-literature-and-media",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-language-literature-and-media-0025",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Language, Literature and Media",
+    "subtopic": "Language, Literature and Media Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a story with a lesson at the end?",
+    "image": "",
+    "options": [
+      "News",
+      "Fable",
+      "Report",
+      "Essay"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fables teach lessons.",
+    "tags": [
+      "language-literature-and-media",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  }
+]

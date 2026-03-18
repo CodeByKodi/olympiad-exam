@@ -1,0 +1,20 @@
+{
+  "packId": "igko-grade9-language-literature-and-media-practice-01",
+  "exam": "igko",
+  "grade": 9,
+  "mode": "practice",
+  "title": "Language, Literature and Media Practice",
+  "topic": "Language, Literature and Media",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Language, Literature and Media"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

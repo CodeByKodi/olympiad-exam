@@ -1,0 +1,20 @@
+{
+  "packId": "igko-grade2-life-skills-practice-01",
+  "exam": "igko",
+  "grade": 2,
+  "mode": "practice",
+  "title": "Life Skills Practice",
+  "topic": "Life Skills",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Life Skills"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

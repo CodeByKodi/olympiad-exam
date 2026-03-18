@@ -1,0 +1,20 @@
+{
+  "packId": "igko-grade6-social-studies-practice-01",
+  "exam": "igko",
+  "grade": 6,
+  "mode": "practice",
+  "title": "Social Studies Practice",
+  "topic": "Social Studies",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Social Studies"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

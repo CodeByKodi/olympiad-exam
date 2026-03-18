@@ -1,0 +1,20 @@
+{
+  "packId": "igko-grade8-entertainment-practice-01",
+  "exam": "igko",
+  "grade": 8,
+  "mode": "practice",
+  "title": "Entertainment Practice",
+  "topic": "Entertainment",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Entertainment"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

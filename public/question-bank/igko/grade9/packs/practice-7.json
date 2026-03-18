@@ -1,0 +1,20 @@
+{
+  "packId": "igko-grade9-sports-practice-01",
+  "exam": "igko",
+  "grade": 9,
+  "mode": "practice",
+  "title": "Sports Practice",
+  "topic": "Sports",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Sports"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

@@ -1,9 +1,15 @@
 {
   "files": [
-    "india.json",
-    "world.json",
-    "countries.json",
-    "monuments.json",
-    "environment.json"
+    "our-body-and-health.json",
+    "plants-and-animals.json",
+    "india-and-the-world.json",
+    "science-and-technology.json",
+    "environment-and-its-conservation.json",
+    "language-and-literature.json",
+    "entertainment.json",
+    "sports.json",
+    "maths-fun.json",
+    "life-skills.json",
+    "current-affairs.json"
   ]
 }

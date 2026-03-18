@@ -1,17 +1,41 @@
 {
   "exam": "igko",
   "grade": 10,
+  "sections_overview": [
+    {
+      "code": "S1",
+      "name": "General Awareness",
+      "description": "Topics based on important events around the world"
+    },
+    {
+      "code": "S2",
+      "name": "Current Affairs",
+      "description": "Contains questions from recent events"
+    },
+    {
+      "code": "S3",
+      "name": "Life Skills",
+      "description": "Topics based on abilities for managing and living a better quality of life"
+    },
+    {
+      "code": "S4",
+      "name": "Achievers Section",
+      "description": "Contains Higher Order Thinking Skills questions"
+    }
+  ],
+  "achievers_section": "Higher Order Thinking Questions from the above given syllabus.",
   "topics": [
     {
       "code": "IGKO-G10-T1",
-      "name": "India",
-      "description": "India for Grade 10.",
-      "weightage": "high",
-      "recommendedQuestionCount": 40,
+      "name": "Plants and Animals",
+      "slug": "plants-and-animals",
+      "description": "Plants and Animals for Grade 10.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 20,
       "subtopics": [
         {
           "code": "IGKO-G10-T1-S1",
-          "name": "India Basics",
+          "name": "Plants and Animals Basics",
           "description": "Fundamental concepts.",
           "learningObjectives": [
             "Understand concepts",
@@ -19,20 +43,18 @@
           ],
           "difficultyRange": [
             "easy",
-            "medium",
-            "hard"
+            "medium"
           ],
-          "recommendedQuestionCount": 15,
+          "recommendedQuestionCount": 10,
           "tags": [
-            "india",
-            "igko",
+            "plants-and-animals",
             "igko",
             "grade10"
           ]
         },
         {
           "code": "IGKO-G10-T1-S2",
-          "name": "India Application",
+          "name": "Plants and Animals Application",
           "description": "Applying concepts.",
           "learningObjectives": [
             "Apply concepts",
@@ -40,13 +62,11 @@
           ],
           "difficultyRange": [
             "easy",
-            "medium",
-            "hard"
+            "medium"
           ],
-          "recommendedQuestionCount": 15,
+          "recommendedQuestionCount": 10,
           "tags": [
-            "india",
-            "igko",
+            "plants-and-animals",
             "igko",
             "grade10"
           ]
@@ -55,14 +75,15 @@
     },
     {
       "code": "IGKO-G10-T2",
-      "name": "World",
-      "description": "World for Grade 10.",
-      "weightage": "high",
-      "recommendedQuestionCount": 37,
+      "name": "Our Environment",
+      "slug": "our-environment",
+      "description": "Our Environment for Grade 10.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 20,
       "subtopics": [
         {
           "code": "IGKO-G10-T2-S1",
-          "name": "World Basics",
+          "name": "Our Environment Basics",
           "description": "Fundamental concepts.",
           "learningObjectives": [
             "Understand concepts",
@@ -70,20 +91,18 @@
           ],
           "difficultyRange": [
             "easy",
-            "medium",
-            "hard"
+            "medium"
           ],
-          "recommendedQuestionCount": 15,
+          "recommendedQuestionCount": 10,
           "tags": [
-            "world",
-            "igko",
+            "our-environment",
             "igko",
             "grade10"
           ]
         },
         {
           "code": "IGKO-G10-T2-S2",
-          "name": "World Application",
+          "name": "Our Environment Application",
           "description": "Applying concepts.",
           "learningObjectives": [
             "Apply concepts",
@@ -91,13 +110,11 @@
           ],
           "difficultyRange": [
             "easy",
-            "medium",
-            "hard"
+            "medium"
           ],
-          "recommendedQuestionCount": 15,
+          "recommendedQuestionCount": 10,
           "tags": [
-            "world",
-            "igko",
+            "our-environment",
             "igko",
             "grade10"
           ]
@@ -106,14 +123,15 @@
     },
     {
       "code": "IGKO-G10-T3",
-      "name": "Countries",
-      "description": "Countries for Grade 10.",
+      "name": "Science and Technology",
+      "slug": "science-and-technology",
+      "description": "Science and Technology for Grade 10.",
       "weightage": "medium",
-      "recommendedQuestionCount": 34,
+      "recommendedQuestionCount": 20,
       "subtopics": [
         {
           "code": "IGKO-G10-T3-S1",
-          "name": "Countries Basics",
+          "name": "Science and Technology Basics",
           "description": "Fundamental concepts.",
           "learningObjectives": [
             "Understand concepts",
@@ -121,20 +139,18 @@
           ],
           "difficultyRange": [
             "easy",
-            "medium",
-            "hard"
+            "medium"
           ],
-          "recommendedQuestionCount": 15,
+          "recommendedQuestionCount": 10,
           "tags": [
-            "countries",
-            "igko",
+            "science-and-technology",
             "igko",
             "grade10"
           ]
         },
         {
           "code": "IGKO-G10-T3-S2",
-          "name": "Countries Application",
+          "name": "Science and Technology Application",
           "description": "Applying concepts.",
           "learningObjectives": [
             "Apply concepts",
@@ -142,13 +158,11 @@
           ],
           "difficultyRange": [
             "easy",
-            "medium",
-            "hard"
+            "medium"
           ],
-          "recommendedQuestionCount": 15,
+          "recommendedQuestionCount": 10,
           "tags": [
-            "countries",
-            "igko",
+            "science-and-technology",
             "igko",
             "grade10"
           ]
@@ -157,14 +171,15 @@
     },
     {
       "code": "IGKO-G10-T4",
-      "name": "Monuments",
-      "description": "Monuments for Grade 10.",
+      "name": "India and the World",
+      "slug": "india-and-the-world",
+      "description": "India and the World for Grade 10.",
       "weightage": "medium",
-      "recommendedQuestionCount": 31,
+      "recommendedQuestionCount": 20,
       "subtopics": [
         {
           "code": "IGKO-G10-T4-S1",
-          "name": "Monuments Basics",
+          "name": "India and the World Basics",
           "description": "Fundamental concepts.",
           "learningObjectives": [
             "Understand concepts",
@@ -172,20 +187,18 @@
           ],
           "difficultyRange": [
             "easy",
-            "medium",
-            "hard"
+            "medium"
           ],
-          "recommendedQuestionCount": 15,
+          "recommendedQuestionCount": 10,
           "tags": [
-            "monuments",
-            "igko",
+            "india-and-the-world",
             "igko",
             "grade10"
           ]
         },
         {
           "code": "IGKO-G10-T4-S2",
-          "name": "Monuments Application",
+          "name": "India and the World Application",
           "description": "Applying concepts.",
           "learningObjectives": [
             "Apply concepts",
@@ -193,13 +206,11 @@
           ],
           "difficultyRange": [
             "easy",
-            "medium",
-            "hard"
+            "medium"
           ],
-          "recommendedQuestionCount": 15,
+          "recommendedQuestionCount": 10,
           "tags": [
-            "monuments",
-            "igko",
+            "india-and-the-world",
             "igko",
             "grade10"
           ]
@@ -208,14 +219,15 @@
     },
     {
       "code": "IGKO-G10-T5",
-      "name": "Environment",
-      "description": "Environment for Grade 10.",
-      "weightage": "low",
-      "recommendedQuestionCount": 28,
+      "name": "Social Studies",
+      "slug": "social-studies",
+      "description": "Social Studies for Grade 10.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 20,
       "subtopics": [
         {
           "code": "IGKO-G10-T5-S1",
-          "name": "Environment Basics",
+          "name": "Social Studies Basics",
           "description": "Fundamental concepts.",
           "learningObjectives": [
             "Understand concepts",
@@ -223,20 +235,18 @@
           ],
           "difficultyRange": [
             "easy",
-            "medium",
-            "hard"
+            "medium"
           ],
-          "recommendedQuestionCount": 15,
+          "recommendedQuestionCount": 10,
           "tags": [
-            "environment",
-            "igko",
+            "social-studies",
             "igko",
             "grade10"
           ]
         },
         {
           "code": "IGKO-G10-T5-S2",
-          "name": "Environment Application",
+          "name": "Social Studies Application",
           "description": "Applying concepts.",
           "learningObjectives": [
             "Apply concepts",
@@ -244,13 +254,11 @@
           ],
           "difficultyRange": [
             "easy",
-            "medium",
-            "hard"
+            "medium"
           ],
-          "recommendedQuestionCount": 15,
+          "recommendedQuestionCount": 10,
           "tags": [
-            "environment",
-            "igko",
+            "social-studies",
             "igko",
             "grade10"
           ]
@@ -259,14 +267,15 @@
     },
     {
       "code": "IGKO-G10-T6",
-      "name": "Sports",
-      "description": "Sports for Grade 10.",
-      "weightage": "low",
-      "recommendedQuestionCount": 25,
+      "name": "Language, Literature and Media",
+      "slug": "language-literature-and-media",
+      "description": "Language, Literature and Media for Grade 10.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 20,
       "subtopics": [
         {
           "code": "IGKO-G10-T6-S1",
-          "name": "Sports Basics",
+          "name": "Language, Literature and Media Basics",
           "description": "Fundamental concepts.",
           "learningObjectives": [
             "Understand concepts",
@@ -274,20 +283,18 @@
           ],
           "difficultyRange": [
             "easy",
-            "medium",
-            "hard"
+            "medium"
           ],
-          "recommendedQuestionCount": 15,
+          "recommendedQuestionCount": 10,
           "tags": [
-            "sports",
-            "igko",
+            "language-literature-and-media",
             "igko",
             "grade10"
           ]
         },
         {
           "code": "IGKO-G10-T6-S2",
-          "name": "Sports Application",
+          "name": "Language, Literature and Media Application",
           "description": "Applying concepts.",
           "learningObjectives": [
             "Apply concepts",
@@ -295,13 +302,11 @@
           ],
           "difficultyRange": [
             "easy",
-            "medium",
-            "hard"
+            "medium"
           ],
-          "recommendedQuestionCount": 15,
+          "recommendedQuestionCount": 10,
           "tags": [
-            "sports",
-            "igko",
+            "language-literature-and-media",
             "igko",
             "grade10"
           ]
@@ -310,14 +315,15 @@
     },
     {
       "code": "IGKO-G10-T7",
-      "name": "Personalities",
-      "description": "Personalities for Grade 10.",
-      "weightage": "low",
-      "recommendedQuestionCount": 22,
+      "name": "Sports",
+      "slug": "sports",
+      "description": "Sports for Grade 10.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 20,
       "subtopics": [
         {
           "code": "IGKO-G10-T7-S1",
-          "name": "Personalities Basics",
+          "name": "Sports Basics",
           "description": "Fundamental concepts.",
           "learningObjectives": [
             "Understand concepts",
@@ -325,20 +331,18 @@
           ],
           "difficultyRange": [
             "easy",
-            "medium",
-            "hard"
+            "medium"
           ],
-          "recommendedQuestionCount": 15,
+          "recommendedQuestionCount": 10,
           "tags": [
-            "personalities",
-            "igko",
+            "sports",
             "igko",
             "grade10"
           ]
         },
         {
           "code": "IGKO-G10-T7-S2",
-          "name": "Personalities Application",
+          "name": "Sports Application",
           "description": "Applying concepts.",
           "learningObjectives": [
             "Apply concepts",
@@ -346,13 +350,11 @@
           ],
           "difficultyRange": [
             "easy",
-            "medium",
-            "hard"
+            "medium"
           ],
-          "recommendedQuestionCount": 15,
+          "recommendedQuestionCount": 10,
           "tags": [
-            "personalities",
-            "igko",
+            "sports",
             "igko",
             "grade10"
           ]
@@ -361,14 +363,15 @@
     },
     {
       "code": "IGKO-G10-T8",
-      "name": "Science",
-      "description": "Science for Grade 10.",
-      "weightage": "low",
-      "recommendedQuestionCount": 19,
+      "name": "Quantitative Aptitude and Reasoning",
+      "slug": "quantitative-aptitude-and-reasoning",
+      "description": "Quantitative Aptitude and Reasoning for Grade 10.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 20,
       "subtopics": [
         {
           "code": "IGKO-G10-T8-S1",
-          "name": "Science Basics",
+          "name": "Quantitative Aptitude and Reasoning Basics",
           "description": "Fundamental concepts.",
           "learningObjectives": [
             "Understand concepts",
@@ -376,20 +379,18 @@
           ],
           "difficultyRange": [
             "easy",
-            "medium",
-            "hard"
+            "medium"
           ],
-          "recommendedQuestionCount": 15,
+          "recommendedQuestionCount": 10,
           "tags": [
-            "science",
-            "igko",
+            "quantitative-aptitude-and-reasoning",
             "igko",
             "grade10"
           ]
         },
         {
           "code": "IGKO-G10-T8-S2",
-          "name": "Science Application",
+          "name": "Quantitative Aptitude and Reasoning Application",
           "description": "Applying concepts.",
           "learningObjectives": [
             "Apply concepts",
@@ -397,13 +398,11 @@
           ],
           "difficultyRange": [
             "easy",
-            "medium",
-            "hard"
+            "medium"
           ],
-          "recommendedQuestionCount": 15,
+          "recommendedQuestionCount": 10,
           "tags": [
-            "science",
-            "igko",
+            "quantitative-aptitude-and-reasoning",
             "igko",
             "grade10"
           ]
@@ -412,14 +411,15 @@
     },
     {
       "code": "IGKO-G10-T9",
-      "name": "Important Days",
-      "description": "Important Days for Grade 10.",
-      "weightage": "low",
-      "recommendedQuestionCount": 16,
+      "name": "Current Affairs",
+      "slug": "current-affairs",
+      "description": "Current Affairs for Grade 10.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 20,
       "subtopics": [
         {
           "code": "IGKO-G10-T9-S1",
-          "name": "Important Days Basics",
+          "name": "Current Affairs Basics",
           "description": "Fundamental concepts.",
           "learningObjectives": [
             "Understand concepts",
@@ -427,20 +427,18 @@
           ],
           "difficultyRange": [
             "easy",
-            "medium",
-            "hard"
+            "medium"
           ],
-          "recommendedQuestionCount": 15,
+          "recommendedQuestionCount": 10,
           "tags": [
-            "important days",
-            "igko",
+            "current-affairs",
             "igko",
             "grade10"
           ]
         },
         {
           "code": "IGKO-G10-T9-S2",
-          "name": "Important Days Application",
+          "name": "Current Affairs Application",
           "description": "Applying concepts.",
           "learningObjectives": [
             "Apply concepts",
@@ -448,13 +446,11 @@
           ],
           "difficultyRange": [
             "easy",
-            "medium",
-            "hard"
+            "medium"
           ],
-          "recommendedQuestionCount": 15,
+          "recommendedQuestionCount": 10,
           "tags": [
-            "important days",
-            "igko",
+            "current-affairs",
             "igko",
             "grade10"
           ]
@@ -463,14 +459,15 @@
     },
     {
       "code": "IGKO-G10-T10",
-      "name": "Symbols",
-      "description": "Symbols for Grade 10.",
-      "weightage": "low",
-      "recommendedQuestionCount": 15,
+      "name": "Life Skills",
+      "slug": "life-skills",
+      "description": "Life Skills for Grade 10.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 20,
       "subtopics": [
         {
           "code": "IGKO-G10-T10-S1",
-          "name": "Symbols Basics",
+          "name": "Life Skills Basics",
           "description": "Fundamental concepts.",
           "learningObjectives": [
             "Understand concepts",
@@ -478,20 +475,18 @@
           ],
           "difficultyRange": [
             "easy",
-            "medium",
-            "hard"
+            "medium"
           ],
-          "recommendedQuestionCount": 15,
+          "recommendedQuestionCount": 10,
           "tags": [
-            "symbols",
-            "igko",
+            "life-skills",
             "igko",
             "grade10"
           ]
         },
         {
           "code": "IGKO-G10-T10-S2",
-          "name": "Symbols Application",
+          "name": "Life Skills Application",
           "description": "Applying concepts.",
           "learningObjectives": [
             "Apply concepts",
@@ -499,13 +494,11 @@
           ],
           "difficultyRange": [
             "easy",
-            "medium",
-            "hard"
+            "medium"
           ],
-          "recommendedQuestionCount": 15,
+          "recommendedQuestionCount": 10,
           "tags": [
-            "symbols",
-            "igko",
+            "life-skills",
             "igko",
             "grade10"
           ]

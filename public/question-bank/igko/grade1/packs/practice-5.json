@@ -1,0 +1,20 @@
+{
+  "packId": "igko-grade1-language-and-literature-practice-01",
+  "exam": "igko",
+  "grade": 1,
+  "mode": "practice",
+  "title": "Language and Literature Practice",
+  "topic": "Language and Literature",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Language and Literature"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "packId": "igko-grade5-environment-and-its-conservation-practice-01",
+  "exam": "igko",
+  "grade": 5,
+  "mode": "practice",
+  "title": "Environment and its Conservation Practice",
+  "topic": "Environment and its Conservation",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Environment and its Conservation"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

@@ -1,0 +1,702 @@
+[
+  {
+    "id": "igko-g3-transport-and-communication-0001",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Transport and Communication",
+    "subtopic": "Transport and Communication Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which vehicle runs on rails?",
+    "image": "",
+    "options": [
+      "Bus",
+      "Car",
+      "Train",
+      "Bicycle"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Trains run on railway tracks.",
+    "tags": [
+      "transport-and-communication",
+      "igko",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g3-transport-and-communication-0002",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Transport and Communication",
+    "subtopic": "Transport and Communication Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to send letters?",
+    "image": "",
+    "options": [
+      "Phone",
+      "Post office",
+      "Email",
+      "Radio"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Post office sends letters.",
+    "tags": [
+      "transport-and-communication",
+      "igko",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g3-transport-and-communication-0003",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Transport and Communication",
+    "subtopic": "Transport and Communication Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which vehicle travels on water?",
+    "image": "",
+    "options": [
+      "Aeroplane",
+      "Ship",
+      "Car",
+      "Train"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ships travel on water.",
+    "tags": [
+      "transport-and-communication",
+      "igko",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g3-transport-and-communication-0004",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Transport and Communication",
+    "subtopic": "Transport and Communication Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to talk to someone far away instantly?",
+    "image": "",
+    "options": [
+      "Letter",
+      "Telephone",
+      "Newspaper",
+      "Book"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Telephone allows instant talk.",
+    "tags": [
+      "transport-and-communication",
+      "igko",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g3-transport-and-communication-0005",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Transport and Communication",
+    "subtopic": "Transport and Communication Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is the fastest way to travel?",
+    "image": "",
+    "options": [
+      "Car",
+      "Train",
+      "Aeroplane",
+      "Ship"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Aeroplanes are fastest.",
+    "tags": [
+      "transport-and-communication",
+      "igko",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g3-transport-and-communication-0006",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Transport and Communication",
+    "subtopic": "Transport and Communication Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a road for trains?",
+    "image": "",
+    "options": [
+      "Highway",
+      "Railway",
+      "Path",
+      "Bridge"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Railway is for trains.",
+    "tags": [
+      "transport-and-communication",
+      "igko",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g3-transport-and-communication-0007",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Transport and Communication",
+    "subtopic": "Transport and Communication Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which vehicle has two wheels?",
+    "image": "",
+    "options": [
+      "Car",
+      "Bus",
+      "Bicycle",
+      "Truck"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bicycles have two wheels.",
+    "tags": [
+      "transport-and-communication",
+      "igko",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g3-transport-and-communication-0008",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Transport and Communication",
+    "subtopic": "Transport and Communication Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to send messages on a computer?",
+    "image": "",
+    "options": [
+      "Letter",
+      "Email",
+      "Newspaper",
+      "Radio"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Email sends messages online.",
+    "tags": [
+      "transport-and-communication",
+      "igko",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g3-transport-and-communication-0009",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Transport and Communication",
+    "subtopic": "Transport and Communication Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which transport does not need fuel?",
+    "image": "",
+    "options": [
+      "Car",
+      "Bicycle",
+      "Bus",
+      "Aeroplane"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bicycles use human power.",
+    "tags": [
+      "transport-and-communication",
+      "igko",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g3-transport-and-communication-0010",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Transport and Communication",
+    "subtopic": "Transport and Communication Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a place where buses stop?",
+    "image": "",
+    "options": [
+      "Station",
+      "Bus stop",
+      "Parking",
+      "Garage"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bus stop is where buses stop.",
+    "tags": [
+      "transport-and-communication",
+      "igko",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g3-transport-and-communication-0011",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Transport and Communication",
+    "subtopic": "Transport and Communication Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which vehicle is used for emergencies?",
+    "image": "",
+    "options": [
+      "Bicycle",
+      "Ambulance",
+      "Scooter",
+      "Rickshaw"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ambulance is for emergencies.",
+    "tags": [
+      "transport-and-communication",
+      "igko",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g3-transport-and-communication-0012",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Transport and Communication",
+    "subtopic": "Transport and Communication Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to send a quick message?",
+    "image": "",
+    "options": [
+      "Letter",
+      "SMS",
+      "Newspaper",
+      "Book"
+    ],
+    "correctAnswer": 1,
+    "explanation": "SMS is a quick message.",
+    "tags": [
+      "transport-and-communication",
+      "igko",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g3-transport-and-communication-0013",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Transport and Communication",
+    "subtopic": "Transport and Communication Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which transport uses a propeller?",
+    "image": "",
+    "options": [
+      "Car",
+      "Helicopter",
+      "Bicycle",
+      "Bus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Helicopters use propellers.",
+    "tags": [
+      "transport-and-communication",
+      "igko",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g3-transport-and-communication-0014",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Transport and Communication",
+    "subtopic": "Transport and Communication Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a road that connects cities?",
+    "image": "",
+    "options": [
+      "Street",
+      "Highway",
+      "Path",
+      "Lane"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Highway connects cities.",
+    "tags": [
+      "transport-and-communication",
+      "igko",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g3-transport-and-communication-0015",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Transport and Communication",
+    "subtopic": "Transport and Communication Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which vehicle carries heavy goods?",
+    "image": "",
+    "options": [
+      "Car",
+      "Truck",
+      "Bicycle",
+      "Scooter"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trucks carry heavy loads.",
+    "tags": [
+      "transport-and-communication",
+      "igko",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g3-transport-and-communication-0016",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Transport and Communication",
+    "subtopic": "Transport and Communication Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use for video calls?",
+    "image": "",
+    "options": [
+      "Radio",
+      "Video call app",
+      "Newspaper",
+      "Letter"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Video call apps allow face-to-face talk.",
+    "tags": [
+      "transport-and-communication",
+      "igko",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g3-transport-and-communication-0017",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Transport and Communication",
+    "subtopic": "Transport and Communication Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which transport runs on electricity?",
+    "image": "",
+    "options": [
+      "Diesel bus",
+      "Electric train",
+      "Petrol car",
+      "Steam engine"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Electric trains use electricity.",
+    "tags": [
+      "transport-and-communication",
+      "igko",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g3-transport-and-communication-0018",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Transport and Communication",
+    "subtopic": "Transport and Communication Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a place where trains stop?",
+    "image": "",
+    "options": [
+      "Bus stop",
+      "Railway station",
+      "Airport",
+      "Harbour"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Railway station is for trains.",
+    "tags": [
+      "transport-and-communication",
+      "igko",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g3-transport-and-communication-0019",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Transport and Communication",
+    "subtopic": "Transport and Communication Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is the slowest way to travel?",
+    "image": "",
+    "options": [
+      "Aeroplane",
+      "Walking",
+      "Train",
+      "Car"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Walking is the slowest.",
+    "tags": [
+      "transport-and-communication",
+      "igko",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g3-transport-and-communication-0020",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Transport and Communication",
+    "subtopic": "Transport and Communication Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to send a parcel?",
+    "image": "",
+    "options": [
+      "Email",
+      "Courier or post",
+      "Phone",
+      "Radio"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Courier or post sends parcels.",
+    "tags": [
+      "transport-and-communication",
+      "igko",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g3-transport-and-communication-0021",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Transport and Communication",
+    "subtopic": "Transport and Communication Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which vehicle needs a runway?",
+    "image": "",
+    "options": [
+      "Ship",
+      "Aeroplane",
+      "Car",
+      "Bicycle"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Aeroplanes need runways.",
+    "tags": [
+      "transport-and-communication",
+      "igko",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g3-transport-and-communication-0022",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Transport and Communication",
+    "subtopic": "Transport and Communication Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call communication without words?",
+    "image": "",
+    "options": [
+      "Speaking",
+      "Non-verbal",
+      "Writing",
+      "Reading"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Non-verbal uses gestures.",
+    "tags": [
+      "transport-and-communication",
+      "igko",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g3-transport-and-communication-0023",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Transport and Communication",
+    "subtopic": "Transport and Communication Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which transport goes underground?",
+    "image": "",
+    "options": [
+      "Bus",
+      "Metro",
+      "Ship",
+      "Bicycle"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Metro runs underground.",
+    "tags": [
+      "transport-and-communication",
+      "igko",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g3-transport-and-communication-0024",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Transport and Communication",
+    "subtopic": "Transport and Communication Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to broadcast news?",
+    "image": "",
+    "options": [
+      "Letter",
+      "Radio or TV",
+      "Newspaper only",
+      "Book"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Radio and TV broadcast news.",
+    "tags": [
+      "transport-and-communication",
+      "igko",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g3-transport-and-communication-0025",
+    "exam": "igko",
+    "grade": "3",
+    "topic": "Transport and Communication",
+    "subtopic": "Transport and Communication Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which vehicle needs a driver?",
+    "image": "",
+    "options": [
+      "Bicycle",
+      "Car",
+      "Scooter",
+      "All of these"
+    ],
+    "correctAnswer": 3,
+    "explanation": "All need someone to operate.",
+    "tags": [
+      "transport-and-communication",
+      "igko",
+      "grade3"
+    ],
+    "sourceType": "generated"
+  }
+]

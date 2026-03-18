@@ -1,0 +1,702 @@
+[
+  {
+    "id": "igko-g8-sports-0001",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Sports",
+    "subtopic": "Sports Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many players are in a cricket team?",
+    "image": "",
+    "options": [
+      "Nine",
+      "Ten",
+      "Eleven",
+      "Twelve"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Cricket has 11 players.",
+    "tags": [
+      "sports",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-sports-0002",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Sports",
+    "subtopic": "Sports Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which sport is called the \"king of sports\"?",
+    "image": "",
+    "options": [
+      "Cricket",
+      "Football",
+      "Hockey",
+      "Tennis"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Football is popular worldwide.",
+    "tags": [
+      "sports",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-sports-0003",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Sports",
+    "subtopic": "Sports Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we hit in badminton?",
+    "image": "",
+    "options": [
+      "Ball",
+      "Shuttlecock",
+      "Puck",
+      "Disc"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Shuttlecock is used in badminton.",
+    "tags": [
+      "sports",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-sports-0004",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Sports",
+    "subtopic": "Sports Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which country won the first Cricket World Cup?",
+    "image": "",
+    "options": [
+      "India",
+      "Australia",
+      "West Indies",
+      "England"
+    ],
+    "correctAnswer": 2,
+    "explanation": "West Indies won in 1975.",
+    "tags": [
+      "sports",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-sports-0005",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Sports",
+    "subtopic": "Sports Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many Olympic rings are there?",
+    "image": "",
+    "options": [
+      "Three",
+      "Four",
+      "Five",
+      "Six"
+    ],
+    "correctAnswer": 2,
+    "explanation": "There are five Olympic rings.",
+    "tags": [
+      "sports",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-sports-0006",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Sports",
+    "subtopic": "Sports Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which sport uses a bat and ball?",
+    "image": "",
+    "options": [
+      "Football",
+      "Cricket",
+      "Hockey",
+      "Tennis"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cricket uses bat and ball.",
+    "tags": [
+      "sports",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-sports-0007",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Sports",
+    "subtopic": "Sports Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What colour is the football used in games?",
+    "image": "",
+    "options": [
+      "Blue",
+      "Red",
+      "White",
+      "Orange"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Football is usually white/black.",
+    "tags": [
+      "sports",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-sports-0008",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Sports",
+    "subtopic": "Sports Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which game is played on a chessboard?",
+    "image": "",
+    "options": [
+      "Ludo",
+      "Chess",
+      "Snakes and Ladders",
+      "Carrom"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Chess uses a chessboard.",
+    "tags": [
+      "sports",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-sports-0009",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Sports",
+    "subtopic": "Sports Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "In which sport do we swim?",
+    "image": "",
+    "options": [
+      "Running",
+      "Swimming",
+      "Cycling",
+      "Jumping"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Swimming is done in water.",
+    "tags": [
+      "sports",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-sports-0010",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Sports",
+    "subtopic": "Sports Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we kick in football?",
+    "image": "",
+    "options": [
+      "Bat",
+      "Ball",
+      "Stick",
+      "Racket"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Football uses a ball.",
+    "tags": [
+      "sports",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-sports-0011",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Sports",
+    "subtopic": "Sports Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many players are in a football team?",
+    "image": "",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Football has 11 players.",
+    "tags": [
+      "sports",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-sports-0012",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Sports",
+    "subtopic": "Sports Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which sport uses a net?",
+    "image": "",
+    "options": [
+      "Cricket",
+      "Volleyball",
+      "Hockey",
+      "Football"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Volleyball uses a net.",
+    "tags": [
+      "sports",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-sports-0013",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Sports",
+    "subtopic": "Sports Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we hold in tennis?",
+    "image": "",
+    "options": [
+      "Bat",
+      "Racket",
+      "Stick",
+      "Club"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tennis uses a racket.",
+    "tags": [
+      "sports",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-sports-0014",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Sports",
+    "subtopic": "Sports Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which sport is played on ice?",
+    "image": "",
+    "options": [
+      "Cricket",
+      "Hockey",
+      "Football",
+      "Tennis"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ice hockey is on ice.",
+    "tags": [
+      "sports",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-sports-0015",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Sports",
+    "subtopic": "Sports Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What colour card means \"leave the game\"?",
+    "image": "",
+    "options": [
+      "Yellow",
+      "Red",
+      "Green",
+      "Blue"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Red card means send-off.",
+    "tags": [
+      "sports",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-sports-0016",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Sports",
+    "subtopic": "Sports Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which country invented cricket?",
+    "image": "",
+    "options": [
+      "India",
+      "Australia",
+      "England",
+      "West Indies"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Cricket started in England.",
+    "tags": [
+      "sports",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-sports-0017",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Sports",
+    "subtopic": "Sports Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the person who runs in a race?",
+    "image": "",
+    "options": [
+      "Swimmer",
+      "Runner",
+      "Cyclist",
+      "Jumper"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Runner participates in races.",
+    "tags": [
+      "sports",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-sports-0018",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Sports",
+    "subtopic": "Sports Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which game has \"checkmate\"?",
+    "image": "",
+    "options": [
+      "Ludo",
+      "Chess",
+      "Snakes and Ladders",
+      "Carrom"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Checkmate is in chess.",
+    "tags": [
+      "sports",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-sports-0019",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Sports",
+    "subtopic": "Sports Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we hit in cricket?",
+    "image": "",
+    "options": [
+      "Shuttlecock",
+      "Ball",
+      "Puck",
+      "Disc"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cricket uses a ball.",
+    "tags": [
+      "sports",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-sports-0020",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Sports",
+    "subtopic": "Sports Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which sport has a \"grand slam\"?",
+    "image": "",
+    "options": [
+      "Cricket",
+      "Tennis",
+      "Football",
+      "Hockey"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tennis has Grand Slam.",
+    "tags": [
+      "sports",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-sports-0021",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Sports",
+    "subtopic": "Sports Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we wear on our head while cycling?",
+    "image": "",
+    "options": [
+      "Cap",
+      "Helmet",
+      "Hat",
+      "Bandana"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Helmet protects the head.",
+    "tags": [
+      "sports",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-sports-0022",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Sports",
+    "subtopic": "Sports Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which sport uses a bat?",
+    "image": "",
+    "options": [
+      "Football",
+      "Cricket",
+      "Hockey",
+      "Tennis"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cricket uses a bat.",
+    "tags": [
+      "sports",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-sports-0023",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Sports",
+    "subtopic": "Sports Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the person who teaches sports?",
+    "image": "",
+    "options": [
+      "Doctor",
+      "Coach",
+      "Driver",
+      "Teacher"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Coach trains athletes.",
+    "tags": [
+      "sports",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-sports-0024",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Sports",
+    "subtopic": "Sports Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which Olympic event involves running and jumping?",
+    "image": "",
+    "options": [
+      "Swimming",
+      "Athletics",
+      "Boxing",
+      "Wrestling"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Athletics includes track and field.",
+    "tags": [
+      "sports",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-sports-0025",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Sports",
+    "subtopic": "Sports Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the person who wins a race?",
+    "image": "",
+    "options": [
+      "Loser",
+      "Winner",
+      "Runner",
+      "Spectator"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Winner comes first.",
+    "tags": [
+      "sports",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  }
+]

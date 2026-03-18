@@ -1,0 +1,702 @@
+[
+  {
+    "id": "igko-g10-current-affairs-0001",
+    "exam": "igko",
+    "grade": "10",
+    "topic": "Current Affairs",
+    "subtopic": "Current Affairs Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Who is the Prime Minister of India?",
+    "image": "",
+    "options": [
+      "President",
+      "Narendra Modi",
+      "Chief Minister",
+      "Governor"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Narendra Modi is the PM.",
+    "tags": [
+      "current-affairs",
+      "igko",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g10-current-affairs-0002",
+    "exam": "igko",
+    "grade": "10",
+    "topic": "Current Affairs",
+    "subtopic": "Current Affairs Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which day is celebrated as Republic Day?",
+    "image": "",
+    "options": [
+      "15 August",
+      "26 January",
+      "2 October",
+      "25 December"
+    ],
+    "correctAnswer": 1,
+    "explanation": "26 January is Republic Day.",
+    "tags": [
+      "current-affairs",
+      "igko",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g10-current-affairs-0003",
+    "exam": "igko",
+    "grade": "10",
+    "topic": "Current Affairs",
+    "subtopic": "Current Affairs Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which day is Independence Day?",
+    "image": "",
+    "options": [
+      "26 January",
+      "15 August",
+      "2 October",
+      "14 November"
+    ],
+    "correctAnswer": 1,
+    "explanation": "15 August is Independence Day.",
+    "tags": [
+      "current-affairs",
+      "igko",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g10-current-affairs-0004",
+    "exam": "igko",
+    "grade": "10",
+    "topic": "Current Affairs",
+    "subtopic": "Current Affairs Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Who is known as the Father of the Nation?",
+    "image": "",
+    "options": [
+      "Nehru",
+      "Gandhi",
+      "Tagore",
+      "Patel"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mahatma Gandhi is Father of Nation.",
+    "tags": [
+      "current-affairs",
+      "igko",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g10-current-affairs-0005",
+    "exam": "igko",
+    "grade": "10",
+    "topic": "Current Affairs",
+    "subtopic": "Current Affairs Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which city hosted the 2024 Olympics?",
+    "image": "",
+    "options": [
+      "London",
+      "Tokyo",
+      "Paris",
+      "Beijing"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Paris hosted 2024 Olympics.",
+    "tags": [
+      "current-affairs",
+      "igko",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g10-current-affairs-0006",
+    "exam": "igko",
+    "grade": "10",
+    "topic": "Current Affairs",
+    "subtopic": "Current Affairs Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the currency of India?",
+    "image": "",
+    "options": [
+      "Dollar",
+      "Rupee",
+      "Pound",
+      "Euro"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Indian Rupee is our currency.",
+    "tags": [
+      "current-affairs",
+      "igko",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g10-current-affairs-0007",
+    "exam": "igko",
+    "grade": "10",
+    "topic": "Current Affairs",
+    "subtopic": "Current Affairs Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which planet is known as the Red Planet?",
+    "image": "",
+    "options": [
+      "Earth",
+      "Mars",
+      "Jupiter",
+      "Venus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mars is the Red Planet.",
+    "tags": [
+      "current-affairs",
+      "igko",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g10-current-affairs-0008",
+    "exam": "igko",
+    "grade": "10",
+    "topic": "Current Affairs",
+    "subtopic": "Current Affairs Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many states does India have?",
+    "image": "",
+    "options": [
+      "26",
+      "27",
+      "28",
+      "29"
+    ],
+    "correctAnswer": 2,
+    "explanation": "India has 28 states.",
+    "tags": [
+      "current-affairs",
+      "igko",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g10-current-affairs-0009",
+    "exam": "igko",
+    "grade": "10",
+    "topic": "Current Affairs",
+    "subtopic": "Current Affairs Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is the national sport of India?",
+    "image": "",
+    "options": [
+      "Cricket",
+      "Hockey",
+      "Football",
+      "Tennis"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hockey is the national sport.",
+    "tags": [
+      "current-affairs",
+      "igko",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g10-current-affairs-0010",
+    "exam": "igko",
+    "grade": "10",
+    "topic": "Current Affairs",
+    "subtopic": "Current Affairs Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Who wrote the Indian national anthem?",
+    "image": "",
+    "options": [
+      "Gandhi",
+      "Tagore",
+      "Nehru",
+      "Patel"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Rabindranath Tagore wrote it.",
+    "tags": [
+      "current-affairs",
+      "igko",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g10-current-affairs-0011",
+    "exam": "igko",
+    "grade": "10",
+    "topic": "Current Affairs",
+    "subtopic": "Current Affairs Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which day is celebrated as Gandhi Jayanti?",
+    "image": "",
+    "options": [
+      "15 August",
+      "26 January",
+      "2 October",
+      "25 December"
+    ],
+    "correctAnswer": 2,
+    "explanation": "2 October is Gandhi Jayanti.",
+    "tags": [
+      "current-affairs",
+      "igko",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g10-current-affairs-0012",
+    "exam": "igko",
+    "grade": "10",
+    "topic": "Current Affairs",
+    "subtopic": "Current Affairs Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Who was the first Prime Minister of India?",
+    "image": "",
+    "options": [
+      "Gandhi",
+      "Nehru",
+      "Patel",
+      "Bose"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Jawaharlal Nehru was the first PM.",
+    "tags": [
+      "current-affairs",
+      "igko",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g10-current-affairs-0013",
+    "exam": "igko",
+    "grade": "10",
+    "topic": "Current Affairs",
+    "subtopic": "Current Affairs Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which organisation works for world peace?",
+    "image": "",
+    "options": [
+      "WTO",
+      "UN",
+      "IMF",
+      "WHO"
+    ],
+    "correctAnswer": 1,
+    "explanation": "UN works for peace.",
+    "tags": [
+      "current-affairs",
+      "igko",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g10-current-affairs-0014",
+    "exam": "igko",
+    "grade": "10",
+    "topic": "Current Affairs",
+    "subtopic": "Current Affairs Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the capital of China?",
+    "image": "",
+    "options": [
+      "Shanghai",
+      "Beijing",
+      "Hong Kong",
+      "Tokyo"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Beijing is China's capital.",
+    "tags": [
+      "current-affairs",
+      "igko",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g10-current-affairs-0015",
+    "exam": "igko",
+    "grade": "10",
+    "topic": "Current Affairs",
+    "subtopic": "Current Affairs Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which planet is closest to the Sun?",
+    "image": "",
+    "options": [
+      "Venus",
+      "Earth",
+      "Mercury",
+      "Mars"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Mercury is closest to the Sun.",
+    "tags": [
+      "current-affairs",
+      "igko",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g10-current-affairs-0016",
+    "exam": "igko",
+    "grade": "10",
+    "topic": "Current Affairs",
+    "subtopic": "Current Affairs Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the largest mammal?",
+    "image": "",
+    "options": [
+      "Elephant",
+      "Blue whale",
+      "Giraffe",
+      "Rhino"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Blue whale is the largest mammal.",
+    "tags": [
+      "current-affairs",
+      "igko",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g10-current-affairs-0017",
+    "exam": "igko",
+    "grade": "10",
+    "topic": "Current Affairs",
+    "subtopic": "Current Affairs Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which year did India gain independence?",
+    "image": "",
+    "options": [
+      "1945",
+      "1947",
+      "1950",
+      "1942"
+    ],
+    "correctAnswer": 1,
+    "explanation": "India became independent in 1947.",
+    "tags": [
+      "current-affairs",
+      "igko",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g10-current-affairs-0018",
+    "exam": "igko",
+    "grade": "10",
+    "topic": "Current Affairs",
+    "subtopic": "Current Affairs Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the full form of NASA?",
+    "image": "",
+    "options": [
+      "National Air Space Agency",
+      "National Aeronautics and Space Administration",
+      "North American Space Agency",
+      "New Aeronautics Space Association"
+    ],
+    "correctAnswer": 1,
+    "explanation": "NASA is National Aeronautics and Space Administration.",
+    "tags": [
+      "current-affairs",
+      "igko",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g10-current-affairs-0019",
+    "exam": "igko",
+    "grade": "10",
+    "topic": "Current Affairs",
+    "subtopic": "Current Affairs Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which country has the most people?",
+    "image": "",
+    "options": [
+      "USA",
+      "India",
+      "China",
+      "Russia"
+    ],
+    "correctAnswer": 2,
+    "explanation": "China has the largest population.",
+    "tags": [
+      "current-affairs",
+      "igko",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g10-current-affairs-0020",
+    "exam": "igko",
+    "grade": "10",
+    "topic": "Current Affairs",
+    "subtopic": "Current Affairs Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we celebrate on 14 November?",
+    "image": "",
+    "options": [
+      "Republic Day",
+      "Children's Day",
+      "Independence Day",
+      "Gandhi Jayanti"
+    ],
+    "correctAnswer": 1,
+    "explanation": "14 November is Children's Day.",
+    "tags": [
+      "current-affairs",
+      "igko",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g10-current-affairs-0021",
+    "exam": "igko",
+    "grade": "10",
+    "topic": "Current Affairs",
+    "subtopic": "Current Affairs Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is the longest river in India?",
+    "image": "",
+    "options": [
+      "Yamuna",
+      "Ganga",
+      "Brahmaputra",
+      "Godavari"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ganga is one of the longest.",
+    "tags": [
+      "current-affairs",
+      "igko",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g10-current-affairs-0022",
+    "exam": "igko",
+    "grade": "10",
+    "topic": "Current Affairs",
+    "subtopic": "Current Affairs Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the capital of UK?",
+    "image": "",
+    "options": [
+      "Manchester",
+      "London",
+      "Edinburgh",
+      "Birmingham"
+    ],
+    "correctAnswer": 1,
+    "explanation": "London is the capital.",
+    "tags": [
+      "current-affairs",
+      "igko",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g10-current-affairs-0023",
+    "exam": "igko",
+    "grade": "10",
+    "topic": "Current Affairs",
+    "subtopic": "Current Affairs Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which festival marks the birth of Jesus?",
+    "image": "",
+    "options": [
+      "Diwali",
+      "Eid",
+      "Christmas",
+      "Holi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Christmas celebrates Jesus' birth.",
+    "tags": [
+      "current-affairs",
+      "igko",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g10-current-affairs-0024",
+    "exam": "igko",
+    "grade": "10",
+    "topic": "Current Affairs",
+    "subtopic": "Current Affairs Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the study of stars called?",
+    "image": "",
+    "options": [
+      "Biology",
+      "Astronomy",
+      "Chemistry",
+      "Geography"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Astronomy studies stars.",
+    "tags": [
+      "current-affairs",
+      "igko",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g10-current-affairs-0025",
+    "exam": "igko",
+    "grade": "10",
+    "topic": "Current Affairs",
+    "subtopic": "Current Affairs Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which city is the financial capital of India?",
+    "image": "",
+    "options": [
+      "Delhi",
+      "Mumbai",
+      "Kolkata",
+      "Chennai"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mumbai is the financial capital.",
+    "tags": [
+      "current-affairs",
+      "igko",
+      "grade10"
+    ],
+    "sourceType": "generated"
+  }
+]

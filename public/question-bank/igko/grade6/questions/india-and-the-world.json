@@ -1,0 +1,702 @@
+[
+  {
+    "id": "igko-g6-india-and-the-world-0001",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "India and the World",
+    "subtopic": "India and the World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the capital of India?",
+    "image": "",
+    "options": [
+      "Mumbai",
+      "Kolkata",
+      "New Delhi",
+      "Chennai"
+    ],
+    "correctAnswer": 2,
+    "explanation": "New Delhi is the capital.",
+    "tags": [
+      "india-and-the-world",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-india-and-the-world-0002",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "India and the World",
+    "subtopic": "India and the World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many colours are in the Indian flag?",
+    "image": "",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The flag has saffron, white, and green.",
+    "tags": [
+      "india-and-the-world",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-india-and-the-world-0003",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "India and the World",
+    "subtopic": "India and the World Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which animal is our national animal?",
+    "image": "",
+    "options": [
+      "Lion",
+      "Tiger",
+      "Elephant",
+      "Peacock"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The tiger is our national animal.",
+    "tags": [
+      "india-and-the-world",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-india-and-the-world-0004",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "India and the World",
+    "subtopic": "India and the World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which bird is our national bird?",
+    "image": "",
+    "options": [
+      "Crow",
+      "Sparrow",
+      "Peacock",
+      "Parrot"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The peacock is our national bird.",
+    "tags": [
+      "india-and-the-world",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-india-and-the-world-0005",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "India and the World",
+    "subtopic": "India and the World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which flower is our national flower?",
+    "image": "",
+    "options": [
+      "Rose",
+      "Lotus",
+      "Sunflower",
+      "Jasmine"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The lotus is our national flower.",
+    "tags": [
+      "india-and-the-world",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-india-and-the-world-0006",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "India and the World",
+    "subtopic": "India and the World Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many continents are there in the world?",
+    "image": "",
+    "options": [
+      "Five",
+      "Six",
+      "Seven",
+      "Eight"
+    ],
+    "correctAnswer": 2,
+    "explanation": "There are seven continents.",
+    "tags": [
+      "india-and-the-world",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-india-and-the-world-0007",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "India and the World",
+    "subtopic": "India and the World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is the largest ocean?",
+    "image": "",
+    "options": [
+      "Indian",
+      "Atlantic",
+      "Pacific",
+      "Arctic"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Pacific is the largest.",
+    "tags": [
+      "india-and-the-world",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-india-and-the-world-0008",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "India and the World",
+    "subtopic": "India and the World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which country is to the north of India?",
+    "image": "",
+    "options": [
+      "Sri Lanka",
+      "China",
+      "Bangladesh",
+      "Pakistan"
+    ],
+    "correctAnswer": 1,
+    "explanation": "China is to the north.",
+    "tags": [
+      "india-and-the-world",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-india-and-the-world-0009",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "India and the World",
+    "subtopic": "India and the World Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the capital of India's neighbour Pakistan?",
+    "image": "",
+    "options": [
+      "Lahore",
+      "Karachi",
+      "Islamabad",
+      "Rawalpindi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Islamabad is the capital.",
+    "tags": [
+      "india-and-the-world",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-india-and-the-world-0010",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "India and the World",
+    "subtopic": "India and the World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which river is considered holy in India?",
+    "image": "",
+    "options": [
+      "Yamuna",
+      "Ganga",
+      "Brahmaputra",
+      "Godavari"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Ganga is the holy river.",
+    "tags": [
+      "india-and-the-world",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-india-and-the-world-0011",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "India and the World",
+    "subtopic": "India and the World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the national anthem of India?",
+    "image": "",
+    "options": [
+      "Vande Mataram",
+      "Jana Gana Mana",
+      "Sare Jahan Se",
+      "Saare Jahan Se Achha"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Jana Gana Mana is the national anthem.",
+    "tags": [
+      "india-and-the-world",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-india-and-the-world-0012",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "India and the World",
+    "subtopic": "India and the World Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is the smallest continent?",
+    "image": "",
+    "options": [
+      "Asia",
+      "Australia",
+      "Europe",
+      "Africa"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Australia is the smallest continent.",
+    "tags": [
+      "india-and-the-world",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-india-and-the-world-0013",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "India and the World",
+    "subtopic": "India and the World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the capital of Japan?",
+    "image": "",
+    "options": [
+      "Beijing",
+      "Seoul",
+      "Tokyo",
+      "Bangkok"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Tokyo is the capital of Japan.",
+    "tags": [
+      "india-and-the-world",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-india-and-the-world-0014",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "India and the World",
+    "subtopic": "India and the World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which ocean is to the west of India?",
+    "image": "",
+    "options": [
+      "Pacific",
+      "Atlantic",
+      "Indian",
+      "Arctic"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Arabian Sea is part of Indian Ocean.",
+    "tags": [
+      "india-and-the-world",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-india-and-the-world-0015",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "India and the World",
+    "subtopic": "India and the World Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the currency of Japan?",
+    "image": "",
+    "options": [
+      "Dollar",
+      "Yen",
+      "Pound",
+      "Euro"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Yen is Japan's currency.",
+    "tags": [
+      "india-and-the-world",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-india-and-the-world-0016",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "India and the World",
+    "subtopic": "India and the World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which country has the Great Wall?",
+    "image": "",
+    "options": [
+      "India",
+      "China",
+      "Japan",
+      "Korea"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Great Wall is in China.",
+    "tags": [
+      "india-and-the-world",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-india-and-the-world-0017",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "India and the World",
+    "subtopic": "India and the World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the capital of France?",
+    "image": "",
+    "options": [
+      "London",
+      "Berlin",
+      "Paris",
+      "Rome"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Paris is the capital of France.",
+    "tags": [
+      "india-and-the-world",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-india-and-the-world-0018",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "India and the World",
+    "subtopic": "India and the World Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which country is known as the Land of the Rising Sun?",
+    "image": "",
+    "options": [
+      "China",
+      "Japan",
+      "India",
+      "Korea"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Japan is the Land of the Rising Sun.",
+    "tags": [
+      "india-and-the-world",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-india-and-the-world-0019",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "India and the World",
+    "subtopic": "India and the World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the largest country in the world?",
+    "image": "",
+    "options": [
+      "China",
+      "USA",
+      "Russia",
+      "Canada"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Russia is the largest by area.",
+    "tags": [
+      "india-and-the-world",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-india-and-the-world-0020",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "India and the World",
+    "subtopic": "India and the World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which festival is known as the festival of lights?",
+    "image": "",
+    "options": [
+      "Holi",
+      "Diwali",
+      "Eid",
+      "Christmas"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Diwali is the festival of lights.",
+    "tags": [
+      "india-and-the-world",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-india-and-the-world-0021",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "India and the World",
+    "subtopic": "India and the World Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the capital of the USA?",
+    "image": "",
+    "options": [
+      "New York",
+      "Los Angeles",
+      "Washington D.C.",
+      "Chicago"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Washington D.C. is the capital.",
+    "tags": [
+      "india-and-the-world",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-india-and-the-world-0022",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "India and the World",
+    "subtopic": "India and the World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which mountain is the highest in the world?",
+    "image": "",
+    "options": [
+      "K2",
+      "Mount Everest",
+      "Kilimanjaro",
+      "Alps"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mount Everest is the highest.",
+    "tags": [
+      "india-and-the-world",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-india-and-the-world-0023",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "India and the World",
+    "subtopic": "India and the World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the national tree of India?",
+    "image": "",
+    "options": [
+      "Neem",
+      "Banyan",
+      "Peepal",
+      "Mango"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Banyan is the national tree.",
+    "tags": [
+      "india-and-the-world",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-india-and-the-world-0024",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "India and the World",
+    "subtopic": "India and the World Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which country has the Pyramids?",
+    "image": "",
+    "options": [
+      "India",
+      "Egypt",
+      "Greece",
+      "Italy"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Pyramids are in Egypt.",
+    "tags": [
+      "india-and-the-world",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-india-and-the-world-0025",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "India and the World",
+    "subtopic": "India and the World Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the national fruit of India?",
+    "image": "",
+    "options": [
+      "Apple",
+      "Mango",
+      "Banana",
+      "Orange"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mango is the national fruit.",
+    "tags": [
+      "india-and-the-world",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  }
+]

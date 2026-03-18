@@ -1,0 +1,702 @@
+[
+  {
+    "id": "igko-g9-quantitative-aptitude-and-reasoning-0001",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Quantitative Aptitude and Reasoning",
+    "subtopic": "Quantitative Aptitude and Reasoning Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What comes next: 2, 4, 6, 8, ___?",
+    "image": "",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pattern: add 2 each time.",
+    "tags": [
+      "quantitative-aptitude-and-reasoning",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-quantitative-aptitude-and-reasoning-0002",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Quantitative Aptitude and Reasoning",
+    "subtopic": "Quantitative Aptitude and Reasoning Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "If A=1, B=2, what is C?",
+    "image": "",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": 1,
+    "explanation": "C is the 3rd letter.",
+    "tags": [
+      "quantitative-aptitude-and-reasoning",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-quantitative-aptitude-and-reasoning-0003",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Quantitative Aptitude and Reasoning",
+    "subtopic": "Quantitative Aptitude and Reasoning Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the odd one out: Apple, Banana, Car, Orange?",
+    "image": "",
+    "options": [
+      "Apple",
+      "Banana",
+      "Car",
+      "Orange"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Car is not a fruit.",
+    "tags": [
+      "quantitative-aptitude-and-reasoning",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-quantitative-aptitude-and-reasoning-0004",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Quantitative Aptitude and Reasoning",
+    "subtopic": "Quantitative Aptitude and Reasoning Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many months have 30 days?",
+    "image": "",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswer": 0,
+    "explanation": "April, June, Sept, Nov have 30.",
+    "tags": [
+      "quantitative-aptitude-and-reasoning",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-quantitative-aptitude-and-reasoning-0005",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Quantitative Aptitude and Reasoning",
+    "subtopic": "Quantitative Aptitude and Reasoning Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 15% of 100?",
+    "image": "",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "correctAnswer": 2,
+    "explanation": "15% of 100 = 15",
+    "tags": [
+      "quantitative-aptitude-and-reasoning",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-quantitative-aptitude-and-reasoning-0006",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Quantitative Aptitude and Reasoning",
+    "subtopic": "Quantitative Aptitude and Reasoning Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Complete: 3, 6, 9, 12, ___?",
+    "image": "",
+    "options": [
+      "14",
+      "15",
+      "16",
+      "18"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Add 3 each time.",
+    "tags": [
+      "quantitative-aptitude-and-reasoning",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-quantitative-aptitude-and-reasoning-0007",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Quantitative Aptitude and Reasoning",
+    "subtopic": "Quantitative Aptitude and Reasoning Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is different: Dog, Cat, Table, Cow?",
+    "image": "",
+    "options": [
+      "Dog",
+      "Cat",
+      "Table",
+      "Cow"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Table is not an animal.",
+    "tags": [
+      "quantitative-aptitude-and-reasoning",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-quantitative-aptitude-and-reasoning-0008",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Quantitative Aptitude and Reasoning",
+    "subtopic": "Quantitative Aptitude and Reasoning Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 25% of 200?",
+    "image": "",
+    "options": [
+      "25",
+      "50",
+      "75",
+      "100"
+    ],
+    "correctAnswer": 1,
+    "explanation": "25% of 200 = 50",
+    "tags": [
+      "quantitative-aptitude-and-reasoning",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-quantitative-aptitude-and-reasoning-0009",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Quantitative Aptitude and Reasoning",
+    "subtopic": "Quantitative Aptitude and Reasoning Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many sides does a hexagon have?",
+    "image": "",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hexagon has 6 sides.",
+    "tags": [
+      "quantitative-aptitude-and-reasoning",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-quantitative-aptitude-and-reasoning-0010",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Quantitative Aptitude and Reasoning",
+    "subtopic": "Quantitative Aptitude and Reasoning Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the next letter: A, C, E, G, ___?",
+    "image": "",
+    "options": [
+      "H",
+      "I",
+      "J",
+      "K"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Skip one letter each time.",
+    "tags": [
+      "quantitative-aptitude-and-reasoning",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-quantitative-aptitude-and-reasoning-0011",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Quantitative Aptitude and Reasoning",
+    "subtopic": "Quantitative Aptitude and Reasoning Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What comes next: 1, 3, 5, 7, ___?",
+    "image": "",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Odd numbers: add 2.",
+    "tags": [
+      "quantitative-aptitude-and-reasoning",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-quantitative-aptitude-and-reasoning-0012",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Quantitative Aptitude and Reasoning",
+    "subtopic": "Quantitative Aptitude and Reasoning Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "If Monday is day 1, what is day 5?",
+    "image": "",
+    "options": [
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Day 5 is Friday.",
+    "tags": [
+      "quantitative-aptitude-and-reasoning",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-quantitative-aptitude-and-reasoning-0013",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Quantitative Aptitude and Reasoning",
+    "subtopic": "Quantitative Aptitude and Reasoning Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 20% of 50?",
+    "image": "",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "correctAnswer": 1,
+    "explanation": "20% of 50 = 10",
+    "tags": [
+      "quantitative-aptitude-and-reasoning",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-quantitative-aptitude-and-reasoning-0014",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Quantitative Aptitude and Reasoning",
+    "subtopic": "Quantitative Aptitude and Reasoning Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Complete: 2, 4, 8, 16, ___?",
+    "image": "",
+    "options": [
+      "24",
+      "32",
+      "40",
+      "48"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Double each time.",
+    "tags": [
+      "quantitative-aptitude-and-reasoning",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-quantitative-aptitude-and-reasoning-0015",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Quantitative Aptitude and Reasoning",
+    "subtopic": "Quantitative Aptitude and Reasoning Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is different: Red, Blue, Green, Apple?",
+    "image": "",
+    "options": [
+      "Red",
+      "Blue",
+      "Green",
+      "Apple"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Apple is not a colour.",
+    "tags": [
+      "quantitative-aptitude-and-reasoning",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-quantitative-aptitude-and-reasoning-0016",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Quantitative Aptitude and Reasoning",
+    "subtopic": "Quantitative Aptitude and Reasoning Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 1/2 + 1/4?",
+    "image": "",
+    "options": [
+      "1/6",
+      "2/6",
+      "3/4",
+      "1/8"
+    ],
+    "correctAnswer": 2,
+    "explanation": "1/2 + 1/4 = 3/4",
+    "tags": [
+      "quantitative-aptitude-and-reasoning",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-quantitative-aptitude-and-reasoning-0017",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Quantitative Aptitude and Reasoning",
+    "subtopic": "Quantitative Aptitude and Reasoning Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many prime numbers are between 1 and 10?",
+    "image": "",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswer": 1,
+    "explanation": "2, 3, 5, 7 are prime.",
+    "tags": [
+      "quantitative-aptitude-and-reasoning",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-quantitative-aptitude-and-reasoning-0018",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Quantitative Aptitude and Reasoning",
+    "subtopic": "Quantitative Aptitude and Reasoning Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the next number: 100, 90, 80, 70, ___?",
+    "image": "",
+    "options": [
+      "50",
+      "60",
+      "65",
+      "75"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Subtract 10 each time.",
+    "tags": [
+      "quantitative-aptitude-and-reasoning",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-quantitative-aptitude-and-reasoning-0019",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Quantitative Aptitude and Reasoning",
+    "subtopic": "Quantitative Aptitude and Reasoning Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which shape has 8 sides?",
+    "image": "",
+    "options": [
+      "Hexagon",
+      "Heptagon",
+      "Octagon",
+      "Nonagon"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Octagon has 8 sides.",
+    "tags": [
+      "quantitative-aptitude-and-reasoning",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-quantitative-aptitude-and-reasoning-0020",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Quantitative Aptitude and Reasoning",
+    "subtopic": "Quantitative Aptitude and Reasoning Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 12 × 5?",
+    "image": "",
+    "options": [
+      "50",
+      "60",
+      "70",
+      "80"
+    ],
+    "correctAnswer": 1,
+    "explanation": "12 × 5 = 60",
+    "tags": [
+      "quantitative-aptitude-and-reasoning",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-quantitative-aptitude-and-reasoning-0021",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Quantitative Aptitude and Reasoning",
+    "subtopic": "Quantitative Aptitude and Reasoning Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "If A=1, B=2, what is A+B?",
+    "image": "",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A=1, B=2, so 1+2=3",
+    "tags": [
+      "quantitative-aptitude-and-reasoning",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-quantitative-aptitude-and-reasoning-0022",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Quantitative Aptitude and Reasoning",
+    "subtopic": "Quantitative Aptitude and Reasoning Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the sum of angles in a triangle?",
+    "image": "",
+    "options": [
+      "90°",
+      "180°",
+      "270°",
+      "360°"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Triangle angles sum to 180°.",
+    "tags": [
+      "quantitative-aptitude-and-reasoning",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-quantitative-aptitude-and-reasoning-0023",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Quantitative Aptitude and Reasoning",
+    "subtopic": "Quantitative Aptitude and Reasoning Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Complete: 5, 10, 15, 20, ___?",
+    "image": "",
+    "options": [
+      "22",
+      "25",
+      "28",
+      "30"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Add 5 each time.",
+    "tags": [
+      "quantitative-aptitude-and-reasoning",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-quantitative-aptitude-and-reasoning-0024",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Quantitative Aptitude and Reasoning",
+    "subtopic": "Quantitative Aptitude and Reasoning Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 50% of 80?",
+    "image": "",
+    "options": [
+      "30",
+      "40",
+      "50",
+      "60"
+    ],
+    "correctAnswer": 1,
+    "explanation": "50% of 80 = 40",
+    "tags": [
+      "quantitative-aptitude-and-reasoning",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g9-quantitative-aptitude-and-reasoning-0025",
+    "exam": "igko",
+    "grade": "9",
+    "topic": "Quantitative Aptitude and Reasoning",
+    "subtopic": "Quantitative Aptitude and Reasoning Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Complete: 1, 4, 9, 16, ___?",
+    "image": "",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "36"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Squares: 1², 2², 3², 4², 5²=25",
+    "tags": [
+      "quantitative-aptitude-and-reasoning",
+      "igko",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  }
+]

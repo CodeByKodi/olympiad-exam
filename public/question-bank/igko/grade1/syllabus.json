@@ -1,17 +1,41 @@
 {
   "exam": "igko",
   "grade": 1,
+  "sections_overview": [
+    {
+      "code": "S1",
+      "name": "General Awareness",
+      "description": "Topics based on important events around the world"
+    },
+    {
+      "code": "S2",
+      "name": "Current Affairs",
+      "description": "Contains questions from recent events"
+    },
+    {
+      "code": "S3",
+      "name": "Life Skills",
+      "description": "Topics based on abilities for managing and living a better quality of life"
+    },
+    {
+      "code": "S4",
+      "name": "Achievers Section",
+      "description": "Contains Higher Order Thinking Skills questions"
+    }
+  ],
+  "achievers_section": "Higher Order Thinking Questions from the above given syllabus.",
   "topics": [
     {
       "code": "IGKO-G1-T1",
-      "name": "India",
-      "description": "India for Grade 1.",
-      "weightage": "high",
-      "recommendedQuestionCount": 40,
+      "name": "Me and My Surroundings",
+      "slug": "me-and-my-surroundings",
+      "description": "Me and My Surroundings for Grade 1.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 20,
       "subtopics": [
         {
           "code": "IGKO-G1-T1-S1",
-          "name": "India Basics",
+          "name": "Me and My Surroundings Basics",
           "description": "Fundamental concepts.",
           "learningObjectives": [
             "Understand concepts",
@@ -21,17 +45,16 @@
             "easy",
             "medium"
           ],
-          "recommendedQuestionCount": 15,
+          "recommendedQuestionCount": 10,
           "tags": [
-            "india",
-            "igko",
+            "me-and-my-surroundings",
             "igko",
             "grade1"
           ]
         },
         {
           "code": "IGKO-G1-T1-S2",
-          "name": "India Application",
+          "name": "Me and My Surroundings Application",
           "description": "Applying concepts.",
           "learningObjectives": [
             "Apply concepts",
@@ -41,10 +64,9 @@
             "easy",
             "medium"
           ],
-          "recommendedQuestionCount": 15,
+          "recommendedQuestionCount": 10,
           "tags": [
-            "india",
-            "igko",
+            "me-and-my-surroundings",
             "igko",
             "grade1"
           ]
@@ -53,14 +75,15 @@
     },
     {
       "code": "IGKO-G1-T2",
-      "name": "World",
-      "description": "World for Grade 1.",
-      "weightage": "high",
-      "recommendedQuestionCount": 37,
+      "name": "Plants and Animals",
+      "slug": "plants-and-animals",
+      "description": "Plants and Animals for Grade 1.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 20,
       "subtopics": [
         {
           "code": "IGKO-G1-T2-S1",
-          "name": "World Basics",
+          "name": "Plants and Animals Basics",
           "description": "Fundamental concepts.",
           "learningObjectives": [
             "Understand concepts",
@@ -70,17 +93,16 @@
             "easy",
             "medium"
           ],
-          "recommendedQuestionCount": 15,
+          "recommendedQuestionCount": 10,
           "tags": [
-            "world",
-            "igko",
+            "plants-and-animals",
             "igko",
             "grade1"
           ]
         },
         {
           "code": "IGKO-G1-T2-S2",
-          "name": "World Application",
+          "name": "Plants and Animals Application",
           "description": "Applying concepts.",
           "learningObjectives": [
             "Apply concepts",
@@ -90,10 +112,9 @@
             "easy",
             "medium"
           ],
-          "recommendedQuestionCount": 15,
+          "recommendedQuestionCount": 10,
           "tags": [
-            "world",
-            "igko",
+            "plants-and-animals",
             "igko",
             "grade1"
           ]
@@ -102,14 +123,15 @@
     },
     {
       "code": "IGKO-G1-T3",
-      "name": "Countries",
-      "description": "Countries for Grade 1.",
+      "name": "India and the World",
+      "slug": "india-and-the-world",
+      "description": "India and the World for Grade 1.",
       "weightage": "medium",
-      "recommendedQuestionCount": 34,
+      "recommendedQuestionCount": 20,
       "subtopics": [
         {
           "code": "IGKO-G1-T3-S1",
-          "name": "Countries Basics",
+          "name": "India and the World Basics",
           "description": "Fundamental concepts.",
           "learningObjectives": [
             "Understand concepts",
@@ -119,17 +141,16 @@
             "easy",
             "medium"
           ],
-          "recommendedQuestionCount": 15,
+          "recommendedQuestionCount": 10,
           "tags": [
-            "countries",
-            "igko",
+            "india-and-the-world",
             "igko",
             "grade1"
           ]
         },
         {
           "code": "IGKO-G1-T3-S2",
-          "name": "Countries Application",
+          "name": "India and the World Application",
           "description": "Applying concepts.",
           "learningObjectives": [
             "Apply concepts",
@@ -139,10 +160,9 @@
             "easy",
             "medium"
           ],
-          "recommendedQuestionCount": 15,
+          "recommendedQuestionCount": 10,
           "tags": [
-            "countries",
-            "igko",
+            "india-and-the-world",
             "igko",
             "grade1"
           ]
@@ -151,14 +171,15 @@
     },
     {
       "code": "IGKO-G1-T4",
-      "name": "Monuments",
-      "description": "Monuments for Grade 1.",
+      "name": "Science and Technology",
+      "slug": "science-and-technology",
+      "description": "Science and Technology for Grade 1.",
       "weightage": "medium",
-      "recommendedQuestionCount": 31,
+      "recommendedQuestionCount": 20,
       "subtopics": [
         {
           "code": "IGKO-G1-T4-S1",
-          "name": "Monuments Basics",
+          "name": "Science and Technology Basics",
           "description": "Fundamental concepts.",
           "learningObjectives": [
             "Understand concepts",
@@ -168,17 +189,16 @@
             "easy",
             "medium"
           ],
-          "recommendedQuestionCount": 15,
+          "recommendedQuestionCount": 10,
           "tags": [
-            "monuments",
-            "igko",
+            "science-and-technology",
             "igko",
             "grade1"
           ]
         },
         {
           "code": "IGKO-G1-T4-S2",
-          "name": "Monuments Application",
+          "name": "Science and Technology Application",
           "description": "Applying concepts.",
           "learningObjectives": [
             "Apply concepts",
@@ -188,10 +208,9 @@
             "easy",
             "medium"
           ],
-          "recommendedQuestionCount": 15,
+          "recommendedQuestionCount": 10,
           "tags": [
-            "monuments",
-            "igko",
+            "science-and-technology",
             "igko",
             "grade1"
           ]
@@ -200,14 +219,15 @@
     },
     {
       "code": "IGKO-G1-T5",
-      "name": "Environment",
-      "description": "Environment for Grade 1.",
-      "weightage": "low",
-      "recommendedQuestionCount": 28,
+      "name": "Language and Literature",
+      "slug": "language-and-literature",
+      "description": "Language and Literature for Grade 1.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 20,
       "subtopics": [
         {
           "code": "IGKO-G1-T5-S1",
-          "name": "Environment Basics",
+          "name": "Language and Literature Basics",
           "description": "Fundamental concepts.",
           "learningObjectives": [
             "Understand concepts",
@@ -217,17 +237,16 @@
             "easy",
             "medium"
           ],
-          "recommendedQuestionCount": 15,
+          "recommendedQuestionCount": 10,
           "tags": [
-            "environment",
-            "igko",
+            "language-and-literature",
             "igko",
             "grade1"
           ]
         },
         {
           "code": "IGKO-G1-T5-S2",
-          "name": "Environment Application",
+          "name": "Language and Literature Application",
           "description": "Applying concepts.",
           "learningObjectives": [
             "Apply concepts",
@@ -237,10 +256,9 @@
             "easy",
             "medium"
           ],
-          "recommendedQuestionCount": 15,
+          "recommendedQuestionCount": 10,
           "tags": [
-            "environment",
-            "igko",
+            "language-and-literature",
             "igko",
             "grade1"
           ]
@@ -249,13 +267,62 @@
     },
     {
       "code": "IGKO-G1-T6",
-      "name": "Sports",
-      "description": "Sports for Grade 1.",
-      "weightage": "low",
-      "recommendedQuestionCount": 25,
+      "name": "Earth and Its Environment",
+      "slug": "earth-and-its-environment",
+      "description": "Earth and Its Environment for Grade 1.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 20,
       "subtopics": [
         {
           "code": "IGKO-G1-T6-S1",
+          "name": "Earth and Its Environment Basics",
+          "description": "Fundamental concepts.",
+          "learningObjectives": [
+            "Understand concepts",
+            "Apply knowledge"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 10,
+          "tags": [
+            "earth-and-its-environment",
+            "igko",
+            "grade1"
+          ]
+        },
+        {
+          "code": "IGKO-G1-T6-S2",
+          "name": "Earth and Its Environment Application",
+          "description": "Applying concepts.",
+          "learningObjectives": [
+            "Apply concepts",
+            "Solve problems"
+          ],
+          "difficultyRange": [
+            "easy",
+            "medium"
+          ],
+          "recommendedQuestionCount": 10,
+          "tags": [
+            "earth-and-its-environment",
+            "igko",
+            "grade1"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "IGKO-G1-T7",
+      "name": "Sports",
+      "slug": "sports",
+      "description": "Sports for Grade 1.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 20,
+      "subtopics": [
+        {
+          "code": "IGKO-G1-T7-S1",
           "name": "Sports Basics",
           "description": "Fundamental concepts.",
           "learningObjectives": [
@@ -266,16 +333,15 @@
             "easy",
             "medium"
           ],
-          "recommendedQuestionCount": 15,
+          "recommendedQuestionCount": 10,
           "tags": [
             "sports",
-            "igko",
             "igko",
             "grade1"
           ]
         },
         {
-          "code": "IGKO-G1-T6-S2",
+          "code": "IGKO-G1-T7-S2",
           "name": "Sports Application",
           "description": "Applying concepts.",
           "learningObjectives": [
@@ -286,59 +352,9 @@
             "easy",
             "medium"
           ],
-          "recommendedQuestionCount": 15,
+          "recommendedQuestionCount": 10,
           "tags": [
             "sports",
-            "igko",
-            "igko",
-            "grade1"
-          ]
-        }
-      ]
-    },
-    {
-      "code": "IGKO-G1-T7",
-      "name": "Personalities",
-      "description": "Personalities for Grade 1.",
-      "weightage": "low",
-      "recommendedQuestionCount": 22,
-      "subtopics": [
-        {
-          "code": "IGKO-G1-T7-S1",
-          "name": "Personalities Basics",
-          "description": "Fundamental concepts.",
-          "learningObjectives": [
-            "Understand concepts",
-            "Apply knowledge"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
-          "recommendedQuestionCount": 15,
-          "tags": [
-            "personalities",
-            "igko",
-            "igko",
-            "grade1"
-          ]
-        },
-        {
-          "code": "IGKO-G1-T7-S2",
-          "name": "Personalities Application",
-          "description": "Applying concepts.",
-          "learningObjectives": [
-            "Apply concepts",
-            "Solve problems"
-          ],
-          "difficultyRange": [
-            "easy",
-            "medium"
-          ],
-          "recommendedQuestionCount": 15,
-          "tags": [
-            "personalities",
-            "igko",
             "igko",
             "grade1"
           ]
@@ -347,14 +363,15 @@
     },
     {
       "code": "IGKO-G1-T8",
-      "name": "Science",
-      "description": "Science for Grade 1.",
-      "weightage": "low",
-      "recommendedQuestionCount": 19,
+      "name": "Maths Fun",
+      "slug": "maths-fun",
+      "description": "Maths Fun for Grade 1.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 20,
       "subtopics": [
         {
           "code": "IGKO-G1-T8-S1",
-          "name": "Science Basics",
+          "name": "Maths Fun Basics",
           "description": "Fundamental concepts.",
           "learningObjectives": [
             "Understand concepts",
@@ -364,17 +381,16 @@
             "easy",
             "medium"
           ],
-          "recommendedQuestionCount": 15,
+          "recommendedQuestionCount": 10,
           "tags": [
-            "science",
-            "igko",
+            "maths-fun",
             "igko",
             "grade1"
           ]
         },
         {
           "code": "IGKO-G1-T8-S2",
-          "name": "Science Application",
+          "name": "Maths Fun Application",
           "description": "Applying concepts.",
           "learningObjectives": [
             "Apply concepts",
@@ -384,10 +400,9 @@
             "easy",
             "medium"
           ],
-          "recommendedQuestionCount": 15,
+          "recommendedQuestionCount": 10,
           "tags": [
-            "science",
-            "igko",
+            "maths-fun",
             "igko",
             "grade1"
           ]
@@ -396,14 +411,15 @@
     },
     {
       "code": "IGKO-G1-T9",
-      "name": "Important Days",
-      "description": "Important Days for Grade 1.",
-      "weightage": "low",
-      "recommendedQuestionCount": 16,
+      "name": "Life Skills",
+      "slug": "life-skills",
+      "description": "Life Skills for Grade 1.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 20,
       "subtopics": [
         {
           "code": "IGKO-G1-T9-S1",
-          "name": "Important Days Basics",
+          "name": "Life Skills Basics",
           "description": "Fundamental concepts.",
           "learningObjectives": [
             "Understand concepts",
@@ -413,17 +429,16 @@
             "easy",
             "medium"
           ],
-          "recommendedQuestionCount": 15,
+          "recommendedQuestionCount": 10,
           "tags": [
-            "important days",
-            "igko",
+            "life-skills",
             "igko",
             "grade1"
           ]
         },
         {
           "code": "IGKO-G1-T9-S2",
-          "name": "Important Days Application",
+          "name": "Life Skills Application",
           "description": "Applying concepts.",
           "learningObjectives": [
             "Apply concepts",
@@ -433,10 +448,9 @@
             "easy",
             "medium"
           ],
-          "recommendedQuestionCount": 15,
+          "recommendedQuestionCount": 10,
           "tags": [
-            "important days",
-            "igko",
+            "life-skills",
             "igko",
             "grade1"
           ]
@@ -445,14 +459,15 @@
     },
     {
       "code": "IGKO-G1-T10",
-      "name": "Symbols",
-      "description": "Symbols for Grade 1.",
-      "weightage": "low",
-      "recommendedQuestionCount": 15,
+      "name": "Current Affairs",
+      "slug": "current-affairs",
+      "description": "Current Affairs for Grade 1.",
+      "weightage": "medium",
+      "recommendedQuestionCount": 20,
       "subtopics": [
         {
           "code": "IGKO-G1-T10-S1",
-          "name": "Symbols Basics",
+          "name": "Current Affairs Basics",
           "description": "Fundamental concepts.",
           "learningObjectives": [
             "Understand concepts",
@@ -462,17 +477,16 @@
             "easy",
             "medium"
           ],
-          "recommendedQuestionCount": 15,
+          "recommendedQuestionCount": 10,
           "tags": [
-            "symbols",
-            "igko",
+            "current-affairs",
             "igko",
             "grade1"
           ]
         },
         {
           "code": "IGKO-G1-T10-S2",
-          "name": "Symbols Application",
+          "name": "Current Affairs Application",
           "description": "Applying concepts.",
           "learningObjectives": [
             "Apply concepts",
@@ -482,10 +496,9 @@
             "easy",
             "medium"
           ],
-          "recommendedQuestionCount": 15,
+          "recommendedQuestionCount": 10,
           "tags": [
-            "symbols",
-            "igko",
+            "current-affairs",
             "igko",
             "grade1"
           ]

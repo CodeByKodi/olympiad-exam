@@ -1,15 +1,15 @@
 {
-  "packId": "igko-grade8-monuments-practice-01",
+  "packId": "igko-grade8-earth-and-its-environment-practice-01",
   "exam": "igko",
   "grade": 8,
   "mode": "practice",
-  "title": "Monuments Practice Test",
-  "topic": "Monuments",
+  "title": "Earth and its Environment Practice",
+  "topic": "Earth and its Environment",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "Monuments"
+      "Earth and its Environment"
     ],
     "difficultyMix": {
       "easy": 15,
