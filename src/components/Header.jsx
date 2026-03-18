@@ -23,14 +23,14 @@ export function Header({ onDarkModeToggle, darkMode }) {
 
   return (
     <header className={styles.header}>
-      <Link to="/" className={styles.logo}>
+      <Link to="/home" className={styles.logo}>
         <span className={styles.logoIcon}>🏆</span>
         <span className={styles.logoText}>Olympiad Practice</span>
         {hasLibraryAccess && <AdminBadge role={user?.role} />}
       </Link>
       <nav className={styles.nav}>
         <ExamNavBar inline />
-        <Link to="/" className={styles.navLink}>Home</Link>
+        <Link to="/home" className={styles.navLink}>Home</Link>
         {isLoggedIn && (
           <Link to="/progress" className={styles.navLink}>Progress</Link>
         )}

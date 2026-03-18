@@ -38,8 +38,10 @@ function App() {
         <QuestionLibraryProvider>
           <HashRouter>
           <Routes>
+            <Route path="/login" element={<LoginPage />} />
             <Route path="/" element={<MainLayout />}>
-              <Route index element={<LandingPage />} />
+              <Route index element={<Navigate to="/login" replace />} />
+              <Route path="home" element={<LandingPage />} />
               <Route path="exam/:examId" element={<AuthRoute><GradePage /></AuthRoute>} />
               <Route path="exam/:examId/grade/:gradeId" element={<AuthRoute><TestSelectPage /></AuthRoute>} />
               <Route path="exam/:examId/grade/:gradeId/tests" element={<Navigate to=".." replace />} />
@@ -50,8 +52,7 @@ function App() {
               <Route path="question-library" element={<AdminRoute><Suspense fallback={<LoadingScreen />}><QuestionLibraryPage /></Suspense></AdminRoute>} />
               <Route path="library" element={<AdminRoute><Suspense fallback={<LoadingScreen />}><QuestionLibraryPage /></Suspense></AdminRoute>} />
             </Route>
-            <Route path="/login" element={<LoginPage />} />
-            <Route path="/admin-unlock" element={<Navigate to="/login" replace />} />
+            <Route path="/admin-unlock" element={<Navigate to="/" replace />} />
           </Routes>
           </HashRouter>
         </QuestionLibraryProvider>

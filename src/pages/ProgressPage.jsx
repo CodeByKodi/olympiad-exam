@@ -141,7 +141,7 @@ export function ProgressPage() {
         >
           Export Progress (JSON)
         </button>
-        <Link to="/" className={styles.backLink}>← Back to Home</Link>
+        <Link to="/home" className={styles.backLink}>← Back to Home</Link>
       </div>
     </div>
   );

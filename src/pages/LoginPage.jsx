@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { useNavigate, useLocation } from 'react-router-dom';
+import { useNavigate, useLocation, Link } from 'react-router-dom';
 import { useRole } from '../hooks/useRole';
 import styles from '../styles/LoginPage.module.css';
 
@@ -11,7 +11,7 @@ export function LoginPage() {
   const navigate = useNavigate();
   const location = useLocation();
 
-  const from = location.state?.from?.pathname || '/';
+  const from = location.state?.from?.pathname || '/home';
 
   const handleSubmit = (e) => {
     e.preventDefault();
@@ -20,7 +20,8 @@ export function LoginPage() {
     const result = login(username, password);
 
     if (result.ok) {
-      navigate(from, { replace: true });
+      const target = from === '/' || from === '/login' ? '/home' : from;
+      navigate(target, { replace: true });
     } else {
       setError(result.error || 'Login failed');
     }
@@ -64,13 +65,9 @@ export function LoginPage() {
             Sign In
           </button>
         </form>
-        <button
-          type="button"
-          className={styles.backBtn}
-          onClick={() => navigate(-1)}
-        >
-          ← Back
-        </button>
+        <Link to="/home" className={styles.backBtn}>
+          Continue without logging in
+        </Link>
       </div>
     </div>
   );
