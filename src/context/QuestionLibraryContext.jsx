@@ -1,4 +1,4 @@
-import { createContext, useState, useCallback, useEffect } from 'react';
+import { createContext, useState, useCallback, useEffect, useRef } from 'react';
 import * as libraryService from '../services/questionLibraryService';
 import { buildPracticePool, buildMockIndex, buildPracticeIndex } from '../utils/questionLibraryUtils';
 
@@ -8,6 +8,8 @@ export function QuestionLibraryProvider({ children }) {
   const [packs, setPacks] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
+  const [loadedBanks, setLoadedBanks] = useState(new Set());
+  const loadBankInProgressRef = useRef(false);
 
   const load = useCallback(async () => {
     setLoading(true);
@@ -15,12 +17,13 @@ export function QuestionLibraryProvider({ children }) {
     try {
       const { packs: list, warning } = await libraryService.reloadLibrary();
       setPacks(list || []);
+      setLoadedBanks(new Set());
       if (warning) setError(warning);
     } catch (e) {
       setError(e.message || 'Failed to load library');
       setPacks([]);
     } finally {
-      setLoading(false);
+      if (!loadBankInProgressRef.current) setLoading(false);
     }
   }, []);
 
@@ -30,6 +33,7 @@ export function QuestionLibraryProvider({ children }) {
     try {
       const { packs: list, warning } = await libraryService.reloadLibrary();
       setPacks(list || []);
+      setLoadedBanks(new Set());
       if (warning) setError(warning);
     } catch (e) {
       setError(e.message || 'Failed to reload library');
@@ -37,6 +41,61 @@ export function QuestionLibraryProvider({ children }) {
       setLoading(false);
     }
   }, []);
+
+  const loadBankFor = useCallback(async (examId, gradeId, forceRetry = false) => {
+    const key = `${examId}-${gradeId}`;
+    if (loadedBanks.has(key) && !forceRetry) return;
+    if (forceRetry) setLoadedBanks((prev) => { const s = new Set(prev); s.delete(key); return s; });
+    loadBankInProgressRef.current = true;
+    setLoading(true);
+    try {
+      const newPacks = await libraryService.loadBankForExamGrade(examId, gradeId);
+      if (newPacks.length > 0) {
+        setLoadedBanks((prev) => new Set(prev).add(key));
+        setPacks((prev) => {
+          const filtered = prev.filter(
+            (p) => !(p.isQuestionBank && p.exam === examId && String(p.grade) === String(gradeId))
+          );
+          return libraryService.mergeLibraries(newPacks, filtered);
+        });
+      }
+    } catch (e) {
+      console.warn('Failed to load bank for', examId, gradeId, e);
+    } finally {
+      loadBankInProgressRef.current = false;
+      setLoading(false);
+    }
+  }, [loadedBanks]);
+
+  const hasBankFor = useCallback(
+    (examId, gradeId) =>
+      packs.some(
+        (p) =>
+          p.isQuestionBank &&
+          p.exam === examId &&
+          String(p.grade) === String(gradeId)
+      ),
+    [packs]
+  );
+
+  const preloadBankFor = useCallback(async (examId, gradeId) => {
+    const key = `${examId}-${gradeId}`;
+    if (loadedBanks.has(key)) return;
+    try {
+      const newPacks = await libraryService.loadBankForExamGrade(examId, gradeId);
+      if (newPacks.length > 0) {
+        setLoadedBanks((prev) => new Set(prev).add(key));
+        setPacks((prev) => {
+          const filtered = prev.filter(
+            (p) => !(p.isQuestionBank && p.exam === examId && String(p.grade) === String(gradeId))
+          );
+          return libraryService.mergeLibraries(newPacks, filtered);
+        });
+      }
+    } catch {
+      /* silent preload */
+    }
+  }, [loadedBanks]);
 
   useEffect(() => {
     load();
@@ -117,6 +176,9 @@ export function QuestionLibraryProvider({ children }) {
     error,
     load,
     reload,
+    loadBankFor,
+    preloadBankFor,
+    hasBankFor,
     isAvailable: libraryService.isAvailable(),
     getPracticePool,
     getPracticePacks,

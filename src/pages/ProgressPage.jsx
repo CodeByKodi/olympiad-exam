@@ -121,6 +121,26 @@ export function ProgressPage() {
       </section>
 
       <div className={styles.actions}>
+        <button
+          type="button"
+          className={styles.exportBtn}
+          onClick={() => {
+            const data = {
+              completed: completed,
+              bestScores: bestScores,
+              exportedAt: new Date().toISOString(),
+            };
+            const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `olympiad-progress-${Date.now()}.json`;
+            a.click();
+            URL.revokeObjectURL(url);
+          }}
+        >
+          Export Progress (JSON)
+        </button>
         <Link to="/" className={styles.backLink}>← Back to Home</Link>
       </div>
     </div>

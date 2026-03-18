@@ -24,8 +24,14 @@ export async function loadQuestionBank(examId, gradeId) {
         const url = resolveStaticPath(`${base}/${file}`);
         const res = await fetch(url);
         if (!res.ok) return [];
-        const arr = await res.json();
-        return Array.isArray(arr) ? arr : [];
+        const text = await res.text();
+        if (text.trimStart().startsWith('<')) return [];
+        try {
+          const arr = JSON.parse(text);
+          return Array.isArray(arr) ? arr : [];
+        } catch {
+          return [];
+        }
       })
     );
     for (const arr of results) {
@@ -44,10 +50,17 @@ async function getTopicFiles(examId, gradeId) {
   try {
     const res = await fetch(manifestUrl);
     if (res.ok) {
-      const manifest = await res.json();
+      const text = await res.text();
+      if (text.trimStart().startsWith('<')) {
+        console.warn(`[QuestionBank] Got HTML instead of JSON at ${manifestUrl} (404?)`);
+        return [];
+      }
+      const manifest = JSON.parse(text);
       return manifest.files || [];
     }
-  } catch {}
+  } catch (e) {
+    console.warn(`[QuestionBank] Failed to load manifest for ${examId} grade ${gradeId}:`, e?.message);
+  }
   return [];
 }
 
@@ -78,8 +91,12 @@ export async function loadPackDefinitions(examId, gradeId) {
   const results = await Promise.all(
     known.map(async (id) => {
       try {
-        const res = await fetch(resolveStaticPath(`${base}/${id}.json`));
-        return res.ok ? res.json() : null;
+        const url = resolveStaticPath(`${base}/${id}.json`);
+        const res = await fetch(url);
+        if (!res.ok) return null;
+        const text = await res.text();
+        if (text.trimStart().startsWith('<')) return null;
+        return JSON.parse(text);
       } catch {
         return null;
       }

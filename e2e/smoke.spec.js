@@ -3,8 +3,8 @@ import { test, expect } from '@playwright/test';
 test.describe('Smoke tests', () => {
   test('landing page loads', async ({ page }) => {
     await page.goto('/#/');
-    await expect(page.getByRole('heading', { name: /Olympiad Practice/i })).toBeVisible();
-    await expect(page.getByText(/Practice and prepare/i)).toBeVisible();
+    await expect(page.getByRole('heading', { name: /Learn for Free/i })).toBeVisible();
+    await expect(page.getByText(/Practice Olympiad exams|at your own pace/i)).toBeVisible();
   });
 
   test('navigates to login when accessing exam', async ({ page }) => {

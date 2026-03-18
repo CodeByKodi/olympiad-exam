@@ -1,53 +1,39 @@
 import { Component } from 'react';
 import styles from '../styles/ErrorBoundary.module.css';
 
-/**
- * Catches React render errors and shows a fallback UI with retry.
- * Prevents the whole app from crashing on component errors.
- */
 export class ErrorBoundary extends Component {
-  state = { error: null, showDetails: false };
+  state = { hasError: false, error: null };
 
   static getDerivedStateFromError(error) {
-    return { error };
+    return { hasError: true, error };
   }
 
   componentDidCatch(error, info) {
-    console.error('ErrorBoundary caught:', error, info?.componentStack);
+    console.error('ErrorBoundary caught:', error, info);
   }
 
   handleRetry = () => {
-    this.setState({ error: null, showDetails: false });
-  };
-
-  toggleDetails = () => {
-    this.setState((s) => ({ showDetails: !s.showDetails }));
+    this.setState({ hasError: false, error: null });
   };
 
   render() {
-    if (this.state.error) {
-      const err = this.state.error;
-      const msg = err?.message || String(err);
-      const showDetails = this.state.showDetails;
+    if (this.state.hasError) {
       return (
-        <div className={styles.screen}>
-          <div className={styles.content}>
-            <span className={styles.icon}>⚠️</span>
+        <div className={styles.wrapper}>
+          <div className={styles.card}>
+            <span className={styles.icon} aria-hidden>⚠️</span>
             <h1 className={styles.title}>Something went wrong</h1>
             <p className={styles.message}>
-              The app encountered an error. You can try again or refresh the page.
+              We're sorry. The app encountered an error. You can try again or go back to the home page.
             </p>
-            {msg && (
-              <>
-                <button type="button" className={styles.detailToggle} onClick={this.toggleDetails}>
-                  {showDetails ? 'Hide' : 'Show'} details
-                </button>
-                {showDetails && <pre className={styles.errorDetail}>{msg}</pre>}
-              </>
-            )}
-            <button type="button" className={styles.retryBtn} onClick={this.handleRetry}>
-              Try again
-            </button>
+            <div className={styles.actions}>
+              <button type="button" className={styles.primaryBtn} onClick={this.handleRetry}>
+                Try Again
+              </button>
+              <a href="#/" className={styles.secondaryBtn}>
+                Back to Home
+              </a>
+            </div>
           </div>
         </div>
       );

@@ -3,6 +3,7 @@ import { useParams, useLocation, useNavigate } from 'react-router-dom';
 import { EXAMS, STORAGE_KEYS } from '../constants/exams';
 import { ResultSummary } from '../components/ResultSummary';
 import { ReviewPanel } from '../components/ReviewPanel';
+import { normalizeCorrectAnswer } from '../utils/scoreUtils';
 import styles from '../styles/ResultPage.module.css';
 
 function getLastResultKey(examId, gradeId, testId) {
@@ -74,6 +75,20 @@ export function ResultPage() {
     window.print();
   };
 
+  const wrongQuestions = questions.filter((q) => {
+    const userAns = answers[q.id];
+    if (userAns === undefined || userAns === null || userAns < 0) return true;
+    const correctIdx = normalizeCorrectAnswer(q.correctAnswer, q.options?.length ?? 4);
+    return userAns !== correctIdx;
+  });
+
+  const handlePracticeWrong = () => {
+    if (wrongQuestions.length === 0) return;
+    navigate(`/exam/${examId}/grade/${gradeId}/test/review-wrong?mode=practice`, {
+      state: { customQuestions: wrongQuestions },
+    });
+  };
+
   const handleExportJson = () => {
     const exportData = {
       examId,
@@ -111,9 +126,19 @@ export function ResultPage() {
       <ResultSummary summary={summary} />
 
       <div className={styles.actions}>
+        {wrongQuestions.length > 0 && (
+          <button
+            type="button"
+            className={styles.primaryBtn}
+            onClick={handlePracticeWrong}
+            title="Practice only the questions you got wrong"
+          >
+            Practice Wrong Answers ({wrongQuestions.length})
+          </button>
+        )}
         <button
           type="button"
-          className={styles.primaryBtn}
+          className={wrongQuestions.length > 0 ? styles.secondaryBtn : styles.primaryBtn}
           onClick={() => navigate(`/exam/${examId}/grade/${gradeId}/test/${testId}`, { replace: true })}
         >
           Restart Test

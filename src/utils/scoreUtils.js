@@ -56,14 +56,14 @@ export function normalizeCorrectAnswer(correctAnswer, optionsLength = 4) {
 }
 
 /**
- * Get performance label based on percentage.
+ * Get performance label and message based on percentage.
  * @param {number} percentage - Score percentage
- * @returns {{ label: string, variant: string }}
+ * @returns {{ label: string, variant: string, message: string }}
  */
 export function getPerformanceLabel(percentage) {
-  if (percentage >= 90) return { label: 'Outstanding!', variant: 'outstanding' };
-  if (percentage >= 75) return { label: 'Excellent!', variant: 'excellent' };
-  if (percentage >= 60) return { label: 'Good Job!', variant: 'good' };
-  if (percentage >= 40) return { label: 'Keep Practicing', variant: 'fair' };
-  return { label: 'Needs Practice', variant: 'poor' };
+  if (percentage >= 90) return { label: 'Outstanding!', variant: 'outstanding', message: 'You\'re ready for the Olympiad! Keep up the excellent work.' };
+  if (percentage >= 75) return { label: 'Excellent!', variant: 'excellent', message: 'Great job! A few more practice sessions and you\'ll be even stronger.' };
+  if (percentage >= 60) return { label: 'Good Job!', variant: 'good', message: 'You\'re making progress. Review the wrong answers and try again.' };
+  if (percentage >= 40) return { label: 'Keep Practicing', variant: 'fair', message: 'Don\'t give up! Use "Practice Wrong Answers" to focus on what you missed.' };
+  return { label: 'Needs Practice', variant: 'poor', message: 'Every attempt helps you learn. Try the Practice mode to get instant feedback.' };
 }

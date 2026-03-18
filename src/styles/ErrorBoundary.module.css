@@ -1,15 +1,19 @@
-.screen {
-  min-height: 100vh;
+.wrapper {
+  min-height: 60vh;
   display: flex;
   align-items: center;
   justify-content: center;
   padding: var(--space-8);
-  background: var(--bg-primary);
 }
 
-.content {
+.card {
+  max-width: 420px;
+  padding: var(--space-8);
+  background: var(--surface);
+  border-radius: var(--radius-xl);
+  border: 1px solid var(--border-color);
+  box-shadow: var(--shadow-lg);
   text-align: center;
-  max-width: 400px;
 }
 
 .icon {
@@ -28,50 +32,42 @@
 .message {
   font-size: var(--text-base);
   color: var(--text-secondary);
-  margin: 0 0 var(--space-4);
+  margin: 0 0 var(--space-6);
   line-height: 1.5;
 }
 
-.detailToggle {
-  background: none;
-  border: none;
-  color: var(--primary);
-  font-size: var(--text-sm);
-  cursor: pointer;
-  padding: 0;
-  margin-bottom: var(--space-3);
-  text-decoration: underline;
+.actions {
+  display: flex;
+  gap: var(--space-3);
+  justify-content: center;
+  flex-wrap: wrap;
 }
 
-.detailToggle:hover {
-  color: var(--primary-hover);
-}
-
-.errorDetail {
-  font-size: var(--text-sm);
-  color: var(--text-muted);
-  background: var(--surface);
-  padding: var(--space-3);
-  border-radius: var(--radius-md);
-  text-align: left;
-  overflow-x: auto;
-  margin: 0 0 var(--space-4);
-  max-height: 120px;
-  overflow-y: auto;
-}
-
-.retryBtn {
-  padding: var(--space-3) var(--space-6);
+.primaryBtn {
+  padding: var(--space-3) var(--space-5);
   background: var(--primary);
+  color: white;
   border: none;
   border-radius: var(--radius-md);
-  font-size: var(--text-base);
   font-weight: var(--font-semibold);
-  color: white;
   cursor: pointer;
-  transition: background 0.2s;
 }
 
-.retryBtn:hover {
+.primaryBtn:hover {
   background: var(--primary-hover);
+}
+
+.secondaryBtn {
+  padding: var(--space-3) var(--space-5);
+  background: var(--surface);
+  color: var(--primary);
+  border: 1px solid var(--primary);
+  border-radius: var(--radius-md);
+  font-weight: var(--font-semibold);
+  text-decoration: none;
+  display: inline-block;
+}
+
+.secondaryBtn:hover {
+  background: var(--primary-soft);
 }

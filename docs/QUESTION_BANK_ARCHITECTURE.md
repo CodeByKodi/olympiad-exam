@@ -86,6 +86,7 @@ public/question-bank/
 
 ## Scripts
 
+- `npm run update:question-bank-index` – Regenerate `index.json` from folder structure (run after adding new exam/grade banks)
 - `npm run migrate:question-bank` – Migrate Grade 3 starter packs to question bank
 - `npm run validate:question-bank` – Validate question bank (ids, duplicates, pack refs)
 

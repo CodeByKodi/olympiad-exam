@@ -1,11 +1,11 @@
 {
-  "name": "Olympiad Mock Exam",
+  "name": "Olympiad Practice - Learn for Free",
   "short_name": "Olympiad",
-  "description": "Grade 3 Olympiad practice for NSO, IMO, IEO, ICS, IGKO & ISSO",
-  "start_url": "./index.html",
+  "description": "Practice Olympiad exams for free. NSO, IMO, IEO, ICS, IGKO, ISSO. Grades 1-12.",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#f8fafc",
-  "theme_color": "#f8fafc",
+  "theme_color": "#4f7cff",
   "icons": [
     {
       "src": "./favicon.svg",
