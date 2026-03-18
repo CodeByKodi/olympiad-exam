@@ -85,24 +85,52 @@ describe('normalizeCorrectAnswer', () => {
 
 describe('getPerformanceLabel', () => {
   it('returns Outstanding for 90+', () => {
-    expect(getPerformanceLabel(90)).toEqual({ label: 'Outstanding!', variant: 'outstanding' });
-    expect(getPerformanceLabel(100)).toEqual({ label: 'Outstanding!', variant: 'outstanding' });
+    expect(getPerformanceLabel(90)).toEqual({
+      label: 'Outstanding!',
+      variant: 'outstanding',
+      message: "You're ready for the Olympiad! Keep up the excellent work.",
+    });
+    expect(getPerformanceLabel(100)).toEqual({
+      label: 'Outstanding!',
+      variant: 'outstanding',
+      message: "You're ready for the Olympiad! Keep up the excellent work.",
+    });
   });
 
   it('returns Excellent for 75-89', () => {
-    expect(getPerformanceLabel(75)).toEqual({ label: 'Excellent!', variant: 'excellent' });
-    expect(getPerformanceLabel(89)).toEqual({ label: 'Excellent!', variant: 'excellent' });
+    expect(getPerformanceLabel(75)).toEqual({
+      label: 'Excellent!',
+      variant: 'excellent',
+      message: "Great job! A few more practice sessions and you'll be even stronger.",
+    });
+    expect(getPerformanceLabel(89)).toEqual({
+      label: 'Excellent!',
+      variant: 'excellent',
+      message: "Great job! A few more practice sessions and you'll be even stronger.",
+    });
   });
 
   it('returns Good Job for 60-74', () => {
-    expect(getPerformanceLabel(60)).toEqual({ label: 'Good Job!', variant: 'good' });
+    expect(getPerformanceLabel(60)).toEqual({
+      label: 'Good Job!',
+      variant: 'good',
+      message: "You're making progress. Review the wrong answers and try again.",
+    });
   });
 
   it('returns Keep Practicing for 40-59', () => {
-    expect(getPerformanceLabel(40)).toEqual({ label: 'Keep Practicing', variant: 'fair' });
+    expect(getPerformanceLabel(40)).toEqual({
+      label: 'Keep Practicing',
+      variant: 'fair',
+      message: 'Don\'t give up! Use "Practice Wrong Answers" to focus on what you missed.',
+    });
   });
 
   it('returns Needs Practice for <40', () => {
-    expect(getPerformanceLabel(39)).toEqual({ label: 'Needs Practice', variant: 'poor' });
+    expect(getPerformanceLabel(39)).toEqual({
+      label: 'Needs Practice',
+      variant: 'poor',
+      message: 'Every attempt helps you learn. Try the Practice mode to get instant feedback.',
+    });
   });
 });
