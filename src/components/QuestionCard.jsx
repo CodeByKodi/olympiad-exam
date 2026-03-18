@@ -1,4 +1,5 @@
 import { OptionCard } from './OptionCard';
+import { MathText } from './MathText';
 import { resolveAssetUrl } from '../utils/assetUtils';
 import { normalizeCorrectAnswer } from '../utils/scoreUtils';
 import styles from '../styles/QuestionCard.module.css';
@@ -34,7 +35,9 @@ export function QuestionCard({
         </div>
       </div>
 
-      <div className={styles.questionText}>{question.questionText}</div>
+      <div className={styles.questionText}>
+        <MathText text={question.questionText} as="span" />
+      </div>
 
       {question.image && (
         <div className={styles.imageWrap}>
@@ -51,12 +54,13 @@ export function QuestionCard({
           const isSelected = selectedAnswer === idx;
           const isCorrect = showFeedbackNow && normalizedCorrect === idx;
           const isWrong = showFeedbackNow && isSelected && normalizedCorrect !== idx;
-
+          const textContent = typeof text === 'string' ? <MathText text={text} as="span" /> : text;
           return (
             <OptionCard
               key={idx}
               index={idx}
-              text={text}
+              text={textContent}
+              textLabel={typeof text === 'string' ? text : String(text)}
               isSelected={isSelected}
               isCorrect={isCorrect}
               isWrong={isWrong}

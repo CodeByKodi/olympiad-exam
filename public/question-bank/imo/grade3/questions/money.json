@@ -208,5 +208,320 @@
     "explanation": "₹60 ÷ 3 = ₹20 each.",
     "tags": ["money", "imo", "grade3"],
     "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-money-0011",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Money",
+    "subtopic": "Money",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "How many 50 paise coins make 1 rupee?",
+    "image": "",
+    "options": [
+      "1",
+      "2",
+      "5",
+      "10"
+    ],
+    "correctAnswer": 1,
+    "explanation": "50 + 50 = 100 paise = 1 rupee.",
+    "tags": ["money", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-money-0012",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Money",
+    "subtopic": "Money",
+    "difficulty": "medium",
+    "modes": ["practice", "mock"],
+    "questionText": "A notebook costs ₹25 and a pen costs ₹15. How much do both cost together?",
+    "image": "",
+    "options": [
+      "₹10",
+      "₹35",
+      "₹40",
+      "₹45"
+    ],
+    "correctAnswer": 2,
+    "explanation": "₹25 + ₹15 = ₹40.",
+    "tags": ["money", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-money-0013",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Money",
+    "subtopic": "Money",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "If you have 1 note of ₹10 and 2 coins of ₹5, how much do you have?",
+    "image": "",
+    "options": [
+      "₹15",
+      "₹17",
+      "₹20",
+      "₹25"
+    ],
+    "correctAnswer": 2,
+    "explanation": "₹10 + (2 × ₹5) = ₹10 + ₹10 = ₹20.",
+    "tags": ["money", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-money-0014",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Money",
+    "subtopic": "Money",
+    "difficulty": "medium",
+    "modes": ["practice", "mock"],
+    "questionText": "A toy costs ₹80. You pay with ₹100. How much change do you get back?",
+    "image": "",
+    "options": [
+      "₹20",
+      "₹80",
+      "₹180",
+      "₹10"
+    ],
+    "correctAnswer": 0,
+    "explanation": "₹100 - ₹80 = ₹20 change.",
+    "tags": ["money", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-money-0015",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Money",
+    "subtopic": "Money",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "25 paise + 25 paise + 25 paise + 25 paise = ?",
+    "image": "",
+    "options": [
+      "50 paise",
+      "1 rupee",
+      "75 paise",
+      "2 rupees"
+    ],
+    "correctAnswer": 1,
+    "explanation": "4 × 25 = 100 paise = 1 rupee.",
+    "tags": ["money", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-money-0016",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Money",
+    "subtopic": "Money",
+    "difficulty": "medium",
+    "modes": ["practice", "mock"],
+    "questionText": "Four ice creams cost ₹48. How much does one ice cream cost?",
+    "image": "",
+    "options": [
+      "₹10",
+      "₹12",
+      "₹14",
+      "₹16"
+    ],
+    "correctAnswer": 1,
+    "explanation": "₹48 ÷ 4 = ₹12.",
+    "tags": ["money", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-money-0017",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Money",
+    "subtopic": "Money",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "Which is more: ₹50 or 500 paise?",
+    "image": "",
+    "options": [
+      "₹50",
+      "500 paise",
+      "Both equal",
+      "Cannot tell"
+    ],
+    "correctAnswer": 0,
+    "explanation": "500 paise = ₹5. ₹50 is more than ₹5.",
+    "tags": ["money", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-money-0018",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Money",
+    "subtopic": "Money",
+    "difficulty": "medium",
+    "modes": ["practice", "mock"],
+    "questionText": "Maya has ₹100. She buys a book for ₹65. How much money does she have left?",
+    "image": "",
+    "options": [
+      "₹35",
+      "₹45",
+      "₹55",
+      "₹165"
+    ],
+    "correctAnswer": 0,
+    "explanation": "₹100 - ₹65 = ₹35.",
+    "tags": ["money", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-money-0019",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Money",
+    "subtopic": "Money",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "How many 50 paise coins make ₹5?",
+    "image": "",
+    "options": [
+      "5",
+      "10",
+      "50",
+      "100"
+    ],
+    "correctAnswer": 1,
+    "explanation": "₹5 = 500 paise. 500 ÷ 50 = 10 coins.",
+    "tags": ["money", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-money-0020",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Money",
+    "subtopic": "Money",
+    "difficulty": "medium",
+    "modes": ["practice", "mock"],
+    "questionText": "A shirt costs ₹120 and a cap costs ₹40. How much more does the shirt cost?",
+    "image": "",
+    "options": [
+      "₹80",
+      "₹160",
+      "₹40",
+      "₹90"
+    ],
+    "correctAnswer": 0,
+    "explanation": "₹120 - ₹40 = ₹80 more.",
+    "tags": ["money", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-money-0021",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Money",
+    "subtopic": "Money",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "3 pencils cost ₹18. How much does 1 pencil cost?",
+    "image": "",
+    "options": [
+      "₹5",
+      "₹6",
+      "₹9",
+      "₹15"
+    ],
+    "correctAnswer": 1,
+    "explanation": "₹18 ÷ 3 = ₹6.",
+    "tags": ["money", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-money-0022",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Money",
+    "subtopic": "Money",
+    "difficulty": "medium",
+    "modes": ["practice", "mock"],
+    "questionText": "Amit has ₹75. He needs ₹95 to buy a game. How much more does he need?",
+    "image": "",
+    "options": [
+      "₹20",
+      "₹25",
+      "₹30",
+      "₹170"
+    ],
+    "correctAnswer": 0,
+    "explanation": "₹95 - ₹75 = ₹20 more needed.",
+    "tags": ["money", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-money-0023",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Money",
+    "subtopic": "Money",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "₹20 + ₹30 + ₹50 = ?",
+    "image": "",
+    "options": [
+      "₹90",
+      "₹100",
+      "₹1000",
+      "₹50"
+    ],
+    "correctAnswer": 1,
+    "explanation": "₹20 + ₹30 + ₹50 = ₹100.",
+    "tags": ["money", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-money-0024",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Money",
+    "subtopic": "Money",
+    "difficulty": "medium",
+    "modes": ["practice", "mock"],
+    "questionText": "Five friends share ₹100 equally. How much does each get?",
+    "image": "",
+    "options": [
+      "₹15",
+      "₹20",
+      "₹25",
+      "₹50"
+    ],
+    "correctAnswer": 1,
+    "explanation": "₹100 ÷ 5 = ₹20 each.",
+    "tags": ["money", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-money-0025",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Money",
+    "subtopic": "Money",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "A chocolate costs ₹15. How much do 2 chocolates cost?",
+    "image": "",
+    "options": [
+      "₹17",
+      "₹25",
+      "₹30",
+      "₹45"
+    ],
+    "correctAnswer": 2,
+    "explanation": "2 × ₹15 = ₹30.",
+    "tags": ["money", "imo", "grade3"],
+    "sourceType": "generated"
   }
 ]

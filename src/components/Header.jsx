@@ -29,6 +29,9 @@ export function Header({ onDarkModeToggle, darkMode }) {
       </Link>
       <nav className={styles.nav}>
         <Link to="/" className={styles.navLink}>Home</Link>
+        {isLoggedIn && (
+          <Link to="/progress" className={styles.navLink}>Progress</Link>
+        )}
         {hasLibraryAccess && (
           <>
             <Link to="/manage-questions" className={styles.navLink}>Questions</Link>

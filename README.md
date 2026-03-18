@@ -287,6 +287,7 @@ If any step fails, deployment stops. Fix errors and push again.
 | `npm run test:run` | Run unit tests (single run) |
 | `npm run lint` | Run ESLint |
 | `npm run validate:data` | Validate question-bank and syllabus data |
+| `npm run e2e` | Run Playwright E2E tests |
 
 ---
 
@@ -302,11 +303,15 @@ The app works as a PWA (Progressive Web App):
 
 | Document | Description |
 |----------|-------------|
+| [CHANGELOG.md](CHANGELOG.md) | Version history and notable changes |
+| [CONTRIBUTING.md](CONTRIBUTING.md) | How to contribute |
 | [docs/RUNBOOK.md](docs/RUNBOOK.md) | Operations, troubleshooting, quick reference |
 | [docs/DEVELOPER_GUIDE.md](docs/DEVELOPER_GUIDE.md) | Architecture, data flow, development practices |
 | [docs/ADDING_QUESTIONS.md](docs/ADDING_QUESTIONS.md) | How to add questions automatically or manually |
 | [docs/DEPLOY_GITHUB_PAGES.md](docs/DEPLOY_GITHUB_PAGES.md) | Deploy to GitHub Pages step-by-step |
 | [docs/QUESTION_BANK_ARCHITECTURE.md](docs/QUESTION_BANK_ARCHITECTURE.md) | Question bank structure and pack format |
+| [docs/QUESTION_BANK_PLAYBOOK.md](docs/QUESTION_BANK_PLAYBOOK.md) | Step-by-step playbook to add questions |
+| [docs/GITHUB_PAGES_CONSTRAINTS.md](docs/GITHUB_PAGES_CONSTRAINTS.md) | What works on static hosting; feature compatibility |
 
 ---
 

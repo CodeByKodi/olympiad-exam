@@ -6,6 +6,7 @@ const OPTION_COLORS = ['a', 'b', 'c', 'd'];
 export function OptionCard({
   index,
   text,
+  textLabel,
   isSelected,
   isCorrect,
   isWrong,
@@ -14,6 +15,7 @@ export function OptionCard({
 }) {
   const label = indexToLabel(index);
   const colorClass = OPTION_COLORS[index] ?? 'a';
+  const ariaText = textLabel ?? (typeof text === 'string' ? text : '');
 
   return (
     <button
@@ -22,7 +24,7 @@ export function OptionCard({
       onClick={() => !disabled && onClick(index)}
       disabled={disabled}
       aria-pressed={isSelected}
-      aria-label={`Option ${label}: ${text}`}
+      aria-label={`Option ${label}: ${ariaText}`}
     >
       <span className={styles.label}>{label}</span>
       <span className={styles.text}>{text}</span>

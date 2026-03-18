@@ -6,36 +6,36 @@
 
 import * as libraryStorage from './libraryStorageService.js';
 import * as questionBankService from './questionBankService.js';
+import { resolveStaticPath } from '../config.js';
 import { buildPracticePool, buildMockIndex } from '../utils/questionLibraryUtils.js';
 import { EXAMS, GRADES } from '../constants/exams.js';
 
 /**
  * Load packs from question bank (scalable architecture).
+ * Uses index.json when available to skip probing; otherwise falls back to hasQuestionBank.
+ * Runs all loads in parallel for faster initial load.
  * @returns {Promise<Array>} Packs in library format
  */
 async function loadQuestionBankPacks() {
-  const packs = [];
-  const examIds = Object.keys(EXAMS).map((k) => EXAMS[k].id);
-  const enabledGradeIds = Object.values(GRADES).filter((g) => g.enabled).map((g) => g.id);
+  let combos = await getQuestionBankCombos();
+  if (combos.length === 0) return [];
 
-  for (const examId of examIds) {
-    for (const gradeId of enabledGradeIds) {
-      const hasBank = await questionBankService.hasQuestionBank(examId, gradeId);
-      if (!hasBank) continue;
+  const results = await Promise.all(
+    combos.map(async ({ examId, gradeId }) => {
+      try {
+        const [bank, packDefs] = await Promise.all([
+          questionBankService.loadQuestionBank(examId, gradeId),
+          questionBankService.loadPackDefinitions(examId, gradeId),
+        ]);
 
-      const [bank, packDefs] = await Promise.all([
-        questionBankService.loadQuestionBank(examId, gradeId),
-        questionBankService.loadPackDefinitions(examId, gradeId),
-      ]);
+        if (!bank || bank.size === 0 || !packDefs?.length) return null;
 
-      if (bank.size === 0 || packDefs.length === 0) continue;
-
-      for (const def of packDefs) {
+        return packDefs.map((def) => {
         const packId = `${examId}-grade${gradeId}-${def.packId?.replace(/^[^-]+-grade\d+-/, '') || def.packId}`;
         const mode = (def.mode || 'mock').toLowerCase();
         const isMock = mode === 'mock';
         const questionCount = isMock ? (def.questionIds?.length || 0) : (def.questionCount || 25);
-        packs.push({
+        return {
           packId,
           exam: examId,
           grade: gradeId,
@@ -49,11 +49,45 @@ async function loadQuestionBankPacks() {
           isQuestionBank: true,
           _bankDef: def,
           _bank: bank,
-        });
+        };
+      });
+      } catch (_) {
+        return null;
+      }
+    })
+  );
+
+  const flat = results.flat ? results.flat() : results.reduce((a, r) => a.concat(Array.isArray(r) ? r : []), []);
+  return flat.filter(Boolean);
+}
+
+/**
+ * Get exam/grade combos that have question banks.
+ * Uses index.json for fast path; falls back to probing syllabus.json.
+ */
+async function getQuestionBankCombos() {
+  try {
+    const res = await fetch(resolveStaticPath('question-bank/index.json'));
+    if (res.ok) {
+      const data = await res.json();
+      const banks = data?.banks;
+      if (Array.isArray(banks) && banks.length > 0) {
+        return banks
+          .filter((b) => b && b.exam && b.grade)
+          .map((b) => ({ examId: String(b.exam), gradeId: String(b.grade) }));
       }
     }
+  } catch (_) {
+    /* fall through to probe */
   }
-  return packs;
+
+  const examIds = Object.keys(EXAMS).map((k) => EXAMS[k].id);
+  const enabledGradeIds = Object.values(GRADES).filter((g) => g.enabled).map((g) => g.id);
+  const combos = examIds.flatMap((examId) => enabledGradeIds.map((gradeId) => ({ examId, gradeId })));
+  const hasBank = await Promise.all(
+    combos.map(async (c) => (await questionBankService.hasQuestionBank(c.examId, c.gradeId)) ? c : null)
+  );
+  return hasBank.filter(Boolean);
 }
 
 /**

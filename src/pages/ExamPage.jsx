@@ -10,7 +10,7 @@ import { BottomActionBar } from '../components/BottomActionBar';
 import { ConfirmSubmitModal } from '../components/ConfirmSubmitModal';
 import { ExamSkeleton } from '../components/ExamSkeleton';
 import { useTestData } from '../hooks/useTestData';
-import { calculateScoreSummary } from '../utils/scoreUtils';
+import { calculateScoreSummary, normalizeCorrectAnswer } from '../utils/scoreUtils';
 import {
   getSettings,
   getInProgressAttempt,
@@ -45,6 +45,7 @@ export function ExamPage() {
   const [paletteDrawerOpen, setPaletteDrawerOpen] = useState(false);
   const [timeRemaining, setTimeRemaining] = useState(null);
   const [timeExpired, setTimeExpired] = useState(false);
+  const [timerPaused, setTimerPaused] = useState(false);
   const [submitted, setSubmitted] = useState(false);
   const [restored, setRestored] = useState(false);
 
@@ -52,6 +53,32 @@ export function ExamPage() {
   const questions = useMemo(() => data?.questions || [], [data?.questions]);
   const durationMinutes = data?.durationMinutes ?? MOCK_TEST_DURATION_MINUTES;
   const totalSeconds = parseDurationToSeconds(durationMinutes);
+  const currentQuestion = questions[Math.min(currentIndex, Math.max(0, questions.length - 1))];
+
+  const handleSelectAnswer = useCallback((qId, idx) => {
+    setAnswers((prev) => ({ ...prev, [qId]: idx }));
+  }, []);
+
+  const handleMarkForReview = useCallback(() => {
+    const q = questions[currentIndex];
+    if (!q) return;
+    setMarkedForReview((prev) => {
+      const next = new Set(prev);
+      if (next.has(q.id)) next.delete(q.id);
+      else next.add(q.id);
+      return next;
+    });
+  }, [questions, currentIndex]);
+
+  const handleClearAnswer = useCallback(() => {
+    const q = questions[currentIndex];
+    if (!q) return;
+    setAnswers((prev) => {
+      const next = { ...prev };
+      delete next[q.id];
+      return next;
+    });
+  }, [questions, currentIndex]);
 
   useEffect(() => {
     if (restored || !questions.length) return;
@@ -71,6 +98,7 @@ export function ExamPage() {
           const saved = inProgress.timeRemaining;
           if (saved != null && saved > 0) {
             setTimeRemaining(Math.floor(saved));
+            setTimerPaused(inProgress.timerPaused ?? false);
           } else {
             setTimeExpired(true);
           }
@@ -99,12 +127,24 @@ export function ExamPage() {
     clearInProgressAttempt();
 
     const summary = calculateScoreSummary(questions, answers);
+    const topicBreakdown = questions.reduce((acc, q) => {
+      const topic = q.topic || 'General';
+      if (!acc[topic]) acc[topic] = { correct: 0, total: 0 };
+      acc[topic].total++;
+      const userAns = answers[q.id];
+      if (userAns != null && userAns >= 0) {
+        const correctIdx = normalizeCorrectAnswer(q.correctAnswer, q.options?.length ?? 4);
+        if (userAns === correctIdx) acc[topic].correct++;
+      }
+      return acc;
+    }, {});
     addCompletedTest({
       examId,
       gradeId,
       testId,
       mode,
       ...summary,
+      topicBreakdown,
     });
     updateBestScore(examId, summary.percentage, testId);
 
@@ -120,13 +160,60 @@ export function ExamPage() {
   }, [timeExpired, submitted, handleSubmit]);
 
   useEffect(() => {
+    if (timerPaused || isPractice || submitted) return;
     const interval = setInterval(() => {
-      if (!isPractice && timeRemaining !== null && timeRemaining > 0 && !submitted) {
-        setTimeRemaining((t) => Math.max(0, t - 1));
-      }
+      setTimeRemaining((t) => {
+        if (t == null || t <= 0) return t;
+        return Math.max(0, t - 1);
+      });
     }, 1000);
     return () => clearInterval(interval);
-  }, [isPractice, timeRemaining, submitted]);
+  }, [isPractice, timerPaused, submitted]);
+
+  useEffect(() => {
+    if (!isPractice && !submitted && getInProgressAttempt()) {
+      const handler = (e) => {
+        e.preventDefault();
+        e.returnValue = '';
+      };
+      window.addEventListener('beforeunload', handler);
+      return () => window.removeEventListener('beforeunload', handler);
+    }
+  }, [isPractice, submitted]);
+
+  useEffect(() => {
+    const handleKeyDown = (e) => {
+      if (submitted || !questions.length) return;
+      if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+      switch (e.key) {
+        case 'ArrowLeft':
+          e.preventDefault();
+          setCurrentIndex((i) => Math.max(0, i - 1));
+          break;
+        case 'ArrowRight':
+          e.preventDefault();
+          setCurrentIndex((i) => Math.min(questions.length - 1, i + 1));
+          break;
+        case '1':
+        case '2':
+        case '3':
+        case '4':
+          if (!e.ctrlKey && !e.metaKey && !e.altKey) {
+            const idx = parseInt(e.key, 10) - 1;
+            const opts = currentQuestion?.options?.length ?? 0;
+            if (idx >= 0 && idx < opts) {
+              e.preventDefault();
+              handleSelectAnswer(currentQuestion.id, idx);
+            }
+          }
+          break;
+        default:
+          break;
+      }
+    };
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, [questions.length, submitted, currentQuestion, handleSelectAnswer]);
 
   useEffect(() => {
     if (questions.length > 0 && Object.keys(answers).length > 0) {
@@ -139,35 +226,11 @@ export function ExamPage() {
         currentIndex,
         markedForReview: [...markedForReview],
         timeRemaining,
+        timerPaused,
         startedAt: Date.now(),
       });
     }
-  }, [examId, gradeId, testId, mode, answers, currentIndex, markedForReview, timeRemaining, questions.length]);
-
-  const handleSelectAnswer = useCallback((qId, idx) => {
-    setAnswers((prev) => ({ ...prev, [qId]: idx }));
-  }, []);
-
-  const handleMarkForReview = useCallback(() => {
-    const q = questions[currentIndex];
-    if (!q) return;
-    setMarkedForReview((prev) => {
-      const next = new Set(prev);
-      if (next.has(q.id)) next.delete(q.id);
-      else next.add(q.id);
-      return next;
-    });
-  }, [questions, currentIndex]);
-
-  const handleClearAnswer = useCallback(() => {
-    const q = questions[currentIndex];
-    if (!q) return;
-    setAnswers((prev) => {
-      const next = { ...prev };
-      delete next[q.id];
-      return next;
-    });
-  }, [questions, currentIndex]);
+  }, [examId, gradeId, testId, mode, answers, currentIndex, markedForReview, timeRemaining, timerPaused, questions.length]);
 
   if (loading) {
     return <ExamSkeleton />;
@@ -183,7 +246,15 @@ export function ExamPage() {
     );
   }
 
-  const currentQuestion = questions[currentIndex];
+  if (!currentQuestion) {
+    return (
+      <div className={styles.page}>
+        <div className={styles.error}>
+          Failed to load test. Please go back and try again.
+        </div>
+      </div>
+    );
+  }
   const answeredCount = questions.filter(
     (q) => answers[q.id] !== undefined && answers[q.id] !== null && answers[q.id] >= 0
   ).length;
@@ -198,6 +269,8 @@ export function ExamPage() {
         mode={isPractice ? 'practice' : 'mock'}
         timeRemaining={timeRemaining}
         timeExpired={timeExpired}
+        timerPaused={timerPaused}
+        onPause={() => setTimerPaused((p) => !p)}
         onMarkForReview={handleMarkForReview}
         onSubmit={() => setShowSubmitModal(true)}
         isMarked={currentQuestion && markedForReview.has(currentQuestion.id)}

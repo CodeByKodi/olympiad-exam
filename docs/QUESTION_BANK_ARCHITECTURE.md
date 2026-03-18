@@ -13,6 +13,7 @@ Scalable dataset architecture for Olympiad exams (Grade 1–12).
 
 ```
 public/question-bank/
+├── index.json                 # Lists exam/grade combos with banks (fast load)
 ├── {exam}/                    # nso, imo, ieo, ics, igko, isso
 │   └── grade{grade}/
 │       ├── syllabus.json      # Topics, subtopics, learning objectives

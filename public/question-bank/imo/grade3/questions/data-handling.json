@@ -208,5 +208,320 @@
     "explanation": "A survey is a way to collect data by asking questions.",
     "tags": ["data", "imo", "grade3"],
     "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-data-0011",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "In a class, 6 children like cricket, 4 like football, and 7 like badminton. Which sport is least liked?",
+    "image": "",
+    "options": [
+      "Cricket",
+      "Football",
+      "Badminton",
+      "All equal"
+    ],
+    "correctAnswer": 1,
+    "explanation": "4 children like football, which is fewer than cricket (6) and badminton (7).",
+    "tags": ["data", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-data-0012",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "medium",
+    "modes": ["practice", "mock"],
+    "questionText": "If each ⭐ represents 3 stars, how many stars does ⭐⭐⭐⭐ represent?",
+    "image": "",
+    "options": [
+      "4",
+      "7",
+      "12",
+      "16"
+    ],
+    "correctAnswer": 2,
+    "explanation": "4 symbols × 3 stars each = 12 stars.",
+    "tags": ["data", "pictograph", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-data-0013",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "A tally of |||| means how many?",
+    "image": "",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Each vertical line in a tally represents 1. |||| = 4.",
+    "tags": ["data", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-data-0014",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "medium",
+    "modes": ["practice", "mock"],
+    "questionText": "Ages of 5 children: 7, 8, 7, 9, 7. What is the most common age?",
+    "image": "",
+    "options": [
+      "8",
+      "9",
+      "7",
+      "5"
+    ],
+    "correctAnswer": 2,
+    "explanation": "7 appears 3 times, which is more than 8 or 9.",
+    "tags": ["data", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-data-0015",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "In a pictograph, if 🍊 = 2 oranges, then 🍊🍊🍊 = ?",
+    "image": "",
+    "options": [
+      "3 oranges",
+      "5 oranges",
+      "6 oranges",
+      "8 oranges"
+    ],
+    "correctAnswer": 2,
+    "explanation": "3 symbols × 2 oranges each = 6 oranges.",
+    "tags": ["data", "pictograph", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-data-0016",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "medium",
+    "modes": ["practice", "mock"],
+    "questionText": "Marks of 4 students: 85, 90, 78, 92. What is the highest mark?",
+    "image": "",
+    "options": [
+      "78",
+      "85",
+      "90",
+      "92"
+    ],
+    "correctAnswer": 3,
+    "explanation": "92 is the greatest number.",
+    "tags": ["data", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-data-0017",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "To find the total, we ___ all the numbers.",
+    "image": "",
+    "options": [
+      "Subtract",
+      "Add",
+      "Multiply",
+      "Divide"
+    ],
+    "correctAnswer": 1,
+    "explanation": "To find the total, we add all the numbers together.",
+    "tags": ["data", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-data-0018",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "medium",
+    "modes": ["practice", "mock"],
+    "questionText": "Fruits sold: 10 apples, 15 bananas, 12 oranges. How many fruits were sold in total?",
+    "image": "",
+    "options": [
+      "25",
+      "35",
+      "37",
+      "40"
+    ],
+    "correctAnswer": 2,
+    "explanation": "10 + 15 + 12 = 37 fruits.",
+    "tags": ["data", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-data-0019",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "What do we call a chart that uses bars to show data?",
+    "image": "",
+    "options": [
+      "Pictograph",
+      "Bar graph",
+      "Table",
+      "Tally"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A bar graph uses bars to show and compare data.",
+    "tags": ["data", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-data-0020",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "medium",
+    "modes": ["practice", "mock"],
+    "questionText": "Temperatures for 4 days: 28°C, 32°C, 25°C, 30°C. What is the lowest temperature?",
+    "image": "",
+    "options": [
+      "28°C",
+      "32°C",
+      "25°C",
+      "30°C"
+    ],
+    "correctAnswer": 2,
+    "explanation": "25°C is the smallest number.",
+    "tags": ["data", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-data-0021",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "A tally of |||| |||| means how many?",
+    "image": "",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "correctAnswer": 2,
+    "explanation": "|||| = 4 and |||| = 4. 4 + 4 = 8.",
+    "tags": ["data", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-data-0022",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "medium",
+    "modes": ["practice", "mock"],
+    "questionText": "Books read: Riya 5, Amit 7, Sita 6, Rohan 9. Who read the most?",
+    "image": "",
+    "options": [
+      "Riya",
+      "Amit",
+      "Sita",
+      "Rohan"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Rohan read 9 books, which is the highest.",
+    "tags": ["data", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-data-0023",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "To compare data, we look at the ___ of the bars in a bar graph.",
+    "image": "",
+    "options": [
+      "Colour",
+      "Height",
+      "Width",
+      "Position"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The height of bars shows the value and helps us compare.",
+    "tags": ["data", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-data-0024",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "medium",
+    "modes": ["practice", "mock"],
+    "questionText": "Scores: 7, 9, 8, 9, 7. What is the total score?",
+    "image": "",
+    "options": [
+      "38",
+      "39",
+      "40",
+      "41"
+    ],
+    "correctAnswer": 2,
+    "explanation": "7 + 9 + 8 + 9 + 7 = 40.",
+    "tags": ["data", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-data-0025",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "What do we call the list that shows what each symbol means in a pictograph?",
+    "image": "",
+    "options": [
+      "Title",
+      "Key",
+      "Label",
+      "Graph"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The key tells us what each symbol represents.",
+    "tags": ["data", "pictograph", "imo", "grade3"],
+    "sourceType": "generated"
   }
 ]

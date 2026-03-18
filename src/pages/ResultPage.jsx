@@ -136,8 +136,9 @@ export function ResultPage() {
           type="button"
           className={styles.printBtn}
           onClick={handlePrint}
+          title="Print or save as PDF from the print dialog"
         >
-          Print Results
+          Print / Save as PDF
         </button>
         <button
           type="button"

@@ -20,6 +20,7 @@ export function BottomActionBar({
         onClick={onPrevious}
         disabled={isFirst || disabled}
         aria-label="Previous question"
+        title="Previous (←)"
       >
         ← Previous
       </button>
@@ -54,15 +55,16 @@ export function BottomActionBar({
           Submit Test
         </button>
       ) : (
-        <button
-          type="button"
-          className={styles.nextBtn}
-          onClick={onNext}
-          disabled={disabled}
-          aria-label="Next question"
-        >
-          Next →
-        </button>
+<button
+        type="button"
+        className={styles.nextBtn}
+        onClick={onNext}
+        disabled={disabled}
+        aria-label="Next question"
+        title="Next (→)"
+      >
+        Next →
+      </button>
       )}
     </div>
   );

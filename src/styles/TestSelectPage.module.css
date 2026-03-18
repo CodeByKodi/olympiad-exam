@@ -28,6 +28,10 @@
   font-style: italic;
 }
 
+.loadingSkeleton {
+  margin-top: var(--space-4);
+}
+
 .reloadBtn {
   background: none;
   border: none;
