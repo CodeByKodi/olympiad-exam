@@ -1,0 +1,79 @@
+.navBar {
+  display: flex;
+  align-items: center;
+  gap: var(--space-4);
+  padding: var(--space-4) var(--space-5);
+  background: var(--surface);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-lg);
+  flex-wrap: wrap;
+}
+
+.navBar.inline {
+  padding: 0;
+  background: transparent;
+  border: none;
+  border-radius: 0;
+}
+
+.menuItem {
+  position: relative;
+}
+
+.menuTrigger {
+  display: flex;
+  align-items: center;
+  gap: var(--space-1);
+  padding: var(--space-2) var(--space-3);
+  font-size: var(--text-base);
+  font-weight: var(--font-bold);
+  color: var(--text-primary);
+  background: none;
+  border: none;
+  cursor: pointer;
+  border-radius: var(--radius-md);
+}
+
+.menuTrigger:hover {
+  background: var(--primary-soft);
+  color: var(--primary);
+}
+
+.menuTrigger[aria-expanded="true"] {
+  background: var(--primary-soft);
+  color: var(--primary);
+}
+
+.dropdown {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  margin-top: var(--space-1);
+  min-width: 140px;
+  padding: var(--space-2);
+  background: var(--surface);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-md);
+  z-index: 100;
+}
+
+.gradeList {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.gradeLink {
+  display: block;
+  padding: var(--space-2) var(--space-3);
+  font-size: var(--text-sm);
+  color: var(--text-secondary);
+  text-decoration: none;
+  border-radius: var(--radius-sm);
+}
+
+.gradeLink:hover {
+  background: var(--primary-soft);
+  color: var(--primary);
+}

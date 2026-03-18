@@ -1,21 +1,27 @@
 .banner {
   position: fixed;
-  bottom: 0;
+  top: 0;
   left: 0;
   right: 0;
-  padding: var(--space-3) var(--space-6);
-  background: var(--warning);
-  color: white;
+  z-index: 9999;
+  padding: var(--space-3) var(--space-4);
+  text-align: center;
   font-size: var(--text-sm);
   font-weight: var(--font-medium);
-  text-align: center;
-  z-index: 9999;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: var(--space-2);
+  animation: slideDown 0.3s ease;
 }
 
-.icon {
-  font-size: 1.25rem;
+@keyframes slideDown {
+  from { transform: translateY(-100%); }
+  to { transform: translateY(0); }
+}
+
+.offline {
+  background: var(--warning);
+  color: #1a1a1a;
+}
+
+.reconnected {
+  background: var(--success);
+  color: #1a1a1a;
 }

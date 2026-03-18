@@ -1,5 +1,5 @@
-import { useState, useEffect, useCallback, useMemo } from 'react';
-import { useParams, useSearchParams, useNavigate } from 'react-router-dom';
+import { useState, useEffect, useCallback, useMemo, useRef } from 'react';
+import { useParams, useSearchParams, useNavigate, useLocation } from 'react-router-dom';
 import { EXAMS, TEST_MODES, MOCK_TEST_DURATION_MINUTES } from '../constants/exams';
 import { ExamHeader } from '../components/ExamHeader';
 import { SectionTabs } from '../components/SectionTabs';
@@ -26,14 +26,18 @@ export function ExamPage() {
   const { examId, gradeId, testId } = useParams();
   const [searchParams] = useSearchParams();
   const navigate = useNavigate();
+  const location = useLocation();
   const mode = searchParams.get('mode') || TEST_MODES.PRACTICE;
   const isPractice = mode === TEST_MODES.PRACTICE;
+
+  const customQuestions = location.state?.customQuestions;
+  const isReviewWrong = testId === 'review-wrong' && Array.isArray(customQuestions) && customQuestions.length > 0;
 
   const settings = getSettings();
   const { data, loading, error } = useTestData(
     examId,
     gradeId,
-    testId,
+    isReviewWrong ? 'practice' : testId,
     isPractice && settings.shuffleQuestions,
     isPractice && settings.shuffleOptions
   );
@@ -48,10 +52,14 @@ export function ExamPage() {
   const [timerPaused, setTimerPaused] = useState(false);
   const [submitted, setSubmitted] = useState(false);
   const [restored, setRestored] = useState(false);
+  const questionRef = useRef(null);
 
   const exam = EXAMS[examId?.toUpperCase()] || EXAMS.NSO;
-  const questions = useMemo(() => data?.questions || [], [data?.questions]);
-  const durationMinutes = data?.durationMinutes ?? MOCK_TEST_DURATION_MINUTES;
+  const questions = useMemo(() => {
+    if (isReviewWrong) return customQuestions;
+    return data?.questions || [];
+  }, [isReviewWrong, customQuestions, data?.questions]);
+  const durationMinutes = isReviewWrong ? Math.ceil(questions.length * 1.2) : (data?.durationMinutes ?? MOCK_TEST_DURATION_MINUTES);
   const totalSeconds = parseDurationToSeconds(durationMinutes);
   const currentQuestion = questions[Math.min(currentIndex, Math.max(0, questions.length - 1))];
 
@@ -114,6 +122,10 @@ export function ExamPage() {
       queueMicrotask(() => setRestored(true));
     }
   }, [examId, gradeId, testId, mode, questions.length, isPractice, totalSeconds, restored]);
+
+  useEffect(() => {
+    questionRef.current?.focus({ preventScroll: true });
+  }, [currentIndex]);
 
   useEffect(() => {
     if (!isPractice && timeRemaining !== null && timeRemaining <= 0 && !timeExpired) {
@@ -187,12 +199,21 @@ export function ExamPage() {
       if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
       switch (e.key) {
         case 'ArrowLeft':
+        case 'a':
+        case 'A':
           e.preventDefault();
           setCurrentIndex((i) => Math.max(0, i - 1));
           break;
         case 'ArrowRight':
+        case 'd':
+        case 'D':
+        case 'Enter':
           e.preventDefault();
-          setCurrentIndex((i) => Math.min(questions.length - 1, i + 1));
+          if (currentIndex >= questions.length - 1) {
+            setShowSubmitModal(true);
+          } else {
+            setCurrentIndex((i) => Math.min(questions.length - 1, i + 1));
+          }
           break;
         case '1':
         case '2':
@@ -213,7 +234,7 @@ export function ExamPage() {
     };
     window.addEventListener('keydown', handleKeyDown);
     return () => window.removeEventListener('keydown', handleKeyDown);
-  }, [questions.length, submitted, currentQuestion, handleSelectAnswer]);
+  }, [questions.length, submitted, currentQuestion, handleSelectAnswer, currentIndex]);
 
   useEffect(() => {
     if (questions.length > 0 && Object.keys(answers).length > 0) {
@@ -232,11 +253,21 @@ export function ExamPage() {
     }
   }, [examId, gradeId, testId, mode, answers, currentIndex, markedForReview, timeRemaining, timerPaused, questions.length]);
 
-  if (loading) {
+  if (!isReviewWrong && loading) {
     return <ExamSkeleton />;
   }
 
-  if (error || questions.length === 0) {
+  if (isReviewWrong && questions.length === 0) {
+    return (
+      <div className={styles.page}>
+        <div className={styles.error}>
+          No questions to review. <button type="button" className={styles.backBtn} onClick={() => navigate(-1)}>Go back</button>
+        </div>
+      </div>
+    );
+  }
+
+  if (!isReviewWrong && (error || questions.length === 0)) {
     return (
       <div className={styles.page}>
         <div className={styles.error}>
@@ -262,6 +293,9 @@ export function ExamPage() {
 
   return (
     <div className={styles.page}>
+      <a href="#question-content" className={styles.skipToQuestion}>
+        Skip to question
+      </a>
       <ExamHeader
         examName={exam.fullName}
         testTitle={data?.title || `Test ${testId}`}
@@ -292,7 +326,13 @@ export function ExamPage() {
           >
             📋 Questions ({answeredCount}/{questions.length})
           </button>
-          <QuestionCard
+          <div
+            id="question-content"
+            ref={questionRef}
+            tabIndex={-1}
+            className={styles.questionFocusTarget}
+          >
+            <QuestionCard
             question={currentQuestion}
             questionNumber={currentIndex + 1}
             totalQuestions={questions.length}
@@ -304,6 +344,7 @@ export function ExamPage() {
             disabled={submitted}
             explanation={currentQuestion.explanation}
           />
+          </div>
 
           <BottomActionBar
             onPrevious={() => setCurrentIndex((i) => Math.max(0, i - 1))}

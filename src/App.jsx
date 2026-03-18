@@ -1,5 +1,7 @@
 import { useState, useEffect, lazy, Suspense } from 'react';
 import { HashRouter, Routes, Route, Navigate } from 'react-router-dom';
+import { ErrorBoundary } from './components/ErrorBoundary';
+import { OfflineIndicator } from './components/OfflineIndicator';
 import { QuestionLibraryProvider } from './context/QuestionLibraryContext';
 import { RoleProvider } from './context/RoleContext';
 import { MainLayout } from './layouts/MainLayout';
@@ -30,9 +32,11 @@ function App() {
   }
 
   return (
-    <RoleProvider>
-      <QuestionLibraryProvider>
-        <HashRouter>
+    <ErrorBoundary>
+      <OfflineIndicator />
+      <RoleProvider>
+        <QuestionLibraryProvider>
+          <HashRouter>
           <Routes>
             <Route path="/" element={<MainLayout />}>
               <Route index element={<LandingPage />} />
@@ -49,9 +53,10 @@ function App() {
             <Route path="/login" element={<LoginPage />} />
             <Route path="/admin-unlock" element={<Navigate to="/login" replace />} />
           </Routes>
-        </HashRouter>
-      </QuestionLibraryProvider>
-    </RoleProvider>
+          </HashRouter>
+        </QuestionLibraryProvider>
+      </RoleProvider>
+    </ErrorBoundary>
   );
 }
 

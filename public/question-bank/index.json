@@ -1,5 +1,292 @@
 {
   "banks": [
-    { "exam": "imo", "grade": "3" }
+    {
+      "exam": "nso",
+      "grade": "1"
+    },
+    {
+      "exam": "nso",
+      "grade": "2"
+    },
+    {
+      "exam": "nso",
+      "grade": "3"
+    },
+    {
+      "exam": "nso",
+      "grade": "4"
+    },
+    {
+      "exam": "nso",
+      "grade": "5"
+    },
+    {
+      "exam": "nso",
+      "grade": "6"
+    },
+    {
+      "exam": "nso",
+      "grade": "7"
+    },
+    {
+      "exam": "nso",
+      "grade": "8"
+    },
+    {
+      "exam": "nso",
+      "grade": "9"
+    },
+    {
+      "exam": "nso",
+      "grade": "10"
+    },
+    {
+      "exam": "nso",
+      "grade": "11"
+    },
+    {
+      "exam": "nso",
+      "grade": "12"
+    },
+    {
+      "exam": "imo",
+      "grade": "1"
+    },
+    {
+      "exam": "imo",
+      "grade": "2"
+    },
+    {
+      "exam": "imo",
+      "grade": "3"
+    },
+    {
+      "exam": "imo",
+      "grade": "4"
+    },
+    {
+      "exam": "imo",
+      "grade": "5"
+    },
+    {
+      "exam": "imo",
+      "grade": "6"
+    },
+    {
+      "exam": "imo",
+      "grade": "7"
+    },
+    {
+      "exam": "imo",
+      "grade": "8"
+    },
+    {
+      "exam": "imo",
+      "grade": "9"
+    },
+    {
+      "exam": "imo",
+      "grade": "10"
+    },
+    {
+      "exam": "imo",
+      "grade": "11"
+    },
+    {
+      "exam": "imo",
+      "grade": "12"
+    },
+    {
+      "exam": "ieo",
+      "grade": "1"
+    },
+    {
+      "exam": "ieo",
+      "grade": "2"
+    },
+    {
+      "exam": "ieo",
+      "grade": "3"
+    },
+    {
+      "exam": "ieo",
+      "grade": "4"
+    },
+    {
+      "exam": "ieo",
+      "grade": "5"
+    },
+    {
+      "exam": "ieo",
+      "grade": "6"
+    },
+    {
+      "exam": "ieo",
+      "grade": "7"
+    },
+    {
+      "exam": "ieo",
+      "grade": "8"
+    },
+    {
+      "exam": "ieo",
+      "grade": "9"
+    },
+    {
+      "exam": "ieo",
+      "grade": "10"
+    },
+    {
+      "exam": "ieo",
+      "grade": "11"
+    },
+    {
+      "exam": "ieo",
+      "grade": "12"
+    },
+    {
+      "exam": "ics",
+      "grade": "1"
+    },
+    {
+      "exam": "ics",
+      "grade": "2"
+    },
+    {
+      "exam": "ics",
+      "grade": "3"
+    },
+    {
+      "exam": "ics",
+      "grade": "4"
+    },
+    {
+      "exam": "ics",
+      "grade": "5"
+    },
+    {
+      "exam": "ics",
+      "grade": "6"
+    },
+    {
+      "exam": "ics",
+      "grade": "7"
+    },
+    {
+      "exam": "ics",
+      "grade": "8"
+    },
+    {
+      "exam": "ics",
+      "grade": "9"
+    },
+    {
+      "exam": "ics",
+      "grade": "10"
+    },
+    {
+      "exam": "ics",
+      "grade": "11"
+    },
+    {
+      "exam": "ics",
+      "grade": "12"
+    },
+    {
+      "exam": "igko",
+      "grade": "1"
+    },
+    {
+      "exam": "igko",
+      "grade": "2"
+    },
+    {
+      "exam": "igko",
+      "grade": "3"
+    },
+    {
+      "exam": "igko",
+      "grade": "4"
+    },
+    {
+      "exam": "igko",
+      "grade": "5"
+    },
+    {
+      "exam": "igko",
+      "grade": "6"
+    },
+    {
+      "exam": "igko",
+      "grade": "7"
+    },
+    {
+      "exam": "igko",
+      "grade": "8"
+    },
+    {
+      "exam": "igko",
+      "grade": "9"
+    },
+    {
+      "exam": "igko",
+      "grade": "10"
+    },
+    {
+      "exam": "igko",
+      "grade": "11"
+    },
+    {
+      "exam": "igko",
+      "grade": "12"
+    },
+    {
+      "exam": "isso",
+      "grade": "1"
+    },
+    {
+      "exam": "isso",
+      "grade": "2"
+    },
+    {
+      "exam": "isso",
+      "grade": "3"
+    },
+    {
+      "exam": "isso",
+      "grade": "4"
+    },
+    {
+      "exam": "isso",
+      "grade": "5"
+    },
+    {
+      "exam": "isso",
+      "grade": "6"
+    },
+    {
+      "exam": "isso",
+      "grade": "7"
+    },
+    {
+      "exam": "isso",
+      "grade": "8"
+    },
+    {
+      "exam": "isso",
+      "grade": "9"
+    },
+    {
+      "exam": "isso",
+      "grade": "10"
+    },
+    {
+      "exam": "isso",
+      "grade": "11"
+    },
+    {
+      "exam": "isso",
+      "grade": "12"
+    }
   ]
 }

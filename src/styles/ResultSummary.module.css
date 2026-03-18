@@ -8,6 +8,79 @@
   box-shadow: var(--shadow-md);
 }
 
+.scoreRing {
+  position: relative;
+  width: 120px;
+  height: 120px;
+  margin: 0 auto var(--space-4);
+}
+
+.ringSvg {
+  transform: rotate(-90deg);
+  width: 100%;
+  height: 100%;
+}
+
+.ringBg {
+  fill: none;
+  stroke: var(--border-light);
+  stroke-width: 3;
+}
+
+.ringFill {
+  fill: none;
+  stroke: var(--primary);
+  stroke-width: 3;
+  stroke-linecap: round;
+  transition: stroke-dasharray 0.5s ease;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .ringFill {
+    transition: none;
+  }
+}
+
+.ringValue {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: var(--text-xl);
+  font-weight: var(--font-bold);
+  color: var(--text-primary);
+}
+
+.message {
+  font-size: var(--text-base);
+  color: var(--text-secondary);
+  margin: 0 0 var(--space-4);
+  line-height: 1.5;
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.outstanding .ringFill {
+  stroke: #22c55e;
+}
+
+.excellent .ringFill {
+  stroke: #4f7cff;
+}
+
+.good .ringFill {
+  stroke: #84cc16;
+}
+
+.fair .ringFill {
+  stroke: #f59e0b;
+}
+
+.poor .ringFill {
+  stroke: #ef4444;
+}
+
 .badge {
   display: inline-block;
   padding: var(--space-1) var(--space-4);
@@ -17,40 +90,34 @@
   margin-bottom: var(--space-4);
 }
 
+.badge_outstanding,
 .badge.outstanding {
   background: linear-gradient(135deg, #22c55e, #16a34a);
   color: white;
 }
 
+.badge_excellent,
 .badge.excellent {
   background: linear-gradient(135deg, #4f7cff, #3d6aef);
   color: white;
 }
 
+.badge_good,
 .badge.good {
   background: linear-gradient(135deg, #84cc16, #65a30d);
   color: white;
 }
 
+.badge_fair,
 .badge.fair {
   background: linear-gradient(135deg, #f59e0b, #d97706);
   color: white;
 }
 
+.badge_poor,
 .badge.poor {
   background: linear-gradient(135deg, #ef4444, #dc2626);
   color: white;
-}
-
-.score {
-  margin-bottom: var(--space-4);
-}
-
-.percentage {
-  font-size: 2.75rem;
-  font-weight: 800;
-  color: var(--primary);
-  line-height: 1;
 }
 
 .stats {

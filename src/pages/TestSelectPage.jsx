@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { EXAMS, TEST_MODES } from '../constants/exams';
 import { TestCard } from '../components/TestCard';
@@ -24,8 +24,24 @@ function getSamplePackDownloadUrl(mode = 'practice') {
 export function TestSelectPage() {
   const { examId, gradeId } = useParams();
   const exam = EXAMS[examId?.toUpperCase()] || EXAMS.NSO;
-  const { getMockPacks, getPracticePacks, hasLibraryPacks, loading, reload } = useQuestionLibrary();
+  const { getMockPacks, getPracticePacks, hasLibraryPacks, loading, reload, loadBankFor, preloadBankFor, hasBankFor } = useQuestionLibrary();
   const [importingSample, setImportingSample] = useState(false);
+  const [topicFilter, setTopicFilter] = useState('all');
+
+  useEffect(() => {
+    if (examId && gradeId && !hasBankFor(exam.id, gradeId)) {
+      loadBankFor(exam.id, gradeId);
+    }
+  }, [examId, gradeId, exam.id, loadBankFor, hasBankFor]);
+
+  useEffect(() => {
+    if (examId && gradeId && hasBankFor(exam.id, gradeId)) {
+      const nextGrade = parseInt(gradeId, 10) + 1;
+      if (nextGrade >= 1 && nextGrade <= 12) {
+        preloadBankFor(exam.id, String(nextGrade));
+      }
+    }
+  }, [examId, gradeId, exam.id, hasBankFor, preloadBankFor]);
 
   const handleImportSample = async (mode) => {
     setImportingSample(true);
@@ -70,8 +86,15 @@ export function TestSelectPage() {
         )}
         {!loading && emptyContent && (
           <p className={styles.loadingHint}>
-            <button type="button" className={styles.reloadBtn} onClick={reload}>
-              Reload library
+            <button
+              type="button"
+              className={styles.reloadBtn}
+              onClick={async () => {
+                await reload();
+                loadBankFor(exam.id, gradeId, true);
+              }}
+            >
+              Reload content
             </button>
             {' '}if content should be available.
           </p>
@@ -79,8 +102,32 @@ export function TestSelectPage() {
       </div>
 
       <section className={styles.section}>
-        <h2 className={styles.sectionTitle}>Practice Mode</h2>
-        <p className={styles.sectionDesc}>Take your time, get instant feedback, and learn as you go. Topic-based practice packs.</p>
+        <div className={styles.sectionHeader}>
+          <div>
+            <h2 className={styles.sectionTitle}>Practice Mode</h2>
+            <p className={styles.sectionDesc}>Take your time, get instant feedback, and learn as you go. Topic-based practice packs.</p>
+          </div>
+          {hasPracticePacks && practicePacks.length > 0 && (() => {
+            const topics = [...new Set(practicePacks.map((p) => p.topic || 'General'))].sort();
+            if (topics.length <= 1) return null;
+            return (
+              <label className={styles.topicFilter}>
+                <span className={styles.topicFilterLabel}>Filter:</span>
+                <select
+                  value={topicFilter}
+                  onChange={(e) => setTopicFilter(e.target.value)}
+                  className={styles.topicFilterSelect}
+                  aria-label="Filter by topic"
+                >
+                  <option value="all">All topics</option>
+                  {topics.map((t) => (
+                    <option key={t} value={t}>{t}</option>
+                  ))}
+                </select>
+              </label>
+            );
+          })()}
+        </div>
         <div className={styles.grid}>
           {hasPracticePacks && practicePacks.length > 0 ? (
             (() => {
@@ -90,7 +137,10 @@ export function TestSelectPage() {
                 acc[t].push(p);
                 return acc;
               }, {});
-              return Object.entries(byTopic).map(([topic, packs]) => (
+              const entries = topicFilter === 'all'
+                ? Object.entries(byTopic)
+                : Object.entries(byTopic).filter(([t]) => t === topicFilter);
+              return entries.map(([topic, packs]) => (
                 <div key={`topic-${topic}`} className={styles.topicGroup}>
                   <h3 className={styles.topicGroupTitle}>{topic}</h3>
                   <div className={styles.topicGrid}>

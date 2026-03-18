@@ -55,17 +55,18 @@ export function BottomActionBar({
           Submit Test
         </button>
       ) : (
-<button
-        type="button"
-        className={styles.nextBtn}
+        <button
+          type="button"
+          className={styles.nextBtn}
         onClick={onNext}
         disabled={disabled}
         aria-label="Next question"
         title="Next (→)"
       >
-        Next →
-      </button>
+          Next →
+        </button>
       )}
+      <span className={styles.keyboardHint} aria-hidden>← → or A/D • Enter to submit</span>
     </div>
   );
 }

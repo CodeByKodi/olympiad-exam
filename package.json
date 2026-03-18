@@ -22,6 +22,7 @@
     "replicate:all-grades": "node scripts/replicate-grade3-to-all-grades.js",
     "generate:from-syllabus": "node scripts/generate-from-syllabus.js",
     "validate:question-bank": "node scripts/validate-question-bank.js",
+    "update:question-bank-index": "node scripts/update-question-bank-index.js",
     "generate:syllabus": "node scripts/generate-syllabus.js",
     "validate:syllabus": "node scripts/validate-syllabus.js",
     "e2e": "playwright test",

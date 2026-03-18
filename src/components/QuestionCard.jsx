@@ -22,9 +22,22 @@ export function QuestionCard({
 
   const hasAnswered = selectedAnswer !== undefined && selectedAnswer !== null && selectedAnswer >= 0;
   const showFeedbackNow = showFeedback && hasAnswered;
+  const isCorrectAnswer = showFeedbackNow && selectedAnswer === normalizedCorrect;
 
   return (
     <div className={styles.card}>
+      <div className={styles.progressBarWrap}>
+        <div
+          className={styles.progressBar}
+          role="progressbar"
+          aria-valuenow={questionNumber}
+          aria-valuemin={1}
+          aria-valuemax={totalQuestions}
+          aria-label={`Question ${questionNumber} of ${totalQuestions}`}
+        >
+          <div className={styles.progressBarFill} style={{ width: `${(questionNumber / totalQuestions) * 100}%` }} />
+        </div>
+      </div>
       <div className={styles.header}>
         <span className={styles.qCounter}>Q {questionNumber} of {totalQuestions}</span>
         <div className={styles.headerRight}>
@@ -71,6 +84,11 @@ export function QuestionCard({
         })}
       </div>
 
+      {showFeedbackNow && isCorrectAnswer && (
+        <div className={styles.correctBanner} role="status">
+          <span className={styles.correctIcon}>✓</span> Correct!
+        </div>
+      )}
       {showFeedbackNow && explanation && (
         <div className={styles.explanation}>
           <span className={styles.explanationLabel}>Explanation</span>

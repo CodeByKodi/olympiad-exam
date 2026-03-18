@@ -1,8 +1,8 @@
 import { Link } from 'react-router-dom';
 import { EXAMS } from '../constants/exams';
 import { getBestScores, getCompletedTests, getInProgressAttempt } from '../utils/storageUtils';
-import { ExamCard } from '../components/ExamCard';
 import { useRole } from '../hooks/useRole';
+import { FirstTimeTooltip } from '../components/FirstTimeTooltip';
 import styles from '../styles/LandingPage.module.css';
 
 export function LandingPage() {
@@ -10,6 +10,7 @@ export function LandingPage() {
   const completed = getCompletedTests();
   const bestScores = getBestScores();
   const inProgress = getInProgressAttempt();
+  const showFirstTimeHint = completed.length === 0;
   const examIds = Object.keys(EXAMS);
 
   return (
@@ -25,61 +26,28 @@ export function LandingPage() {
           </Link>
         </section>
       )}
+
       <section className={styles.hero}>
-        <h1 className={styles.title}>Olympiad Practice</h1>
+        <h1 className={styles.title}>Learn for Free</h1>
+        {showFirstTimeHint && <FirstTimeTooltip />}
+        <p className={styles.tagline}>
+          Practice Olympiad exams at your own pace. No cost. No registration required to start.
+        </p>
         <p className={styles.subtitle}>
-          Practice and prepare for NSO, IMO, IEO, ICS, IGKO &amp; ISSO exams
+          NSO • IMO • IEO • ICS • IGKO • ISSO — Grades 1–12
         </p>
-        <p className={styles.firstTimeHint}>
-          First time? Pick an exam below, choose your grade, then start with Practice mode to learn at your own pace.
-        </p>
-      </section>
-
-      <section className={styles.features}>
-        <h2 className={styles.sectionTitle}>What you get</h2>
-        <div className={styles.featureGrid}>
-          <div className={styles.featureCard}>
-            <span className={styles.featureIcon}>📝</span>
-            <h3 className={styles.featureTitle}>Practice Mode</h3>
-            <p className={styles.featureDesc}>Take your time with instant feedback after each question.</p>
-          </div>
-          <div className={styles.featureCard}>
-            <span className={styles.featureIcon}>⏱️</span>
-            <h3 className={styles.featureTitle}>Mock Tests</h3>
-            <p className={styles.featureDesc}>Timed exams that simulate the real Olympiad experience.</p>
-          </div>
-          <div className={styles.featureCard}>
-            <span className={styles.featureIcon}>📚</span>
-            <h3 className={styles.featureTitle}>Question Library</h3>
-            <p className={styles.featureDesc}>Import and manage your own question packs.</p>
-          </div>
-          <div className={styles.featureCard}>
-            <span className={styles.featureIcon}>📊</span>
-            <h3 className={styles.featureTitle}>Track Progress</h3>
-            <p className={styles.featureDesc}>See your scores and completed tests over time.</p>
-          </div>
-        </div>
-      </section>
-
-      <section className={styles.howItWorks}>
-        <h2 className={styles.sectionTitle}>How it works</h2>
-        <div className={styles.steps}>
+        <div className={styles.heroSteps}>
           <div className={styles.step}>
             <span className={styles.stepNum}>1</span>
-            <h3 className={styles.stepTitle}>Choose an exam</h3>
-            <p className={styles.stepDesc}>Pick NSO, IMO, IEO, ICS, IGKO, or ISSO.</p>
+            <span className={styles.stepText}>Pick an exam from the menu above</span>
           </div>
-          <div className={styles.stepArrow}>→</div>
           <div className={styles.step}>
             <span className={styles.stepNum}>2</span>
-            <h3 className={styles.stepTitle}>Select your grade</h3>
-            <p className={styles.stepDesc}>Choose your grade level.</p>
+            <span className={styles.stepText}>Choose your grade</span>
           </div>
-          <div className={styles.stepArrow}>→</div>
           <div className={styles.step}>
             <span className={styles.stepNum}>3</span>
-            <h3 className={styles.stepTitle}>Start practicing</h3>
-            <p className={styles.stepDesc}>Pick practice or mock mode and begin.</p>
+            <span className={styles.stepText}>Start practicing</span>
           </div>
         </div>
       </section>
@@ -129,20 +97,30 @@ export function LandingPage() {
         </div>
       </section>
 
-      <section className={styles.exams}>
-        <h2 className={styles.sectionTitle}>Choose an Exam</h2>
-        <p className={styles.examsIntro}>
-          Select an exam below to start. Your progress is saved automatically.
-        </p>
-        <div className={styles.grid}>
-          {examIds.map((id) => (
-            <ExamCard key={id} examId={EXAMS[id].id} />
-          ))}
+      <section className={styles.features}>
+        <h1 className={styles.featuresTitle}>What you get</h1>
+        <div className={styles.featureGrid}>
+          <div className={styles.featureCard}>
+            <span className={styles.featureIcon}>📝</span>
+            <h3 className={styles.featureTitle}>Practice Mode</h3>
+            <p className={styles.featureDesc}>Get instant feedback. Learn as you go.</p>
+          </div>
+          <div className={styles.featureCard}>
+            <span className={styles.featureIcon}>⏱️</span>
+            <h3 className={styles.featureTitle}>Mock Tests</h3>
+            <p className={styles.featureDesc}>Timed exam simulation. No feedback until submit.</p>
+          </div>
+          <div className={styles.featureCard}>
+            <span className={styles.featureIcon}>📱</span>
+            <h3 className={styles.featureTitle}>Works offline</h3>
+            <p className={styles.featureDesc}>Your progress is saved locally.</p>
+          </div>
+          <div className={styles.featureCard}>
+            <span className={styles.featureIcon}>🔄</span>
+            <h3 className={styles.featureTitle}>Review wrong answers</h3>
+            <p className={styles.featureDesc}>Practice only the questions you got wrong.</p>
+          </div>
         </div>
-      </section>
-
-      <section className={styles.cta}>
-        <p className={styles.ctaText}>Ready to practice? Pick an exam above and get started.</p>
       </section>
     </div>
   );

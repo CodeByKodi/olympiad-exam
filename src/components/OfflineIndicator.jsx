@@ -1,30 +1,42 @@
 import { useState, useEffect } from 'react';
 import styles from '../styles/OfflineIndicator.module.css';
 
-/**
- * Shows a banner when the app is offline.
- */
 export function OfflineIndicator() {
-  const [offline, setOffline] = useState(!navigator.onLine);
+  const [isOnline, setIsOnline] = useState(navigator.onLine);
+  const [wasOffline, setWasOffline] = useState(false);
 
   useEffect(() => {
-    const handleOnline = () => setOffline(false);
-    const handleOffline = () => setOffline(true);
+    let onlineTimeout;
+    const onOnline = () => {
+      setIsOnline(true);
+      setWasOffline(true);
+      onlineTimeout = setTimeout(() => setWasOffline(false), 3000);
+    };
 
-    window.addEventListener('online', handleOnline);
-    window.addEventListener('offline', handleOffline);
+    const onOffline = () => setIsOnline(false);
+
+    window.addEventListener('online', onOnline);
+    window.addEventListener('offline', onOffline);
     return () => {
-      window.removeEventListener('online', handleOnline);
-      window.removeEventListener('offline', handleOffline);
+      window.removeEventListener('online', onOnline);
+      window.removeEventListener('offline', onOffline);
+      clearTimeout(onlineTimeout);
     };
   }, []);
 
-  if (!offline) return null;
+  if (isOnline && !wasOffline) return null;
 
   return (
-    <div className={styles.banner} role="status" aria-live="polite">
-      <span className={styles.icon}>📴</span>
-      <span>You&apos;re offline. Cached content is still available.</span>
+    <div
+      className={`${styles.banner} ${isOnline ? styles.reconnected : styles.offline}`}
+      role="status"
+      aria-live="polite"
+    >
+      {isOnline ? (
+        <>✓ Back online. Your progress is saved.</>
+      ) : (
+        <>📵 You're offline. Content may not load. Your progress is saved locally.</>
+      )}
     </div>
   );
 }

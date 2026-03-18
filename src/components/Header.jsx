@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { SettingsModal } from './SettingsModal';
 import { AdminBadge } from './AdminBadge';
+import { ExamNavBar } from './ExamNavBar';
 import { useRole } from '../hooks/useRole';
 import styles from '../styles/Header.module.css';
 
@@ -28,6 +29,7 @@ export function Header({ onDarkModeToggle, darkMode }) {
         {hasLibraryAccess && <AdminBadge role={user?.role} />}
       </Link>
       <nav className={styles.nav}>
+        <ExamNavBar inline />
         <Link to="/" className={styles.navLink}>Home</Link>
         {isLoggedIn && (
           <Link to="/progress" className={styles.navLink}>Progress</Link>

@@ -1,6 +1,7 @@
 import { Outlet } from 'react-router-dom';
 import { Header } from '../components/Header';
 import { Footer } from '../components/Footer';
+import { Breadcrumbs } from '../components/Breadcrumbs';
 import { useDarkMode } from '../hooks/useDarkMode';
 import styles from '../styles/MainLayout.module.css';
 
@@ -14,6 +15,7 @@ export function MainLayout() {
       </a>
       <Header onDarkModeToggle={() => setDarkMode((d) => !d)} darkMode={darkMode} />
       <main id="main-content" className={styles.main} tabIndex={-1}>
+        <Breadcrumbs />
         <Outlet />
       </main>
       <Footer />

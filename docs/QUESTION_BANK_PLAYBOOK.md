@@ -193,18 +193,11 @@ Fixes common issues:
 
 When adding a **new** exam/grade combo (e.g. `nso/grade3`), update the index so the app loads it quickly:
 
-**File:** `public/question-bank/index.json`
-
-```json
-{
-  "banks": [
-    { "exam": "imo", "grade": "3" },
-    { "exam": "nso", "grade": "3" }
-  ]
-}
+```bash
+npm run update:question-bank-index
 ```
 
-Without this, the app probes every exam/grade for a syllabus, which slows initial load.
+This scans `question-bank/{exam}/grade{N}/syllabus.json` and regenerates `public/question-bank/index.json`. Without the index, the app probes every exam/grade for a syllabus, which slows initial load.
 
 ---
 
