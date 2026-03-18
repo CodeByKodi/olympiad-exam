@@ -1,15 +1,15 @@
 {
-  "packId": "igko-grade5-india-practice-01",
+  "packId": "igko-grade5-our-body-and-health-practice-01",
   "exam": "igko",
   "grade": 5,
   "mode": "practice",
-  "title": "India Practice Test",
-  "topic": "India",
+  "title": "Our Body and Health Practice",
+  "topic": "Our Body and Health",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "India"
+      "Our Body and Health"
     ],
     "difficultyMix": {
       "easy": 15,

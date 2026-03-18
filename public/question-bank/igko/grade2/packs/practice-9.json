@@ -1,0 +1,20 @@
+{
+  "packId": "igko-grade2-maths-fun-practice-01",
+  "exam": "igko",
+  "grade": 2,
+  "mode": "practice",
+  "title": "Maths Fun Practice",
+  "topic": "Maths Fun",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Maths Fun"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

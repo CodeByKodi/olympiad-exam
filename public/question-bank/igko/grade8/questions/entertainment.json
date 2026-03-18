@@ -1,0 +1,702 @@
+[
+  {
+    "id": "igko-g8-entertainment-0001",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Entertainment",
+    "subtopic": "Entertainment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we watch for fun?",
+    "image": "",
+    "options": [
+      "News",
+      "Movies",
+      "Weather",
+      "Sports scores"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Movies entertain us.",
+    "tags": [
+      "entertainment",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-entertainment-0002",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Entertainment",
+    "subtopic": "Entertainment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which instrument is used in music?",
+    "image": "",
+    "options": [
+      "Hammer",
+      "Guitar",
+      "Saw",
+      "Drill"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Guitar is a music instrument.",
+    "tags": [
+      "entertainment",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-entertainment-0003",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Entertainment",
+    "subtopic": "Entertainment Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a person who acts in films?",
+    "image": "",
+    "options": [
+      "Director",
+      "Actor",
+      "Cameraman",
+      "Producer"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Actors perform in films.",
+    "tags": [
+      "entertainment",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-entertainment-0004",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Entertainment",
+    "subtopic": "Entertainment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which dance form is from India?",
+    "image": "",
+    "options": [
+      "Ballet",
+      "Bharatanatyam",
+      "Salsa",
+      "Hip-hop"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bharatanatyam is Indian.",
+    "tags": [
+      "entertainment",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-entertainment-0005",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Entertainment",
+    "subtopic": "Entertainment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a folk dance of Punjab?",
+    "image": "",
+    "options": [
+      "Kathak",
+      "Bhangra",
+      "Odissi",
+      "Kuchipudi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bhangra is from Punjab.",
+    "tags": [
+      "entertainment",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-entertainment-0006",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Entertainment",
+    "subtopic": "Entertainment Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a story shown on TV?",
+    "image": "",
+    "options": [
+      "News",
+      "Serial",
+      "Advertisement",
+      "Weather"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Serials are TV stories.",
+    "tags": [
+      "entertainment",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-entertainment-0007",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Entertainment",
+    "subtopic": "Entertainment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which festival is known for colours?",
+    "image": "",
+    "options": [
+      "Diwali",
+      "Holi",
+      "Eid",
+      "Christmas"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Holi is the festival of colours.",
+    "tags": [
+      "entertainment",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-entertainment-0008",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Entertainment",
+    "subtopic": "Entertainment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we do at a circus?",
+    "image": "",
+    "options": [
+      "Study",
+      "Watch acts",
+      "Cook",
+      "Sleep"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Circus has performances.",
+    "tags": [
+      "entertainment",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-entertainment-0009",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Entertainment",
+    "subtopic": "Entertainment Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which game can we play indoors?",
+    "image": "",
+    "options": [
+      "Cricket",
+      "Football",
+      "Chess",
+      "Hockey"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Chess is an indoor game.",
+    "tags": [
+      "entertainment",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-entertainment-0010",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Entertainment",
+    "subtopic": "Entertainment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a person who sings songs?",
+    "image": "",
+    "options": [
+      "Actor",
+      "Singer",
+      "Dancer",
+      "Painter"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A singer performs songs.",
+    "tags": [
+      "entertainment",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-entertainment-0011",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Entertainment",
+    "subtopic": "Entertainment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which instrument has strings?",
+    "image": "",
+    "options": [
+      "Drum",
+      "Flute",
+      "Guitar",
+      "Trumpet"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Guitar has strings.",
+    "tags": [
+      "entertainment",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-entertainment-0012",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Entertainment",
+    "subtopic": "Entertainment Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we watch in a cinema?",
+    "image": "",
+    "options": [
+      "News",
+      "Movies",
+      "Weather",
+      "Sports"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cinema shows movies.",
+    "tags": [
+      "entertainment",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-entertainment-0013",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Entertainment",
+    "subtopic": "Entertainment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which dance is from Kerala?",
+    "image": "",
+    "options": [
+      "Bhangra",
+      "Kathakali",
+      "Garba",
+      "Bihu"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kathakali is from Kerala.",
+    "tags": [
+      "entertainment",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-entertainment-0014",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Entertainment",
+    "subtopic": "Entertainment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a funny show?",
+    "image": "",
+    "options": [
+      "Tragedy",
+      "Comedy",
+      "Drama",
+      "Horror"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Comedy makes us laugh.",
+    "tags": [
+      "entertainment",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-entertainment-0015",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Entertainment",
+    "subtopic": "Entertainment Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which festival involves flying kites?",
+    "image": "",
+    "options": [
+      "Diwali",
+      "Makar Sankranti",
+      "Holi",
+      "Eid"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Makar Sankranti has kite flying.",
+    "tags": [
+      "entertainment",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-entertainment-0016",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Entertainment",
+    "subtopic": "Entertainment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to watch videos online?",
+    "image": "",
+    "options": [
+      "Radio",
+      "Streaming app",
+      "Newspaper",
+      "Book"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Streaming apps show videos.",
+    "tags": [
+      "entertainment",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-entertainment-0017",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Entertainment",
+    "subtopic": "Entertainment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which art form uses colours on canvas?",
+    "image": "",
+    "options": [
+      "Sculpture",
+      "Painting",
+      "Music",
+      "Dance"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Painting uses colours.",
+    "tags": [
+      "entertainment",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-entertainment-0018",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Entertainment",
+    "subtopic": "Entertainment Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a live performance on stage?",
+    "image": "",
+    "options": [
+      "Movie",
+      "Play",
+      "Cartoon",
+      "Documentary"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A play is performed live.",
+    "tags": [
+      "entertainment",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-entertainment-0019",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Entertainment",
+    "subtopic": "Entertainment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which festival is celebrated with colours?",
+    "image": "",
+    "options": [
+      "Diwali",
+      "Holi",
+      "Eid",
+      "Christmas"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Holi is the festival of colours.",
+    "tags": [
+      "entertainment",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-entertainment-0020",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Entertainment",
+    "subtopic": "Entertainment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call music without words?",
+    "image": "",
+    "options": [
+      "Song",
+      "Instrumental",
+      "Rap",
+      "Opera"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Instrumental has no words.",
+    "tags": [
+      "entertainment",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-entertainment-0021",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Entertainment",
+    "subtopic": "Entertainment Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a traditional Indian dance?",
+    "image": "",
+    "options": [
+      "Ballet",
+      "Kathak",
+      "Salsa",
+      "Hip-hop"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kathak is Indian classical dance.",
+    "tags": [
+      "entertainment",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-entertainment-0022",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Entertainment",
+    "subtopic": "Entertainment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a story in a newspaper?",
+    "image": "",
+    "options": [
+      "Novel",
+      "Article",
+      "Poem",
+      "Essay"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Articles are in newspapers.",
+    "tags": [
+      "entertainment",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-entertainment-0023",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Entertainment",
+    "subtopic": "Entertainment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which festival marks the end of Ramadan?",
+    "image": "",
+    "options": [
+      "Diwali",
+      "Eid",
+      "Christmas",
+      "Holi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Eid marks end of Ramadan.",
+    "tags": [
+      "entertainment",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-entertainment-0024",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Entertainment",
+    "subtopic": "Entertainment Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a group of musicians?",
+    "image": "",
+    "options": [
+      "Team",
+      "Band",
+      "Crowd",
+      "Class"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A band is a group of musicians.",
+    "tags": [
+      "entertainment",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-entertainment-0025",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Entertainment",
+    "subtopic": "Entertainment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which art uses clay or stone?",
+    "image": "",
+    "options": [
+      "Painting",
+      "Sculpture",
+      "Music",
+      "Dance"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sculpture uses clay or stone.",
+    "tags": [
+      "entertainment",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  }
+]

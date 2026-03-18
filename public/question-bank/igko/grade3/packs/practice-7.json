@@ -1,0 +1,20 @@
+{
+  "packId": "igko-grade3-transport-and-communication-practice-01",
+  "exam": "igko",
+  "grade": 3,
+  "mode": "practice",
+  "title": "Transport and Communication Practice",
+  "topic": "Transport and Communication",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Transport and Communication"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

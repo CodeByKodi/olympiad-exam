@@ -1,0 +1,702 @@
+[
+  {
+    "id": "igko-g8-universe-0001",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Universe",
+    "subtopic": "Universe Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which planet do we live on?",
+    "image": "",
+    "options": [
+      "Mars",
+      "Earth",
+      "Venus",
+      "Jupiter"
+    ],
+    "correctAnswer": 1,
+    "explanation": "We live on Earth.",
+    "tags": [
+      "universe",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-universe-0002",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Universe",
+    "subtopic": "Universe Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What gives us light during the day?",
+    "image": "",
+    "options": [
+      "Moon",
+      "Stars",
+      "Sun",
+      "Lamp"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Sun gives daylight.",
+    "tags": [
+      "universe",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-universe-0003",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Universe",
+    "subtopic": "Universe Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many planets are in our solar system?",
+    "image": "",
+    "options": [
+      "Seven",
+      "Eight",
+      "Nine",
+      "Ten"
+    ],
+    "correctAnswer": 1,
+    "explanation": "There are eight planets.",
+    "tags": [
+      "universe",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-universe-0004",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Universe",
+    "subtopic": "Universe Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is the closest star to Earth?",
+    "image": "",
+    "options": [
+      "Polaris",
+      "Sirius",
+      "Sun",
+      "Proxima"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Sun is our closest star.",
+    "tags": [
+      "universe",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-universe-0005",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Universe",
+    "subtopic": "Universe Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we see in the sky at night?",
+    "image": "",
+    "options": [
+      "Sun",
+      "Clouds",
+      "Stars",
+      "Rainbow"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Stars appear at night.",
+    "tags": [
+      "universe",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-universe-0006",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Universe",
+    "subtopic": "Universe Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which planet is the largest?",
+    "image": "",
+    "options": [
+      "Earth",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Jupiter is the largest.",
+    "tags": [
+      "universe",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-universe-0007",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Universe",
+    "subtopic": "Universe Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What shape is the Earth?",
+    "image": "",
+    "options": [
+      "Flat",
+      "Square",
+      "Round",
+      "Triangle"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Earth is round (sphere).",
+    "tags": [
+      "universe",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-universe-0008",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Universe",
+    "subtopic": "Universe Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which planet has rings?",
+    "image": "",
+    "options": [
+      "Mars",
+      "Venus",
+      "Saturn",
+      "Mercury"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Saturn has visible rings.",
+    "tags": [
+      "universe",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-universe-0009",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Universe",
+    "subtopic": "Universe Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the path Earth takes around the Sun?",
+    "image": "",
+    "options": [
+      "Spin",
+      "Orbit",
+      "Jump",
+      "Fall"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Orbit is Earth's path.",
+    "tags": [
+      "universe",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-universe-0010",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Universe",
+    "subtopic": "Universe Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How long does Earth take to orbit the Sun?",
+    "image": "",
+    "options": [
+      "One month",
+      "One year",
+      "One week",
+      "One day"
+    ],
+    "correctAnswer": 1,
+    "explanation": "One year = 365 days.",
+    "tags": [
+      "universe",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-universe-0011",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Universe",
+    "subtopic": "Universe Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a shooting star?",
+    "image": "",
+    "options": [
+      "Star",
+      "Meteor",
+      "Planet",
+      "Comet"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Meteors are shooting stars.",
+    "tags": [
+      "universe",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-universe-0012",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Universe",
+    "subtopic": "Universe Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which planet is known as the Morning Star?",
+    "image": "",
+    "options": [
+      "Mars",
+      "Venus",
+      "Jupiter",
+      "Saturn"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Venus is the Morning Star.",
+    "tags": [
+      "universe",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-universe-0013",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Universe",
+    "subtopic": "Universe Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a group of stars that form a pattern?",
+    "image": "",
+    "options": [
+      "Planet",
+      "Constellation",
+      "Galaxy",
+      "Comet"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Constellations form patterns.",
+    "tags": [
+      "universe",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-universe-0014",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Universe",
+    "subtopic": "Universe Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which planet has the most moons?",
+    "image": "",
+    "options": [
+      "Earth",
+      "Mars",
+      "Saturn",
+      "Jupiter"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Saturn has many moons.",
+    "tags": [
+      "universe",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-universe-0015",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Universe",
+    "subtopic": "Universe Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the path of a planet?",
+    "image": "",
+    "options": [
+      "Spin",
+      "Orbit",
+      "Jump",
+      "Fall"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Orbit is the planet's path.",
+    "tags": [
+      "universe",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-universe-0016",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Universe",
+    "subtopic": "Universe Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is the smallest planet?",
+    "image": "",
+    "options": [
+      "Earth",
+      "Mars",
+      "Mercury",
+      "Venus"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Mercury is the smallest.",
+    "tags": [
+      "universe",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-universe-0017",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Universe",
+    "subtopic": "Universe Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a ball of ice and dust?",
+    "image": "",
+    "options": [
+      "Asteroid",
+      "Comet",
+      "Meteor",
+      "Planet"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Comets are ice and dust.",
+    "tags": [
+      "universe",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-universe-0018",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Universe",
+    "subtopic": "Universe Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which planet is between Earth and Jupiter?",
+    "image": "",
+    "options": [
+      "Venus",
+      "Mars",
+      "Saturn",
+      "Mercury"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mars is between Earth and Jupiter.",
+    "tags": [
+      "universe",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-universe-0019",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Universe",
+    "subtopic": "Universe Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call our galaxy?",
+    "image": "",
+    "options": [
+      "Andromeda",
+      "Milky Way",
+      "Orion",
+      "Pleiades"
+    ],
+    "correctAnswer": 1,
+    "explanation": "We live in the Milky Way.",
+    "tags": [
+      "universe",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-universe-0020",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Universe",
+    "subtopic": "Universe Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which planet spins on its side?",
+    "image": "",
+    "options": [
+      "Earth",
+      "Mars",
+      "Uranus",
+      "Neptune"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Uranus spins on its side.",
+    "tags": [
+      "universe",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-universe-0021",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Universe",
+    "subtopic": "Universe Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the dark side of the Moon?",
+    "image": "",
+    "options": [
+      "Bright side",
+      "Far side",
+      "Near side",
+      "Hidden side"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Far side faces away from Earth.",
+    "tags": [
+      "universe",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-universe-0022",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Universe",
+    "subtopic": "Universe Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which planet is blue?",
+    "image": "",
+    "options": [
+      "Mars",
+      "Venus",
+      "Neptune",
+      "Mercury"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Neptune appears blue.",
+    "tags": [
+      "universe",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-universe-0023",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Universe",
+    "subtopic": "Universe Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a hole in the Moon's surface?",
+    "image": "",
+    "options": [
+      "Mountain",
+      "Crater",
+      "Valley",
+      "Lake"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Craters are impact holes.",
+    "tags": [
+      "universe",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-universe-0024",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Universe",
+    "subtopic": "Universe Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is the hottest planet?",
+    "image": "",
+    "options": [
+      "Mercury",
+      "Venus",
+      "Mars",
+      "Jupiter"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Venus is the hottest.",
+    "tags": [
+      "universe",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-universe-0025",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Universe",
+    "subtopic": "Universe Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a small rocky body in space?",
+    "image": "",
+    "options": [
+      "Comet",
+      "Asteroid",
+      "Planet",
+      "Star"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Asteroids are rocky bodies.",
+    "tags": [
+      "universe",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  }
+]

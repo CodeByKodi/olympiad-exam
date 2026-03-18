@@ -86,7 +86,7 @@ function normalizeQuestion(q, _examId, _gradeId) {
  */
 export async function loadPackDefinitions(examId, gradeId) {
   const base = `question-bank/${examId}/grade${gradeId}/packs`;
-  const known = ['practice-1', 'practice-2', 'practice-3', 'practice-4', 'practice-5', 'practice-6', 'practice-7', 'practice-8', 'practice-9', 'mock-1', 'mock-2'];
+  const known = ['practice-1', 'practice-2', 'practice-3', 'practice-4', 'practice-5', 'practice-6', 'practice-7', 'practice-8', 'practice-9', 'practice-10', 'practice-11', 'practice-12', 'mock-1', 'mock-2'];
 
   const results = await Promise.all(
     known.map(async (id) => {

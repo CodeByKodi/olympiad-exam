@@ -1,0 +1,702 @@
+[
+  {
+    "id": "igko-g8-social-studies-0001",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Social Studies",
+    "subtopic": "Social Studies Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the study of the past?",
+    "image": "",
+    "options": [
+      "Geography",
+      "History",
+      "Science",
+      "Maths"
+    ],
+    "correctAnswer": 1,
+    "explanation": "History studies the past.",
+    "tags": [
+      "social-studies",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-social-studies-0002",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Social Studies",
+    "subtopic": "Social Studies Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a mode of transport?",
+    "image": "",
+    "options": [
+      "Book",
+      "Train",
+      "Pen",
+      "Table"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Train is a transport.",
+    "tags": [
+      "social-studies",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-social-studies-0003",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Social Studies",
+    "subtopic": "Social Studies Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the leader of a country?",
+    "image": "",
+    "options": [
+      "Teacher",
+      "President",
+      "Doctor",
+      "Driver"
+    ],
+    "correctAnswer": 1,
+    "explanation": "President leads the country.",
+    "tags": [
+      "social-studies",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-social-studies-0004",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Social Studies",
+    "subtopic": "Social Studies Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which document gives rights to citizens?",
+    "image": "",
+    "options": [
+      "Report",
+      "Constitution",
+      "Letter",
+      "Bill"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Constitution gives rights.",
+    "tags": [
+      "social-studies",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-social-studies-0005",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Social Studies",
+    "subtopic": "Social Studies Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a drawing of Earth's surface?",
+    "image": "",
+    "options": [
+      "Painting",
+      "Map",
+      "Photo",
+      "Sketch"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A map shows the surface.",
+    "tags": [
+      "social-studies",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-social-studies-0006",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Social Studies",
+    "subtopic": "Social Studies Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which direction does the Sun rise?",
+    "image": "",
+    "options": [
+      "West",
+      "North",
+      "East",
+      "South"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sun rises in the East.",
+    "tags": [
+      "social-studies",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-social-studies-0007",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Social Studies",
+    "subtopic": "Social Studies Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call people who make laws?",
+    "image": "",
+    "options": [
+      "Judges",
+      "Lawmakers",
+      "Doctors",
+      "Engineers"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Lawmakers make laws.",
+    "tags": [
+      "social-studies",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-social-studies-0008",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Social Studies",
+    "subtopic": "Social Studies Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is the largest democracy?",
+    "image": "",
+    "options": [
+      "USA",
+      "India",
+      "China",
+      "Russia"
+    ],
+    "correctAnswer": 1,
+    "explanation": "India is the largest democracy.",
+    "tags": [
+      "social-studies",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-social-studies-0009",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Social Studies",
+    "subtopic": "Social Studies Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the study of Earth?",
+    "image": "",
+    "options": [
+      "History",
+      "Geography",
+      "Science",
+      "Maths"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Geography studies Earth.",
+    "tags": [
+      "social-studies",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-social-studies-0010",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Social Studies",
+    "subtopic": "Social Studies Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which river is the longest in India?",
+    "image": "",
+    "options": [
+      "Yamuna",
+      "Ganga",
+      "Brahmaputra",
+      "Godavari"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ganga is one of the longest.",
+    "tags": [
+      "social-studies",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-social-studies-0011",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Social Studies",
+    "subtopic": "Social Studies Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the head of a state government?",
+    "image": "",
+    "options": [
+      "President",
+      "Prime Minister",
+      "Chief Minister",
+      "Governor"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Chief Minister leads the state.",
+    "tags": [
+      "social-studies",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-social-studies-0012",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Social Studies",
+    "subtopic": "Social Studies Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which document is the supreme law of India?",
+    "image": "",
+    "options": [
+      "Report",
+      "Constitution",
+      "Bill",
+      "Letter"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Constitution is the supreme law.",
+    "tags": [
+      "social-studies",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-social-studies-0013",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Social Studies",
+    "subtopic": "Social Studies Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the study of maps?",
+    "image": "",
+    "options": [
+      "History",
+      "Cartography",
+      "Science",
+      "Maths"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cartography is map-making.",
+    "tags": [
+      "social-studies",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-social-studies-0014",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Social Studies",
+    "subtopic": "Social Studies Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which direction is opposite to North?",
+    "image": "",
+    "options": [
+      "East",
+      "West",
+      "South",
+      "Up"
+    ],
+    "correctAnswer": 2,
+    "explanation": "South is opposite to North.",
+    "tags": [
+      "social-studies",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-social-studies-0015",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Social Studies",
+    "subtopic": "Social Studies Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a person who represents our area in Parliament?",
+    "image": "",
+    "options": [
+      "Judge",
+      "MP",
+      "Doctor",
+      "Teacher"
+    ],
+    "correctAnswer": 1,
+    "explanation": "MP is Member of Parliament.",
+    "tags": [
+      "social-studies",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-social-studies-0016",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Social Studies",
+    "subtopic": "Social Studies Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is the oldest civilisation?",
+    "image": "",
+    "options": [
+      "Roman",
+      "Indus Valley",
+      "Greek",
+      "Egyptian"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Indus Valley is ancient.",
+    "tags": [
+      "social-studies",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-social-studies-0017",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Social Studies",
+    "subtopic": "Social Studies Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the line that divides Earth into hemispheres?",
+    "image": "",
+    "options": [
+      "Border",
+      "Equator",
+      "Pole",
+      "Axis"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Equator divides the Earth.",
+    "tags": [
+      "social-studies",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-social-studies-0018",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Social Studies",
+    "subtopic": "Social Studies Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which system did ancient India use for numbers?",
+    "image": "",
+    "options": [
+      "Roman",
+      "Decimal",
+      "Binary",
+      "Octal"
+    ],
+    "correctAnswer": 1,
+    "explanation": "India contributed to decimal system.",
+    "tags": [
+      "social-studies",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-social-studies-0019",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Social Studies",
+    "subtopic": "Social Studies Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the right to vote?",
+    "image": "",
+    "options": [
+      "Duty",
+      "Franchise",
+      "Law",
+      "Rule"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Franchise is the right to vote.",
+    "tags": [
+      "social-studies",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-social-studies-0020",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Social Studies",
+    "subtopic": "Social Studies Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which ocean is the smallest?",
+    "image": "",
+    "options": [
+      "Pacific",
+      "Atlantic",
+      "Indian",
+      "Arctic"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Arctic is the smallest ocean.",
+    "tags": [
+      "social-studies",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-social-studies-0021",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Social Studies",
+    "subtopic": "Social Studies Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a period in history?",
+    "image": "",
+    "options": [
+      "Era",
+      "Day",
+      "Hour",
+      "Minute"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Era is a historical period.",
+    "tags": [
+      "social-studies",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-social-studies-0022",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Social Studies",
+    "subtopic": "Social Studies Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which country is our eastern neighbour?",
+    "image": "",
+    "options": [
+      "Pakistan",
+      "Bangladesh",
+      "China",
+      "Sri Lanka"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bangladesh is to the east.",
+    "tags": [
+      "social-studies",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-social-studies-0023",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Social Studies",
+    "subtopic": "Social Studies Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the study of coins?",
+    "image": "",
+    "options": [
+      "Biology",
+      "Numismatics",
+      "Chemistry",
+      "Physics"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Numismatics studies coins.",
+    "tags": [
+      "social-studies",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-social-studies-0024",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Social Studies",
+    "subtopic": "Social Studies Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is the largest desert in the world?",
+    "image": "",
+    "options": [
+      "Thar",
+      "Sahara",
+      "Gobi",
+      "Kalahari"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sahara is the largest desert.",
+    "tags": [
+      "social-studies",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g8-social-studies-0025",
+    "exam": "igko",
+    "grade": "8",
+    "topic": "Social Studies",
+    "subtopic": "Social Studies Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the system of rules for a country?",
+    "image": "",
+    "options": [
+      "Law",
+      "Constitution",
+      "Rule",
+      "Order"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Constitution sets the rules.",
+    "tags": [
+      "social-studies",
+      "igko",
+      "grade8"
+    ],
+    "sourceType": "generated"
+  }
+]

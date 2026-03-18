@@ -1,15 +1,15 @@
 {
-  "packId": "igko-grade9-monuments-practice-01",
+  "packId": "igko-grade9-india-and-the-world-practice-01",
   "exam": "igko",
   "grade": 9,
   "mode": "practice",
-  "title": "Monuments Practice Test",
-  "topic": "Monuments",
+  "title": "India and the World Practice",
+  "topic": "India and the World",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "Monuments"
+      "India and the World"
     ],
     "difficultyMix": {
       "easy": 15,

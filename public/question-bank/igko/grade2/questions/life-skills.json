@@ -1,0 +1,702 @@
+[
+  {
+    "id": "igko-g2-life-skills-0001",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Life Skills",
+    "subtopic": "Life Skills Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What should we do when we meet someone?",
+    "image": "",
+    "options": [
+      "Ignore them",
+      "Greet them",
+      "Run away",
+      "Shout"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Greeting is polite.",
+    "tags": [
+      "life-skills",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-life-skills-0002",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Life Skills",
+    "subtopic": "Life Skills Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What should we say when we receive help?",
+    "image": "",
+    "options": [
+      "Nothing",
+      "Thank you",
+      "Go away",
+      "No"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Thank you shows gratitude.",
+    "tags": [
+      "life-skills",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-life-skills-0003",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Life Skills",
+    "subtopic": "Life Skills Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What should we do when we make a mistake?",
+    "image": "",
+    "options": [
+      "Hide it",
+      "Say sorry",
+      "Blame others",
+      "Cry"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Saying sorry is right.",
+    "tags": [
+      "life-skills",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-life-skills-0004",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Life Skills",
+    "subtopic": "Life Skills Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How should we treat our friends?",
+    "image": "",
+    "options": [
+      "Mean",
+      "Kind",
+      "Selfish",
+      "Rude"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kindness builds friendship.",
+    "tags": [
+      "life-skills",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-life-skills-0005",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Life Skills",
+    "subtopic": "Life Skills Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What should we do before eating?",
+    "image": "",
+    "options": [
+      "Run",
+      "Wash hands",
+      "Sleep",
+      "Play"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Washing hands keeps us healthy.",
+    "tags": [
+      "life-skills",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-life-skills-0006",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Life Skills",
+    "subtopic": "Life Skills Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is important in a team?",
+    "image": "",
+    "options": [
+      "Fighting",
+      "Cooperation",
+      "Being alone",
+      "Blaming"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cooperation helps teams.",
+    "tags": [
+      "life-skills",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-life-skills-0007",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Life Skills",
+    "subtopic": "Life Skills Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What should we do when we feel angry?",
+    "image": "",
+    "options": [
+      "Shout",
+      "Take deep breaths",
+      "Hit someone",
+      "Cry"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Deep breaths help calm down.",
+    "tags": [
+      "life-skills",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-life-skills-0008",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Life Skills",
+    "subtopic": "Life Skills Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How should we talk to elders?",
+    "image": "",
+    "options": [
+      "Rudely",
+      "Respectfully",
+      "Loudly",
+      "Ignoring"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Respect is important.",
+    "tags": [
+      "life-skills",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-life-skills-0009",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Life Skills",
+    "subtopic": "Life Skills Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What should we do with our waste?",
+    "image": "",
+    "options": [
+      "Throw anywhere",
+      "Put in bin",
+      "Leave on road",
+      "Burn"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Use bins for waste.",
+    "tags": [
+      "life-skills",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-life-skills-0010",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Life Skills",
+    "subtopic": "Life Skills Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What helps us make good choices?",
+    "image": "",
+    "options": [
+      "Impulse",
+      "Thinking",
+      "Copying",
+      "Guessing"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Thinking helps decide.",
+    "tags": [
+      "life-skills",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-life-skills-0011",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Life Skills",
+    "subtopic": "Life Skills Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What should we do when we need help?",
+    "image": "",
+    "options": [
+      "Give up",
+      "Ask for help",
+      "Hide",
+      "Cry"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Asking for help is okay.",
+    "tags": [
+      "life-skills",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-life-skills-0012",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Life Skills",
+    "subtopic": "Life Skills Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How should we behave in a queue?",
+    "image": "",
+    "options": [
+      "Push others",
+      "Wait our turn",
+      "Skip the line",
+      "Shout"
+    ],
+    "correctAnswer": 1,
+    "explanation": "We wait our turn in a queue.",
+    "tags": [
+      "life-skills",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-life-skills-0013",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Life Skills",
+    "subtopic": "Life Skills Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What should we do when we break something?",
+    "image": "",
+    "options": [
+      "Hide it",
+      "Own up and apologise",
+      "Blame others",
+      "Run away"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Owning up is the right thing.",
+    "tags": [
+      "life-skills",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-life-skills-0014",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Life Skills",
+    "subtopic": "Life Skills Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How can we show empathy?",
+    "image": "",
+    "options": [
+      "Ignore others",
+      "Understand their feelings",
+      "Laugh at them",
+      "Walk away"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Empathy means understanding feelings.",
+    "tags": [
+      "life-skills",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-life-skills-0015",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Life Skills",
+    "subtopic": "Life Skills Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What should we do before crossing the road?",
+    "image": "",
+    "options": [
+      "Run",
+      "Look both ways",
+      "Close eyes",
+      "Jump"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Look both ways for safety.",
+    "tags": [
+      "life-skills",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-life-skills-0016",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Life Skills",
+    "subtopic": "Life Skills Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How should we handle failure?",
+    "image": "",
+    "options": [
+      "Give up",
+      "Learn and try again",
+      "Blame others",
+      "Cry"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Learning from failure helps us grow.",
+    "tags": [
+      "life-skills",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-life-skills-0017",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Life Skills",
+    "subtopic": "Life Skills Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is important in a friendship?",
+    "image": "",
+    "options": [
+      "Fighting",
+      "Trust and respect",
+      "Lying",
+      "Ignoring"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trust and respect build friendship.",
+    "tags": [
+      "life-skills",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-life-skills-0018",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Life Skills",
+    "subtopic": "Life Skills Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How should we use our time wisely?",
+    "image": "",
+    "options": [
+      "Waste it",
+      "Plan and prioritise",
+      "Sleep all day",
+      "Watch only TV"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Planning helps use time well.",
+    "tags": [
+      "life-skills",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-life-skills-0019",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Life Skills",
+    "subtopic": "Life Skills Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What should we do when someone is sad?",
+    "image": "",
+    "options": [
+      "Ignore them",
+      "Comfort them",
+      "Laugh",
+      "Leave"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Comforting shows care.",
+    "tags": [
+      "life-skills",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-life-skills-0020",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Life Skills",
+    "subtopic": "Life Skills Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How can we manage stress?",
+    "image": "",
+    "options": [
+      "Worry more",
+      "Take breaks and relax",
+      "Work non-stop",
+      "Avoid sleep"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Breaks and relaxation help.",
+    "tags": [
+      "life-skills",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-life-skills-0021",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Life Skills",
+    "subtopic": "Life Skills Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What should we do with our belongings?",
+    "image": "",
+    "options": [
+      "Leave everywhere",
+      "Keep them organised",
+      "Throw away",
+      "Lose them"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Organising keeps things safe.",
+    "tags": [
+      "life-skills",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-life-skills-0022",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Life Skills",
+    "subtopic": "Life Skills Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How should we respond to criticism?",
+    "image": "",
+    "options": [
+      "Get angry",
+      "Listen and learn",
+      "Ignore",
+      "Cry"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Listening helps us improve.",
+    "tags": [
+      "life-skills",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-life-skills-0023",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Life Skills",
+    "subtopic": "Life Skills Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is good communication?",
+    "image": "",
+    "options": [
+      "Shouting",
+      "Listening and speaking clearly",
+      "Interrupting",
+      "Ignoring"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Good communication involves listening.",
+    "tags": [
+      "life-skills",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-life-skills-0024",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Life Skills",
+    "subtopic": "Life Skills Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How should we treat people who are different?",
+    "image": "",
+    "options": [
+      "Bully them",
+      "Respect them",
+      "Ignore them",
+      "Laugh at them"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Respect everyone equally.",
+    "tags": [
+      "life-skills",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-life-skills-0025",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Life Skills",
+    "subtopic": "Life Skills Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What should we do when we see someone fall?",
+    "image": "",
+    "options": [
+      "Laugh",
+      "Help them up",
+      "Walk away",
+      "Ignore"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Helping shows kindness.",
+    "tags": [
+      "life-skills",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  }
+]

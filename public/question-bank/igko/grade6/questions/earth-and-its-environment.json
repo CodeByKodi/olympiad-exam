@@ -1,0 +1,702 @@
+[
+  {
+    "id": "igko-g6-earth-and-its-environment-0001",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "Earth and Its Environment",
+    "subtopic": "Earth and Its Environment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What covers most of the Earth's surface?",
+    "image": "",
+    "options": [
+      "Land",
+      "Water",
+      "Sand",
+      "Rocks"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Water covers most of Earth.",
+    "tags": [
+      "earth-and-its-environment",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-earth-and-its-environment-0002",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "Earth and Its Environment",
+    "subtopic": "Earth and Its Environment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which gas do we breathe in?",
+    "image": "",
+    "options": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "correctAnswer": 1,
+    "explanation": "We breathe in oxygen.",
+    "tags": [
+      "earth-and-its-environment",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-earth-and-its-environment-0003",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "Earth and Its Environment",
+    "subtopic": "Earth and Its Environment Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the layer of air around Earth?",
+    "image": "",
+    "options": [
+      "Ocean",
+      "Atmosphere",
+      "Crust",
+      "Mantle"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Atmosphere is the air layer.",
+    "tags": [
+      "earth-and-its-environment",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-earth-and-its-environment-0004",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "Earth and Its Environment",
+    "subtopic": "Earth and Its Environment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a natural resource?",
+    "image": "",
+    "options": [
+      "Plastic",
+      "Water",
+      "Glass",
+      "Steel"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Water is a natural resource.",
+    "tags": [
+      "earth-and-its-environment",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-earth-and-its-environment-0005",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "Earth and Its Environment",
+    "subtopic": "Earth and Its Environment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do plants give out that we breathe?",
+    "image": "",
+    "options": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Nitrogen",
+      "Smoke"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Plants give out oxygen.",
+    "tags": [
+      "earth-and-its-environment",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-earth-and-its-environment-0006",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "Earth and Its Environment",
+    "subtopic": "Earth and Its Environment Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a way to save water?",
+    "image": "",
+    "options": [
+      "Leave tap open",
+      "Fix leaks",
+      "Waste water",
+      "Use more"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fixing leaks saves water.",
+    "tags": [
+      "earth-and-its-environment",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-earth-and-its-environment-0007",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "Earth and Its Environment",
+    "subtopic": "Earth and Its Environment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call throwing waste in the right place?",
+    "image": "",
+    "options": [
+      "Littering",
+      "Recycling",
+      "Disposal",
+      "Dumping"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Proper disposal helps the environment.",
+    "tags": [
+      "earth-and-its-environment",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-earth-and-its-environment-0008",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "Earth and Its Environment",
+    "subtopic": "Earth and Its Environment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a renewable resource?",
+    "image": "",
+    "options": [
+      "Coal",
+      "Solar energy",
+      "Petrol",
+      "Natural gas"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Solar energy is renewable.",
+    "tags": [
+      "earth-and-its-environment",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-earth-and-its-environment-0009",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "Earth and Its Environment",
+    "subtopic": "Earth and Its Environment Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What causes pollution?",
+    "image": "",
+    "options": [
+      "Planting trees",
+      "Clean air",
+      "Smoke from vehicles",
+      "Recycling"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Vehicle smoke causes pollution.",
+    "tags": [
+      "earth-and-its-environment",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-earth-and-its-environment-0010",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "Earth and Its Environment",
+    "subtopic": "Earth and Its Environment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which animal is in danger of extinction?",
+    "image": "",
+    "options": [
+      "Dog",
+      "Tiger",
+      "Cow",
+      "Goat"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tigers are endangered.",
+    "tags": [
+      "earth-and-its-environment",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-earth-and-its-environment-0011",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "Earth and Its Environment",
+    "subtopic": "Earth and Its Environment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call rain that is very acidic?",
+    "image": "",
+    "options": [
+      "Acid rain",
+      "Snow",
+      "Hail",
+      "Dew"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Acid rain harms the environment.",
+    "tags": [
+      "earth-and-its-environment",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-earth-and-its-environment-0012",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "Earth and Its Environment",
+    "subtopic": "Earth and Its Environment Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which helps reduce global warming?",
+    "image": "",
+    "options": [
+      "More cars",
+      "Planting trees",
+      "Burning coal",
+      "Cutting forests"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trees absorb carbon dioxide.",
+    "tags": [
+      "earth-and-its-environment",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-earth-and-its-environment-0013",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "Earth and Its Environment",
+    "subtopic": "Earth and Its Environment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the home of an animal?",
+    "image": "",
+    "options": [
+      "School",
+      "Habitat",
+      "Office",
+      "Market"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Habitat is where animals live.",
+    "tags": [
+      "earth-and-its-environment",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-earth-and-its-environment-0014",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "Earth and Its Environment",
+    "subtopic": "Earth and Its Environment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is biodegradable?",
+    "image": "",
+    "options": [
+      "Plastic bag",
+      "Banana peel",
+      "Glass",
+      "Metal"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Banana peel decomposes naturally.",
+    "tags": [
+      "earth-and-its-environment",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-earth-and-its-environment-0015",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "Earth and Its Environment",
+    "subtopic": "Earth and Its Environment Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What causes soil erosion?",
+    "image": "",
+    "options": [
+      "Planting trees",
+      "Deforestation",
+      "Rain harvesting",
+      "Recycling"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Deforestation causes erosion.",
+    "tags": [
+      "earth-and-its-environment",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-earth-and-its-environment-0016",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "Earth and Its Environment",
+    "subtopic": "Earth and Its Environment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which gas do we breathe out?",
+    "image": "",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "correctAnswer": 1,
+    "explanation": "We breathe out carbon dioxide.",
+    "tags": [
+      "earth-and-its-environment",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-earth-and-its-environment-0017",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "Earth and Its Environment",
+    "subtopic": "Earth and Its Environment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call saving resources for the future?",
+    "image": "",
+    "options": [
+      "Wasting",
+      "Conservation",
+      "Pollution",
+      "Destruction"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Conservation saves resources.",
+    "tags": [
+      "earth-and-its-environment",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-earth-and-its-environment-0018",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "Earth and Its Environment",
+    "subtopic": "Earth and Its Environment Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a greenhouse gas?",
+    "image": "",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CO2 is a greenhouse gas.",
+    "tags": [
+      "earth-and-its-environment",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-earth-and-its-environment-0019",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "Earth and Its Environment",
+    "subtopic": "Earth and Its Environment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the variety of life on Earth?",
+    "image": "",
+    "options": [
+      "Pollution",
+      "Biodiversity",
+      "Erosion",
+      "Deforestation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Biodiversity means variety of life.",
+    "tags": [
+      "earth-and-its-environment",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-earth-and-its-environment-0020",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "Earth and Its Environment",
+    "subtopic": "Earth and Its Environment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which helps in composting?",
+    "image": "",
+    "options": [
+      "Plastic",
+      "Kitchen waste",
+      "Metal",
+      "Glass"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kitchen waste can be composted.",
+    "tags": [
+      "earth-and-its-environment",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-earth-and-its-environment-0021",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "Earth and Its Environment",
+    "subtopic": "Earth and Its Environment Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the layer that protects Earth from UV rays?",
+    "image": "",
+    "options": [
+      "Cloud layer",
+      "Ozone layer",
+      "Dust layer",
+      "Water layer"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ozone layer protects us.",
+    "tags": [
+      "earth-and-its-environment",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-earth-and-its-environment-0022",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "Earth and Its Environment",
+    "subtopic": "Earth and Its Environment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which activity is eco-friendly?",
+    "image": "",
+    "options": [
+      "Using plastic bags",
+      "Using cloth bags",
+      "Burning waste",
+      "Littering"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cloth bags are reusable.",
+    "tags": [
+      "earth-and-its-environment",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-earth-and-its-environment-0023",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "Earth and Its Environment",
+    "subtopic": "Earth and Its Environment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the process of reusing materials?",
+    "image": "",
+    "options": [
+      "Recycling",
+      "Burning",
+      "Throwing",
+      "Wasting"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Recycling reuses materials.",
+    "tags": [
+      "earth-and-its-environment",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-earth-and-its-environment-0024",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "Earth and Its Environment",
+    "subtopic": "Earth and Its Environment Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a non-renewable resource?",
+    "image": "",
+    "options": [
+      "Solar energy",
+      "Wind",
+      "Coal",
+      "Water"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Coal is non-renewable.",
+    "tags": [
+      "earth-and-its-environment",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g6-earth-and-its-environment-0025",
+    "exam": "igko",
+    "grade": "6",
+    "topic": "Earth and Its Environment",
+    "subtopic": "Earth and Its Environment Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the layer where weather happens?",
+    "image": "",
+    "options": [
+      "Space",
+      "Troposphere",
+      "Stratosphere",
+      "Core"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Troposphere has weather.",
+    "tags": [
+      "earth-and-its-environment",
+      "igko",
+      "grade6"
+    ],
+    "sourceType": "generated"
+  }
+]

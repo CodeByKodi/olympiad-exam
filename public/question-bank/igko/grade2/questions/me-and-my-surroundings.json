@@ -1,0 +1,702 @@
+[
+  {
+    "id": "igko-g2-me-and-my-surroundings-0001",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Me and My Surroundings",
+    "subtopic": "Me and My Surroundings Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to see things around us?",
+    "image": "",
+    "options": [
+      "Ears",
+      "Eyes",
+      "Nose",
+      "Mouth"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Eyes help us see.",
+    "tags": [
+      "me-and-my-surroundings",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-me-and-my-surroundings-0002",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Me and My Surroundings",
+    "subtopic": "Me and My Surroundings Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which sense helps us hear sounds?",
+    "image": "",
+    "options": [
+      "Touch",
+      "Smell",
+      "Hearing",
+      "Taste"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Our ears help us hear.",
+    "tags": [
+      "me-and-my-surroundings",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-me-and-my-surroundings-0003",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Me and My Surroundings",
+    "subtopic": "Me and My Surroundings Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the place where we live?",
+    "image": "",
+    "options": [
+      "School",
+      "Home",
+      "Park",
+      "Shop"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Home is where we live.",
+    "tags": [
+      "me-and-my-surroundings",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-me-and-my-surroundings-0004",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Me and My Surroundings",
+    "subtopic": "Me and My Surroundings Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which room do we use for cooking?",
+    "image": "",
+    "options": [
+      "Bedroom",
+      "Bathroom",
+      "Kitchen",
+      "Living room"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kitchen is for cooking.",
+    "tags": [
+      "me-and-my-surroundings",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-me-and-my-surroundings-0005",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Me and My Surroundings",
+    "subtopic": "Me and My Surroundings Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call people who live near us?",
+    "image": "",
+    "options": [
+      "Strangers",
+      "Neighbours",
+      "Teachers",
+      "Doctors"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Neighbours live nearby.",
+    "tags": [
+      "me-and-my-surroundings",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-me-and-my-surroundings-0006",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Me and My Surroundings",
+    "subtopic": "Me and My Surroundings Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which day comes after Monday?",
+    "image": "",
+    "options": [
+      "Sunday",
+      "Tuesday",
+      "Wednesday",
+      "Friday"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tuesday comes after Monday.",
+    "tags": [
+      "me-and-my-surroundings",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-me-and-my-surroundings-0007",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Me and My Surroundings",
+    "subtopic": "Me and My Surroundings Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many days are in a week?",
+    "image": "",
+    "options": [
+      "Five",
+      "Six",
+      "Seven",
+      "Eight"
+    ],
+    "correctAnswer": 2,
+    "explanation": "There are seven days in a week.",
+    "tags": [
+      "me-and-my-surroundings",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-me-and-my-surroundings-0008",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Me and My Surroundings",
+    "subtopic": "Me and My Surroundings Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to tell the time?",
+    "image": "",
+    "options": [
+      "Ruler",
+      "Clock",
+      "Scale",
+      "Compass"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A clock shows time.",
+    "tags": [
+      "me-and-my-surroundings",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-me-and-my-surroundings-0009",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Me and My Surroundings",
+    "subtopic": "Me and My Surroundings Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which season comes after summer?",
+    "image": "",
+    "options": [
+      "Spring",
+      "Winter",
+      "Monsoon",
+      "Autumn"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Monsoon comes after summer in India.",
+    "tags": [
+      "me-and-my-surroundings",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-me-and-my-surroundings-0010",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Me and My Surroundings",
+    "subtopic": "Me and My Surroundings Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the people in our family?",
+    "image": "",
+    "options": [
+      "Friends",
+      "Relatives",
+      "Strangers",
+      "Neighbours"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Family members are relatives.",
+    "tags": [
+      "me-and-my-surroundings",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-me-and-my-surroundings-0011",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Me and My Surroundings",
+    "subtopic": "Me and My Surroundings Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which sense helps us smell?",
+    "image": "",
+    "options": [
+      "Ears",
+      "Eyes",
+      "Nose",
+      "Tongue"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Our nose helps us smell.",
+    "tags": [
+      "me-and-my-surroundings",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-me-and-my-surroundings-0012",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Me and My Surroundings",
+    "subtopic": "Me and My Surroundings Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the place where we study?",
+    "image": "",
+    "options": [
+      "Home",
+      "School",
+      "Park",
+      "Market"
+    ],
+    "correctAnswer": 1,
+    "explanation": "School is for learning.",
+    "tags": [
+      "me-and-my-surroundings",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-me-and-my-surroundings-0013",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Me and My Surroundings",
+    "subtopic": "Me and My Surroundings Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many months are in a year?",
+    "image": "",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "correctAnswer": 2,
+    "explanation": "There are 12 months in a year.",
+    "tags": [
+      "me-and-my-surroundings",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-me-and-my-surroundings-0014",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Me and My Surroundings",
+    "subtopic": "Me and My Surroundings Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to write?",
+    "image": "",
+    "options": [
+      "Spoon",
+      "Pen",
+      "Plate",
+      "Cup"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A pen is for writing.",
+    "tags": [
+      "me-and-my-surroundings",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-me-and-my-surroundings-0015",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Me and My Surroundings",
+    "subtopic": "Me and My Surroundings Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a part of our body?",
+    "image": "",
+    "options": [
+      "Chair",
+      "Hand",
+      "Table",
+      "Book"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hand is a body part.",
+    "tags": [
+      "me-and-my-surroundings",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-me-and-my-surroundings-0016",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Me and My Surroundings",
+    "subtopic": "Me and My Surroundings Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we wear on our feet?",
+    "image": "",
+    "options": [
+      "Hat",
+      "Shirt",
+      "Shoes",
+      "Gloves"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Shoes go on our feet.",
+    "tags": [
+      "me-and-my-surroundings",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-me-and-my-surroundings-0017",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Me and My Surroundings",
+    "subtopic": "Me and My Surroundings Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which animal says \"meow\"?",
+    "image": "",
+    "options": [
+      "Dog",
+      "Cat",
+      "Cow",
+      "Duck"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cats say meow.",
+    "tags": [
+      "me-and-my-surroundings",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-me-and-my-surroundings-0018",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Me and My Surroundings",
+    "subtopic": "Me and My Surroundings Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we drink when we are thirsty?",
+    "image": "",
+    "options": [
+      "Food",
+      "Water",
+      "Sand",
+      "Stone"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Water quenches thirst.",
+    "tags": [
+      "me-and-my-surroundings",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-me-and-my-surroundings-0019",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Me and My Surroundings",
+    "subtopic": "Me and My Surroundings Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which comes first: morning or night?",
+    "image": "",
+    "options": [
+      "Night",
+      "Morning",
+      "Both",
+      "Neither"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Morning comes before night.",
+    "tags": [
+      "me-and-my-surroundings",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-me-and-my-surroundings-0020",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Me and My Surroundings",
+    "subtopic": "Me and My Surroundings Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we sit on?",
+    "image": "",
+    "options": [
+      "Chair",
+      "Ceiling",
+      "Wall",
+      "Door"
+    ],
+    "correctAnswer": 0,
+    "explanation": "We sit on a chair.",
+    "tags": [
+      "me-and-my-surroundings",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-me-and-my-surroundings-0021",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Me and My Surroundings",
+    "subtopic": "Me and My Surroundings Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many legs does a person have?",
+    "image": "",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Humans have two legs.",
+    "tags": [
+      "me-and-my-surroundings",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-me-and-my-surroundings-0022",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Me and My Surroundings",
+    "subtopic": "Me and My Surroundings Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a fruit?",
+    "image": "",
+    "options": [
+      "Carrot",
+      "Apple",
+      "Bread",
+      "Rice"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Apple is a fruit.",
+    "tags": [
+      "me-and-my-surroundings",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-me-and-my-surroundings-0023",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Me and My Surroundings",
+    "subtopic": "Me and My Surroundings Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to cut paper?",
+    "image": "",
+    "options": [
+      "Eraser",
+      "Scissors",
+      "Glue",
+      "Crayon"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Scissors cut paper.",
+    "tags": [
+      "me-and-my-surroundings",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-me-and-my-surroundings-0024",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Me and My Surroundings",
+    "subtopic": "Me and My Surroundings Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a vegetable?",
+    "image": "",
+    "options": [
+      "Banana",
+      "Tomato",
+      "Mango",
+      "Orange"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tomato is a vegetable.",
+    "tags": [
+      "me-and-my-surroundings",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-me-and-my-surroundings-0025",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Me and My Surroundings",
+    "subtopic": "Me and My Surroundings Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to read books?",
+    "image": "",
+    "options": [
+      "Ears",
+      "Eyes",
+      "Nose",
+      "Hands"
+    ],
+    "correctAnswer": 1,
+    "explanation": "We use our eyes to read.",
+    "tags": [
+      "me-and-my-surroundings",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  }
+]

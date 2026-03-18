@@ -1,0 +1,702 @@
+[
+  {
+    "id": "igko-g4-environment-and-its-conservation-0001",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Environment and its Conservation",
+    "subtopic": "Environment and its Conservation Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What does \"recycle\" mean?",
+    "image": "",
+    "options": [
+      "Throw away",
+      "Use again",
+      "Burn",
+      "Bury"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Recycle means use again.",
+    "tags": [
+      "environment-and-its-conservation",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-environment-and-its-conservation-0002",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Environment and its Conservation",
+    "subtopic": "Environment and its Conservation Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which helps reduce pollution?",
+    "image": "",
+    "options": [
+      "More cars",
+      "Planting trees",
+      "Burning waste",
+      "Plastic bags"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trees clean the air.",
+    "tags": [
+      "environment-and-its-conservation",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-environment-and-its-conservation-0003",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Environment and its Conservation",
+    "subtopic": "Environment and its Conservation Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What should we do with plastic bags?",
+    "image": "",
+    "options": [
+      "Reuse",
+      "Burn",
+      "Throw in river",
+      "Leave anywhere"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Reusing reduces waste.",
+    "tags": [
+      "environment-and-its-conservation",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-environment-and-its-conservation-0004",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Environment and its Conservation",
+    "subtopic": "Environment and its Conservation Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a renewable resource?",
+    "image": "",
+    "options": [
+      "Coal",
+      "Wind",
+      "Petrol",
+      "Diesel"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Wind energy is renewable.",
+    "tags": [
+      "environment-and-its-conservation",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-environment-and-its-conservation-0005",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Environment and its Conservation",
+    "subtopic": "Environment and its Conservation Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What causes air pollution?",
+    "image": "",
+    "options": [
+      "Trees",
+      "Vehicle smoke",
+      "Rain",
+      "Plants"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Vehicle smoke pollutes.",
+    "tags": [
+      "environment-and-its-conservation",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-environment-and-its-conservation-0006",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Environment and its Conservation",
+    "subtopic": "Environment and its Conservation Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Why should we save water?",
+    "image": "",
+    "options": [
+      "It is free",
+      "It is limited",
+      "It is cold",
+      "It is hot"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Water is a limited resource.",
+    "tags": [
+      "environment-and-its-conservation",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-environment-and-its-conservation-0007",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Environment and its Conservation",
+    "subtopic": "Environment and its Conservation Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call protecting nature?",
+    "image": "",
+    "options": [
+      "Pollution",
+      "Conservation",
+      "Destruction",
+      "Waste"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Conservation protects nature.",
+    "tags": [
+      "environment-and-its-conservation",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-environment-and-its-conservation-0008",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Environment and its Conservation",
+    "subtopic": "Environment and its Conservation Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which animal is endangered?",
+    "image": "",
+    "options": [
+      "Dog",
+      "Tiger",
+      "Cow",
+      "Goat"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tigers are endangered.",
+    "tags": [
+      "environment-and-its-conservation",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-environment-and-its-conservation-0009",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Environment and its Conservation",
+    "subtopic": "Environment and its Conservation Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is global warming?",
+    "image": "",
+    "options": [
+      "Earth getting colder",
+      "Earth getting warmer",
+      "More rain",
+      "Less sun"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Earth is getting warmer.",
+    "tags": [
+      "environment-and-its-conservation",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-environment-and-its-conservation-0010",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Environment and its Conservation",
+    "subtopic": "Environment and its Conservation Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How can we save electricity?",
+    "image": "",
+    "options": [
+      "Leave lights on",
+      "Switch off when not needed",
+      "Use more AC",
+      "Keep TV on"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Switch off to save.",
+    "tags": [
+      "environment-and-its-conservation",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-environment-and-its-conservation-0011",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Environment and its Conservation",
+    "subtopic": "Environment and its Conservation Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call protecting endangered species?",
+    "image": "",
+    "options": [
+      "Hunting",
+      "Wildlife conservation",
+      "Pollution",
+      "Deforestation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Wildlife conservation protects species.",
+    "tags": [
+      "environment-and-its-conservation",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-environment-and-its-conservation-0012",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Environment and its Conservation",
+    "subtopic": "Environment and its Conservation Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which helps reduce plastic waste?",
+    "image": "",
+    "options": [
+      "Use more plastic",
+      "Carry cloth bags",
+      "Burn plastic",
+      "Throw in sea"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cloth bags reduce plastic.",
+    "tags": [
+      "environment-and-its-conservation",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-environment-and-its-conservation-0013",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Environment and its Conservation",
+    "subtopic": "Environment and its Conservation Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the process of planting trees?",
+    "image": "",
+    "options": [
+      "Deforestation",
+      "Afforestation",
+      "Pollution",
+      "Erosion"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Afforestation is planting trees.",
+    "tags": [
+      "environment-and-its-conservation",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-environment-and-its-conservation-0014",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Environment and its Conservation",
+    "subtopic": "Environment and its Conservation Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a way to conserve water at home?",
+    "image": "",
+    "options": [
+      "Long showers",
+      "Fix leaking taps",
+      "Leave tap open",
+      "Waste water"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fixing leaks saves water.",
+    "tags": [
+      "environment-and-its-conservation",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-environment-and-its-conservation-0015",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Environment and its Conservation",
+    "subtopic": "Environment and its Conservation Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What causes ocean pollution?",
+    "image": "",
+    "options": [
+      "Fish",
+      "Plastic waste",
+      "Coral",
+      "Seaweed"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Plastic pollutes oceans.",
+    "tags": [
+      "environment-and-its-conservation",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-environment-and-its-conservation-0016",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Environment and its Conservation",
+    "subtopic": "Environment and its Conservation Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which energy source does not pollute?",
+    "image": "",
+    "options": [
+      "Coal",
+      "Solar",
+      "Diesel",
+      "Petrol"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Solar energy is clean.",
+    "tags": [
+      "environment-and-its-conservation",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-environment-and-its-conservation-0017",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Environment and its Conservation",
+    "subtopic": "Environment and its Conservation Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the natural home of animals?",
+    "image": "",
+    "options": [
+      "Zoo",
+      "Wildlife sanctuary",
+      "Circus",
+      "Farm"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sanctuaries protect wildlife.",
+    "tags": [
+      "environment-and-its-conservation",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-environment-and-its-conservation-0018",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Environment and its Conservation",
+    "subtopic": "Environment and its Conservation Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a sustainable practice?",
+    "image": "",
+    "options": [
+      "Overfishing",
+      "Crop rotation",
+      "Clear cutting",
+      "Overgrazing"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Crop rotation is sustainable.",
+    "tags": [
+      "environment-and-its-conservation",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-environment-and-its-conservation-0019",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Environment and its Conservation",
+    "subtopic": "Environment and its Conservation Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the warming of Earth's climate?",
+    "image": "",
+    "options": [
+      "Cooling",
+      "Global warming",
+      "Ice age",
+      "Winter"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Global warming heats the planet.",
+    "tags": [
+      "environment-and-its-conservation",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-environment-and-its-conservation-0020",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Environment and its Conservation",
+    "subtopic": "Environment and its Conservation Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which helps reduce air pollution?",
+    "image": "",
+    "options": [
+      "More vehicles",
+      "Public transport",
+      "Burning waste",
+      "Factories"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Public transport reduces pollution.",
+    "tags": [
+      "environment-and-its-conservation",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-environment-and-its-conservation-0021",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Environment and its Conservation",
+    "subtopic": "Environment and its Conservation Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the variety of plants and animals?",
+    "image": "",
+    "options": [
+      "Pollution",
+      "Biodiversity",
+      "Erosion",
+      "Deforestation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Biodiversity is variety of life.",
+    "tags": [
+      "environment-and-its-conservation",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-environment-and-its-conservation-0022",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Environment and its Conservation",
+    "subtopic": "Environment and its Conservation Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which material takes longest to decompose?",
+    "image": "",
+    "options": [
+      "Paper",
+      "Plastic",
+      "Food waste",
+      "Leaves"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Plastic takes hundreds of years.",
+    "tags": [
+      "environment-and-its-conservation",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-environment-and-its-conservation-0023",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Environment and its Conservation",
+    "subtopic": "Environment and its Conservation Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call rain collected for use?",
+    "image": "",
+    "options": [
+      "Waste water",
+      "Rainwater harvesting",
+      "Sewage",
+      "Pollution"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Rainwater harvesting saves water.",
+    "tags": [
+      "environment-and-its-conservation",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-environment-and-its-conservation-0024",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Environment and its Conservation",
+    "subtopic": "Environment and its Conservation Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which helps protect the ozone layer?",
+    "image": "",
+    "options": [
+      "CFCs",
+      "Avoiding CFCs",
+      "Burning waste",
+      "More cars"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Avoiding CFCs protects ozone.",
+    "tags": [
+      "environment-and-its-conservation",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-environment-and-its-conservation-0025",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Environment and its Conservation",
+    "subtopic": "Environment and its Conservation Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call converting waste into new products?",
+    "image": "",
+    "options": [
+      "Burning",
+      "Recycling",
+      "Dumping",
+      "Littering"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Recycling makes new products.",
+    "tags": [
+      "environment-and-its-conservation",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  }
+]

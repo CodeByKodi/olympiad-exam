@@ -1,0 +1,20 @@
+{
+  "packId": "igko-grade8-quantitative-aptitude-and-reasoning-practice-01",
+  "exam": "igko",
+  "grade": 8,
+  "mode": "practice",
+  "title": "Quantitative Aptitude and Reasoning Practice",
+  "topic": "Quantitative Aptitude and Reasoning",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Quantitative Aptitude and Reasoning"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "exam_name": "International General Knowledge Olympiad",
+  "sections_overview": [
+    {
+      "code": "S1",
+      "name": "General Awareness",
+      "description": "Topics based on important events around the world"
+    },
+    {
+      "code": "S2",
+      "name": "Current Affairs",
+      "description": "Contains questions from recent events"
+    },
+    {
+      "code": "S3",
+      "name": "Life Skills",
+      "description": "Topics based on abilities for managing and living a better quality of life"
+    },
+    {
+      "code": "S4",
+      "name": "Achievers Section",
+      "description": "Contains Higher Order Thinking Skills questions"
+    }
+  ],
+  "classes": [
+    {
+      "class_name": "Class 1",
+      "grade": 1,
+      "topics": [
+        "Me and My Surroundings",
+        "Plants and Animals",
+        "India and the World",
+        "Science and Technology",
+        "Language and Literature",
+        "Earth and Its Environment",
+        "Sports",
+        "Maths Fun",
+        "Life Skills",
+        "Current Affairs"
+      ],
+      "achievers_section": "Higher Order Thinking Questions from the above given syllabus."
+    },
+    {
+      "class_name": "Class 2",
+      "grade": 2,
+      "topics": [
+        "Me and My Surroundings",
+        "Plants and Animals",
+        "India and the World",
+        "Science and Technology",
+        "Language and Literature",
+        "Earth and Its Environment",
+        "Transport and Communication",
+        "Sports",
+        "Maths Fun",
+        "Life Skills",
+        "Current Affairs"
+      ],
+      "achievers_section": "Higher Order Thinking Questions from the above given syllabus."
+    },
+    {
+      "class_name": "Class 3",
+      "grade": 3,
+      "topics": [
+        "Me and My Surroundings",
+        "Plants and Animals",
+        "India and the World",
+        "Science and Technology",
+        "Language and Literature",
+        "Earth and Its Environment",
+        "Transport and Communication",
+        "Sports",
+        "Maths Fun",
+        "Life Skills",
+        "Current Affairs"
+      ],
+      "achievers_section": "Higher Order Thinking Questions from the above given syllabus."
+    },
+    {
+      "class_name": "Class 4",
+      "grade": 4,
+      "topics": [
+        "Our Body and Health",
+        "Plants and Animals",
+        "India and the World",
+        "Science and Technology",
+        "Environment and its Conservation",
+        "Language and Literature",
+        "Entertainment",
+        "Sports",
+        "Maths Fun",
+        "Life Skills",
+        "Current Affairs"
+      ],
+      "achievers_section": "Higher Order Thinking Questions from the above given syllabus."
+    },
+    {
+      "class_name": "Class 5",
+      "grade": 5,
+      "topics": [
+        "Our Body and Health",
+        "Plants and Animals",
+        "India and the World",
+        "Science and Technology",
+        "Environment and its Conservation",
+        "Language and Literature",
+        "Entertainment",
+        "Sports",
+        "Maths Fun",
+        "Life Skills",
+        "Current Affairs"
+      ],
+      "achievers_section": "Higher Order Thinking Questions from the above given syllabus."
+    },
+    {
+      "class_name": "Class 6",
+      "grade": 6,
+      "topics": [
+        "Plants and Animals",
+        "India and the World",
+        "Science and Technology",
+        "Earth and Its Environment",
+        "Universe",
+        "Language and Literature",
+        "Entertainment",
+        "Social Studies",
+        "Sports",
+        "Quantitative Aptitude and Reasoning",
+        "Current Affairs",
+        "Life Skills"
+      ],
+      "achievers_section": "Higher Order Thinking Questions from the above given syllabus."
+    },
+    {
+      "class_name": "Class 7",
+      "grade": 7,
+      "topics": [
+        "Plants and Animals",
+        "India and the World",
+        "Science and Technology",
+        "Earth and its Environment",
+        "Universe",
+        "Language and Literature",
+        "Entertainment",
+        "Social Studies",
+        "Sports",
+        "Quantitative Aptitude and Reasoning",
+        "Current Affairs",
+        "Life Skills"
+      ],
+      "achievers_section": "Higher Order Thinking Questions from the above given syllabus."
+    },
+    {
+      "class_name": "Class 8",
+      "grade": 8,
+      "topics": [
+        "Plants and Animals",
+        "India and the World",
+        "Science and Technology",
+        "Earth and its Environment",
+        "Universe",
+        "Language and Literature",
+        "Entertainment",
+        "Social Studies",
+        "Sports",
+        "Quantitative Aptitude and Reasoning",
+        "Current Affairs",
+        "Life Skills"
+      ],
+      "achievers_section": "Higher Order Thinking Questions from the above given syllabus."
+    },
+    {
+      "class_name": "Class 9",
+      "grade": 9,
+      "topics": [
+        "Plants and Animals",
+        "Our Environment",
+        "Science and Technology",
+        "India and the World",
+        "Social Studies",
+        "Language, Literature and Media",
+        "Sports",
+        "Quantitative Aptitude and Reasoning",
+        "Current Affairs",
+        "Life Skills"
+      ],
+      "achievers_section": "Higher Order Thinking Questions from the above given syllabus."
+    },
+    {
+      "class_name": "Class 10",
+      "grade": 10,
+      "topics": [
+        "Plants and Animals",
+        "Our Environment",
+        "Science and Technology",
+        "India and the World",
+        "Social Studies",
+        "Language, Literature and Media",
+        "Sports",
+        "Quantitative Aptitude and Reasoning",
+        "Current Affairs",
+        "Life Skills"
+      ],
+      "achievers_section": "Higher Order Thinking Questions from the above given syllabus."
+    }
+  ]
+}

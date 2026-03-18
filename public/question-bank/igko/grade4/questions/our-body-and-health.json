@@ -1,0 +1,702 @@
+[
+  {
+    "id": "igko-g4-our-body-and-health-0001",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Our Body and Health",
+    "subtopic": "Our Body and Health Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many fingers do we have on one hand?",
+    "image": "",
+    "options": [
+      "Four",
+      "Five",
+      "Six",
+      "Seven"
+    ],
+    "correctAnswer": 1,
+    "explanation": "We have five fingers.",
+    "tags": [
+      "our-body-and-health",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-our-body-and-health-0002",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Our Body and Health",
+    "subtopic": "Our Body and Health Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which organ pumps blood?",
+    "image": "",
+    "options": [
+      "Lungs",
+      "Heart",
+      "Liver",
+      "Kidney"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Heart pumps blood.",
+    "tags": [
+      "our-body-and-health",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-our-body-and-health-0003",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Our Body and Health",
+    "subtopic": "Our Body and Health Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What should we eat for strong bones?",
+    "image": "",
+    "options": [
+      "Candy",
+      "Milk",
+      "Chips",
+      "Soda"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Milk has calcium.",
+    "tags": [
+      "our-body-and-health",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-our-body-and-health-0004",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Our Body and Health",
+    "subtopic": "Our Body and Health Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many teeth do adults have?",
+    "image": "",
+    "options": [
+      "20",
+      "28",
+      "32",
+      "36"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Adults have 32 teeth.",
+    "tags": [
+      "our-body-and-health",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-our-body-and-health-0005",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Our Body and Health",
+    "subtopic": "Our Body and Health Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which vitamin do we get from sunlight?",
+    "image": "",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Vitamin D from sunlight.",
+    "tags": [
+      "our-body-and-health",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-our-body-and-health-0006",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Our Body and Health",
+    "subtopic": "Our Body and Health Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What should we do to stay healthy?",
+    "image": "",
+    "options": [
+      "Eat junk",
+      "Exercise",
+      "Sleep all day",
+      "Skip meals"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Exercise keeps us fit.",
+    "tags": [
+      "our-body-and-health",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-our-body-and-health-0007",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Our Body and Health",
+    "subtopic": "Our Body and Health Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which organ helps us breathe?",
+    "image": "",
+    "options": [
+      "Heart",
+      "Lungs",
+      "Stomach",
+      "Brain"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Lungs help us breathe.",
+    "tags": [
+      "our-body-and-health",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-our-body-and-health-0008",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Our Body and Health",
+    "subtopic": "Our Body and Health Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many hours should children sleep?",
+    "image": "",
+    "options": [
+      "4-5",
+      "6-7",
+      "8-10",
+      "12-14"
+    ],
+    "correctAnswer": 2,
+    "explanation": "8-10 hours is recommended.",
+    "tags": [
+      "our-body-and-health",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-our-body-and-health-0009",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Our Body and Health",
+    "subtopic": "Our Body and Health Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What helps us digest food?",
+    "image": "",
+    "options": [
+      "Heart",
+      "Stomach",
+      "Lungs",
+      "Brain"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Stomach digests food.",
+    "tags": [
+      "our-body-and-health",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-our-body-and-health-0010",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Our Body and Health",
+    "subtopic": "Our Body and Health Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a healthy habit?",
+    "image": "",
+    "options": [
+      "Smoking",
+      "Brushing teeth",
+      "Skipping breakfast",
+      "Staying up late"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Brushing teeth is healthy.",
+    "tags": [
+      "our-body-and-health",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-our-body-and-health-0011",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Our Body and Health",
+    "subtopic": "Our Body and Health Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What organ controls our body?",
+    "image": "",
+    "options": [
+      "Heart",
+      "Liver",
+      "Brain",
+      "Stomach"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Brain controls the body.",
+    "tags": [
+      "our-body-and-health",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-our-body-and-health-0012",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Our Body and Health",
+    "subtopic": "Our Body and Health Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which food gives us energy?",
+    "image": "",
+    "options": [
+      "Candy only",
+      "Balanced diet",
+      "Chips only",
+      "Soda only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Balanced diet gives energy.",
+    "tags": [
+      "our-body-and-health",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-our-body-and-health-0013",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Our Body and Health",
+    "subtopic": "Our Body and Health Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many bones do we have?",
+    "image": "",
+    "options": [
+      "150",
+      "200",
+      "206",
+      "250"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Adults have about 206 bones.",
+    "tags": [
+      "our-body-and-health",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-our-body-and-health-0014",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Our Body and Health",
+    "subtopic": "Our Body and Health Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What should we do when we have a fever?",
+    "image": "",
+    "options": [
+      "Ignore it",
+      "Rest and see a doctor",
+      "Play outside",
+      "Eat junk"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Rest and doctor visit help.",
+    "tags": [
+      "our-body-and-health",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-our-body-and-health-0015",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Our Body and Health",
+    "subtopic": "Our Body and Health Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which vitamin do we get from oranges?",
+    "image": "",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Oranges have Vitamin C.",
+    "tags": [
+      "our-body-and-health",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-our-body-and-health-0016",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Our Body and Health",
+    "subtopic": "Our Body and Health Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to taste food?",
+    "image": "",
+    "options": [
+      "Ears",
+      "Eyes",
+      "Tongue",
+      "Nose"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Tongue helps us taste.",
+    "tags": [
+      "our-body-and-health",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-our-body-and-health-0017",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Our Body and Health",
+    "subtopic": "Our Body and Health Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is good for our eyes?",
+    "image": "",
+    "options": [
+      "Staring at screen",
+      "Eating carrots",
+      "No sleep",
+      "Rubbing eyes"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Carrots have Vitamin A for eyes.",
+    "tags": [
+      "our-body-and-health",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-our-body-and-health-0018",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Our Body and Health",
+    "subtopic": "Our Body and Health Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What should we do after playing?",
+    "image": "",
+    "options": [
+      "Sleep",
+      "Wash hands",
+      "Eat sweets",
+      "Skip bath"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Washing hands prevents germs.",
+    "tags": [
+      "our-body-and-health",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-our-body-and-health-0019",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Our Body and Health",
+    "subtopic": "Our Body and Health Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which organ filters our blood?",
+    "image": "",
+    "options": [
+      "Heart",
+      "Kidneys",
+      "Lungs",
+      "Stomach"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kidneys filter blood.",
+    "tags": [
+      "our-body-and-health",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-our-body-and-health-0020",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Our Body and Health",
+    "subtopic": "Our Body and Health Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What helps build strong muscles?",
+    "image": "",
+    "options": [
+      "Sitting only",
+      "Exercise and protein",
+      "No food",
+      "Sugar"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Exercise and protein build muscles.",
+    "tags": [
+      "our-body-and-health",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-our-body-and-health-0021",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Our Body and Health",
+    "subtopic": "Our Body and Health Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How often should we brush our teeth?",
+    "image": "",
+    "options": [
+      "Once a week",
+      "Twice a day",
+      "Once a month",
+      "Never"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Brush twice daily.",
+    "tags": [
+      "our-body-and-health",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-our-body-and-health-0022",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Our Body and Health",
+    "subtopic": "Our Body and Health Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which is a healthy drink?",
+    "image": "",
+    "options": [
+      "Soda",
+      "Fresh juice",
+      "Energy drink",
+      "Cola"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fresh juice is healthy.",
+    "tags": [
+      "our-body-and-health",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-our-body-and-health-0023",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Our Body and Health",
+    "subtopic": "Our Body and Health Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we need for strong bones?",
+    "image": "",
+    "options": [
+      "Sugar",
+      "Calcium",
+      "Salt",
+      "Oil"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Calcium strengthens bones.",
+    "tags": [
+      "our-body-and-health",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-our-body-and-health-0024",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Our Body and Health",
+    "subtopic": "Our Body and Health Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which habit helps us sleep well?",
+    "image": "",
+    "options": [
+      "Screen before bed",
+      "Regular sleep time",
+      "Late night food",
+      "Loud music"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Regular sleep time helps.",
+    "tags": [
+      "our-body-and-health",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-our-body-and-health-0025",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Our Body and Health",
+    "subtopic": "Our Body and Health Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the tube that carries food to the stomach?",
+    "image": "",
+    "options": [
+      "Windpipe",
+      "Oesophagus",
+      "Artery",
+      "Vein"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Oesophagus carries food.",
+    "tags": [
+      "our-body-and-health",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  }
+]

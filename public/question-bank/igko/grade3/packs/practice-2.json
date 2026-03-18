@@ -1,15 +1,15 @@
 {
-  "packId": "igko-grade3-world-practice-01",
+  "packId": "igko-grade3-plants-and-animals-practice-01",
   "exam": "igko",
   "grade": 3,
   "mode": "practice",
-  "title": "World Practice Test",
-  "topic": "World",
+  "title": "Plants and Animals Practice",
+  "topic": "Plants and Animals",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "World"
+      "Plants and Animals"
     ],
     "difficultyMix": {
       "easy": 15,

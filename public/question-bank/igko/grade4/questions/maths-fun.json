@@ -1,0 +1,702 @@
+[
+  {
+    "id": "igko-g4-maths-fun-0001",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Maths Fun",
+    "subtopic": "Maths Fun Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 2 + 3?",
+    "image": "",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswer": 1,
+    "explanation": "2 + 3 = 5",
+    "tags": [
+      "maths-fun",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-maths-fun-0002",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Maths Fun",
+    "subtopic": "Maths Fun Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many sides does a triangle have?",
+    "image": "",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A triangle has 3 sides.",
+    "tags": [
+      "maths-fun",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-maths-fun-0003",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Maths Fun",
+    "subtopic": "Maths Fun Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 10 - 4?",
+    "image": "",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswer": 1,
+    "explanation": "10 - 4 = 6",
+    "tags": [
+      "maths-fun",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-maths-fun-0004",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Maths Fun",
+    "subtopic": "Maths Fun Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many zeros are in 100?",
+    "image": "",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "correctAnswer": 1,
+    "explanation": "100 has two zeros.",
+    "tags": [
+      "maths-fun",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-maths-fun-0005",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Maths Fun",
+    "subtopic": "Maths Fun Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What shape is a ball?",
+    "image": "",
+    "options": [
+      "Square",
+      "Triangle",
+      "Circle",
+      "Sphere"
+    ],
+    "correctAnswer": 3,
+    "explanation": "A ball is sphere-shaped.",
+    "tags": [
+      "maths-fun",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-maths-fun-0006",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Maths Fun",
+    "subtopic": "Maths Fun Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 5 + 5?",
+    "image": "",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correctAnswer": 1,
+    "explanation": "5 + 5 = 10",
+    "tags": [
+      "maths-fun",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-maths-fun-0007",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Maths Fun",
+    "subtopic": "Maths Fun Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many days are in two weeks?",
+    "image": "",
+    "options": [
+      "7",
+      "12",
+      "14",
+      "21"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Two weeks = 14 days.",
+    "tags": [
+      "maths-fun",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-maths-fun-0008",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Maths Fun",
+    "subtopic": "Maths Fun Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What comes after 99?",
+    "image": "",
+    "options": [
+      "98",
+      "100",
+      "101",
+      "199"
+    ],
+    "correctAnswer": 1,
+    "explanation": "100 comes after 99.",
+    "tags": [
+      "maths-fun",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-maths-fun-0009",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Maths Fun",
+    "subtopic": "Maths Fun Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many corners does a square have?",
+    "image": "",
+    "options": [
+      "Three",
+      "Four",
+      "Five",
+      "Six"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A square has 4 corners.",
+    "tags": [
+      "maths-fun",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-maths-fun-0010",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Maths Fun",
+    "subtopic": "Maths Fun Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is half of 10?",
+    "image": "",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Half of 10 is 5.",
+    "tags": [
+      "maths-fun",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-maths-fun-0011",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Maths Fun",
+    "subtopic": "Maths Fun Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 4 × 2?",
+    "image": "",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "correctAnswer": 1,
+    "explanation": "4 × 2 = 8",
+    "tags": [
+      "maths-fun",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-maths-fun-0012",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Maths Fun",
+    "subtopic": "Maths Fun Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many corners does a rectangle have?",
+    "image": "",
+    "options": [
+      "Three",
+      "Four",
+      "Five",
+      "Six"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Rectangle has 4 corners.",
+    "tags": [
+      "maths-fun",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-maths-fun-0013",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Maths Fun",
+    "subtopic": "Maths Fun Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 20 ÷ 4?",
+    "image": "",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswer": 1,
+    "explanation": "20 ÷ 4 = 5",
+    "tags": [
+      "maths-fun",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-maths-fun-0014",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Maths Fun",
+    "subtopic": "Maths Fun Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many minutes are in an hour?",
+    "image": "",
+    "options": [
+      "30",
+      "45",
+      "60",
+      "90"
+    ],
+    "correctAnswer": 2,
+    "explanation": "One hour = 60 minutes.",
+    "tags": [
+      "maths-fun",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-maths-fun-0015",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Maths Fun",
+    "subtopic": "Maths Fun Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 7 + 8?",
+    "image": "",
+    "options": [
+      "14",
+      "15",
+      "16",
+      "17"
+    ],
+    "correctAnswer": 1,
+    "explanation": "7 + 8 = 15",
+    "tags": [
+      "maths-fun",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-maths-fun-0016",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Maths Fun",
+    "subtopic": "Maths Fun Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which shape has no corners?",
+    "image": "",
+    "options": [
+      "Square",
+      "Triangle",
+      "Circle",
+      "Rectangle"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Circle has no corners.",
+    "tags": [
+      "maths-fun",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-maths-fun-0017",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Maths Fun",
+    "subtopic": "Maths Fun Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 100 - 25?",
+    "image": "",
+    "options": [
+      "65",
+      "75",
+      "85",
+      "95"
+    ],
+    "correctAnswer": 1,
+    "explanation": "100 - 25 = 75",
+    "tags": [
+      "maths-fun",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-maths-fun-0018",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Maths Fun",
+    "subtopic": "Maths Fun Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many sides does a pentagon have?",
+    "image": "",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pentagon has 5 sides.",
+    "tags": [
+      "maths-fun",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-maths-fun-0019",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Maths Fun",
+    "subtopic": "Maths Fun Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is double of 6?",
+    "image": "",
+    "options": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Double of 6 is 12.",
+    "tags": [
+      "maths-fun",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-maths-fun-0020",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Maths Fun",
+    "subtopic": "Maths Fun Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many tens are in 50?",
+    "image": "",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswer": 2,
+    "explanation": "50 has 5 tens.",
+    "tags": [
+      "maths-fun",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-maths-fun-0021",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Maths Fun",
+    "subtopic": "Maths Fun Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 3 × 4?",
+    "image": "",
+    "options": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "correctAnswer": 1,
+    "explanation": "3 × 4 = 12",
+    "tags": [
+      "maths-fun",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-maths-fun-0022",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Maths Fun",
+    "subtopic": "Maths Fun Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which number comes before 100?",
+    "image": "",
+    "options": [
+      "98",
+      "99",
+      "101",
+      "102"
+    ],
+    "correctAnswer": 1,
+    "explanation": "99 comes before 100.",
+    "tags": [
+      "maths-fun",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-maths-fun-0023",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Maths Fun",
+    "subtopic": "Maths Fun Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 15 + 15?",
+    "image": "",
+    "options": [
+      "25",
+      "30",
+      "35",
+      "40"
+    ],
+    "correctAnswer": 1,
+    "explanation": "15 + 15 = 30",
+    "tags": [
+      "maths-fun",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-maths-fun-0024",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Maths Fun",
+    "subtopic": "Maths Fun Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many days are in a month?",
+    "image": "",
+    "options": [
+      "28-31",
+      "20",
+      "40",
+      "50"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Months have 28-31 days.",
+    "tags": [
+      "maths-fun",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g4-maths-fun-0025",
+    "exam": "igko",
+    "grade": "4",
+    "topic": "Maths Fun",
+    "subtopic": "Maths Fun Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 9 + 6?",
+    "image": "",
+    "options": [
+      "14",
+      "15",
+      "16",
+      "17"
+    ],
+    "correctAnswer": 1,
+    "explanation": "9 + 6 = 15",
+    "tags": [
+      "maths-fun",
+      "igko",
+      "grade4"
+    ],
+    "sourceType": "generated"
+  }
+]

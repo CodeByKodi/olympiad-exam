@@ -1,0 +1,702 @@
+[
+  {
+    "id": "igko-g2-science-and-technology-0001",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Science and Technology",
+    "subtopic": "Science and Technology Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to see things that are far away?",
+    "image": "",
+    "options": [
+      "Microscope",
+      "Telescope",
+      "Magnifying glass",
+      "Spectacles"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A telescope helps see far.",
+    "tags": [
+      "science-and-technology",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-science-and-technology-0002",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Science and Technology",
+    "subtopic": "Science and Technology Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which device helps us talk to people far away?",
+    "image": "",
+    "options": [
+      "Radio",
+      "Phone",
+      "Television",
+      "Computer"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Phones help us communicate.",
+    "tags": [
+      "science-and-technology",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-science-and-technology-0003",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Science and Technology",
+    "subtopic": "Science and Technology Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to write on a computer?",
+    "image": "",
+    "options": [
+      "Pen",
+      "Keyboard",
+      "Eraser",
+      "Ruler"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Keyboard is for typing.",
+    "tags": [
+      "science-and-technology",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-science-and-technology-0004",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Science and Technology",
+    "subtopic": "Science and Technology Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which machine helps us wash clothes?",
+    "image": "",
+    "options": [
+      "Mixer",
+      "Washing machine",
+      "Refrigerator",
+      "Oven"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Washing machine washes clothes.",
+    "tags": [
+      "science-and-technology",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-science-and-technology-0005",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Science and Technology",
+    "subtopic": "Science and Technology Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to take photos?",
+    "image": "",
+    "options": [
+      "Radio",
+      "Camera",
+      "Clock",
+      "Fan"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A camera takes photos.",
+    "tags": [
+      "science-and-technology",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-science-and-technology-0006",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Science and Technology",
+    "subtopic": "Science and Technology Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which device keeps food cold?",
+    "image": "",
+    "options": [
+      "Oven",
+      "Refrigerator",
+      "Heater",
+      "Iron"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Refrigerator keeps food cold.",
+    "tags": [
+      "science-and-technology",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-science-and-technology-0007",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Science and Technology",
+    "subtopic": "Science and Technology Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to light up a dark room?",
+    "image": "",
+    "options": [
+      "Fan",
+      "Bulb",
+      "Radio",
+      "Clock"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A bulb gives light.",
+    "tags": [
+      "science-and-technology",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-science-and-technology-0008",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Science and Technology",
+    "subtopic": "Science and Technology Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which machine helps us travel by air?",
+    "image": "",
+    "options": [
+      "Car",
+      "Ship",
+      "Aeroplane",
+      "Train"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Aeroplanes fly in the air.",
+    "tags": [
+      "science-and-technology",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-science-and-technology-0009",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Science and Technology",
+    "subtopic": "Science and Technology Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to measure temperature?",
+    "image": "",
+    "options": [
+      "Ruler",
+      "Thermometer",
+      "Clock",
+      "Scale"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Thermometer measures temperature.",
+    "tags": [
+      "science-and-technology",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-science-and-technology-0010",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Science and Technology",
+    "subtopic": "Science and Technology Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which device shows moving pictures?",
+    "image": "",
+    "options": [
+      "Radio",
+      "Television",
+      "Telephone",
+      "Calculator"
+    ],
+    "correctAnswer": 1,
+    "explanation": "TV shows moving pictures.",
+    "tags": [
+      "science-and-technology",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-science-and-technology-0011",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Science and Technology",
+    "subtopic": "Science and Technology Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to connect to the internet?",
+    "image": "",
+    "options": [
+      "Radio",
+      "Modem or WiFi",
+      "Clock",
+      "Fan"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Modem or WiFi connects to internet.",
+    "tags": [
+      "science-and-technology",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-science-and-technology-0012",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Science and Technology",
+    "subtopic": "Science and Technology Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which device helps us print documents?",
+    "image": "",
+    "options": [
+      "Monitor",
+      "Printer",
+      "Keyboard",
+      "Speaker"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Printer prints documents.",
+    "tags": [
+      "science-and-technology",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-science-and-technology-0013",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Science and Technology",
+    "subtopic": "Science and Technology Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to listen to music?",
+    "image": "",
+    "options": [
+      "Microphone",
+      "Speaker",
+      "Camera",
+      "Scanner"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Speakers play sound.",
+    "tags": [
+      "science-and-technology",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-science-and-technology-0014",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Science and Technology",
+    "subtopic": "Science and Technology Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which machine helps us cool the room?",
+    "image": "",
+    "options": [
+      "Heater",
+      "AC",
+      "Oven",
+      "Iron"
+    ],
+    "correctAnswer": 1,
+    "explanation": "AC cools the room.",
+    "tags": [
+      "science-and-technology",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-science-and-technology-0015",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Science and Technology",
+    "subtopic": "Science and Technology Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to charge our phone?",
+    "image": "",
+    "options": [
+      "Battery",
+      "Charger",
+      "Bulb",
+      "Switch"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Charger charges the phone.",
+    "tags": [
+      "science-and-technology",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-science-and-technology-0016",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Science and Technology",
+    "subtopic": "Science and Technology Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which device has a screen we can touch?",
+    "image": "",
+    "options": [
+      "Radio",
+      "Smartphone",
+      "Clock",
+      "Fan"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Smartphones have touch screens.",
+    "tags": [
+      "science-and-technology",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-science-and-technology-0017",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Science and Technology",
+    "subtopic": "Science and Technology Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to store data in a computer?",
+    "image": "",
+    "options": [
+      "Monitor",
+      "Hard disk",
+      "Keyboard",
+      "Mouse"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hard disk stores data.",
+    "tags": [
+      "science-and-technology",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-science-and-technology-0018",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Science and Technology",
+    "subtopic": "Science and Technology Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which tool helps us see very small things?",
+    "image": "",
+    "options": [
+      "Telescope",
+      "Microscope",
+      "Binoculars",
+      "Camera"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Microscope magnifies small things.",
+    "tags": [
+      "science-and-technology",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-science-and-technology-0019",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Science and Technology",
+    "subtopic": "Science and Technology Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to iron clothes?",
+    "image": "",
+    "options": [
+      "Oven",
+      "Iron",
+      "Mixer",
+      "Toaster"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Iron smooths clothes.",
+    "tags": [
+      "science-and-technology",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-science-and-technology-0020",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Science and Technology",
+    "subtopic": "Science and Technology Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which device helps us navigate?",
+    "image": "",
+    "options": [
+      "Radio",
+      "GPS",
+      "Clock",
+      "Calculator"
+    ],
+    "correctAnswer": 1,
+    "explanation": "GPS helps with navigation.",
+    "tags": [
+      "science-and-technology",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-science-and-technology-0021",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Science and Technology",
+    "subtopic": "Science and Technology Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to record our voice?",
+    "image": "",
+    "options": [
+      "Speaker",
+      "Microphone",
+      "Camera",
+      "Printer"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Microphone records voice.",
+    "tags": [
+      "science-and-technology",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-science-and-technology-0022",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Science and Technology",
+    "subtopic": "Science and Technology Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which machine makes bread?",
+    "image": "",
+    "options": [
+      "Mixer",
+      "Toaster",
+      "Oven",
+      "Refrigerator"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Oven bakes bread.",
+    "tags": [
+      "science-and-technology",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-science-and-technology-0023",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Science and Technology",
+    "subtopic": "Science and Technology Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to measure our weight?",
+    "image": "",
+    "options": [
+      "Ruler",
+      "Weighing scale",
+      "Clock",
+      "Thermometer"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Weighing scale measures weight.",
+    "tags": [
+      "science-and-technology",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-science-and-technology-0024",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Science and Technology",
+    "subtopic": "Science and Technology Basics",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which device can work without electricity for a while?",
+    "image": "",
+    "options": [
+      "Desktop",
+      "Laptop",
+      "TV",
+      "AC"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Laptops have batteries.",
+    "tags": [
+      "science-and-technology",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "igko-g2-science-and-technology-0025",
+    "exam": "igko",
+    "grade": "2",
+    "topic": "Science and Technology",
+    "subtopic": "Science and Technology Basics",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to click on a computer?",
+    "image": "",
+    "options": [
+      "Keyboard",
+      "Mouse",
+      "Monitor",
+      "Printer"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mouse is for clicking.",
+    "tags": [
+      "science-and-technology",
+      "igko",
+      "grade2"
+    ],
+    "sourceType": "generated"
+  }
+]

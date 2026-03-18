@@ -1,15 +1,15 @@
 {
-  "packId": "igko-grade3-countries-practice-01",
+  "packId": "igko-grade3-india-and-the-world-practice-01",
   "exam": "igko",
   "grade": 3,
   "mode": "practice",
-  "title": "Countries Practice Test",
-  "topic": "Countries",
+  "title": "India and the World Practice",
+  "topic": "India and the World",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "Countries"
+      "India and the World"
     ],
     "difficultyMix": {
       "easy": 15,
