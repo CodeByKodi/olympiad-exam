@@ -553,7 +553,7 @@ function toSlug(name) {
   return name.toLowerCase().replace(/[&]/g, 'and').replace(/['']/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 }
 
-function getTemplatesForTopic(topicName, grade) {
+function getTemplatesForTopic(topicName, _grade) {
   const slug = toSlug(topicName);
   const templates = QUESTION_TEMPLATES[slug] || QUESTION_TEMPLATES['current-affairs'];
   return templates;
