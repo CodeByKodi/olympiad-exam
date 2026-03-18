@@ -1,15 +1,15 @@
 {
-  "packId": "imo-grade11-trigonometry-practice-01",
+  "packId": "imo-grade11-advanced-math-practice-01",
   "exam": "imo",
   "grade": 11,
   "mode": "practice",
-  "title": "Trigonometry Practice Test",
-  "topic": "Trigonometry",
+  "title": "Sets Practice",
+  "topic": "Sets",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "Trigonometry"
+      "Sets"
     ],
     "difficultyMix": {
       "easy": 15,

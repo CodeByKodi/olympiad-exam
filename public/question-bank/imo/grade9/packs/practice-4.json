@@ -3,13 +3,13 @@
   "exam": "imo",
   "grade": 9,
   "mode": "practice",
-  "title": "Geometry Practice Test",
-  "topic": "Geometry",
+  "title": "Coordinate Geometry Practice",
+  "topic": "Coordinate Geometry",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "Geometry"
+      "Coordinate Geometry"
     ],
     "difficultyMix": {
       "easy": 15,

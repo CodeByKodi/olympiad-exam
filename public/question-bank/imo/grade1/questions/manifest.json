@@ -1,8 +1,11 @@
 {
   "files": [
+    "patterns.json",
+    "logical-reasoning.json",
+    "measurement.json",
+    "geometry.json",
     "numbers.json",
     "addition-and-subtraction.json",
-    "patterns.json",
-    "shapes.json"
+    "money.json"
   ]
 }

@@ -1,0 +1,702 @@
+[
+  {
+    "id": "imo-g7-measurement-0001",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Perimeter and Area",
+    "subtopic": "Perimeter and Area",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which unit do we use to measure the length of a pencil?",
+    "image": "",
+    "options": [
+      "Kilogram",
+      "Litre",
+      "Centimetre",
+      "Rupee"
+    ],
+    "correctAnswer": 2,
+    "explanation": "We use centimetres (cm) to measure short lengths like a pencil.",
+    "tags": [
+      "measurement",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-measurement-0002",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Perimeter and Area",
+    "subtopic": "Perimeter and Area",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "One metre is equal to how many centimetres?",
+    "image": "",
+    "options": [
+      "10",
+      "50",
+      "100",
+      "1000"
+    ],
+    "correctAnswer": 2,
+    "explanation": "1 metre = 100 centimetres.",
+    "tags": [
+      "measurement",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-measurement-0003",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Perimeter and Area",
+    "subtopic": "Perimeter and Area",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which unit do we use to measure the weight of a bag of rice?",
+    "image": "",
+    "options": [
+      "Metre",
+      "Kilogram",
+      "Litre",
+      "Centimetre"
+    ],
+    "correctAnswer": 1,
+    "explanation": "We use kilograms (kg) to measure weight of heavy things like rice.",
+    "tags": [
+      "measurement",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-measurement-0004",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Perimeter and Area",
+    "subtopic": "Perimeter and Area",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many grams are in 1 kilogram?",
+    "image": "",
+    "options": [
+      "10",
+      "100",
+      "500",
+      "1000"
+    ],
+    "correctAnswer": 3,
+    "explanation": "1 kilogram = 1000 grams.",
+    "tags": [
+      "measurement",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-measurement-0005",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Perimeter and Area",
+    "subtopic": "Perimeter and Area",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which unit do we use to measure the amount of water in a bottle?",
+    "image": "",
+    "options": [
+      "Kilogram",
+      "Metre",
+      "Litre",
+      "Gram"
+    ],
+    "correctAnswer": 2,
+    "explanation": "We use litres (L) to measure liquids like water.",
+    "tags": [
+      "measurement",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-measurement-0006",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Perimeter and Area",
+    "subtopic": "Perimeter and Area",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many millilitres are in 1 litre?",
+    "image": "",
+    "options": [
+      "10",
+      "100",
+      "500",
+      "1000"
+    ],
+    "correctAnswer": 3,
+    "explanation": "1 litre = 1000 millilitres (ml).",
+    "tags": [
+      "measurement",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-measurement-0007",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Perimeter and Area",
+    "subtopic": "Perimeter and Area",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we use to measure how hot or cold something is?",
+    "image": "",
+    "options": [
+      "Ruler",
+      "Thermometer",
+      "Scale",
+      "Clock"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A thermometer measures temperature in degrees Celsius.",
+    "tags": [
+      "measurement",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-measurement-0008",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Perimeter and Area",
+    "subtopic": "Perimeter and Area",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "One hour has how many minutes?",
+    "image": "",
+    "options": [
+      "30",
+      "60",
+      "100",
+      "12"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1 hour = 60 minutes.",
+    "tags": [
+      "measurement",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-measurement-0009",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Perimeter and Area",
+    "subtopic": "Perimeter and Area",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "If school starts at 8:00 and ends at 12:00, how many hours is the school day?",
+    "image": "",
+    "options": [
+      "3 hours",
+      "4 hours",
+      "5 hours",
+      "6 hours"
+    ],
+    "correctAnswer": 1,
+    "explanation": "From 8:00 to 12:00 is 4 hours.",
+    "tags": [
+      "measurement",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-measurement-0010",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Perimeter and Area",
+    "subtopic": "Perimeter and Area",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "A table is 150 cm long. How many metres is that?",
+    "image": "",
+    "options": [
+      "0.15 m",
+      "1.5 m",
+      "15 m",
+      "150 m"
+    ],
+    "correctAnswer": 1,
+    "explanation": "150 cm = 1.5 metres (since 100 cm = 1 m).",
+    "tags": [
+      "measurement",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-measurement-0011",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Perimeter and Area",
+    "subtopic": "Perimeter and Area",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which unit do we use to measure the length of a room?",
+    "image": "",
+    "options": [
+      "Centimetre",
+      "Metre",
+      "Kilogram",
+      "Litre"
+    ],
+    "correctAnswer": 1,
+    "explanation": "We use metres (m) to measure longer lengths like rooms.",
+    "tags": [
+      "measurement",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-measurement-0012",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Perimeter and Area",
+    "subtopic": "Perimeter and Area",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which unit do we use to measure the weight of an apple?",
+    "image": "",
+    "options": [
+      "Kilogram",
+      "Gram",
+      "Litre",
+      "Metre"
+    ],
+    "correctAnswer": 1,
+    "explanation": "We use grams (g) for lighter items like an apple.",
+    "tags": [
+      "measurement",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-measurement-0013",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Perimeter and Area",
+    "subtopic": "Perimeter and Area",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "A jug holds 2 litres of water. How many millilitres is that?",
+    "image": "",
+    "options": [
+      "20 ml",
+      "200 ml",
+      "2000 ml",
+      "20,000 ml"
+    ],
+    "correctAnswer": 2,
+    "explanation": "1 litre = 1000 ml, so 2 litres = 2000 ml.",
+    "tags": [
+      "measurement",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-measurement-0014",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Perimeter and Area",
+    "subtopic": "Perimeter and Area",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "A rope is 3 metres long. How many centimetres is that?",
+    "image": "",
+    "options": [
+      "30 cm",
+      "300 cm",
+      "3000 cm",
+      "3 cm"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1 m = 100 cm, so 3 m = 300 cm.",
+    "tags": [
+      "measurement",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-measurement-0015",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Perimeter and Area",
+    "subtopic": "Perimeter and Area",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which unit do we use to measure the amount of milk in a glass?",
+    "image": "",
+    "options": [
+      "Kilogram",
+      "Metre",
+      "Millilitre",
+      "Gram"
+    ],
+    "correctAnswer": 2,
+    "explanation": "We use millilitres (ml) for small amounts of liquid.",
+    "tags": [
+      "measurement",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-measurement-0016",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Perimeter and Area",
+    "subtopic": "Perimeter and Area",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "One minute has how many seconds?",
+    "image": "",
+    "options": [
+      "30",
+      "60",
+      "100",
+      "12"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1 minute = 60 seconds.",
+    "tags": [
+      "measurement",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-measurement-0017",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Perimeter and Area",
+    "subtopic": "Perimeter and Area",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "If a bag weighs 2 kg, how many grams is that?",
+    "image": "",
+    "options": [
+      "20 g",
+      "200 g",
+      "2000 g",
+      "20,000 g"
+    ],
+    "correctAnswer": 2,
+    "explanation": "1 kg = 1000 g, so 2 kg = 2000 g.",
+    "tags": [
+      "measurement",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-measurement-0018",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Perimeter and Area",
+    "subtopic": "Perimeter and Area",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "If a movie starts at 2:00 and ends at 4:30, how long is the movie?",
+    "image": "",
+    "options": [
+      "1 hour 30 minutes",
+      "2 hours",
+      "2 hours 30 minutes",
+      "3 hours"
+    ],
+    "correctAnswer": 2,
+    "explanation": "From 2:00 to 4:30 is 2 hours and 30 minutes.",
+    "tags": [
+      "measurement",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-measurement-0019",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Perimeter and Area",
+    "subtopic": "Perimeter and Area",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Are 1 metre and 100 centimetres the same length?",
+    "image": "",
+    "options": [
+      "Yes, they are equal",
+      "No, 1 m is longer",
+      "No, 100 cm is longer",
+      "Cannot tell"
+    ],
+    "correctAnswer": 0,
+    "explanation": "1 metre = 100 centimetres.",
+    "tags": [
+      "measurement",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-measurement-0020",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Perimeter and Area",
+    "subtopic": "Perimeter and Area",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What unit do we use to measure temperature?",
+    "image": "",
+    "options": [
+      "Metres",
+      "Kilograms",
+      "Degrees Celsius",
+      "Litres"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Temperature is measured in degrees Celsius (°C).",
+    "tags": [
+      "measurement",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-measurement-0021",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Perimeter and Area",
+    "subtopic": "Perimeter and Area",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "A desk is 80 cm wide. How many metres is that?",
+    "image": "",
+    "options": [
+      "0.8 m",
+      "8 m",
+      "8.0 m",
+      "80 m"
+    ],
+    "correctAnswer": 0,
+    "explanation": "80 cm = 0.8 m (since 100 cm = 1 m).",
+    "tags": [
+      "measurement",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-measurement-0022",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Perimeter and Area",
+    "subtopic": "Perimeter and Area",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which tool do we use to measure length?",
+    "image": "",
+    "options": [
+      "Scale",
+      "Ruler",
+      "Thermometer",
+      "Clock"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A ruler is used to measure length in centimetres.",
+    "tags": [
+      "measurement",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-measurement-0023",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Perimeter and Area",
+    "subtopic": "Perimeter and Area",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which tool do we use to measure weight?",
+    "image": "",
+    "options": [
+      "Ruler",
+      "Thermometer",
+      "Weighing scale",
+      "Clock"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A weighing scale measures weight in kilograms or grams.",
+    "tags": [
+      "measurement",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-measurement-0024",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Perimeter and Area",
+    "subtopic": "Perimeter and Area",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "500 ml + 500 ml = ?",
+    "image": "",
+    "options": [
+      "500 ml",
+      "1 litre",
+      "1000 ml",
+      "Both B and C"
+    ],
+    "correctAnswer": 3,
+    "explanation": "500 + 500 = 1000 ml = 1 litre.",
+    "tags": [
+      "measurement",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-measurement-0025",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Perimeter and Area",
+    "subtopic": "Perimeter and Area",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many hours are in one day?",
+    "image": "",
+    "options": [
+      "12",
+      "20",
+      "24",
+      "60"
+    ],
+    "correctAnswer": 2,
+    "explanation": "One day has 24 hours.",
+    "tags": [
+      "measurement",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  }
+]

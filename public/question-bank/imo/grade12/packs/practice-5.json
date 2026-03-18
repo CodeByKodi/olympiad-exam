@@ -1,0 +1,20 @@
+{
+  "packId": "imo-grade12-geometry-practice-01",
+  "exam": "imo",
+  "grade": 12,
+  "mode": "practice",
+  "title": "Three Dimensional Geometry Practice",
+  "topic": "Three Dimensional Geometry",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Three Dimensional Geometry"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

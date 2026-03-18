@@ -1,0 +1,20 @@
+{
+  "packId": "imo-grade10-measurement-practice-01",
+  "exam": "imo",
+  "grade": 10,
+  "mode": "practice",
+  "title": "Areas Related to Circles Practice",
+  "topic": "Areas Related to Circles",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Areas Related to Circles"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

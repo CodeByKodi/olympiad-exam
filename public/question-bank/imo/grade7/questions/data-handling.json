@@ -1,0 +1,702 @@
+[
+  {
+    "id": "imo-g7-data-handling-0001",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "A pictograph uses ___ to show data.",
+    "image": "",
+    "options": [
+      "Numbers only",
+      "Pictures or symbols",
+      "Words only",
+      "Colours only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A pictograph uses pictures or symbols to represent data.",
+    "tags": [
+      "data-handling",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-data-handling-0002",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "In a survey, 5 children like apples, 8 like bananas, and 3 like oranges. Which fruit is most liked?",
+    "image": "",
+    "options": [
+      "Apples",
+      "Bananas",
+      "Oranges",
+      "All equal"
+    ],
+    "correctAnswer": 1,
+    "explanation": "8 children like bananas, which is more than apples (5) and oranges (3).",
+    "tags": [
+      "data-handling",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-data-handling-0003",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many children are there in total if 4 like red, 6 like blue, and 5 like green?",
+    "image": "",
+    "options": [
+      "10",
+      "11",
+      "15",
+      "20"
+    ],
+    "correctAnswer": 2,
+    "explanation": "4 + 6 + 5 = 15 children in total.",
+    "tags": [
+      "data-handling",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-data-handling-0004",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "In a class, 12 students have dogs, 8 have cats, and 5 have both. How many students have at least one pet?",
+    "image": "",
+    "options": [
+      "20",
+      "15",
+      "25",
+      "17"
+    ],
+    "correctAnswer": 1,
+    "explanation": "12 + 8 - 5 = 15 (we subtract 5 because they were counted twice).",
+    "tags": [
+      "data-handling",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-data-handling-0005",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a table that shows data in rows and columns?",
+    "image": "",
+    "options": [
+      "Pictograph",
+      "Data table",
+      "Graph",
+      "Chart"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A data table organizes information in rows and columns.",
+    "tags": [
+      "data-handling",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-data-handling-0006",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "The heights of 4 friends are: 120 cm, 125 cm, 118 cm, 130 cm. What is the tallest height?",
+    "image": "",
+    "options": [
+      "118 cm",
+      "120 cm",
+      "125 cm",
+      "130 cm"
+    ],
+    "correctAnswer": 3,
+    "explanation": "130 cm is the greatest number, so it is the tallest.",
+    "tags": [
+      "data-handling",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-data-handling-0007",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "If each 🍎 represents 2 apples, how many apples does 🍎🍎🍎 represent?",
+    "image": "",
+    "options": [
+      "3",
+      "5",
+      "6",
+      "8"
+    ],
+    "correctAnswer": 2,
+    "explanation": "3 symbols × 2 apples each = 6 apples.",
+    "tags": [
+      "data-handling",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-data-handling-0008",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "To find the most common item in data, we look for the ___ value.",
+    "image": "",
+    "options": [
+      "Smallest",
+      "Largest",
+      "Middle",
+      "First"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The largest value or highest count shows the most common item.",
+    "tags": [
+      "data-handling",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-data-handling-0009",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Scores in a test: 8, 9, 7, 9, 10. What is the total of all scores?",
+    "image": "",
+    "options": [
+      "40",
+      "43",
+      "42",
+      "41"
+    ],
+    "correctAnswer": 1,
+    "explanation": "8 + 9 + 7 + 9 + 10 = 43.",
+    "tags": [
+      "data-handling",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-data-handling-0010",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call collecting information by asking questions?",
+    "image": "",
+    "options": [
+      "Guessing",
+      "Survey",
+      "Counting",
+      "Drawing"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A survey is a way to collect data by asking questions.",
+    "tags": [
+      "data-handling",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-data-handling-0011",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "In a class, 6 children like cricket, 4 like football, and 7 like badminton. Which sport is least liked?",
+    "image": "",
+    "options": [
+      "Cricket",
+      "Football",
+      "Badminton",
+      "All equal"
+    ],
+    "correctAnswer": 1,
+    "explanation": "4 children like football, which is fewer than cricket (6) and badminton (7).",
+    "tags": [
+      "data-handling",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-data-handling-0012",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "If each ⭐ represents 3 stars, how many stars does ⭐⭐⭐⭐ represent?",
+    "image": "",
+    "options": [
+      "4",
+      "7",
+      "12",
+      "16"
+    ],
+    "correctAnswer": 2,
+    "explanation": "4 symbols × 3 stars each = 12 stars.",
+    "tags": [
+      "data-handling",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-data-handling-0013",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "A tally of |||| means how many?",
+    "image": "",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Each vertical line in a tally represents 1. |||| = 4.",
+    "tags": [
+      "data-handling",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-data-handling-0014",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Ages of 5 children: 7, 8, 7, 9, 7. What is the most common age?",
+    "image": "",
+    "options": [
+      "8",
+      "9",
+      "7",
+      "5"
+    ],
+    "correctAnswer": 2,
+    "explanation": "7 appears 3 times, which is more than 8 or 9.",
+    "tags": [
+      "data-handling",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-data-handling-0015",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "In a pictograph, if 🍊 = 2 oranges, then 🍊🍊🍊 = ?",
+    "image": "",
+    "options": [
+      "3 oranges",
+      "5 oranges",
+      "6 oranges",
+      "8 oranges"
+    ],
+    "correctAnswer": 2,
+    "explanation": "3 symbols × 2 oranges each = 6 oranges.",
+    "tags": [
+      "data-handling",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-data-handling-0016",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Marks of 4 students: 85, 90, 78, 92. What is the highest mark?",
+    "image": "",
+    "options": [
+      "78",
+      "85",
+      "90",
+      "92"
+    ],
+    "correctAnswer": 3,
+    "explanation": "92 is the greatest number.",
+    "tags": [
+      "data-handling",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-data-handling-0017",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "To find the total, we ___ all the numbers.",
+    "image": "",
+    "options": [
+      "Subtract",
+      "Add",
+      "Multiply",
+      "Divide"
+    ],
+    "correctAnswer": 1,
+    "explanation": "To find the total, we add all the numbers together.",
+    "tags": [
+      "data-handling",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-data-handling-0018",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Fruits sold: 10 apples, 15 bananas, 12 oranges. How many fruits were sold in total?",
+    "image": "",
+    "options": [
+      "25",
+      "35",
+      "37",
+      "40"
+    ],
+    "correctAnswer": 2,
+    "explanation": "10 + 15 + 12 = 37 fruits.",
+    "tags": [
+      "data-handling",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-data-handling-0019",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call a chart that uses bars to show data?",
+    "image": "",
+    "options": [
+      "Pictograph",
+      "Bar graph",
+      "Table",
+      "Tally"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A bar graph uses bars to show and compare data.",
+    "tags": [
+      "data-handling",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-data-handling-0020",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Temperatures for 4 days: 28°C, 32°C, 25°C, 30°C. What is the lowest temperature?",
+    "image": "",
+    "options": [
+      "28°C",
+      "32°C",
+      "25°C",
+      "30°C"
+    ],
+    "correctAnswer": 2,
+    "explanation": "25°C is the smallest number.",
+    "tags": [
+      "data-handling",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-data-handling-0021",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "A tally of |||| |||| means how many?",
+    "image": "",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "correctAnswer": 2,
+    "explanation": "|||| = 4 and |||| = 4. 4 + 4 = 8.",
+    "tags": [
+      "data-handling",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-data-handling-0022",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Books read: Riya 5, Amit 7, Sita 6, Rohan 9. Who read the most?",
+    "image": "",
+    "options": [
+      "Riya",
+      "Amit",
+      "Sita",
+      "Rohan"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Rohan read 9 books, which is the highest.",
+    "tags": [
+      "data-handling",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-data-handling-0023",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "To compare data, we look at the ___ of the bars in a bar graph.",
+    "image": "",
+    "options": [
+      "Colour",
+      "Height",
+      "Width",
+      "Position"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The height of bars shows the value and helps us compare.",
+    "tags": [
+      "data-handling",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-data-handling-0024",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Scores: 7, 9, 8, 9, 7. What is the total score?",
+    "image": "",
+    "options": [
+      "38",
+      "39",
+      "40",
+      "41"
+    ],
+    "correctAnswer": 2,
+    "explanation": "7 + 9 + 8 + 9 + 7 = 40.",
+    "tags": [
+      "data-handling",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g7-data-handling-0025",
+    "exam": "imo",
+    "grade": "7",
+    "topic": "Data Handling",
+    "subtopic": "Data Handling",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What do we call the list that shows what each symbol means in a pictograph?",
+    "image": "",
+    "options": [
+      "Title",
+      "Key",
+      "Label",
+      "Graph"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The key tells us what each symbol represents.",
+    "tags": [
+      "data-handling",
+      "imo",
+      "grade7"
+    ],
+    "sourceType": "generated"
+  }
+]

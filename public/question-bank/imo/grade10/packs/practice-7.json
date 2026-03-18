@@ -1,0 +1,20 @@
+{
+  "packId": "imo-grade10-data-handling-practice-01",
+  "exam": "imo",
+  "grade": 10,
+  "mode": "practice",
+  "title": "Statistics Practice",
+  "topic": "Statistics",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Statistics"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}

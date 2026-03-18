@@ -1,0 +1,702 @@
+[
+  {
+    "id": "imo-g12-logical-reasoning-0001",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Verbal and Non-Verbal Reasoning",
+    "subtopic": "Verbal and Non-Verbal Reasoning",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Dog is to puppy as cat is to ___?",
+    "image": "",
+    "options": [
+      "Cub",
+      "Kitten",
+      "Calf",
+      "Chick"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A baby dog is a puppy, and a baby cat is a kitten.",
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-logical-reasoning-0002",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Verbal and Non-Verbal Reasoning",
+    "subtopic": "Verbal and Non-Verbal Reasoning",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which one is different: Apple, Banana, Carrot, Orange?",
+    "image": "",
+    "options": [
+      "Apple",
+      "Banana",
+      "Carrot",
+      "Orange"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Carrot is a vegetable. Apple, Banana, and Orange are fruits.",
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-logical-reasoning-0003",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Verbal and Non-Verbal Reasoning",
+    "subtopic": "Verbal and Non-Verbal Reasoning",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "If A=1, B=2, C=3, what is the value of CAT?",
+    "image": "",
+    "options": [
+      "24",
+      "24 (3+1+20)",
+      "6",
+      "3120"
+    ],
+    "correctAnswer": 0,
+    "explanation": "C=3, A=1, T=20. 3+1+20=24.",
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-logical-reasoning-0004",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Verbal and Non-Verbal Reasoning",
+    "subtopic": "Verbal and Non-Verbal Reasoning",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which letter comes exactly in the middle of the alphabet?",
+    "image": "",
+    "options": [
+      "L",
+      "M",
+      "N",
+      "O"
+    ],
+    "correctAnswer": 1,
+    "explanation": "M is the 13th letter. There are 26 letters, so M is in the middle.",
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-logical-reasoning-0005",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Verbal and Non-Verbal Reasoning",
+    "subtopic": "Verbal and Non-Verbal Reasoning",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "In a queue of 5 children, Riya is 2nd from the front. What is her position from the back?",
+    "image": "",
+    "options": [
+      "2nd",
+      "3rd",
+      "4th",
+      "5th"
+    ],
+    "correctAnswer": 2,
+    "explanation": "In a queue of 5, 2nd from front means 4th from back.",
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-logical-reasoning-0006",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Verbal and Non-Verbal Reasoning",
+    "subtopic": "Verbal and Non-Verbal Reasoning",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Pen is to write as knife is to ___?",
+    "image": "",
+    "options": [
+      "Eat",
+      "Cut",
+      "Draw",
+      "Read"
+    ],
+    "correctAnswer": 1,
+    "explanation": "We use a pen to write and a knife to cut.",
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-logical-reasoning-0007",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Verbal and Non-Verbal Reasoning",
+    "subtopic": "Verbal and Non-Verbal Reasoning",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which one is different: Square, Circle, Triangle, Rectangle?",
+    "image": "",
+    "options": [
+      "Square",
+      "Circle",
+      "Triangle",
+      "Rectangle"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Circle has no corners. Square, Triangle, and Rectangle have corners.",
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-logical-reasoning-0008",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Verbal and Non-Verbal Reasoning",
+    "subtopic": "Verbal and Non-Verbal Reasoning",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many days are in a week?",
+    "image": "",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswer": 2,
+    "explanation": "There are 7 days in a week: Sunday to Saturday.",
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-logical-reasoning-0009",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Verbal and Non-Verbal Reasoning",
+    "subtopic": "Verbal and Non-Verbal Reasoning",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many months are in a year?",
+    "image": "",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "correctAnswer": 2,
+    "explanation": "There are 12 months in a year.",
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-logical-reasoning-0010",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Verbal and Non-Verbal Reasoning",
+    "subtopic": "Verbal and Non-Verbal Reasoning",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "You have a red shirt and a blue shirt. You have black pants and white pants. How many different outfits can you make?",
+    "image": "",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Red+Black, Red+White, Blue+Black, Blue+White = 4 outfits.",
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-logical-reasoning-0011",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Verbal and Non-Verbal Reasoning",
+    "subtopic": "Verbal and Non-Verbal Reasoning",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What comes next: 2, 4, 6, 8, ___?",
+    "image": "",
+    "options": [
+      "9",
+      "10",
+      "12",
+      "14"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The pattern adds 2 each time. 8 + 2 = 10.",
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-logical-reasoning-0012",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Verbal and Non-Verbal Reasoning",
+    "subtopic": "Verbal and Non-Verbal Reasoning",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which one is different: Dog, Cat, Cow, Lion?",
+    "image": "",
+    "options": [
+      "Dog",
+      "Cat",
+      "Cow",
+      "Lion"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Lion is a wild animal. Dog, Cat, and Cow are domestic animals.",
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-logical-reasoning-0013",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Verbal and Non-Verbal Reasoning",
+    "subtopic": "Verbal and Non-Verbal Reasoning",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "If A=1, B=2, C=3, what is the value of BAD?",
+    "image": "",
+    "options": [
+      "1+1+4",
+      "7",
+      "8",
+      "6"
+    ],
+    "correctAnswer": 2,
+    "explanation": "B=2, A=1, D=4. 2+1+4=7.",
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-logical-reasoning-0014",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Verbal and Non-Verbal Reasoning",
+    "subtopic": "Verbal and Non-Verbal Reasoning",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which letter comes after G in the alphabet?",
+    "image": "",
+    "options": [
+      "F",
+      "H",
+      "I",
+      "J"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The alphabet order is ... F, G, H, I, J ...",
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-logical-reasoning-0015",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Verbal and Non-Verbal Reasoning",
+    "subtopic": "Verbal and Non-Verbal Reasoning",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "In a line of 7 children, Sita is 3rd from the front. What is her position from the back?",
+    "image": "",
+    "options": [
+      "3rd",
+      "4th",
+      "5th",
+      "6th"
+    ],
+    "correctAnswer": 2,
+    "explanation": "In a line of 7, 3rd from front = 5th from back.",
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-logical-reasoning-0016",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Verbal and Non-Verbal Reasoning",
+    "subtopic": "Verbal and Non-Verbal Reasoning",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Bird is to fly as fish is to ___?",
+    "image": "",
+    "options": [
+      "Walk",
+      "Swim",
+      "Run",
+      "Jump"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Birds fly and fish swim.",
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-logical-reasoning-0017",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Verbal and Non-Verbal Reasoning",
+    "subtopic": "Verbal and Non-Verbal Reasoning",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What comes next: 5, 10, 15, 20, ___?",
+    "image": "",
+    "options": [
+      "22",
+      "24",
+      "25",
+      "30"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The pattern adds 5 each time. 20 + 5 = 25.",
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-logical-reasoning-0018",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Verbal and Non-Verbal Reasoning",
+    "subtopic": "Verbal and Non-Verbal Reasoning",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many days are in February in a leap year?",
+    "image": "",
+    "options": [
+      "27",
+      "28",
+      "29",
+      "30"
+    ],
+    "correctAnswer": 2,
+    "explanation": "February has 29 days in a leap year.",
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-logical-reasoning-0019",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Verbal and Non-Verbal Reasoning",
+    "subtopic": "Verbal and Non-Verbal Reasoning",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "A triangle has how many sides?",
+    "image": "",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A triangle has 3 sides.",
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-logical-reasoning-0020",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Verbal and Non-Verbal Reasoning",
+    "subtopic": "Verbal and Non-Verbal Reasoning",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "You can choose juice or milk. You can choose bread or rice. How many different meals can you make?",
+    "image": "",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Juice+Bread, Juice+Rice, Milk+Bread, Milk+Rice = 4 meals.",
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-logical-reasoning-0021",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Verbal and Non-Verbal Reasoning",
+    "subtopic": "Verbal and Non-Verbal Reasoning",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Book is to read as song is to ___?",
+    "image": "",
+    "options": [
+      "Write",
+      "Sing",
+      "Draw",
+      "Count"
+    ],
+    "correctAnswer": 1,
+    "explanation": "We read books and sing songs.",
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-logical-reasoning-0022",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Verbal and Non-Verbal Reasoning",
+    "subtopic": "Verbal and Non-Verbal Reasoning",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What comes next: 1, 3, 5, 7, ___?",
+    "image": "",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The pattern adds 2 each time. 7 + 2 = 9.",
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-logical-reasoning-0023",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Verbal and Non-Verbal Reasoning",
+    "subtopic": "Verbal and Non-Verbal Reasoning",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "A square has how many corners (vertices)?",
+    "image": "",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A square has 4 corners.",
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-logical-reasoning-0024",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Verbal and Non-Verbal Reasoning",
+    "subtopic": "Verbal and Non-Verbal Reasoning",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which letter comes before D in the alphabet?",
+    "image": "",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "E"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The alphabet order is ... A, B, C, D, E ...",
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g12-logical-reasoning-0025",
+    "exam": "imo",
+    "grade": "12",
+    "topic": "Verbal and Non-Verbal Reasoning",
+    "subtopic": "Verbal and Non-Verbal Reasoning",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which one is different: Red, Blue, Green, Apple?",
+    "image": "",
+    "options": [
+      "Red",
+      "Blue",
+      "Green",
+      "Apple"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Apple is a fruit. Red, Blue, and Green are colours.",
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade12"
+    ],
+    "sourceType": "generated"
+  }
+]

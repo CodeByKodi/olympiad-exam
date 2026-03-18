@@ -1,1082 +1,702 @@
 [
   {
-    "id": "imo-g11-trigonometry-0041",
+    "id": "imo-g11-trigonometry-0001",
     "exam": "imo",
     "grade": "11",
     "topic": "Trigonometry",
-    "subtopic": "Trig Ratios",
+    "subtopic": "Trigonometry",
     "difficulty": "easy",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "What is 4 × 8?",
+    "questionText": "In a right triangle, sin(90°) = ?",
     "image": "",
     "options": [
-      "12",
-      "28",
-      "32",
-      "36"
-    ],
-    "correctAnswer": 2,
-    "explanation": "4 × 8 = 32.",
-    "tags": [
-      "multiplication-division-and-fractions",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "imo-g11-trigonometry-0042",
-    "exam": "imo",
-    "grade": "11",
-    "topic": "Trigonometry",
-    "subtopic": "Trig Ratios",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "What is 35 ÷ 5?",
-    "image": "",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
-    ],
-    "correctAnswer": 2,
-    "explanation": "35 ÷ 5 = 7.",
-    "tags": [
-      "multiplication-division-and-fractions",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "imo-g11-trigonometry-0043",
-    "exam": "imo",
-    "grade": "11",
-    "topic": "Trigonometry",
-    "subtopic": "Trig Ratios",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "What does 2/3 mean?",
-    "image": "",
-    "options": [
-      "2 out of 3 parts",
-      "3 out of 2 parts",
-      "2 plus 3",
-      "2 minus 3"
-    ],
-    "correctAnswer": 0,
-    "explanation": "2/3 means 2 out of 3 equal parts.",
-    "tags": [
-      "multiplication-division-and-fractions",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "imo-g11-trigonometry-0044",
-    "exam": "imo",
-    "grade": "11",
-    "topic": "Trigonometry",
-    "subtopic": "Trig Ratios",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "What is 9 × 4?",
-    "image": "",
-    "options": [
-      "32",
-      "36",
-      "40",
-      "45"
-    ],
-    "correctAnswer": 1,
-    "explanation": "9 × 4 = 36.",
-    "tags": [
-      "multiplication-division-and-fractions",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "imo-g11-trigonometry-0045",
-    "exam": "imo",
-    "grade": "11",
-    "topic": "Trigonometry",
-    "subtopic": "Trig Ratios",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "What is 42 ÷ 6?",
-    "image": "",
-    "options": [
-      "6",
-      "7",
-      "8",
-      "9"
-    ],
-    "correctAnswer": 1,
-    "explanation": "42 ÷ 6 = 7.",
-    "tags": [
-      "multiplication-division-and-fractions",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "imo-g11-trigonometry-0046",
-    "exam": "imo",
-    "grade": "11",
-    "topic": "Trigonometry",
-    "subtopic": "Trig Ratios",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "If 1 pizza is cut into 8 equal slices, how many slices make half?",
-    "image": "",
-    "options": [
-      "2",
-      "4",
-      "6",
-      "8"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Half of 8 slices is 4 slices.",
-    "tags": [
-      "multiplication-division-and-fractions",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "imo-g11-trigonometry-0047",
-    "exam": "imo",
-    "grade": "11",
-    "topic": "Trigonometry",
-    "subtopic": "Trig Ratios",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "What is 3 × 9?",
-    "image": "",
-    "options": [
-      "24",
-      "27",
-      "30",
-      "36"
-    ],
-    "correctAnswer": 1,
-    "explanation": "3 × 9 = 27.",
-    "tags": [
-      "multiplication-division-and-fractions",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "imo-g11-trigonometry-0048",
-    "exam": "imo",
-    "grade": "11",
-    "topic": "Trigonometry",
-    "subtopic": "Trig Ratios",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "What is 56 ÷ 8?",
-    "image": "",
-    "options": [
-      "6",
-      "7",
-      "8",
-      "9"
-    ],
-    "correctAnswer": 1,
-    "explanation": "56 ÷ 8 = 7.",
-    "tags": [
-      "multiplication-division-and-fractions",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "imo-g11-trigonometry-0049",
-    "exam": "imo",
-    "grade": "11",
-    "topic": "Trigonometry",
-    "subtopic": "Trig Ratios",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "What is 8 × 5?",
-    "image": "",
-    "options": [
-      "35",
-      "40",
-      "45",
-      "50"
-    ],
-    "correctAnswer": 1,
-    "explanation": "8 × 5 = 40.",
-    "tags": [
-      "multiplication-division-and-fractions",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "imo-g11-trigonometry-0050",
-    "exam": "imo",
-    "grade": "11",
-    "topic": "Trigonometry",
-    "subtopic": "Trig Ratios",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "How many 4s are in 24?",
-    "image": "",
-    "options": [
-      "4",
-      "5",
-      "6",
-      "8"
-    ],
-    "correctAnswer": 2,
-    "explanation": "24 ÷ 4 = 6. There are 6 fours in 24.",
-    "tags": [
-      "multiplication-division-and-fractions",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "imo-g11-trigonometry-0051",
-    "exam": "imo",
-    "grade": "11",
-    "topic": "Trigonometry",
-    "subtopic": "Trig Ratios",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "What is 1/2 + 1/2?",
-    "image": "",
-    "options": [
-      "1/4",
-      "1/2",
+      "0",
+      "0.5",
       "1",
       "2"
     ],
     "correctAnswer": 2,
-    "explanation": "Half plus half equals one whole.",
+    "explanation": "sin(90°) = 1.",
     "tags": [
-      "multiplication-division-and-fractions",
-      "grade3"
+      "trigonometry",
+      "imo",
+      "grade11"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "imo-g11-trigonometry-0052",
+    "id": "imo-g11-trigonometry-0002",
     "exam": "imo",
     "grade": "11",
     "topic": "Trigonometry",
-    "subtopic": "Trig Ratios",
+    "subtopic": "Trigonometry",
     "difficulty": "easy",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "What is 10 × 3?",
+    "questionText": "What is cos(0°)?",
     "image": "",
     "options": [
-      "13",
-      "30",
-      "33",
-      "300"
+      "0",
+      "0.5",
+      "1",
+      "2"
+    ],
+    "correctAnswer": 2,
+    "explanation": "cos(0°) = 1.",
+    "tags": [
+      "trigonometry",
+      "imo",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g11-trigonometry-0003",
+    "exam": "imo",
+    "grade": "11",
+    "topic": "Trigonometry",
+    "subtopic": "Trigonometry",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "In a right triangle, what is the side opposite the right angle called?",
+    "image": "",
+    "options": [
+      "Base",
+      "Height",
+      "Hypotenuse",
+      "Perpendicular"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The hypotenuse is opposite the right angle.",
+    "tags": [
+      "trigonometry",
+      "imo",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g11-trigonometry-0004",
+    "exam": "imo",
+    "grade": "11",
+    "topic": "Trigonometry",
+    "subtopic": "Trigonometry",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is tan(45°)?",
+    "image": "",
+    "options": [
+      "0",
+      "0.5",
+      "1",
+      "2"
+    ],
+    "correctAnswer": 2,
+    "explanation": "tan(45°) = 1.",
+    "tags": [
+      "trigonometry",
+      "imo",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g11-trigonometry-0005",
+    "exam": "imo",
+    "grade": "11",
+    "topic": "Trigonometry",
+    "subtopic": "Trigonometry",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "sin²θ + cos²θ = ?",
+    "image": "",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "sin θ"
     ],
     "correctAnswer": 1,
-    "explanation": "10 × 3 = 30.",
+    "explanation": "Pythagorean identity: sin²θ + cos²θ = 1.",
     "tags": [
-      "multiplication-division-and-fractions",
-      "grade3"
+      "trigonometry",
+      "imo",
+      "grade11"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "imo-g11-trigonometry-0053",
+    "id": "imo-g11-trigonometry-0006",
     "exam": "imo",
     "grade": "11",
     "topic": "Trigonometry",
-    "subtopic": "Trig Ratios",
-    "difficulty": "easy",
+    "subtopic": "Trigonometry",
+    "difficulty": "medium",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "There are 32 apples in 4 baskets. How many in each basket?",
+    "questionText": "What is the value of sin(30°)?",
     "image": "",
     "options": [
-      "6",
-      "7",
-      "8",
-      "9"
-    ],
-    "correctAnswer": 2,
-    "explanation": "32 ÷ 4 = 8 apples per basket.",
-    "tags": [
-      "multiplication-division-and-fractions",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "imo-g11-trigonometry-0054",
-    "exam": "imo",
-    "grade": "11",
-    "topic": "Trigonometry",
-    "subtopic": "Trig Ratios",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "What is 5 × 6?",
-    "image": "",
-    "options": [
-      "11",
-      "25",
-      "30",
-      "35"
-    ],
-    "correctAnswer": 2,
-    "explanation": "5 × 6 = 30.",
-    "tags": [
-      "multiplication-division-and-fractions",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "imo-g11-trigonometry-0055",
-    "exam": "imo",
-    "grade": "11",
-    "topic": "Trigonometry",
-    "subtopic": "Trig Ratios",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "Which fraction equals 1?",
-    "image": "",
-    "options": [
-      "1/2",
-      "2/2",
-      "1/4",
-      "3/4"
-    ],
-    "correctAnswer": 1,
-    "explanation": "2/2 = 1. Two halves make one whole.",
-    "tags": [
-      "multiplication-division-and-fractions",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "imo-g11-trigonometry-0056",
-    "exam": "imo",
-    "grade": "11",
-    "topic": "Trigonometry",
-    "subtopic": "Trig Ratios",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "How many minutes are in 1 hour?",
-    "image": "",
-    "options": [
-      "30",
-      "60",
-      "90",
-      "100"
-    ],
-    "correctAnswer": 1,
-    "explanation": "1 hour = 60 minutes.",
-    "tags": [
-      "time-money-and-measurement",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "imo-g11-trigonometry-0057",
-    "exam": "imo",
-    "grade": "11",
-    "topic": "Trigonometry",
-    "subtopic": "Trig Ratios",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "How many paise make 1 rupee?",
-    "image": "",
-    "options": [
-      "10",
-      "50",
-      "100",
-      "1000"
-    ],
-    "correctAnswer": 2,
-    "explanation": "100 paise = 1 rupee.",
-    "tags": [
-      "time-money-and-measurement",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "imo-g11-trigonometry-0058",
-    "exam": "imo",
-    "grade": "11",
-    "topic": "Trigonometry",
-    "subtopic": "Trig Ratios",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "What is the standard unit of length?",
-    "image": "",
-    "options": [
-      "Kilogram",
-      "Litre",
-      "Metre",
-      "Rupee"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Metre is the standard unit for measuring length.",
-    "tags": [
-      "time-money-and-measurement",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "imo-g11-trigonometry-0059",
-    "exam": "imo",
-    "grade": "11",
-    "topic": "Trigonometry",
-    "subtopic": "Trig Ratios",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "How many hours are in 1 day?",
-    "image": "",
-    "options": [
-      "12",
-      "20",
-      "24",
-      "30"
-    ],
-    "correctAnswer": 2,
-    "explanation": "1 day = 24 hours.",
-    "tags": [
-      "time-money-and-measurement",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "imo-g11-trigonometry-0060",
-    "exam": "imo",
-    "grade": "11",
-    "topic": "Trigonometry",
-    "subtopic": "Trig Ratios",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "If a pencil costs ₹5, how much do 3 pencils cost?",
-    "image": "",
-    "options": [
-      "₹8",
-      "₹15",
-      "₹18",
-      "₹20"
-    ],
-    "correctAnswer": 1,
-    "explanation": "3 × 5 = ₹15.",
-    "tags": [
-      "time-money-and-measurement",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "imo-g11-trigonometry-0061",
-    "exam": "imo",
-    "grade": "11",
-    "topic": "Trigonometry",
-    "subtopic": "Trig Ratios",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "How many centimetres are in 1 metre?",
-    "image": "",
-    "options": [
-      "10",
-      "50",
-      "100",
-      "1000"
-    ],
-    "correctAnswer": 2,
-    "explanation": "1 metre = 100 centimetres.",
-    "tags": [
-      "time-money-and-measurement",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "imo-g11-trigonometry-0062",
-    "exam": "imo",
-    "grade": "11",
-    "topic": "Trigonometry",
-    "subtopic": "Trig Ratios",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "How many days are in 1 week?",
-    "image": "",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
-    ],
-    "correctAnswer": 2,
-    "explanation": "1 week = 7 days.",
-    "tags": [
-      "time-money-and-measurement",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "imo-g11-trigonometry-0063",
-    "exam": "imo",
-    "grade": "11",
-    "topic": "Trigonometry",
-    "subtopic": "Trig Ratios",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "Riya has ₹20. She buys a toy for ₹12. How much is left?",
-    "image": "",
-    "options": [
-      "₹6",
-      "₹8",
-      "₹10",
-      "₹12"
-    ],
-    "correctAnswer": 1,
-    "explanation": "20 − 12 = ₹8.",
-    "tags": [
-      "time-money-and-measurement",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "imo-g11-trigonometry-0064",
-    "exam": "imo",
-    "grade": "11",
-    "topic": "Trigonometry",
-    "subtopic": "Trig Ratios",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "What do we use to measure weight?",
-    "image": "",
-    "options": [
-      "Ruler",
-      "Thermometer",
-      "Clock",
-      "Scale"
-    ],
-    "correctAnswer": 3,
-    "explanation": "A scale or balance measures weight.",
-    "tags": [
-      "time-money-and-measurement",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "imo-g11-trigonometry-0065",
-    "exam": "imo",
-    "grade": "11",
-    "topic": "Trigonometry",
-    "subtopic": "Trig Ratios",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "How many months are in 1 year?",
-    "image": "",
-    "options": [
-      "10",
-      "11",
-      "12",
-      "13"
-    ],
-    "correctAnswer": 2,
-    "explanation": "1 year = 12 months.",
-    "tags": [
-      "time-money-and-measurement",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "imo-g11-trigonometry-0066",
-    "exam": "imo",
-    "grade": "11",
-    "topic": "Trigonometry",
-    "subtopic": "Trig Ratios",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "Which coin is worth the most?",
-    "image": "",
-    "options": [
-      "50 paise",
-      "₹1",
-      "₹2",
-      "₹5"
-    ],
-    "correctAnswer": 3,
-    "explanation": "₹5 is worth the most among these.",
-    "tags": [
-      "time-money-and-measurement",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "imo-g11-trigonometry-0067",
-    "exam": "imo",
-    "grade": "11",
-    "topic": "Trigonometry",
-    "subtopic": "Trig Ratios",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "What is 2 metres in centimetres?",
-    "image": "",
-    "options": [
-      "20",
-      "200",
-      "2000",
+      "0",
+      "0.5",
+      "1",
       "2"
     ],
     "correctAnswer": 1,
-    "explanation": "2 m = 2 × 100 = 200 cm.",
+    "explanation": "sin(30°) = 1/2 = 0.5.",
     "tags": [
-      "time-money-and-measurement",
-      "grade3"
+      "trigonometry",
+      "imo",
+      "grade11"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "imo-g11-trigonometry-0068",
+    "id": "imo-g11-trigonometry-0007",
     "exam": "imo",
     "grade": "11",
     "topic": "Trigonometry",
-    "subtopic": "Trig Ratios",
+    "subtopic": "Trigonometry",
     "difficulty": "easy",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "If it is 3:00 now, what time will it be in 2 hours?",
+    "questionText": "What is cos(60°)?",
     "image": "",
     "options": [
-      "1:00",
-      "4:00",
-      "5:00",
-      "6:00"
-    ],
-    "correctAnswer": 2,
-    "explanation": "3:00 + 2 hours = 5:00.",
-    "tags": [
-      "time-money-and-measurement",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "imo-g11-trigonometry-0069",
-    "exam": "imo",
-    "grade": "11",
-    "topic": "Trigonometry",
-    "subtopic": "Trig Ratios",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "How many 50 paise coins make ₹1?",
-    "image": "",
-    "options": [
+      "0",
+      "0.5",
       "1",
-      "2",
-      "5",
-      "10"
+      "2"
     ],
     "correctAnswer": 1,
-    "explanation": "2 × 50 paise = 100 paise = ₹1.",
+    "explanation": "cos(60°) = 1/2 = 0.5.",
     "tags": [
-      "time-money-and-measurement",
-      "grade3"
+      "trigonometry",
+      "imo",
+      "grade11"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "imo-g11-trigonometry-0070",
+    "id": "imo-g11-trigonometry-0008",
     "exam": "imo",
     "grade": "11",
     "topic": "Trigonometry",
-    "subtopic": "Trig Ratios",
+    "subtopic": "Trigonometry",
     "difficulty": "easy",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "Which is longer: 1 metre or 100 centimetres?",
+    "questionText": "tan θ = sin θ / ?",
     "image": "",
     "options": [
-      "1 metre",
-      "100 cm",
-      "Both equal",
-      "Cannot tell"
-    ],
-    "correctAnswer": 2,
-    "explanation": "1 m = 100 cm. They are the same length.",
-    "tags": [
-      "time-money-and-measurement",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "imo-g11-trigonometry-0071",
-    "exam": "imo",
-    "grade": "11",
-    "topic": "Trigonometry",
-    "subtopic": "Trig Ratios",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "How many seconds are in 1 minute?",
-    "image": "",
-    "options": [
-      "30",
-      "60",
-      "90",
-      "100"
-    ],
-    "correctAnswer": 1,
-    "explanation": "1 minute = 60 seconds.",
-    "tags": [
-      "time-money-and-measurement",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "imo-g11-trigonometry-0072",
-    "exam": "imo",
-    "grade": "11",
-    "topic": "Trigonometry",
-    "subtopic": "Trig Ratios",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "A book costs ₹45. How much do 2 books cost?",
-    "image": "",
-    "options": [
-      "₹47",
-      "₹90",
-      "₹95",
-      "₹100"
-    ],
-    "correctAnswer": 1,
-    "explanation": "2 × 45 = ₹90.",
-    "tags": [
-      "time-money-and-measurement",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "imo-g11-trigonometry-0073",
-    "exam": "imo",
-    "grade": "11",
-    "topic": "Trigonometry",
-    "subtopic": "Trig Ratios",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "What unit do we use to measure liquids?",
-    "image": "",
-    "options": [
-      "Metre",
-      "Kilogram",
-      "Litre",
-      "Gram"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Litre is used to measure liquids like milk and water.",
-    "tags": [
-      "time-money-and-measurement",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "imo-g11-trigonometry-0074",
-    "exam": "imo",
-    "grade": "11",
-    "topic": "Trigonometry",
-    "subtopic": "Trig Ratios",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "What day comes after Tuesday?",
-    "image": "",
-    "options": [
-      "Monday",
-      "Wednesday",
-      "Thursday",
-      "Friday"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Wednesday comes after Tuesday.",
-    "tags": [
-      "time-money-and-measurement",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "imo-g11-trigonometry-0075",
-    "exam": "imo",
-    "grade": "11",
-    "topic": "Trigonometry",
-    "subtopic": "Trig Ratios",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "How much is ₹10 + ₹5 + ₹2?",
-    "image": "",
-    "options": [
-      "₹15",
-      "₹17",
-      "₹20",
-      "₹22"
-    ],
-    "correctAnswer": 1,
-    "explanation": "10 + 5 + 2 = ₹17.",
-    "tags": [
-      "time-money-and-measurement",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "imo-g11-trigonometry-0076",
-    "exam": "imo",
-    "grade": "11",
-    "topic": "Trigonometry",
-    "subtopic": "Trig Ratios",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "How many minutes are in 2 hours?",
-    "image": "",
-    "options": [
-      "60",
-      "90",
-      "120",
-      "200"
-    ],
-    "correctAnswer": 2,
-    "explanation": "2 × 60 = 120 minutes.",
-    "tags": [
-      "time-money-and-measurement",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "imo-g11-trigonometry-0077",
-    "exam": "imo",
-    "grade": "11",
-    "topic": "Trigonometry",
-    "subtopic": "Trig Ratios",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "Which is heavier: 1 kg or 500 g?",
-    "image": "",
-    "options": [
-      "1 kg",
-      "500 g",
-      "Both equal",
-      "Cannot tell"
+      "cos θ",
+      "sec θ",
+      "cot θ",
+      "cosec θ"
     ],
     "correctAnswer": 0,
-    "explanation": "1 kg = 1000 g, which is more than 500 g.",
+    "explanation": "tan θ = sin θ / cos θ.",
     "tags": [
-      "time-money-and-measurement",
-      "grade3"
+      "trigonometry",
+      "imo",
+      "grade11"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "imo-g11-trigonometry-0078",
+    "id": "imo-g11-trigonometry-0009",
     "exam": "imo",
     "grade": "11",
     "topic": "Trigonometry",
-    "subtopic": "Trig Ratios",
-    "difficulty": "easy",
+    "subtopic": "Trigonometry",
+    "difficulty": "medium",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "How many weeks are in 1 month?",
+    "questionText": "What is the range of sin θ?",
     "image": "",
     "options": [
-      "2",
-      "3",
-      "4",
-      "5"
+      "0 to 2",
+      "-2 to 2",
+      "-1 to 1",
+      "0 to 1"
     ],
     "correctAnswer": 2,
-    "explanation": "About 4 weeks in a month.",
+    "explanation": "sin θ is always between -1 and 1.",
     "tags": [
-      "time-money-and-measurement",
-      "grade3"
+      "trigonometry",
+      "imo",
+      "grade11"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "imo-g11-trigonometry-0079",
+    "id": "imo-g11-trigonometry-0010",
     "exam": "imo",
     "grade": "11",
     "topic": "Trigonometry",
-    "subtopic": "Trig Ratios",
+    "subtopic": "Trigonometry",
     "difficulty": "easy",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "Vikram had ₹30. He spent ₹18. How much does he have left?",
+    "questionText": "In a right triangle with angle 30°, the side opposite 30° is half of the ___?",
     "image": "",
     "options": [
-      "₹10",
-      "₹12",
-      "₹15",
-      "₹18"
+      "Base",
+      "Hypotenuse",
+      "Perpendicular",
+      "Area"
     ],
     "correctAnswer": 1,
-    "explanation": "30 − 18 = ₹12.",
+    "explanation": "Opposite 30° = half of hypotenuse.",
     "tags": [
-      "time-money-and-measurement",
-      "grade3"
+      "trigonometry",
+      "imo",
+      "grade11"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "imo-g11-trigonometry-0080",
+    "id": "imo-g11-trigonometry-0011",
     "exam": "imo",
     "grade": "11",
     "topic": "Trigonometry",
-    "subtopic": "Trig Ratios",
+    "subtopic": "Trigonometry",
     "difficulty": "easy",
     "modes": [
       "practice",
       "mock"
     ],
-    "questionText": "How many sides does a triangle have?",
+    "questionText": "What is cosec(90°)?",
     "image": "",
     "options": [
-      "2",
-      "3",
-      "4",
-      "5"
+      "0",
+      "0.5",
+      "1",
+      "2"
+    ],
+    "correctAnswer": 2,
+    "explanation": "cosec(90°) = 1/sin(90°) = 1.",
+    "tags": [
+      "trigonometry",
+      "imo",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g11-trigonometry-0012",
+    "exam": "imo",
+    "grade": "11",
+    "topic": "Trigonometry",
+    "subtopic": "Trigonometry",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "sec θ = 1 / ?",
+    "image": "",
+    "options": [
+      "sin θ",
+      "cos θ",
+      "tan θ",
+      "cot θ"
     ],
     "correctAnswer": 1,
-    "explanation": "A triangle has 3 sides.",
+    "explanation": "sec θ = 1/cos θ.",
     "tags": [
-      "shapes-patterns-data-and-reasoning",
-      "grade3"
+      "trigonometry",
+      "imo",
+      "grade11"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g11-trigonometry-0013",
+    "exam": "imo",
+    "grade": "11",
+    "topic": "Trigonometry",
+    "subtopic": "Trigonometry",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is sin(0°)?",
+    "image": "",
+    "options": [
+      "0",
+      "0.5",
+      "1",
+      "2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "sin(0°) = 0.",
+    "tags": [
+      "trigonometry",
+      "imo",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g11-trigonometry-0014",
+    "exam": "imo",
+    "grade": "11",
+    "topic": "Trigonometry",
+    "subtopic": "Trigonometry",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is cos(90°)?",
+    "image": "",
+    "options": [
+      "0",
+      "0.5",
+      "1",
+      "2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "cos(90°) = 0.",
+    "tags": [
+      "trigonometry",
+      "imo",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g11-trigonometry-0015",
+    "exam": "imo",
+    "grade": "11",
+    "topic": "Trigonometry",
+    "subtopic": "Trigonometry",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "cot θ = 1 / ?",
+    "image": "",
+    "options": [
+      "sin θ",
+      "cos θ",
+      "tan θ",
+      "sec θ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "cot θ = 1/tan θ.",
+    "tags": [
+      "trigonometry",
+      "imo",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g11-trigonometry-0016",
+    "exam": "imo",
+    "grade": "11",
+    "topic": "Trigonometry",
+    "subtopic": "Trigonometry",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "In a 30-60-90 triangle, the ratio of sides is?",
+    "image": "",
+    "options": [
+      "1:1:1",
+      "1:2:√3",
+      "1:√2:√3",
+      "3:4:5"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sides are in ratio 1 : 2 : √3.",
+    "tags": [
+      "trigonometry",
+      "imo",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g11-trigonometry-0017",
+    "exam": "imo",
+    "grade": "11",
+    "topic": "Trigonometry",
+    "subtopic": "Trigonometry",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is tan(0°)?",
+    "image": "",
+    "options": [
+      "0",
+      "0.5",
+      "1",
+      "2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "tan(0°) = 0.",
+    "tags": [
+      "trigonometry",
+      "imo",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g11-trigonometry-0018",
+    "exam": "imo",
+    "grade": "11",
+    "topic": "Trigonometry",
+    "subtopic": "Trigonometry",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "1 + tan²θ = ?",
+    "image": "",
+    "options": [
+      "sin²θ",
+      "cos²θ",
+      "sec²θ",
+      "cosec²θ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "1 + tan²θ = sec²θ.",
+    "tags": [
+      "trigonometry",
+      "imo",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g11-trigonometry-0019",
+    "exam": "imo",
+    "grade": "11",
+    "topic": "Trigonometry",
+    "subtopic": "Trigonometry",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the period of sin θ?",
+    "image": "",
+    "options": [
+      "90°",
+      "180°",
+      "360°",
+      "720°"
+    ],
+    "correctAnswer": 2,
+    "explanation": "sin repeats every 360°.",
+    "tags": [
+      "trigonometry",
+      "imo",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g11-trigonometry-0020",
+    "exam": "imo",
+    "grade": "11",
+    "topic": "Trigonometry",
+    "subtopic": "Trigonometry",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "In a right triangle, if one angle is 45°, the other acute angle is?",
+    "image": "",
+    "options": [
+      "30°",
+      "45°",
+      "60°",
+      "90°"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sum of angles = 180°, so 90° + 45° + 45°.",
+    "tags": [
+      "trigonometry",
+      "imo",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g11-trigonometry-0021",
+    "exam": "imo",
+    "grade": "11",
+    "topic": "Trigonometry",
+    "subtopic": "Trigonometry",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "cosec θ = 1 / ?",
+    "image": "",
+    "options": [
+      "sin θ",
+      "cos θ",
+      "tan θ",
+      "sec θ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "cosec θ = 1/sin θ.",
+    "tags": [
+      "trigonometry",
+      "imo",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g11-trigonometry-0022",
+    "exam": "imo",
+    "grade": "11",
+    "topic": "Trigonometry",
+    "subtopic": "Trigonometry",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is sin(60°)?",
+    "image": "",
+    "options": [
+      "0",
+      "0.5",
+      "√3/2",
+      "1"
+    ],
+    "correctAnswer": 2,
+    "explanation": "sin(60°) = √3/2.",
+    "tags": [
+      "trigonometry",
+      "imo",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g11-trigonometry-0023",
+    "exam": "imo",
+    "grade": "11",
+    "topic": "Trigonometry",
+    "subtopic": "Trigonometry",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is cos(45°)?",
+    "image": "",
+    "options": [
+      "0",
+      "0.5",
+      "1/√2",
+      "1"
+    ],
+    "correctAnswer": 2,
+    "explanation": "cos(45°) = 1/√2.",
+    "tags": [
+      "trigonometry",
+      "imo",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g11-trigonometry-0024",
+    "exam": "imo",
+    "grade": "11",
+    "topic": "Trigonometry",
+    "subtopic": "Trigonometry",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "1 + cot²θ = ?",
+    "image": "",
+    "options": [
+      "sin²θ",
+      "cos²θ",
+      "sec²θ",
+      "cosec²θ"
+    ],
+    "correctAnswer": 3,
+    "explanation": "1 + cot²θ = cosec²θ.",
+    "tags": [
+      "trigonometry",
+      "imo",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g11-trigonometry-0025",
+    "exam": "imo",
+    "grade": "11",
+    "topic": "Trigonometry",
+    "subtopic": "Trigonometry",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the height of a pole if its shadow is 10 m and angle of elevation is 45°?",
+    "image": "",
+    "options": [
+      "5 m",
+      "10 m",
+      "15 m",
+      "20 m"
+    ],
+    "correctAnswer": 1,
+    "explanation": "tan(45°) = 1, so height = shadow length.",
+    "tags": [
+      "trigonometry",
+      "imo",
+      "grade11"
+    ],
+    "sourceType": "generated"
   }
 ]

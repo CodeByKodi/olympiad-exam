@@ -1,8 +1,9 @@
 {
   "files": [
-    "algebra.json",
+    "logical-reasoning.json",
+    "advanced-math.json",
     "trigonometry.json",
-    "coordinate-geometry.json",
-    "probability.json"
+    "algebra.json",
+    "geometry.json"
   ]
 }

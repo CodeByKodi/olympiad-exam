@@ -1,15 +1,15 @@
 {
-  "packId": "imo-grade6-geometry-practice-01",
+  "packId": "imo-grade6-numbers-practice-01",
   "exam": "imo",
   "grade": 6,
   "mode": "practice",
-  "title": "Geometry Practice Test",
-  "topic": "Geometry",
+  "title": "Number Play Practice",
+  "topic": "Number Play",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "Geometry"
+      "Number Play"
     ],
     "difficultyMix": {
       "easy": 15,

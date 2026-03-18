@@ -1,15 +1,15 @@
 {
-  "packId": "imo-grade4-geometry-practice-01",
+  "packId": "imo-grade4-numbers-practice-01",
   "exam": "imo",
   "grade": 4,
   "mode": "practice",
-  "title": "Geometry Practice Test",
-  "topic": "Geometry",
+  "title": "Numerals Practice",
+  "topic": "Numerals",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "Geometry"
+      "Numerals"
     ],
     "difficultyMix": {
       "easy": 15,

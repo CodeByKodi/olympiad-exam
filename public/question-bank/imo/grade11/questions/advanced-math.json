@@ -1,0 +1,702 @@
+[
+  {
+    "id": "imo-g11-advanced-math-0001",
+    "exam": "imo",
+    "grade": "11",
+    "topic": "Sets",
+    "subtopic": "Sets",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many 4s are in 24?",
+    "image": "",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correctAnswer": 2,
+    "explanation": "24 ÷ 4 = 6.",
+    "tags": [
+      "advanced-math",
+      "imo",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g11-advanced-math-0002",
+    "exam": "imo",
+    "grade": "11",
+    "topic": "Sets",
+    "subtopic": "Sets",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 12 × 4?",
+    "image": "",
+    "options": [
+      "44",
+      "46",
+      "48",
+      "52"
+    ],
+    "correctAnswer": 2,
+    "explanation": "12 × 4 = 48.",
+    "tags": [
+      "advanced-math",
+      "imo",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g11-advanced-math-0003",
+    "exam": "imo",
+    "grade": "11",
+    "topic": "Sets",
+    "subtopic": "Sets",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "If 2³ × 2² = 2ⁿ, what is n?",
+    "image": "",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswer": 0,
+    "explanation": "2³ × 2² = 2⁵, n = 5.",
+    "tags": [
+      "advanced-math",
+      "imo",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g11-advanced-math-0004",
+    "exam": "imo",
+    "grade": "11",
+    "topic": "Sets",
+    "subtopic": "Sets",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 15% of 200?",
+    "image": "",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "35"
+    ],
+    "correctAnswer": 2,
+    "explanation": "15% of 200 = 30.",
+    "tags": [
+      "advanced-math",
+      "imo",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g11-advanced-math-0005",
+    "exam": "imo",
+    "grade": "11",
+    "topic": "Sets",
+    "subtopic": "Sets",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many sides does a hexagon have?",
+    "image": "",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A hexagon has 6 sides.",
+    "tags": [
+      "advanced-math",
+      "imo",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g11-advanced-math-0006",
+    "exam": "imo",
+    "grade": "11",
+    "topic": "Sets",
+    "subtopic": "Sets",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 18 ÷ 3?",
+    "image": "",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswer": 1,
+    "explanation": "18 ÷ 3 = 6.",
+    "tags": [
+      "advanced-math",
+      "imo",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g11-advanced-math-0007",
+    "exam": "imo",
+    "grade": "11",
+    "topic": "Sets",
+    "subtopic": "Sets",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "If 5! = 5 × 4 × 3 × 2 × 1, what is 4!?",
+    "image": "",
+    "options": [
+      "12",
+      "16",
+      "24",
+      "32"
+    ],
+    "correctAnswer": 2,
+    "explanation": "4! = 4 × 3 × 2 × 1 = 24.",
+    "tags": [
+      "advanced-math",
+      "imo",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g11-advanced-math-0008",
+    "exam": "imo",
+    "grade": "11",
+    "topic": "Sets",
+    "subtopic": "Sets",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 25% of 120?",
+    "image": "",
+    "options": [
+      "25",
+      "30",
+      "35",
+      "40"
+    ],
+    "correctAnswer": 1,
+    "explanation": "25% of 120 = 30.",
+    "tags": [
+      "advanced-math",
+      "imo",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g11-advanced-math-0009",
+    "exam": "imo",
+    "grade": "11",
+    "topic": "Sets",
+    "subtopic": "Sets",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many faces does a cube have?",
+    "image": "",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A cube has 6 faces.",
+    "tags": [
+      "advanced-math",
+      "imo",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g11-advanced-math-0010",
+    "exam": "imo",
+    "grade": "11",
+    "topic": "Sets",
+    "subtopic": "Sets",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 9 + 6?",
+    "image": "",
+    "options": [
+      "14",
+      "15",
+      "16",
+      "17"
+    ],
+    "correctAnswer": 1,
+    "explanation": "9 + 6 = 15.",
+    "tags": [
+      "advanced-math",
+      "imo",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g11-advanced-math-0011",
+    "exam": "imo",
+    "grade": "11",
+    "topic": "Sets",
+    "subtopic": "Sets",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "If log₁₀(100) = n, what is n?",
+    "image": "",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "10² = 100, so log₁₀(100) = 2.",
+    "tags": [
+      "advanced-math",
+      "imo",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g11-advanced-math-0012",
+    "exam": "imo",
+    "grade": "11",
+    "topic": "Sets",
+    "subtopic": "Sets",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 50% of 80?",
+    "image": "",
+    "options": [
+      "30",
+      "40",
+      "50",
+      "60"
+    ],
+    "correctAnswer": 1,
+    "explanation": "50% of 80 = 40.",
+    "tags": [
+      "advanced-math",
+      "imo",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g11-advanced-math-0013",
+    "exam": "imo",
+    "grade": "11",
+    "topic": "Sets",
+    "subtopic": "Sets",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many vertices does a triangular prism have?",
+    "image": "",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A triangular prism has 6 vertices.",
+    "tags": [
+      "advanced-math",
+      "imo",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g11-advanced-math-0014",
+    "exam": "imo",
+    "grade": "11",
+    "topic": "Sets",
+    "subtopic": "Sets",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 7 × 9?",
+    "image": "",
+    "options": [
+      "61",
+      "63",
+      "65",
+      "72"
+    ],
+    "correctAnswer": 1,
+    "explanation": "7 × 9 = 63.",
+    "tags": [
+      "advanced-math",
+      "imo",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g11-advanced-math-0015",
+    "exam": "imo",
+    "grade": "11",
+    "topic": "Sets",
+    "subtopic": "Sets",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "If 3ⁿ = 9, what is n?",
+    "image": "",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "3² = 9, so n = 2.",
+    "tags": [
+      "advanced-math",
+      "imo",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g11-advanced-math-0016",
+    "exam": "imo",
+    "grade": "11",
+    "topic": "Sets",
+    "subtopic": "Sets",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 1/4 of 64?",
+    "image": "",
+    "options": [
+      "12",
+      "14",
+      "16",
+      "18"
+    ],
+    "correctAnswer": 2,
+    "explanation": "64 ÷ 4 = 16.",
+    "tags": [
+      "advanced-math",
+      "imo",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g11-advanced-math-0017",
+    "exam": "imo",
+    "grade": "11",
+    "topic": "Sets",
+    "subtopic": "Sets",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many edges does a cube have?",
+    "image": "",
+    "options": [
+      "6",
+      "8",
+      "12",
+      "24"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A cube has 12 edges.",
+    "tags": [
+      "advanced-math",
+      "imo",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g11-advanced-math-0018",
+    "exam": "imo",
+    "grade": "11",
+    "topic": "Sets",
+    "subtopic": "Sets",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 144 ÷ 12?",
+    "image": "",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "correctAnswer": 2,
+    "explanation": "144 ÷ 12 = 12.",
+    "tags": [
+      "advanced-math",
+      "imo",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g11-advanced-math-0019",
+    "exam": "imo",
+    "grade": "11",
+    "topic": "Sets",
+    "subtopic": "Sets",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "If 2⁴ = 16, what is 2⁵?",
+    "image": "",
+    "options": [
+      "24",
+      "32",
+      "48",
+      "64"
+    ],
+    "correctAnswer": 1,
+    "explanation": "2⁵ = 2 × 16 = 32.",
+    "tags": [
+      "advanced-math",
+      "imo",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g11-advanced-math-0020",
+    "exam": "imo",
+    "grade": "11",
+    "topic": "Sets",
+    "subtopic": "Sets",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 3/4 of 40?",
+    "image": "",
+    "options": [
+      "25",
+      "28",
+      "30",
+      "35"
+    ],
+    "correctAnswer": 2,
+    "explanation": "3/4 × 40 = 30.",
+    "tags": [
+      "advanced-math",
+      "imo",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g11-advanced-math-0021",
+    "exam": "imo",
+    "grade": "11",
+    "topic": "Sets",
+    "subtopic": "Sets",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "How many diagonals does a square have?",
+    "image": "",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A square has 2 diagonals.",
+    "tags": [
+      "advanced-math",
+      "imo",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g11-advanced-math-0022",
+    "exam": "imo",
+    "grade": "11",
+    "topic": "Sets",
+    "subtopic": "Sets",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 8 × 7?",
+    "image": "",
+    "options": [
+      "54",
+      "56",
+      "58",
+      "64"
+    ],
+    "correctAnswer": 1,
+    "explanation": "8 × 7 = 56.",
+    "tags": [
+      "advanced-math",
+      "imo",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g11-advanced-math-0023",
+    "exam": "imo",
+    "grade": "11",
+    "topic": "Sets",
+    "subtopic": "Sets",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "If 10ⁿ = 1000, what is n?",
+    "image": "",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": 1,
+    "explanation": "10³ = 1000, n = 3.",
+    "tags": [
+      "advanced-math",
+      "imo",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g11-advanced-math-0024",
+    "exam": "imo",
+    "grade": "11",
+    "topic": "Sets",
+    "subtopic": "Sets",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 2/5 of 50?",
+    "image": "",
+    "options": [
+      "15",
+      "18",
+      "20",
+      "25"
+    ],
+    "correctAnswer": 2,
+    "explanation": "2/5 × 50 = 20.",
+    "tags": [
+      "advanced-math",
+      "imo",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g11-advanced-math-0025",
+    "exam": "imo",
+    "grade": "11",
+    "topic": "Sets",
+    "subtopic": "Sets",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "If 5 × 4 + 3 × 2 = ?",
+    "image": "",
+    "options": [
+      "24",
+      "26",
+      "28",
+      "30"
+    ],
+    "correctAnswer": 1,
+    "explanation": "20 + 6 = 26.",
+    "tags": [
+      "advanced-math",
+      "imo",
+      "grade11"
+    ],
+    "sourceType": "generated"
+  }
+]

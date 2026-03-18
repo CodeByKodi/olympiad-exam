@@ -1,15 +1,15 @@
 {
-  "packId": "imo-grade11-probability-practice-01",
+  "packId": "imo-grade11-geometry-practice-01",
   "exam": "imo",
   "grade": 11,
   "mode": "practice",
-  "title": "Probability Practice Test",
-  "topic": "Probability",
+  "title": "Linear Inequalities Practice",
+  "topic": "Linear Inequalities",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
     "topics": [
-      "Probability"
+      "Linear Inequalities"
     ],
     "difficultyMix": {
       "easy": 15,

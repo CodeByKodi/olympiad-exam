@@ -1,12 +1,15 @@
 [
   {
-    "id": "imo-g3-logical-0001",
+    "id": "imo-g3-logical-reasoning-0001",
     "exam": "imo",
     "grade": "3",
-    "topic": "Logical Reasoning",
+    "topic": "Analogy and Classification",
     "subtopic": "Analogy and Classification",
     "difficulty": "easy",
-    "modes": ["practice", "mock"],
+    "modes": [
+      "practice",
+      "mock"
+    ],
     "questionText": "Dog is to puppy as cat is to ___?",
     "image": "",
     "options": [
@@ -17,17 +20,24 @@
     ],
     "correctAnswer": 1,
     "explanation": "A baby dog is a puppy, and a baby cat is a kitten.",
-    "tags": ["analogy", "logical-reasoning", "imo", "grade3"],
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade3"
+    ],
     "sourceType": "generated"
   },
   {
-    "id": "imo-g3-logical-0002",
+    "id": "imo-g3-logical-reasoning-0002",
     "exam": "imo",
     "grade": "3",
-    "topic": "Logical Reasoning",
+    "topic": "Analogy and Classification",
     "subtopic": "Analogy and Classification",
     "difficulty": "easy",
-    "modes": ["practice", "mock"],
+    "modes": [
+      "practice",
+      "mock"
+    ],
     "questionText": "Which one is different: Apple, Banana, Carrot, Orange?",
     "image": "",
     "options": [
@@ -38,17 +48,24 @@
     ],
     "correctAnswer": 2,
     "explanation": "Carrot is a vegetable. Apple, Banana, and Orange are fruits.",
-    "tags": ["classification", "logical-reasoning", "imo", "grade3"],
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade3"
+    ],
     "sourceType": "generated"
   },
   {
-    "id": "imo-g3-logical-0003",
+    "id": "imo-g3-logical-reasoning-0003",
     "exam": "imo",
     "grade": "3",
-    "topic": "Logical Reasoning",
-    "subtopic": "Coding-Decoding",
-    "difficulty": "easy",
-    "modes": ["practice", "mock"],
+    "topic": "Analogy and Classification",
+    "subtopic": "Analogy and Classification",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
     "questionText": "If A=1, B=2, C=3, what is the value of CAT?",
     "image": "",
     "options": [
@@ -59,17 +76,24 @@
     ],
     "correctAnswer": 0,
     "explanation": "C=3, A=1, T=20. 3+1+20=24.",
-    "tags": ["coding", "logical-reasoning", "imo", "grade3"],
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade3"
+    ],
     "sourceType": "generated"
   },
   {
-    "id": "imo-g3-logical-0004",
+    "id": "imo-g3-logical-reasoning-0004",
     "exam": "imo",
     "grade": "3",
-    "topic": "Logical Reasoning",
-    "subtopic": "Alphabet Test",
+    "topic": "Analogy and Classification",
+    "subtopic": "Analogy and Classification",
     "difficulty": "easy",
-    "modes": ["practice", "mock"],
+    "modes": [
+      "practice",
+      "mock"
+    ],
     "questionText": "Which letter comes exactly in the middle of the alphabet?",
     "image": "",
     "options": [
@@ -80,17 +104,24 @@
     ],
     "correctAnswer": 1,
     "explanation": "M is the 13th letter. There are 26 letters, so M is in the middle.",
-    "tags": ["alphabet", "logical-reasoning", "imo", "grade3"],
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade3"
+    ],
     "sourceType": "generated"
   },
   {
-    "id": "imo-g3-logical-0005",
+    "id": "imo-g3-logical-reasoning-0005",
     "exam": "imo",
     "grade": "3",
-    "topic": "Logical Reasoning",
-    "subtopic": "Ranking Test",
+    "topic": "Analogy and Classification",
+    "subtopic": "Analogy and Classification",
     "difficulty": "easy",
-    "modes": ["practice", "mock"],
+    "modes": [
+      "practice",
+      "mock"
+    ],
     "questionText": "In a queue of 5 children, Riya is 2nd from the front. What is her position from the back?",
     "image": "",
     "options": [
@@ -101,17 +132,24 @@
     ],
     "correctAnswer": 2,
     "explanation": "In a queue of 5, 2nd from front means 4th from back.",
-    "tags": ["ranking", "logical-reasoning", "imo", "grade3"],
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade3"
+    ],
     "sourceType": "generated"
   },
   {
-    "id": "imo-g3-logical-0006",
+    "id": "imo-g3-logical-reasoning-0006",
     "exam": "imo",
     "grade": "3",
-    "topic": "Logical Reasoning",
+    "topic": "Analogy and Classification",
     "subtopic": "Analogy and Classification",
     "difficulty": "medium",
-    "modes": ["practice", "mock"],
+    "modes": [
+      "practice",
+      "mock"
+    ],
     "questionText": "Pen is to write as knife is to ___?",
     "image": "",
     "options": [
@@ -122,17 +160,24 @@
     ],
     "correctAnswer": 1,
     "explanation": "We use a pen to write and a knife to cut.",
-    "tags": ["analogy", "logical-reasoning", "imo", "grade3"],
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade3"
+    ],
     "sourceType": "generated"
   },
   {
-    "id": "imo-g3-logical-0007",
+    "id": "imo-g3-logical-reasoning-0007",
     "exam": "imo",
     "grade": "3",
-    "topic": "Logical Reasoning",
+    "topic": "Analogy and Classification",
     "subtopic": "Analogy and Classification",
     "difficulty": "easy",
-    "modes": ["practice", "mock"],
+    "modes": [
+      "practice",
+      "mock"
+    ],
     "questionText": "Which one is different: Square, Circle, Triangle, Rectangle?",
     "image": "",
     "options": [
@@ -143,17 +188,24 @@
     ],
     "correctAnswer": 1,
     "explanation": "Circle has no corners. Square, Triangle, and Rectangle have corners.",
-    "tags": ["classification", "logical-reasoning", "imo", "grade3"],
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade3"
+    ],
     "sourceType": "generated"
   },
   {
-    "id": "imo-g3-logical-0008",
+    "id": "imo-g3-logical-reasoning-0008",
     "exam": "imo",
     "grade": "3",
-    "topic": "Logical Reasoning",
-    "subtopic": "Clock and Calendar",
+    "topic": "Analogy and Classification",
+    "subtopic": "Analogy and Classification",
     "difficulty": "easy",
-    "modes": ["practice", "mock"],
+    "modes": [
+      "practice",
+      "mock"
+    ],
     "questionText": "How many days are in a week?",
     "image": "",
     "options": [
@@ -164,17 +216,24 @@
     ],
     "correctAnswer": 2,
     "explanation": "There are 7 days in a week: Sunday to Saturday.",
-    "tags": ["calendar", "logical-reasoning", "imo", "grade3"],
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade3"
+    ],
     "sourceType": "generated"
   },
   {
-    "id": "imo-g3-logical-0009",
+    "id": "imo-g3-logical-reasoning-0009",
     "exam": "imo",
     "grade": "3",
-    "topic": "Logical Reasoning",
-    "subtopic": "Clock and Calendar",
-    "difficulty": "easy",
-    "modes": ["practice", "mock"],
+    "topic": "Analogy and Classification",
+    "subtopic": "Analogy and Classification",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
     "questionText": "How many months are in a year?",
     "image": "",
     "options": [
@@ -185,17 +244,24 @@
     ],
     "correctAnswer": 2,
     "explanation": "There are 12 months in a year.",
-    "tags": ["calendar", "logical-reasoning", "imo", "grade3"],
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade3"
+    ],
     "sourceType": "generated"
   },
   {
-    "id": "imo-g3-logical-0010",
+    "id": "imo-g3-logical-reasoning-0010",
     "exam": "imo",
     "grade": "3",
-    "topic": "Logical Reasoning",
-    "subtopic": "Possible Combinations",
-    "difficulty": "medium",
-    "modes": ["practice", "mock"],
+    "topic": "Analogy and Classification",
+    "subtopic": "Analogy and Classification",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
     "questionText": "You have a red shirt and a blue shirt. You have black pants and white pants. How many different outfits can you make?",
     "image": "",
     "options": [
@@ -206,17 +272,24 @@
     ],
     "correctAnswer": 2,
     "explanation": "Red+Black, Red+White, Blue+Black, Blue+White = 4 outfits.",
-    "tags": ["combinations", "logical-reasoning", "imo", "grade3"],
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade3"
+    ],
     "sourceType": "generated"
   },
   {
-    "id": "imo-g3-logical-0011",
+    "id": "imo-g3-logical-reasoning-0011",
     "exam": "imo",
     "grade": "3",
-    "topic": "Logical Reasoning",
-    "subtopic": "Patterns",
+    "topic": "Analogy and Classification",
+    "subtopic": "Analogy and Classification",
     "difficulty": "easy",
-    "modes": ["practice", "mock"],
+    "modes": [
+      "practice",
+      "mock"
+    ],
     "questionText": "What comes next: 2, 4, 6, 8, ___?",
     "image": "",
     "options": [
@@ -227,17 +300,24 @@
     ],
     "correctAnswer": 1,
     "explanation": "The pattern adds 2 each time. 8 + 2 = 10.",
-    "tags": ["patterns", "logical-reasoning", "imo", "grade3"],
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade3"
+    ],
     "sourceType": "generated"
   },
   {
-    "id": "imo-g3-logical-0012",
+    "id": "imo-g3-logical-reasoning-0012",
     "exam": "imo",
     "grade": "3",
-    "topic": "Logical Reasoning",
+    "topic": "Analogy and Classification",
     "subtopic": "Analogy and Classification",
-    "difficulty": "easy",
-    "modes": ["practice", "mock"],
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
     "questionText": "Which one is different: Dog, Cat, Cow, Lion?",
     "image": "",
     "options": [
@@ -248,17 +328,24 @@
     ],
     "correctAnswer": 3,
     "explanation": "Lion is a wild animal. Dog, Cat, and Cow are domestic animals.",
-    "tags": ["classification", "logical-reasoning", "imo", "grade3"],
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade3"
+    ],
     "sourceType": "generated"
   },
   {
-    "id": "imo-g3-logical-0013",
+    "id": "imo-g3-logical-reasoning-0013",
     "exam": "imo",
     "grade": "3",
-    "topic": "Logical Reasoning",
-    "subtopic": "Coding-Decoding",
+    "topic": "Analogy and Classification",
+    "subtopic": "Analogy and Classification",
     "difficulty": "easy",
-    "modes": ["practice", "mock"],
+    "modes": [
+      "practice",
+      "mock"
+    ],
     "questionText": "If A=1, B=2, C=3, what is the value of BAD?",
     "image": "",
     "options": [
@@ -269,17 +356,24 @@
     ],
     "correctAnswer": 2,
     "explanation": "B=2, A=1, D=4. 2+1+4=7.",
-    "tags": ["coding", "logical-reasoning", "imo", "grade3"],
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade3"
+    ],
     "sourceType": "generated"
   },
   {
-    "id": "imo-g3-logical-0014",
+    "id": "imo-g3-logical-reasoning-0014",
     "exam": "imo",
     "grade": "3",
-    "topic": "Logical Reasoning",
-    "subtopic": "Alphabet Test",
+    "topic": "Analogy and Classification",
+    "subtopic": "Analogy and Classification",
     "difficulty": "easy",
-    "modes": ["practice", "mock"],
+    "modes": [
+      "practice",
+      "mock"
+    ],
     "questionText": "Which letter comes after G in the alphabet?",
     "image": "",
     "options": [
@@ -290,17 +384,24 @@
     ],
     "correctAnswer": 1,
     "explanation": "The alphabet order is ... F, G, H, I, J ...",
-    "tags": ["alphabet", "logical-reasoning", "imo", "grade3"],
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade3"
+    ],
     "sourceType": "generated"
   },
   {
-    "id": "imo-g3-logical-0015",
+    "id": "imo-g3-logical-reasoning-0015",
     "exam": "imo",
     "grade": "3",
-    "topic": "Logical Reasoning",
-    "subtopic": "Ranking Test",
+    "topic": "Analogy and Classification",
+    "subtopic": "Analogy and Classification",
     "difficulty": "medium",
-    "modes": ["practice", "mock"],
+    "modes": [
+      "practice",
+      "mock"
+    ],
     "questionText": "In a line of 7 children, Sita is 3rd from the front. What is her position from the back?",
     "image": "",
     "options": [
@@ -311,17 +412,24 @@
     ],
     "correctAnswer": 2,
     "explanation": "In a line of 7, 3rd from front = 5th from back.",
-    "tags": ["ranking", "logical-reasoning", "imo", "grade3"],
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade3"
+    ],
     "sourceType": "generated"
   },
   {
-    "id": "imo-g3-logical-0016",
+    "id": "imo-g3-logical-reasoning-0016",
     "exam": "imo",
     "grade": "3",
-    "topic": "Logical Reasoning",
+    "topic": "Analogy and Classification",
     "subtopic": "Analogy and Classification",
     "difficulty": "easy",
-    "modes": ["practice", "mock"],
+    "modes": [
+      "practice",
+      "mock"
+    ],
     "questionText": "Bird is to fly as fish is to ___?",
     "image": "",
     "options": [
@@ -332,17 +440,24 @@
     ],
     "correctAnswer": 1,
     "explanation": "Birds fly and fish swim.",
-    "tags": ["analogy", "logical-reasoning", "imo", "grade3"],
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade3"
+    ],
     "sourceType": "generated"
   },
   {
-    "id": "imo-g3-logical-0017",
+    "id": "imo-g3-logical-reasoning-0017",
     "exam": "imo",
     "grade": "3",
-    "topic": "Logical Reasoning",
-    "subtopic": "Patterns",
-    "difficulty": "medium",
-    "modes": ["practice", "mock"],
+    "topic": "Analogy and Classification",
+    "subtopic": "Analogy and Classification",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
     "questionText": "What comes next: 5, 10, 15, 20, ___?",
     "image": "",
     "options": [
@@ -353,17 +468,24 @@
     ],
     "correctAnswer": 2,
     "explanation": "The pattern adds 5 each time. 20 + 5 = 25.",
-    "tags": ["patterns", "logical-reasoning", "imo", "grade3"],
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade3"
+    ],
     "sourceType": "generated"
   },
   {
-    "id": "imo-g3-logical-0018",
+    "id": "imo-g3-logical-reasoning-0018",
     "exam": "imo",
     "grade": "3",
-    "topic": "Logical Reasoning",
-    "subtopic": "Clock and Calendar",
-    "difficulty": "easy",
-    "modes": ["practice", "mock"],
+    "topic": "Analogy and Classification",
+    "subtopic": "Analogy and Classification",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
     "questionText": "How many days are in February in a leap year?",
     "image": "",
     "options": [
@@ -374,17 +496,24 @@
     ],
     "correctAnswer": 2,
     "explanation": "February has 29 days in a leap year.",
-    "tags": ["calendar", "logical-reasoning", "imo", "grade3"],
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade3"
+    ],
     "sourceType": "generated"
   },
   {
-    "id": "imo-g3-logical-0019",
+    "id": "imo-g3-logical-reasoning-0019",
     "exam": "imo",
     "grade": "3",
-    "topic": "Logical Reasoning",
-    "subtopic": "Geometrical Shapes",
+    "topic": "Analogy and Classification",
+    "subtopic": "Analogy and Classification",
     "difficulty": "easy",
-    "modes": ["practice", "mock"],
+    "modes": [
+      "practice",
+      "mock"
+    ],
     "questionText": "A triangle has how many sides?",
     "image": "",
     "options": [
@@ -395,17 +524,24 @@
     ],
     "correctAnswer": 1,
     "explanation": "A triangle has 3 sides.",
-    "tags": ["shapes", "logical-reasoning", "imo", "grade3"],
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade3"
+    ],
     "sourceType": "generated"
   },
   {
-    "id": "imo-g3-logical-0020",
+    "id": "imo-g3-logical-reasoning-0020",
     "exam": "imo",
     "grade": "3",
-    "topic": "Logical Reasoning",
-    "subtopic": "Possible Combinations",
-    "difficulty": "medium",
-    "modes": ["practice", "mock"],
+    "topic": "Analogy and Classification",
+    "subtopic": "Analogy and Classification",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
     "questionText": "You can choose juice or milk. You can choose bread or rice. How many different meals can you make?",
     "image": "",
     "options": [
@@ -416,17 +552,24 @@
     ],
     "correctAnswer": 2,
     "explanation": "Juice+Bread, Juice+Rice, Milk+Bread, Milk+Rice = 4 meals.",
-    "tags": ["combinations", "logical-reasoning", "imo", "grade3"],
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade3"
+    ],
     "sourceType": "generated"
   },
   {
-    "id": "imo-g3-logical-0021",
+    "id": "imo-g3-logical-reasoning-0021",
     "exam": "imo",
     "grade": "3",
-    "topic": "Logical Reasoning",
+    "topic": "Analogy and Classification",
     "subtopic": "Analogy and Classification",
     "difficulty": "medium",
-    "modes": ["practice", "mock"],
+    "modes": [
+      "practice",
+      "mock"
+    ],
     "questionText": "Book is to read as song is to ___?",
     "image": "",
     "options": [
@@ -437,17 +580,24 @@
     ],
     "correctAnswer": 1,
     "explanation": "We read books and sing songs.",
-    "tags": ["analogy", "logical-reasoning", "imo", "grade3"],
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade3"
+    ],
     "sourceType": "generated"
   },
   {
-    "id": "imo-g3-logical-0022",
+    "id": "imo-g3-logical-reasoning-0022",
     "exam": "imo",
     "grade": "3",
-    "topic": "Logical Reasoning",
-    "subtopic": "Patterns",
+    "topic": "Analogy and Classification",
+    "subtopic": "Analogy and Classification",
     "difficulty": "easy",
-    "modes": ["practice", "mock"],
+    "modes": [
+      "practice",
+      "mock"
+    ],
     "questionText": "What comes next: 1, 3, 5, 7, ___?",
     "image": "",
     "options": [
@@ -458,17 +608,24 @@
     ],
     "correctAnswer": 1,
     "explanation": "The pattern adds 2 each time. 7 + 2 = 9.",
-    "tags": ["patterns", "logical-reasoning", "imo", "grade3"],
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade3"
+    ],
     "sourceType": "generated"
   },
   {
-    "id": "imo-g3-logical-0023",
+    "id": "imo-g3-logical-reasoning-0023",
     "exam": "imo",
     "grade": "3",
-    "topic": "Logical Reasoning",
-    "subtopic": "Geometrical Shapes",
+    "topic": "Analogy and Classification",
+    "subtopic": "Analogy and Classification",
     "difficulty": "easy",
-    "modes": ["practice", "mock"],
+    "modes": [
+      "practice",
+      "mock"
+    ],
     "questionText": "A square has how many corners (vertices)?",
     "image": "",
     "options": [
@@ -479,17 +636,24 @@
     ],
     "correctAnswer": 2,
     "explanation": "A square has 4 corners.",
-    "tags": ["shapes", "logical-reasoning", "imo", "grade3"],
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade3"
+    ],
     "sourceType": "generated"
   },
   {
-    "id": "imo-g3-logical-0024",
+    "id": "imo-g3-logical-reasoning-0024",
     "exam": "imo",
     "grade": "3",
-    "topic": "Logical Reasoning",
-    "subtopic": "Alphabet Test",
-    "difficulty": "easy",
-    "modes": ["practice", "mock"],
+    "topic": "Analogy and Classification",
+    "subtopic": "Analogy and Classification",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
     "questionText": "Which letter comes before D in the alphabet?",
     "image": "",
     "options": [
@@ -500,17 +664,24 @@
     ],
     "correctAnswer": 2,
     "explanation": "The alphabet order is ... A, B, C, D, E ...",
-    "tags": ["alphabet", "logical-reasoning", "imo", "grade3"],
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade3"
+    ],
     "sourceType": "generated"
   },
   {
-    "id": "imo-g3-logical-0025",
+    "id": "imo-g3-logical-reasoning-0025",
     "exam": "imo",
     "grade": "3",
-    "topic": "Logical Reasoning",
-    "subtopic": "Classification",
+    "topic": "Analogy and Classification",
+    "subtopic": "Analogy and Classification",
     "difficulty": "easy",
-    "modes": ["practice", "mock"],
+    "modes": [
+      "practice",
+      "mock"
+    ],
     "questionText": "Which one is different: Red, Blue, Green, Apple?",
     "image": "",
     "options": [
@@ -521,7 +692,11 @@
     ],
     "correctAnswer": 3,
     "explanation": "Apple is a fruit. Red, Blue, and Green are colours.",
-    "tags": ["classification", "logical-reasoning", "imo", "grade3"],
+    "tags": [
+      "logical-reasoning",
+      "imo",
+      "grade3"
+    ],
     "sourceType": "generated"
   }
 ]

@@ -1,14 +1,20 @@
 {
-  "packId": "imo-grade3-measurement-practice-01",
+  "packId": "imo-grade3-fractions-practice-01",
   "exam": "imo",
   "grade": 3,
   "mode": "practice",
-  "title": "Measurement Practice Test",
-  "topic": "Measurement",
+  "title": "Fractions Practice",
+  "topic": "Fractions",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
-    "topics": ["Measurement"],
-    "difficultyMix": { "easy": 15, "medium": 8, "hard": 2 }
+    "topics": [
+      "Fractions"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
   }
 }

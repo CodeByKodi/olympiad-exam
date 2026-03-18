@@ -1,10 +1,178 @@
 [
   {
-    "id": "imo-g9-geometry-0121",
+    "id": "imo-g9-geometry-0001",
     "exam": "imo",
     "grade": "9",
-    "topic": "Geometry",
-    "subtopic": "Angles and Lines",
+    "topic": "Coordinate Geometry",
+    "subtopic": "Coordinate Geometry",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What shape is a dice?",
+    "image": "",
+    "options": [
+      "Circle",
+      "Sphere",
+      "Cube",
+      "Cylinder"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A dice is cube-shaped.",
+    "tags": [
+      "geometry",
+      "imo",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g9-geometry-0002",
+    "exam": "imo",
+    "grade": "9",
+    "topic": "Coordinate Geometry",
+    "subtopic": "Coordinate Geometry",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which shape has all sides equal and 4 corners?",
+    "image": "",
+    "options": [
+      "Rectangle",
+      "Square",
+      "Triangle",
+      "Circle"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A square has all 4 sides equal and 4 corners.",
+    "tags": [
+      "geometry",
+      "imo",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g9-geometry-0003",
+    "exam": "imo",
+    "grade": "9",
+    "topic": "Coordinate Geometry",
+    "subtopic": "Coordinate Geometry",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is the place value of 3 in 234?",
+    "image": "",
+    "options": [
+      "3",
+      "30",
+      "300",
+      "3000"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In 234, 3 is in the tens place, so its value is 30.",
+    "tags": [
+      "geometry",
+      "imo",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g9-geometry-0004",
+    "exam": "imo",
+    "grade": "9",
+    "topic": "Coordinate Geometry",
+    "subtopic": "Coordinate Geometry",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "Which number is smaller: 412 or 421?",
+    "image": "",
+    "options": [
+      "412",
+      "421",
+      "Both equal",
+      "Cannot tell"
+    ],
+    "correctAnswer": 0,
+    "explanation": "412 is smaller because 1 ten is less than 2 tens.",
+    "tags": [
+      "geometry",
+      "imo",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g9-geometry-0005",
+    "exam": "imo",
+    "grade": "9",
+    "topic": "Coordinate Geometry",
+    "subtopic": "Coordinate Geometry",
+    "difficulty": "easy",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 6 × 4?",
+    "image": "",
+    "options": [
+      "10",
+      "20",
+      "24",
+      "28"
+    ],
+    "correctAnswer": 2,
+    "explanation": "6 × 4 = 24.",
+    "tags": [
+      "geometry",
+      "imo",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g9-geometry-0006",
+    "exam": "imo",
+    "grade": "9",
+    "topic": "Coordinate Geometry",
+    "subtopic": "Coordinate Geometry",
+    "difficulty": "medium",
+    "modes": [
+      "practice",
+      "mock"
+    ],
+    "questionText": "What is 28 ÷ 4?",
+    "image": "",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswer": 2,
+    "explanation": "28 ÷ 4 = 7.",
+    "tags": [
+      "geometry",
+      "imo",
+      "grade9"
+    ],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g9-geometry-0007",
+    "exam": "imo",
+    "grade": "9",
+    "topic": "Coordinate Geometry",
+    "subtopic": "Coordinate Geometry",
     "difficulty": "easy",
     "modes": [
       "practice",
@@ -21,17 +189,18 @@
     "correctAnswer": 2,
     "explanation": "4 quarters (1/4 each) make one whole.",
     "tags": [
-      "fractions",
-      "grade3"
+      "geometry",
+      "imo",
+      "grade9"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "imo-g9-geometry-0122",
+    "id": "imo-g9-geometry-0008",
     "exam": "imo",
     "grade": "9",
-    "topic": "Geometry",
-    "subtopic": "Angles and Lines",
+    "topic": "Coordinate Geometry",
+    "subtopic": "Coordinate Geometry",
     "difficulty": "easy",
     "modes": [
       "practice",
@@ -48,45 +217,19 @@
     "correctAnswer": 2,
     "explanation": "48 ÷ 6 = 8.",
     "tags": [
-      "division",
-      "grade3"
+      "geometry",
+      "imo",
+      "grade9"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "imo-g9-geometry-0123",
+    "id": "imo-g9-geometry-0009",
     "exam": "imo",
     "grade": "9",
-    "topic": "Geometry",
-    "subtopic": "Angles and Lines",
+    "topic": "Coordinate Geometry",
+    "subtopic": "Coordinate Geometry",
     "difficulty": "medium",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "Which fraction is smaller: 1/3 or 1/5?",
-    "image": "",
-    "options": [
-      "1/3",
-      "1/5",
-      "Both equal",
-      "Cannot tell"
-    ],
-    "correctAnswer": 1,
-    "explanation": "1/5 is smaller. More parts = smaller each part.",
-    "tags": [
-      "fractions",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "imo-g9-geometry-0124",
-    "exam": "imo",
-    "grade": "9",
-    "topic": "Geometry",
-    "subtopic": "Angles and Lines",
-    "difficulty": "easy",
     "modes": [
       "practice",
       "mock"
@@ -102,17 +245,18 @@
     "correctAnswer": 1,
     "explanation": "7 × 7 = 49.",
     "tags": [
-      "multiplication",
-      "grade3"
+      "geometry",
+      "imo",
+      "grade9"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "imo-g9-geometry-0125",
+    "id": "imo-g9-geometry-0010",
     "exam": "imo",
     "grade": "9",
-    "topic": "Geometry",
-    "subtopic": "Angles and Lines",
+    "topic": "Coordinate Geometry",
+    "subtopic": "Coordinate Geometry",
     "difficulty": "easy",
     "modes": [
       "practice",
@@ -129,17 +273,18 @@
     "correctAnswer": 2,
     "explanation": "63 ÷ 7 = 9.",
     "tags": [
-      "division",
-      "grade3"
+      "geometry",
+      "imo",
+      "grade9"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "imo-g9-geometry-0126",
+    "id": "imo-g9-geometry-0011",
     "exam": "imo",
     "grade": "9",
-    "topic": "Geometry",
-    "subtopic": "Angles and Lines",
+    "topic": "Coordinate Geometry",
+    "subtopic": "Coordinate Geometry",
     "difficulty": "easy",
     "modes": [
       "practice",
@@ -156,18 +301,19 @@
     "correctAnswer": 1,
     "explanation": "5 × 9 = 45.",
     "tags": [
-      "multiplication",
-      "grade3"
+      "geometry",
+      "imo",
+      "grade9"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "imo-g9-geometry-0127",
+    "id": "imo-g9-geometry-0012",
     "exam": "imo",
     "grade": "9",
-    "topic": "Geometry",
-    "subtopic": "Angles and Lines",
-    "difficulty": "easy",
+    "topic": "Coordinate Geometry",
+    "subtopic": "Coordinate Geometry",
+    "difficulty": "medium",
     "modes": [
       "practice",
       "mock"
@@ -183,17 +329,18 @@
     "correctAnswer": 1,
     "explanation": "36 ÷ 4 = 9.",
     "tags": [
-      "division",
-      "grade3"
+      "geometry",
+      "imo",
+      "grade9"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "imo-g9-geometry-0128",
+    "id": "imo-g9-geometry-0013",
     "exam": "imo",
     "grade": "9",
-    "topic": "Geometry",
-    "subtopic": "Angles and Lines",
+    "topic": "Coordinate Geometry",
+    "subtopic": "Coordinate Geometry",
     "difficulty": "easy",
     "modes": [
       "practice",
@@ -210,17 +357,18 @@
     "correctAnswer": 0,
     "explanation": "3/4 means 3 out of 4 equal parts.",
     "tags": [
-      "fractions",
-      "grade3"
+      "geometry",
+      "imo",
+      "grade9"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "imo-g9-geometry-0129",
+    "id": "imo-g9-geometry-0014",
     "exam": "imo",
     "grade": "9",
-    "topic": "Geometry",
-    "subtopic": "Angles and Lines",
+    "topic": "Coordinate Geometry",
+    "subtopic": "Coordinate Geometry",
     "difficulty": "easy",
     "modes": [
       "practice",
@@ -237,45 +385,19 @@
     "correctAnswer": 0,
     "explanation": "9 × 6 = 54.",
     "tags": [
-      "multiplication",
-      "grade3"
+      "geometry",
+      "imo",
+      "grade9"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "imo-g9-geometry-0130",
+    "id": "imo-g9-geometry-0015",
     "exam": "imo",
     "grade": "9",
-    "topic": "Geometry",
-    "subtopic": "Angles and Lines",
+    "topic": "Coordinate Geometry",
+    "subtopic": "Coordinate Geometry",
     "difficulty": "medium",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "A ribbon is 50 cm long. How many metres is that?",
-    "image": "",
-    "options": [
-      "0.5 m",
-      "5 m",
-      "50 m",
-      "500 m"
-    ],
-    "correctAnswer": 0,
-    "explanation": "50 cm = 0.5 m (half a metre).",
-    "tags": [
-      "time-money-and-measurement",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "imo-g9-geometry-0131",
-    "exam": "imo",
-    "grade": "9",
-    "topic": "Geometry",
-    "subtopic": "Angles and Lines",
-    "difficulty": "easy",
     "modes": [
       "practice",
       "mock"
@@ -291,17 +413,18 @@
     "correctAnswer": 1,
     "explanation": "4 × 50 paise = 200 paise = ₹2.",
     "tags": [
-      "money",
-      "grade3"
+      "geometry",
+      "imo",
+      "grade9"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "imo-g9-geometry-0132",
+    "id": "imo-g9-geometry-0016",
     "exam": "imo",
     "grade": "9",
-    "topic": "Geometry",
-    "subtopic": "Angles and Lines",
+    "topic": "Coordinate Geometry",
+    "subtopic": "Coordinate Geometry",
     "difficulty": "easy",
     "modes": [
       "practice",
@@ -318,44 +441,18 @@
     "correctAnswer": 2,
     "explanation": "Kilogram is used to measure weight.",
     "tags": [
-      "measurement",
-      "grade3"
+      "geometry",
+      "imo",
+      "grade9"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "imo-g9-geometry-0133",
+    "id": "imo-g9-geometry-0017",
     "exam": "imo",
     "grade": "9",
-    "topic": "Geometry",
-    "subtopic": "Angles and Lines",
-    "difficulty": "medium",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "How many months have 30 days?",
-    "image": "",
-    "options": [
-      "4",
-      "6",
-      "8",
-      "12"
-    ],
-    "correctAnswer": 0,
-    "explanation": "April, June, September, November have 30 days.",
-    "tags": [
-      "time",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "imo-g9-geometry-0134",
-    "exam": "imo",
-    "grade": "9",
-    "topic": "Geometry",
-    "subtopic": "Angles and Lines",
+    "topic": "Coordinate Geometry",
+    "subtopic": "Coordinate Geometry",
     "difficulty": "easy",
     "modes": [
       "practice",
@@ -372,18 +469,19 @@
     "correctAnswer": 1,
     "explanation": "2 × 35 = ₹70.",
     "tags": [
-      "money",
-      "grade3"
+      "geometry",
+      "imo",
+      "grade9"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "imo-g9-geometry-0135",
+    "id": "imo-g9-geometry-0018",
     "exam": "imo",
     "grade": "9",
-    "topic": "Geometry",
-    "subtopic": "Angles and Lines",
-    "difficulty": "easy",
+    "topic": "Coordinate Geometry",
+    "subtopic": "Coordinate Geometry",
+    "difficulty": "medium",
     "modes": [
       "practice",
       "mock"
@@ -399,17 +497,18 @@
     "correctAnswer": 0,
     "explanation": "300 cm = 3 m.",
     "tags": [
-      "measurement",
-      "grade3"
+      "geometry",
+      "imo",
+      "grade9"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "imo-g9-geometry-0136",
+    "id": "imo-g9-geometry-0019",
     "exam": "imo",
     "grade": "9",
-    "topic": "Geometry",
-    "subtopic": "Angles and Lines",
+    "topic": "Coordinate Geometry",
+    "subtopic": "Coordinate Geometry",
     "difficulty": "easy",
     "modes": [
       "practice",
@@ -426,17 +525,18 @@
     "correctAnswer": 2,
     "explanation": "We use litres to measure liquids.",
     "tags": [
-      "measurement",
-      "grade3"
+      "geometry",
+      "imo",
+      "grade9"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "imo-g9-geometry-0137",
+    "id": "imo-g9-geometry-0020",
     "exam": "imo",
     "grade": "9",
-    "topic": "Geometry",
-    "subtopic": "Angles and Lines",
+    "topic": "Coordinate Geometry",
+    "subtopic": "Coordinate Geometry",
     "difficulty": "easy",
     "modes": [
       "practice",
@@ -453,18 +553,19 @@
     "correctAnswer": 1,
     "explanation": "50 − 23 = ₹27.",
     "tags": [
-      "money",
-      "grade3"
+      "geometry",
+      "imo",
+      "grade9"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "imo-g9-geometry-0138",
+    "id": "imo-g9-geometry-0021",
     "exam": "imo",
     "grade": "9",
-    "topic": "Geometry",
-    "subtopic": "Angles and Lines",
-    "difficulty": "easy",
+    "topic": "Coordinate Geometry",
+    "subtopic": "Coordinate Geometry",
+    "difficulty": "medium",
     "modes": [
       "practice",
       "mock"
@@ -480,17 +581,18 @@
     "correctAnswer": 2,
     "explanation": "10:00 + 3 hours = 1:00 (13:00).",
     "tags": [
-      "time",
-      "grade3"
+      "geometry",
+      "imo",
+      "grade9"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "imo-g9-geometry-0139",
+    "id": "imo-g9-geometry-0022",
     "exam": "imo",
     "grade": "9",
-    "topic": "Geometry",
-    "subtopic": "Angles and Lines",
+    "topic": "Coordinate Geometry",
+    "subtopic": "Coordinate Geometry",
     "difficulty": "easy",
     "modes": [
       "practice",
@@ -507,17 +609,18 @@
     "correctAnswer": 1,
     "explanation": "5 m = 5 × 100 = 500 cm.",
     "tags": [
-      "measurement",
-      "grade3"
+      "geometry",
+      "imo",
+      "grade9"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "imo-g9-geometry-0140",
+    "id": "imo-g9-geometry-0023",
     "exam": "imo",
     "grade": "9",
-    "topic": "Geometry",
-    "subtopic": "Angles and Lines",
+    "topic": "Coordinate Geometry",
+    "subtopic": "Coordinate Geometry",
     "difficulty": "easy",
     "modes": [
       "practice",
@@ -534,18 +637,19 @@
     "correctAnswer": 1,
     "explanation": "20 + 15 + 5 = ₹40.",
     "tags": [
-      "money",
-      "grade3"
+      "geometry",
+      "imo",
+      "grade9"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "imo-g9-geometry-0141",
+    "id": "imo-g9-geometry-0024",
     "exam": "imo",
     "grade": "9",
-    "topic": "Geometry",
-    "subtopic": "Angles and Lines",
-    "difficulty": "easy",
+    "topic": "Coordinate Geometry",
+    "subtopic": "Coordinate Geometry",
+    "difficulty": "medium",
     "modes": [
       "practice",
       "mock"
@@ -561,17 +665,18 @@
     "correctAnswer": 2,
     "explanation": "Metre is used to measure length.",
     "tags": [
-      "measurement",
-      "grade3"
+      "geometry",
+      "imo",
+      "grade9"
     ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   },
   {
-    "id": "imo-g9-geometry-0142",
+    "id": "imo-g9-geometry-0025",
     "exam": "imo",
     "grade": "9",
-    "topic": "Geometry",
-    "subtopic": "Angles and Lines",
+    "topic": "Coordinate Geometry",
+    "subtopic": "Coordinate Geometry",
     "difficulty": "easy",
     "modes": [
       "practice",
@@ -588,63 +693,10 @@
     "correctAnswer": 2,
     "explanation": "3 × 60 = 180 minutes.",
     "tags": [
-      "time",
-      "grade3"
+      "geometry",
+      "imo",
+      "grade9"
     ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "imo-g9-geometry-0143",
-    "exam": "imo",
-    "grade": "9",
-    "topic": "Geometry",
-    "subtopic": "Angles and Lines",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "In a pictograph, what do pictures represent?",
-    "image": "",
-    "options": [
-      "Colors",
-      "Numbers or amounts",
-      "Names only",
-      "Nothing"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Pictures in a pictograph represent numbers or amounts.",
-    "tags": [
-      "data-handling",
-      "grade3"
-    ],
-    "sourceType": "migrated"
-  },
-  {
-    "id": "imo-g9-geometry-0144",
-    "exam": "imo",
-    "grade": "9",
-    "topic": "Geometry",
-    "subtopic": "Angles and Lines",
-    "difficulty": "easy",
-    "modes": [
-      "practice",
-      "mock"
-    ],
-    "questionText": "If 5 children share 20 toffees equally, how many does each get?",
-    "image": "",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "correctAnswer": 1,
-    "explanation": "20 ÷ 5 = 4 toffees each.",
-    "tags": [
-      "logical-reasoning",
-      "grade3"
-    ],
-    "sourceType": "migrated"
+    "sourceType": "generated"
   }
 ]

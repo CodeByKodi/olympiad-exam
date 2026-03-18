@@ -1,0 +1,20 @@
+{
+  "packId": "imo-grade5-data-handling-practice-01",
+  "exam": "imo",
+  "grade": 5,
+  "mode": "practice",
+  "title": "Data Handling Practice",
+  "topic": "Data Handling",
+  "questionCount": 25,
+  "durationMinutes": 25,
+  "selectionRules": {
+    "topics": [
+      "Data Handling"
+    ],
+    "difficultyMix": {
+      "easy": 15,
+      "medium": 8,
+      "hard": 2
+    }
+  }
+}
