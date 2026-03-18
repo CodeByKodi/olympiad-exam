@@ -51,7 +51,7 @@ async function loadQuestionBankPacks() {
           _bank: bank,
         };
       });
-      } catch (_) {
+      } catch {
         return null;
       }
     })
@@ -77,7 +77,7 @@ async function getQuestionBankCombos() {
           .map((b) => ({ examId: String(b.exam), gradeId: String(b.grade) }));
       }
     }
-  } catch (_) {
+  } catch {
     /* fall through to probe */
   }
 
