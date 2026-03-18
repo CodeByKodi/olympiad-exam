@@ -8,7 +8,7 @@ export function Breadcrumbs() {
   const path = location.pathname || '';
 
   const crumbs = [];
-  crumbs.push({ label: 'Home', to: '/' });
+  crumbs.push({ label: 'Home', to: '/home' });
 
   if (params.examId) {
     const exam = EXAMS[params.examId?.toUpperCase()];

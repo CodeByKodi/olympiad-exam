@@ -30,7 +30,7 @@ export class ErrorBoundary extends Component {
               <button type="button" className={styles.primaryBtn} onClick={this.handleRetry}>
                 Try Again
               </button>
-              <a href="#/" className={styles.secondaryBtn}>
+              <a href="#/home" className={styles.secondaryBtn}>
                 Back to Home
               </a>
             </div>
