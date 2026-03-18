@@ -125,7 +125,6 @@ function buildQuestion(template, exam, grade, topicName, topicSlug, index) {
 }
 
 function buildSyllabusForGrade(syllabus, grade, topicSlugs) {
-  const cls = syllabus.classes.find((c) => c.grade === grade);
   const topics = topicSlugs.map(({ slug, name }) => ({
     code: `NSO-G${grade}-${slug.toUpperCase().replace(/-/g, '_')}`,
     name,
