@@ -1,20 +1,14 @@
 {
-  "packId": "imo-grade3-patterns-practice-01",
+  "packId": "imo-grade3-numbers-practice-01",
   "exam": "imo",
   "grade": 3,
   "mode": "practice",
-  "title": "Patterns Practice Test",
-  "topic": "Patterns",
+  "title": "Numbers Practice Test",
+  "topic": "Numbers",
   "questionCount": 25,
   "durationMinutes": 25,
   "selectionRules": {
-    "topics": [
-      "Patterns"
-    ],
-    "difficultyMix": {
-      "easy": 15,
-      "medium": 8,
-      "hard": 2
-    }
+    "topics": ["Numbers"],
+    "difficultyMix": { "easy": 15, "medium": 8, "hard": 2 }
   }
 }

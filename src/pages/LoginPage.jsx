@@ -64,9 +64,6 @@ export function LoginPage() {
             Sign In
           </button>
         </form>
-        <p className={styles.hint}>
-          Demo: admin/admin123, teacher/teacher123, student/student123
-        </p>
         <button
           type="button"
           className={styles.backBtn}

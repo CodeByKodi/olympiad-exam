@@ -149,3 +149,4 @@ Validates syllabus JSON structure for all exams/grades.
 - **DEVELOPER_GUIDE.md** – Architecture
 - **QUESTION_BANK_ARCHITECTURE.md** – Question bank structure
 - **ADDING_QUESTIONS.md** – Adding questions
+- **GITHUB_PAGES_CONSTRAINTS.md** – Static hosting limits; feature compatibility

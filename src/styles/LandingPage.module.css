@@ -73,6 +73,15 @@
   margin: 0;
 }
 
+.firstTimeHint {
+  font-size: var(--text-sm);
+  color: var(--text-muted);
+  margin: var(--space-3) 0 0;
+  max-width: 480px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .features {
   margin-bottom: var(--space-6);
 }
@@ -229,6 +238,16 @@
   display: flex;
   gap: var(--space-4);
   flex-wrap: wrap;
+}
+
+.statCardLink {
+  text-decoration: none;
+  color: inherit;
+}
+
+.statCardLink:hover .statCard {
+  border-color: var(--primary-light);
+  box-shadow: var(--shadow-md);
 }
 
 .statCard {

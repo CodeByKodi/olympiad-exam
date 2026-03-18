@@ -8,6 +8,7 @@ import { EXAMS, GRADES } from '../constants/exams.js';
 
 /**
  * Load all questions for exam/grade from question bank.
+ * Fetches topic files in parallel for faster load.
  * @param {string} examId
  * @param {string} gradeId
  * @returns {Promise<Map<string, Object>>} id -> question
@@ -18,12 +19,16 @@ export async function loadQuestionBank(examId, gradeId) {
 
   try {
     const topicFiles = await getTopicFiles(examId, gradeId);
-    for (const file of topicFiles) {
-      const url = resolveStaticPath(`${base}/${file}`);
-      const res = await fetch(url);
-      if (!res.ok) continue;
-      const arr = await res.json();
-      if (!Array.isArray(arr)) continue;
+    const results = await Promise.all(
+      topicFiles.map(async (file) => {
+        const url = resolveStaticPath(`${base}/${file}`);
+        const res = await fetch(url);
+        if (!res.ok) return [];
+        const arr = await res.json();
+        return Array.isArray(arr) ? arr : [];
+      })
+    );
+    for (const arr of results) {
       for (const q of arr) {
         if (q?.id) map.set(String(q.id), normalizeQuestion(q, examId, gradeId));
       }
@@ -61,22 +66,26 @@ function normalizeQuestion(q, _examId, _gradeId) {
 
 /**
  * Load pack definitions for exam/grade.
+ * Fetches all pack files in parallel for faster load.
  * @param {string} examId
  * @param {string} gradeId
  * @returns {Promise<Array>}
  */
 export async function loadPackDefinitions(examId, gradeId) {
-  const packs = [];
   const base = `question-bank/${examId}/grade${gradeId}/packs`;
   const known = ['practice-1', 'practice-2', 'practice-3', 'practice-4', 'practice-5', 'practice-6', 'practice-7', 'practice-8', 'practice-9', 'mock-1', 'mock-2'];
 
-  for (const id of known) {
-    try {
-      const res = await fetch(resolveStaticPath(`${base}/${id}.json`));
-      if (res.ok) packs.push(await res.json());
-    } catch {}
-  }
-  return packs;
+  const results = await Promise.all(
+    known.map(async (id) => {
+      try {
+        const res = await fetch(resolveStaticPath(`${base}/${id}.json`));
+        return res.ok ? res.json() : null;
+      } catch {
+        return null;
+      }
+    })
+  );
+  return results.filter(Boolean);
 }
 
 /**

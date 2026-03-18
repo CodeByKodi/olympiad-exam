@@ -2,6 +2,7 @@ import { useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { EXAMS, TEST_MODES } from '../constants/exams';
 import { TestCard } from '../components/TestCard';
+import { PackSkeleton } from '../components/PackSkeleton';
 import { useQuestionLibrary } from '../hooks/useQuestionLibrary';
 import { resolveStaticPath } from '../config';
 import * as libraryService from '../services/questionLibraryService';
@@ -63,7 +64,9 @@ export function TestSelectPage() {
         <h1 className={styles.title}>{exam.fullName} — Grade {gradeId}</h1>
         <p className={styles.subtitle}>Choose a test mode and test</p>
         {loading && (
-          <p className={styles.loadingHint}>Loading content…</p>
+          <div className={styles.loadingSkeleton}>
+            <PackSkeleton count={6} />
+          </div>
         )}
         {!loading && emptyContent && (
           <p className={styles.loadingHint}>

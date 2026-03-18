@@ -6,7 +6,7 @@ import { useRole } from '../hooks/useRole';
 import styles from '../styles/LandingPage.module.css';
 
 export function LandingPage() {
-  const { hasLibraryAccess } = useRole();
+  const { hasLibraryAccess, isLoggedIn } = useRole();
   const completed = getCompletedTests();
   const bestScores = getBestScores();
   const inProgress = getInProgressAttempt();
@@ -29,6 +29,9 @@ export function LandingPage() {
         <h1 className={styles.title}>Olympiad Practice</h1>
         <p className={styles.subtitle}>
           Practice and prepare for NSO, IMO, IEO, ICS, IGKO &amp; ISSO exams
+        </p>
+        <p className={styles.firstTimeHint}>
+          First time? Pick an exam below, choose your grade, then start with Practice mode to learn at your own pace.
         </p>
       </section>
 
@@ -106,6 +109,14 @@ export function LandingPage() {
             </span>
             <span className={styles.statLabel}>Exams Attempted</span>
           </div>
+          {isLoggedIn && (
+            <Link to="/progress" className={styles.statCardLink}>
+              <div className={styles.statCard}>
+                <span className={styles.statValue}>📊</span>
+                <span className={styles.statLabel}>View Progress</span>
+              </div>
+            </Link>
+          )}
         </div>
       </section>
 

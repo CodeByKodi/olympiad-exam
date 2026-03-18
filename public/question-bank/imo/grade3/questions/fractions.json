@@ -208,5 +208,320 @@
     "explanation": "In a fraction, the bottom number (denominator) shows the total number of equal parts.",
     "tags": ["fractions", "imo", "grade3"],
     "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-fractions-0011",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Fractions",
+    "subtopic": "Fractions",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "In the fraction 2/5, what does the 2 represent?",
+    "image": "",
+    "options": [
+      "Total number of parts",
+      "Number of parts taken",
+      "The whole",
+      "The denominator"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The top number (numerator) shows how many parts are taken.",
+    "tags": ["fractions", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-fractions-0012",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Fractions",
+    "subtopic": "Fractions",
+    "difficulty": "medium",
+    "modes": ["practice", "mock"],
+    "questionText": "What is 1/2 of 16?",
+    "image": "",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Half of 16 is 8.",
+    "tags": ["fractions", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-fractions-0013",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Fractions",
+    "subtopic": "Fractions",
+    "difficulty": "medium",
+    "modes": ["practice", "mock"],
+    "questionText": "A ribbon is cut into 5 equal pieces. You take 2 pieces. What fraction of the ribbon do you have?",
+    "image": "",
+    "options": [
+      "1/5",
+      "2/5",
+      "3/5",
+      "2/3"
+    ],
+    "correctAnswer": 1,
+    "explanation": "2 out of 5 equal pieces is 2/5.",
+    "tags": ["fractions", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-fractions-0014",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Fractions",
+    "subtopic": "Fractions",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "Which fraction is greater: 1/3 or 1/2?",
+    "image": "",
+    "options": [
+      "1/3",
+      "1/2",
+      "Both equal",
+      "Cannot compare"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1/2 (half) is greater than 1/3 (one third).",
+    "tags": ["fractions", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-fractions-0015",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Fractions",
+    "subtopic": "Fractions",
+    "difficulty": "medium",
+    "modes": ["practice", "mock"],
+    "questionText": "If 3 out of 6 equal parts are shaded, what fraction is shaded?",
+    "image": "",
+    "options": [
+      "1/6",
+      "2/6",
+      "3/6",
+      "4/6"
+    ],
+    "correctAnswer": 2,
+    "explanation": "3 out of 6 equal parts is 3/6, which equals 1/2.",
+    "tags": ["fractions", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-fractions-0016",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Fractions",
+    "subtopic": "Fractions",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "What is 1/4 of 20?",
+    "image": "",
+    "options": [
+      "4",
+      "5",
+      "8",
+      "10"
+    ],
+    "correctAnswer": 1,
+    "explanation": "One quarter of 20 is 5.",
+    "tags": ["fractions", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-fractions-0017",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Fractions",
+    "subtopic": "Fractions",
+    "difficulty": "medium",
+    "modes": ["practice", "mock"],
+    "questionText": "Which fraction is the same as 2/4?",
+    "image": "",
+    "options": [
+      "1/2",
+      "1/4",
+      "3/4",
+      "4/2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "2/4 = 1/2. Both represent half.",
+    "tags": ["fractions", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-fractions-0018",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Fractions",
+    "subtopic": "Fractions",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "A cake is divided into 8 equal slices. You eat 3 slices. What fraction of the cake is left?",
+    "image": "",
+    "options": [
+      "3/8",
+      "5/8",
+      "3/5",
+      "8/3"
+    ],
+    "correctAnswer": 1,
+    "explanation": "8 - 3 = 5 slices left. 5 out of 8 is 5/8.",
+    "tags": ["fractions", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-fractions-0019",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Fractions",
+    "subtopic": "Fractions",
+    "difficulty": "medium",
+    "modes": ["practice", "mock"],
+    "questionText": "Between 2/3 and 1/3, which is larger?",
+    "image": "",
+    "options": [
+      "1/3",
+      "2/3",
+      "Both equal",
+      "Cannot tell"
+    ],
+    "correctAnswer": 1,
+    "explanation": "2/3 means two parts out of three, which is more than 1/3.",
+    "tags": ["fractions", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-fractions-0020",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Fractions",
+    "subtopic": "Fractions",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "What does 4/4 mean?",
+    "image": "",
+    "options": [
+      "Four quarters",
+      "The whole",
+      "Half",
+      "One quarter"
+    ],
+    "correctAnswer": 1,
+    "explanation": "4/4 means all 4 parts, which is the whole.",
+    "tags": ["fractions", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-fractions-0021",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Fractions",
+    "subtopic": "Fractions",
+    "difficulty": "medium",
+    "modes": ["practice", "mock"],
+    "questionText": "What is 3/4 of 12?",
+    "image": "",
+    "options": [
+      "3",
+      "6",
+      "9",
+      "4"
+    ],
+    "correctAnswer": 2,
+    "explanation": "One quarter of 12 is 3. Three quarters is 3 × 3 = 9.",
+    "tags": ["fractions", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-fractions-0022",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Fractions",
+    "subtopic": "Fractions",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "Which fraction represents one third?",
+    "image": "",
+    "options": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "3/1"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1/3 means one out of three equal parts.",
+    "tags": ["fractions", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-fractions-0023",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Fractions",
+    "subtopic": "Fractions",
+    "difficulty": "medium",
+    "modes": ["practice", "mock"],
+    "questionText": "A book has 24 pages. You read 1/3 of it. How many pages did you read?",
+    "image": "",
+    "options": [
+      "6",
+      "8",
+      "12",
+      "18"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1/3 of 24 = 24 ÷ 3 = 8 pages.",
+    "tags": ["fractions", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-fractions-0024",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Fractions",
+    "subtopic": "Fractions",
+    "difficulty": "easy",
+    "modes": ["practice", "mock"],
+    "questionText": "If a shape is divided into 6 equal parts and 3 are shaded, what fraction is shaded?",
+    "image": "",
+    "options": [
+      "1/6",
+      "2/6",
+      "3/6",
+      "4/6"
+    ],
+    "correctAnswer": 2,
+    "explanation": "3 out of 6 equal parts is 3/6, which equals 1/2.",
+    "tags": ["fractions", "imo", "grade3"],
+    "sourceType": "generated"
+  },
+  {
+    "id": "imo-g3-fractions-0025",
+    "exam": "imo",
+    "grade": "3",
+    "topic": "Fractions",
+    "subtopic": "Fractions",
+    "difficulty": "medium",
+    "modes": ["practice", "mock"],
+    "questionText": "Which is smaller: 1/4 or 1/2?",
+    "image": "",
+    "options": [
+      "1/4",
+      "1/2",
+      "Both equal",
+      "Cannot tell"
+    ],
+    "correctAnswer": 0,
+    "explanation": "1/4 (quarter) is smaller than 1/2 (half).",
+    "tags": ["fractions", "imo", "grade3"],
+    "sourceType": "generated"
   }
 ]

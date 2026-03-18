@@ -28,8 +28,36 @@
 .message {
   font-size: var(--text-base);
   color: var(--text-secondary);
-  margin: 0 0 var(--space-6);
+  margin: 0 0 var(--space-4);
   line-height: 1.5;
+}
+
+.detailToggle {
+  background: none;
+  border: none;
+  color: var(--primary);
+  font-size: var(--text-sm);
+  cursor: pointer;
+  padding: 0;
+  margin-bottom: var(--space-3);
+  text-decoration: underline;
+}
+
+.detailToggle:hover {
+  color: var(--primary-hover);
+}
+
+.errorDetail {
+  font-size: var(--text-sm);
+  color: var(--text-muted);
+  background: var(--surface);
+  padding: var(--space-3);
+  border-radius: var(--radius-md);
+  text-align: left;
+  overflow-x: auto;
+  margin: 0 0 var(--space-4);
+  max-height: 120px;
+  overflow-y: auto;
 }
 
 .retryBtn {

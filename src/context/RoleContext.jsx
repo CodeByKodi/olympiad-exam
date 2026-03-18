@@ -1,7 +1,13 @@
 import { createContext, useState, useCallback, useEffect } from 'react';
 import * as authService from '../services/authService';
+import { useSessionTimeout } from '../hooks/useSessionTimeout';
 
 const RoleContext = createContext(null);
+
+function SessionTimeoutHandler() {
+  useSessionTimeout();
+  return null;
+}
 
 export function RoleProvider({ children }) {
   const [user, setUser] = useState(() => authService.getCurrentUser());
@@ -54,6 +60,7 @@ export function RoleProvider({ children }) {
 
   return (
     <RoleContext.Provider value={value}>
+      <SessionTimeoutHandler />
       {children}
     </RoleContext.Provider>
   );

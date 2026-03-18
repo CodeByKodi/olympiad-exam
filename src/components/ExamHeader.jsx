@@ -8,7 +8,8 @@ export function ExamHeader({
   mode,
   timeRemaining,
   timeExpired,
-  onPause: _onPause,
+  timerPaused,
+  onPause,
   onMarkForReview,
   onSubmit,
   isMarked,
@@ -51,9 +52,22 @@ export function ExamHeader({
         )}
         <div className={styles.actions}>
           {!isPractice && (
-            <div className={styles.timerWrap}>
-              <Timer remainingSeconds={timeRemaining} isExpired={timeExpired} />
-            </div>
+            <>
+              <div className={styles.timerWrap}>
+                <Timer remainingSeconds={timeRemaining} isExpired={timeExpired} isPaused={timerPaused} />
+              </div>
+              {onPause && (
+                <button
+                  type="button"
+                  className={styles.iconBtn}
+                  onClick={onPause}
+                  title={timerPaused ? 'Resume timer' : 'Pause timer'}
+                  aria-label={timerPaused ? 'Resume timer' : 'Pause timer'}
+                >
+                  <span className={styles.btnLabel}>{timerPaused ? 'Resume' : 'Pause'}</span>
+                </button>
+              )}
+            </>
           )}
           <button
             type="button"
