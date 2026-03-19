@@ -1,0 +1,618 @@
+{
+  "exam_name": "International English Olympiad",
+  "overview": [
+    "The syllabus is divided into four sections for each class from Class 1 to Class 10, with the exception of Class 1 which has only two sections plus Achievers section.",
+    "Section 1 is the basic language section; topics vary by class (e.g. Synonyms, Spellings, Collocations).",
+    "Section 2 contains searching and retrieving information type questions.",
+    "Section 3 contains situation-based functional English questions.",
+    "Section 4 consists of Higher Order Thinking questions based on previous sections.",
+    "The syllabus is class-specific and mock tests/sample papers are also provided."
+  ],
+  "sections_overview": [
+    {
+      "code": "S1",
+      "name": "Section 1",
+      "description": "Basic language section; topics vary by class (e.g. Synonyms, Spellings, Collocations)."
+    },
+    {
+      "code": "S2",
+      "name": "Section 2",
+      "description": "Searching and retrieving information type questions from various text types."
+    },
+    {
+      "code": "S3",
+      "name": "Section 3",
+      "description": "Situation-based functional English questions."
+    },
+    {
+      "code": "S4",
+      "name": "Section 4",
+      "description": "Higher Order Thinking questions based on Sections 1, 2 and 3."
+    }
+  ],
+  "classes": [
+    {
+      "class_name": "Class 1",
+      "grade": 1,
+      "achievers_section_note": "Higher Order Thinking Questions - from the above given syllabus.",
+      "sections": [
+        {
+          "section_name": "Section-1",
+          "section_title": "Language and Comprehension",
+          "topics": [
+            "Jumbled Letters",
+            "Words: Their Meanings and Opposites",
+            "Identify the Word From the Picture",
+            "Making a Word",
+            "Word Power",
+            "Feminine and Masculine",
+            "One and Many",
+            "Word Pairs",
+            "Odd One Out",
+            "Animals: Their Babies, Sounds and Groups",
+            "Nouns",
+            "Pronouns",
+            "Verbs",
+            "Conjunctions",
+            "Articles",
+            "Adverbs",
+            "Prepositions",
+            "Adjectives",
+            "Basic Tenses",
+            "Punctuation",
+            "Comprehension (Prose and Poetry)",
+            "Picture Composition",
+            "Spoken and Written Expression"
+          ]
+        },
+        {
+          "section_name": "Section-2",
+          "section_title": "Achiever's Section",
+          "notes": "Higher Order Thinking Questions - from the above given syllabus.",
+          "topics": []
+        }
+      ]
+    },
+    {
+      "class_name": "Class 2",
+      "grade": 2,
+      "sections": [
+        {
+          "section_name": "Section-1",
+          "section_title": "Basic Language",
+          "topics": [
+            "Collocations",
+            "Spellings",
+            "Synonyms",
+            "Antonyms",
+            "Identify the Word from the Picture",
+            "Words Related to Animals",
+            "Phrases",
+            "Idioms",
+            "Nouns",
+            "Pronouns",
+            "Verbs",
+            "Adverbs",
+            "Adjectives",
+            "Articles",
+            "Prepositions",
+            "Conjunctions",
+            "Contractions",
+            "Word Order",
+            "Punctuation",
+            "Simple Tenses"
+          ]
+        },
+        {
+          "section_name": "Section-2",
+          "section_title": "Search and Retrieve Information",
+          "topics": [
+            "Search for and retrieve information from various text types like stories, short dialogues, etc.",
+            "Acquire broad understanding of and look for specific information in short texts like messages, invitations, etc."
+          ],
+          "notes": "Text types: stories, short dialogues, messages, invitations."
+        },
+        {
+          "section_name": "Section-3",
+          "section_title": "Situation-based Functional English",
+          "topics": [
+            "Thanking",
+            "Greeting",
+            "Asking for Permission",
+            "Introducing Oneself"
+          ],
+          "notes": "Ability to understand situation-based variations in functions."
+        },
+        {
+          "section_name": "Section-4",
+          "section_title": "Higher Order Thinking Questions",
+          "notes": "Syllabus as per Sections 1, 2 and 3.",
+          "topics": []
+        }
+      ]
+    },
+    {
+      "class_name": "Class 3",
+      "grade": 3,
+      "sections": [
+        {
+          "section_name": "Section-1",
+          "section_title": "Basic Language",
+          "topics": [
+            "Word Power: Homophones",
+            "Collocations",
+            "Spellings",
+            "Words Related to Animals, Household Things, Clothes, Basic Emotions, Food, Animals and Pets",
+            "Synonyms and Antonyms",
+            "Gender",
+            "Number",
+            "Proverbs",
+            "Idioms",
+            "One Word",
+            "Nouns",
+            "Pronouns",
+            "Verbs",
+            "Adverbs",
+            "Adjectives",
+            "Articles",
+            "Prepositions",
+            "Simple Tenses",
+            "Conjunctions and Punctuation",
+            "Basic Questions",
+            "Question Tags",
+            "Jumbled Words"
+          ]
+        },
+        {
+          "section_name": "Section-2",
+          "section_title": "Search and Retrieve Information",
+          "topics": [
+            "Search for and retrieve information from various text types like Stories, Anecdotes, etc.",
+            "Understand information through pictures, Time-table format, etc.",
+            "Acquire broad understanding of and look for specific information in short texts like messages, Invitations, etc."
+          ]
+        },
+        {
+          "section_name": "Section-3",
+          "section_title": "Situation-based Functional English",
+          "topics": [
+            "Apology",
+            "Greeting",
+            "Introduction",
+            "Request"
+          ],
+          "notes": "Ability to understand situation-based variations in functions."
+        },
+        {
+          "section_name": "Section-4",
+          "section_title": "Higher Order Thinking Questions",
+          "notes": "Syllabus as per Sections 1, 2 and 3.",
+          "topics": []
+        }
+      ]
+    },
+    {
+      "class_name": "Class 4",
+      "grade": 4,
+      "sections": [
+        {
+          "section_name": "Section-1",
+          "section_title": "Basic Language",
+          "topics": [
+            "Collocations",
+            "Spellings",
+            "Gender",
+            "Singular-Plural",
+            "One Word Substitution",
+            "Synonyms",
+            "Antonyms",
+            "Nouns",
+            "Pronouns",
+            "Verbs",
+            "Adverbs",
+            "Adjectives",
+            "Contractions",
+            "Articles",
+            "Prepositions",
+            "Conjunctions",
+            "Tenses",
+            "Punctuations and Jumbled Words",
+            "Basic Questions",
+            "Question Tags",
+            "Proverbs",
+            "Idioms"
+          ]
+        },
+        {
+          "section_name": "Section-2",
+          "section_title": "Search and Retrieve Information",
+          "topics": [
+            "Search for and retrieve information from various text types like Stories, Anecdotes, etc.",
+            "Understand information through pictures, Time-table format, etc.",
+            "Acquire broad understanding of and look for specific information in short texts like messages, Invitations, etc."
+          ]
+        },
+        {
+          "section_name": "Section-3",
+          "section_title": "Situation-based Functional English",
+          "topics": [
+            "Apology",
+            "Greeting",
+            "Introduction",
+            "Request"
+          ],
+          "notes": "Ability to understand situation-based variations in functions."
+        },
+        {
+          "section_name": "Section-4",
+          "section_title": "Higher Order Thinking Questions",
+          "notes": "Syllabus as per Sections 1, 2 and 3.",
+          "topics": []
+        }
+      ]
+    },
+    {
+      "class_name": "Class 5",
+      "grade": 5,
+      "sections": [
+        {
+          "section_name": "Section-1",
+          "section_title": "Basic Language",
+          "topics": [
+            "Spellings",
+            "Collocations",
+            "Idioms",
+            "Homonyms and Homophones",
+            "Synonyms",
+            "Antonyms",
+            "Nouns",
+            "Pronouns",
+            "Verbs and Phrasal Verbs",
+            "Adverbs",
+            "Adjectives",
+            "Articles",
+            "Prepositions",
+            "Conjunctions",
+            "Punctuation",
+            "Tenses",
+            "Active-Passive Voice",
+            "Reported Speech"
+          ]
+        },
+        {
+          "section_name": "Section-2",
+          "section_title": "Search and Retrieve Information",
+          "topics": [
+            "Search for and retrieve information from various text types like News headlines, Messages, Letters, etc.",
+            "Understand information given in News reports, Time-tables, Messages, etc.",
+            "Acquire broad understanding of and look for specific information in short texts like messages, menu card dialogues, etc."
+          ]
+        },
+        {
+          "section_name": "Section-3",
+          "section_title": "Situation-based Functional English",
+          "topics": [
+            "Requests",
+            "Refusals",
+            "Apologies"
+          ],
+          "notes": "Ability to understand situation-based variations in functions."
+        },
+        {
+          "section_name": "Section-4",
+          "section_title": "Higher Order Thinking Questions",
+          "notes": "Syllabus as per Sections 1, 2 and 3.",
+          "topics": []
+        }
+      ]
+    },
+    {
+      "class_name": "Class 6",
+      "grade": 6,
+      "sections": [
+        {
+          "section_name": "Section-1",
+          "section_title": "Basic Language",
+          "topics": [
+            "Nouns",
+            "Pronouns",
+            "Verbs",
+            "Adverbs",
+            "Adjectives",
+            "Articles",
+            "Conjunctions",
+            "Prepositions",
+            "Punctuation and Jumbled Words",
+            "Tenses",
+            "Voices",
+            "Narration",
+            "Spellings",
+            "Collocations",
+            "Phrasal Verbs",
+            "Idioms",
+            "Synonyms",
+            "Antonyms"
+          ]
+        },
+        {
+          "section_name": "Section-2",
+          "section_title": "Search and Retrieve Information",
+          "topics": [
+            "Search for and retrieve information from various text types like News headlines, Brochures, Formal and Informal letters, Itinerary, etc.",
+            "Acquire broad understanding of and look for specific information in Short narratives, Time-tables, News stories, Diary entry, Poster Making, Messages, etc."
+          ]
+        },
+        {
+          "section_name": "Section-3",
+          "section_title": "Situation-based Functional English",
+          "topics": [
+            "Agreement and Disagreement",
+            "Requests",
+            "Refusals",
+            "Apologies"
+          ],
+          "notes": "Ability to understand situation-based variations in functions."
+        },
+        {
+          "section_name": "Section-4",
+          "section_title": "Higher Order Thinking Questions",
+          "notes": "Syllabus as per Sections 1, 2 and 3.",
+          "topics": []
+        }
+      ]
+    },
+    {
+      "class_name": "Class 7",
+      "grade": 7,
+      "sections": [
+        {
+          "section_name": "Section-1",
+          "section_title": "Basic Language",
+          "topics": [
+            "Spellings",
+            "Collocations and Words Related to Travel, Locations, Activities",
+            "Homonyms and Homophones",
+            "Synonyms",
+            "Antonyms",
+            "Analogies and Spellings",
+            "One Word",
+            "Phrasal Verbs and Idioms",
+            "Modals",
+            "Word Order",
+            "Nouns",
+            "Pronouns",
+            "Verbs",
+            "Adverbs",
+            "Adjectives",
+            "Articles",
+            "Prepositions",
+            "Conjunctions",
+            "Punctuation",
+            "Tenses",
+            "Voices and Narration"
+          ]
+        },
+        {
+          "section_name": "Section-2",
+          "section_title": "Search and Retrieve Information",
+          "topics": [
+            "Search for and retrieve information from various text types like News stories, Brochures, Formal and informal letters and advertisements",
+            "Understand information given in News reports, Brochures, Itinerary, etc.",
+            "Acquire broad understanding of and look for specific information in short narratives, Biographies, Notices and Messages, etc."
+          ]
+        },
+        {
+          "section_name": "Section-3",
+          "section_title": "Situation-based Functional English",
+          "topics": [
+            "Requesting and Refusing",
+            "Apologies",
+            "Stating Preferences",
+            "Expression of Intent"
+          ],
+          "notes": "Ability to understand situation-based variations in functions."
+        },
+        {
+          "section_name": "Section-4",
+          "section_title": "Higher Order Thinking Questions",
+          "notes": "Syllabus as per Sections 1, 2 and 3.",
+          "topics": []
+        }
+      ]
+    },
+    {
+      "class_name": "Class 8",
+      "grade": 8,
+      "sections": [
+        {
+          "section_name": "Section-1",
+          "section_title": "Basic Language",
+          "topics": [
+            "Synonyms",
+            "Antonyms",
+            "Analogies and Spellings",
+            "Collocations",
+            "Phrasal Verbs",
+            "Idioms or Proverbs",
+            "Homonyms and Homophones",
+            "One Word",
+            "Nouns",
+            "Pronouns",
+            "Verbs",
+            "Adverbs",
+            "Adjectives",
+            "Articles",
+            "Prepositions",
+            "Prepositional Phrases",
+            "Participle Phrases",
+            "Conjunctions",
+            "Determiners",
+            "Jumbled Words and Punctuations",
+            "Tenses",
+            "Voices and Narrations",
+            "Question Tags",
+            "Words Related to Leisure, Household Items/Issues, Social Causes, Outdoor Locations and Activities"
+          ]
+        },
+        {
+          "section_name": "Section-2",
+          "section_title": "Search and Retrieve Information",
+          "topics": [
+            "Search for and retrieve information from various text types like News reports, Blurb, Dictionaries, etc.",
+            "Understand information presented in instruction manual format, Message format and others",
+            "Acquire broad understanding of and look for specific information in longer texts like Editorials, Essays, etc."
+          ]
+        },
+        {
+          "section_name": "Section-3",
+          "section_title": "Situation-based Functional English",
+          "topics": [
+            "Requesting",
+            "Giving Information",
+            "Expressing Surprise",
+            "Pronunciation"
+          ],
+          "notes": "Ability to understand situation-based variations in functions."
+        },
+        {
+          "section_name": "Section-4",
+          "section_title": "Higher Order Thinking Questions",
+          "notes": "Syllabus as per Sections 1, 2 and 3.",
+          "topics": []
+        }
+      ]
+    },
+    {
+      "class_name": "Class 9",
+      "grade": 9,
+      "sections": [
+        {
+          "section_name": "Section-1",
+          "section_title": "Basic Language",
+          "topics": [
+            "Synonyms",
+            "Antonyms",
+            "Analogies and Spellings",
+            "One Word",
+            "Word Order",
+            "Nouns",
+            "Pronouns",
+            "Verbs",
+            "Adverbs",
+            "Adjectives",
+            "Articles",
+            "Prepositions",
+            "Conjunctions",
+            "Punctuations",
+            "Jumbled Words",
+            "Voices",
+            "Concord",
+            "Question Forms",
+            "Tenses",
+            "Conditionals",
+            "Modals",
+            "Reported Speech",
+            "Collocations",
+            "Phrasal Verbs",
+            "Idioms",
+            "Homonyms and Homophones",
+            "Words Related to Social Cause, Travel, Workplace"
+          ]
+        },
+        {
+          "section_name": "Section-2",
+          "section_title": "Search and Retrieve Information",
+          "topics": [
+            "Search for and retrieve information from various text types like Flyers, Classifieds, Dictionaries, etc.",
+            "Understand information presented in instruction manual format, Message format and others",
+            "Acquire broad understanding of and look for specific information in longer texts like Editorials, Essays, etc."
+          ]
+        },
+        {
+          "section_name": "Section-3",
+          "section_title": "Situation-based Functional English",
+          "topics": [
+            "Giving Advice",
+            "Stating Preferences",
+            "Discussing Probability",
+            "Making an Offer"
+          ],
+          "notes": "Ability to understand situation-based variations in functions."
+        },
+        {
+          "section_name": "Section-4",
+          "section_title": "Higher Order Thinking Questions",
+          "notes": "Syllabus as per Sections 1, 2 and 3.",
+          "topics": []
+        }
+      ]
+    },
+    {
+      "class_name": "Class 10",
+      "grade": 10,
+      "sections": [
+        {
+          "section_name": "Section-1",
+          "section_title": "Basic Language",
+          "topics": [
+            "Synonyms",
+            "Antonyms",
+            "Analogies and Spellings",
+            "One Word",
+            "Word Order",
+            "Nouns",
+            "Pronouns",
+            "Verbs",
+            "Adverbs",
+            "Adjectives",
+            "Articles",
+            "Prepositions",
+            "Conjunctions",
+            "Punctuations",
+            "Voices",
+            "Narration",
+            "Concord",
+            "Question Forms",
+            "Tenses",
+            "Conditionals",
+            "Modals",
+            "Collocations",
+            "Phrasal Verbs",
+            "Idioms",
+            "Homonyms and Homophones",
+            "Words Related to Weather, Countries, Language and People, Global Problems"
+          ]
+        },
+        {
+          "section_name": "Section-2",
+          "section_title": "Search and Retrieve Information",
+          "topics": [
+            "Search for and retrieve information from various text types like Encyclopedias, Dictionaries, etc.",
+            "Understand information presented in instruction manual format, Message format and others",
+            "Acquire broad understanding of and look for specific information in longer texts like Editorials, Essays, etc.",
+            "Make inferences from advanced texts"
+          ]
+        },
+        {
+          "section_name": "Section-3",
+          "section_title": "Situation-based Functional English",
+          "topics": [
+            "Giving/Accepting Compliments",
+            "Agreeing",
+            "Disagreeing",
+            "Requesting",
+            "Seeking Information",
+            "Pronunciation"
+          ],
+          "notes": "Ability to understand situation-based variations in functions."
+        },
+        {
+          "section_name": "Section-4",
+          "section_title": "Higher Order Thinking Questions",
+          "notes": "Syllabus as per Sections 1, 2 and 3.",
+          "topics": []
+        }
+      ]
+    }
+  ]
+}
