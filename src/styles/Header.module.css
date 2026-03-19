@@ -2,6 +2,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
+  flex-wrap: wrap;
   padding: var(--space-3) var(--space-5);
   background: var(--header-bg);
   border-bottom: 1px solid var(--border-color);
@@ -26,6 +27,20 @@
   display: flex;
   align-items: center;
   gap: var(--space-4);
+}
+
+.mobileMenuBtn {
+  display: none;
+  min-width: 44px;
+  min-height: 44px;
+  align-items: center;
+  justify-content: center;
+  background: var(--surface);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  color: var(--text-primary);
+  font-size: 1.1rem;
+  cursor: pointer;
 }
 
 .navLink {
@@ -79,9 +94,35 @@
 }
 
 @media (max-width: 768px) {
+  .header {
+    position: sticky;
+    top: 0;
+    z-index: 20;
+  }
+
+  .mobileMenuBtn {
+    display: inline-flex;
+  }
+
   .nav {
+    display: none;
+    width: 100%;
+    margin-top: var(--space-2);
+    padding-top: var(--space-2);
+    border-top: 1px solid var(--border-color);
     flex-wrap: wrap;
     gap: var(--space-2);
+  }
+
+  .navOpen {
+    display: flex;
+  }
+
+  .navLink,
+  .logoutBtn {
+    min-height: 40px;
+    display: inline-flex;
+    align-items: center;
   }
 }
 
@@ -97,5 +138,10 @@
 
   .logoText {
     font-size: var(--text-base);
+  }
+
+  .userLabel {
+    width: 100%;
+    margin-right: 0;
   }
 }
