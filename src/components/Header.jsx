@@ -8,6 +8,7 @@ import styles from '../styles/Header.module.css';
 
 export function Header({ onDarkModeToggle, darkMode }) {
   const [settingsOpen, setSettingsOpen] = useState(false);
+  const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const { hasLibraryAccess, isLoggedIn, user, logout } = useRole();
 
   useEffect(() => {
@@ -28,16 +29,25 @@ export function Header({ onDarkModeToggle, darkMode }) {
         <span className={styles.logoText}>Olympiad Practice</span>
         {hasLibraryAccess && <AdminBadge role={user?.role} />}
       </Link>
-      <nav className={styles.nav}>
+      <button
+        type="button"
+        className={styles.mobileMenuBtn}
+        onClick={() => setMobileMenuOpen((v) => !v)}
+        aria-label={mobileMenuOpen ? 'Close navigation menu' : 'Open navigation menu'}
+        aria-expanded={mobileMenuOpen}
+      >
+        {mobileMenuOpen ? '✕' : '☰'}
+      </button>
+      <nav className={`${styles.nav} ${mobileMenuOpen ? styles.navOpen : ''}`}>
         <ExamNavBar inline />
-        <Link to="/home" className={styles.navLink}>Home</Link>
+        <Link to="/home" className={styles.navLink} onClick={() => setMobileMenuOpen(false)}>Home</Link>
         {isLoggedIn && (
-          <Link to="/progress" className={styles.navLink}>Progress</Link>
+          <Link to="/progress" className={styles.navLink} onClick={() => setMobileMenuOpen(false)}>Progress</Link>
         )}
         {hasLibraryAccess && (
           <>
-            <Link to="/manage-questions" className={styles.navLink}>Questions</Link>
-            <Link to="/question-library" className={styles.navLink}>Library</Link>
+            <Link to="/manage-questions" className={styles.navLink} onClick={() => setMobileMenuOpen(false)}>Questions</Link>
+            <Link to="/question-library" className={styles.navLink} onClick={() => setMobileMenuOpen(false)}>Library</Link>
           </>
         )}
         {isLoggedIn ? (
@@ -53,7 +63,7 @@ export function Header({ onDarkModeToggle, darkMode }) {
             </button>
           </>
         ) : (
-          <Link to="/login" className={styles.navLink}>Login</Link>
+          <Link to="/login" className={styles.navLink} onClick={() => setMobileMenuOpen(false)}>Login</Link>
         )}
         <button
           type="button"
