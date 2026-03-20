@@ -30,6 +30,7 @@
     "generate:nso-questions": "node scripts/generate-nso-questions.js",
     "validate:syllabus": "node scripts/validate-syllabus.js",
     "validate:syllabus-coverage": "node scripts/validate-syllabus-coverage.js",
+    "validate:olympiad-dataset": "npx --yes tsx scripts/validateOlympiadDataset.ts",
     "e2e": "playwright test",
     "e2e:ui": "playwright test --ui"
   },

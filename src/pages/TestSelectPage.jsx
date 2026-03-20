@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useMemo } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { EXAMS, TEST_MODES } from '../constants/exams';
 import { TestCard } from '../components/TestCard';
@@ -72,6 +72,21 @@ export function TestSelectPage() {
   const mockPacks = getMockPacks(exam.id, gradeId);
   const practicePacks = hasPracticePacks ? getPracticePacks(exam.id, gradeId) : [];
 
+  /** One responsive grid (like mock tests) instead of one skinny row per topic. */
+  const visiblePracticePacks = useMemo(() => {
+    if (!practicePacks.length) return [];
+    const filtered =
+      topicFilter === 'all'
+        ? practicePacks
+        : practicePacks.filter((p) => (p.topic || 'General') === topicFilter);
+    return [...filtered].sort((a, b) => {
+      const ta = a.topic || 'General';
+      const tb = b.topic || 'General';
+      if (ta !== tb) return ta.localeCompare(tb);
+      return (a.title || a.id || '').localeCompare(b.title || b.id || '');
+    });
+  }, [practicePacks, topicFilter]);
+
   const emptyContent = !hasPracticePacks && !hasMockPacks;
 
   return (
@@ -105,7 +120,9 @@ export function TestSelectPage() {
         <div className={styles.sectionHeader}>
           <div>
             <h2 className={styles.sectionTitle}>Practice Mode</h2>
-            <p className={styles.sectionDesc}>Take your time, get instant feedback, and learn as you go. Topic-based practice packs.</p>
+            <p className={styles.sectionDesc}>
+              Take your time, get instant feedback, and learn as you go. Packs are shown in a grid (sorted by topic); each card shows its topic badge.
+            </p>
           </div>
           {hasPracticePacks && practicePacks.length > 0 && (() => {
             const topics = [...new Set(practicePacks.map((p) => p.topic || 'General'))].sort();
@@ -128,39 +145,21 @@ export function TestSelectPage() {
             );
           })()}
         </div>
-        <div className={styles.grid}>
-          {hasPracticePacks && practicePacks.length > 0 ? (
-            (() => {
-              const byTopic = practicePacks.reduce((acc, p) => {
-                const t = p.topic || 'General';
-                if (!acc[t]) acc[t] = [];
-                acc[t].push(p);
-                return acc;
-              }, {});
-              const entries = topicFilter === 'all'
-                ? Object.entries(byTopic)
-                : Object.entries(byTopic).filter(([t]) => t === topicFilter);
-              return entries.map(([topic, packs]) => (
-                <div key={`topic-${topic}`} className={styles.topicGroup}>
-                  <h3 className={styles.topicGroupTitle}>{topic}</h3>
-                  <div className={styles.topicGrid}>
-                    {packs.map((p) => (
-                      <TestCard
-                        key={`practice-${p.id}`}
-                        examId={exam.id}
-                        gradeId={gradeId}
-                        testId={p.id}
-                        mode={TEST_MODES.PRACTICE}
-                        questionCount={p.questionCount}
-                        durationMinutes={p.durationMinutes}
-                        title={p.title}
-                        topic={p.topic}
-                      />
-                    ))}
-                  </div>
-                </div>
-              ));
-            })()
+        <div className={styles.packGrid}>
+          {hasPracticePacks && visiblePracticePacks.length > 0 ? (
+            visiblePracticePacks.map((p) => (
+              <TestCard
+                key={`practice-${p.id}`}
+                examId={exam.id}
+                gradeId={gradeId}
+                testId={p.id}
+                mode={TEST_MODES.PRACTICE}
+                questionCount={p.questionCount}
+                durationMinutes={p.durationMinutes}
+                title={p.title}
+                topic={p.topic}
+              />
+            ))
           ) : !loading && !hasPracticePacks ? (
             <p className={styles.emptyHint}>
               No practice content for this grade yet.{' '}
@@ -180,11 +179,26 @@ export function TestSelectPage() {
               </a>
               {' '}to get started.
             </p>
-          ) : !loading && practicePacks.length === 0 ? (
+          ) : !loading && hasPracticePacks && visiblePracticePacks.length === 0 ? (
             <p className={styles.emptyHint}>
-              No practice questions yet.{' '}
-              <Link to="/question-library" className={styles.emptyLink}>Import packs in the Library</Link>
-              {' '}to get started.
+              {topicFilter !== 'all' ? (
+                <>
+                  No practice packs for this topic.{' '}
+                  <button
+                    type="button"
+                    className={styles.emptyLink}
+                    onClick={() => setTopicFilter('all')}
+                  >
+                    Show all topics
+                  </button>
+                </>
+              ) : (
+                <>
+                  No practice questions yet.{' '}
+                  <Link to="/question-library" className={styles.emptyLink}>Import packs in the Library</Link>
+                  {' '}to get started.
+                </>
+              )}
             </p>
           ) : null}
         </div>
@@ -193,7 +207,7 @@ export function TestSelectPage() {
       <section className={`${styles.section} ${styles.mockSection}`}>
         <h2 className={styles.sectionTitle}>Mock Test Mode</h2>
         <p className={styles.sectionDesc}>Timed exam simulation. No feedback until you submit.</p>
-        <div className={styles.grid}>
+        <div className={styles.packGrid}>
           {hasMockPacks ? (
             mockPacks.map((p) => (
               <TestCard

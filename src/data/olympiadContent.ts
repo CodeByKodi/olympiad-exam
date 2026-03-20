@@ -1,7 +1,21 @@
+import { normalizeClassLabel } from './classLabel.js';
 import { ieoSyllabus } from './ieoSyllabus.js';
 import { igkoLifeSkillsSubtopics, igkoSyllabus } from './igkoSyllabus.js';
 import { imoSyllabus } from './imoSyllabus.js';
 import { nsoSyllabus } from './nsoSyllabus.js';
+import { ieoMockExams, igkoMockExams, imoMockExams, nsoMockExams } from './mockExams/mockExamBank.js';
+
+export { normalizeClassLabel } from './classLabel.js';
+export {
+  allMockExams,
+  getMockExamById,
+  getMockExamsByClass,
+  getMockExamsByDifficulty,
+  ieoMockExams,
+  igkoMockExams,
+  imoMockExams,
+  nsoMockExams,
+} from './mockExams/mockExamBank.js';
 
 export type OlympiadCode = 'IGKO' | 'IMO' | 'NSO' | 'IEO';
 export type ExamType = 'practice' | 'mock';
@@ -396,42 +410,6 @@ const igkoPracticeSections: ExamSection[] = [
   },
 ];
 
-const igkoMockSections: ExamSection[] = [
-  {
-    section_name: 'Section-1',
-    section_title: 'General Awareness',
-    questions: igkoPracticeSections[0].questions.slice(0, 3),
-  },
-  {
-    section_name: 'Section-2',
-    section_title: 'Current Affairs',
-    questions: [
-      {
-        question_id: 'igko-m-g4-q4',
-        question_type: 'mcq',
-        prompt: 'Which day is celebrated as World Environment Day?',
-        options: ['5 June', '22 April', '15 August', '2 October'],
-        correct_answer: '5 June',
-        explanation: 'World Environment Day is observed on 5 June.',
-        topic: 'Current Affairs',
-        difficulty_level: 'medium',
-        bloom_level: 'remember',
-      },
-      {
-        question_id: 'igko-m-g4-q5',
-        question_type: 'mcq',
-        prompt: 'A headline says “City launches e-bus fleet.” This mostly relates to:',
-        options: ['Sports', 'Transport and Communication', 'Entertainment', 'Maths Fun'],
-        correct_answer: 'Transport and Communication',
-        explanation: 'E-buses are transport infrastructure updates.',
-        topic: 'Current Affairs',
-        difficulty_level: 'medium',
-        bloom_level: 'analyze',
-      },
-    ],
-  },
-];
-
 const imoPracticeSections: ExamSection[] = [
   {
     section_name: 'Section-2',
@@ -493,48 +471,6 @@ const imoPracticeSections: ExamSection[] = [
   },
 ];
 
-const imoMockSections: ExamSection[] = [
-  {
-    section_name: 'Section-1',
-    section_title: 'Logical Reasoning',
-    questions: [
-      {
-        question_id: 'imo-m-g7-q1',
-        question_type: 'mcq',
-        prompt: 'Choose the odd one: 2, 4, 8, 16, 18',
-        options: ['2', '8', '16', '18'],
-        correct_answer: '18',
-        explanation: '18 does not follow powers-of-two progression.',
-        topic: 'Verbal and Non-Verbal Reasoning',
-        difficulty_level: 'medium',
-        bloom_level: 'analyze',
-      },
-    ],
-  },
-  {
-    section_name: 'Section-2',
-    section_title: 'Mathematics',
-    questions: imoPracticeSections[0].questions.slice(0, 4),
-  },
-  {
-    section_name: 'Section-4',
-    section_title: 'Achievers',
-    questions: [
-      {
-        question_id: 'imo-m-g7-q6',
-        question_type: 'mcq',
-        prompt: 'If a:b = 3:5 and b:c = 10:7, then a:c = ?',
-        options: ['3:7', '6:7', '7:6', '15:7'],
-        correct_answer: '6:7',
-        explanation: 'Match b using LCM: a:b=6:10 and b:c=10:7, so a:c=6:7.',
-        topic: 'Comparing Quantities',
-        difficulty_level: 'hard',
-        bloom_level: 'analyze',
-      },
-    ],
-  },
-];
-
 const nsoPracticeSections: ExamSection[] = [
   {
     section_name: 'Section-2',
@@ -591,53 +527,6 @@ const nsoPracticeSections: ExamSection[] = [
         topic: 'Conservation of Plants and Animals',
         difficulty_level: 'easy',
         bloom_level: 'apply',
-      },
-    ],
-  },
-];
-
-const nsoMockSections: ExamSection[] = [
-  {
-    section_name: 'Section-1',
-    section_title: 'Logical Reasoning',
-    questions: [
-      {
-        question_id: 'nso-m-g8-q1',
-        question_type: 'mcq',
-        prompt: 'Find next term: AB, DE, GH, JK, ?',
-        options: ['MN', 'LM', 'NO', 'PQ'],
-        correct_answer: 'MN',
-        explanation: 'Pairs advance by +3 letters each step.',
-        topic: 'Verbal and Non-Verbal Reasoning',
-        difficulty_level: 'medium',
-        bloom_level: 'analyze',
-      },
-    ],
-  },
-  {
-    section_name: 'Section-2',
-    section_title: 'Science',
-    questions: nsoPracticeSections[0].questions.slice(0, 4),
-  },
-  {
-    section_name: 'Section-3',
-    section_title: "Achiever's Section",
-    questions: [
-      {
-        question_id: 'nso-m-g8-q6',
-        question_type: 'mcq',
-        prompt: 'An object floats in water. Which statement is correct?',
-        options: [
-          'Its density is greater than water',
-          'Its density is equal to water',
-          'Its density is less than water',
-          'Density has no role',
-        ],
-        correct_answer: 'Its density is less than water',
-        explanation: 'Floating bodies have lower average density than fluid.',
-        topic: 'Force and Pressure',
-        difficulty_level: 'hard',
-        bloom_level: 'analyze',
       },
     ],
   },
@@ -710,57 +599,17 @@ const ieoPracticeSections: ExamSection[] = [
   },
 ];
 
-const ieoMockSections: ExamSection[] = [
-  {
-    section_name: 'Section-1',
-    section_title: 'Basic Language',
-    questions: ieoPracticeSections[0].questions.slice(0, 3),
-  },
-  {
-    section_name: 'Section-2',
-    section_title: 'Search and Retrieve Information',
-    questions: [
-      {
-        question_id: 'ieo-m-g6-q4',
-        question_type: 'mcq',
-        prompt: 'From a timetable, if period 3 starts at 9:40 and lasts 40 minutes, it ends at:',
-        options: ['10:10', '10:20', '10:30', '10:40'],
-        correct_answer: '10:20',
-        explanation: '9:40 + 40 minutes = 10:20.',
-        topic: 'Search and Retrieve Information',
-        difficulty_level: 'medium',
-        bloom_level: 'apply',
-      },
-    ],
-  },
-  {
-    section_name: 'Section-3',
-    section_title: 'Functional English',
-    questions: [
-      {
-        question_id: 'ieo-m-g6-q5',
-        question_type: 'mcq',
-        prompt: 'Best response to: "I am sorry for being late."',
-        options: ['Never talk to me.', "That's okay, please be on time next time.", 'Goodbye.', 'Ignore.'],
-        correct_answer: "That's okay, please be on time next time.",
-        explanation: 'The response shows polite acceptance and guidance.',
-        topic: 'Apologies',
-        difficulty_level: 'medium',
-        bloom_level: 'evaluate',
-      },
-    ],
-  },
-];
-
 function createPracticeExam(input: Omit<PracticeExam, 'answer_key' | 'explanations'>): PracticeExam {
-  return {
-    ...input,
-    answer_key: buildAnswerKey(input.sections),
-    explanations: buildExplanations(input.sections),
-  };
-}
-
-function createMockExam(input: Omit<MockExam, 'answer_key' | 'explanations'>): MockExam {
+  const flat = input.sections.flatMap((s) => s.questions);
+  const n = flat.length;
+  if (input.total_questions !== n) {
+    throw new Error(
+      `${input.id}: total_questions (${input.total_questions}) must match section count (${n})`,
+    );
+  }
+  if (input.total_marks !== n) {
+    throw new Error(`${input.id}: total_marks (${input.total_marks}) must match section count (${n})`);
+  }
   return {
     ...input,
     answer_key: buildAnswerKey(input.sections),
@@ -801,25 +650,7 @@ export const igkoData: OlympiadContent = {
       source: 'Structured sample generated for unified schema',
     }),
   ],
-  mock_exams: [
-    createMockExam({
-      id: 'igko-mock-g4-001',
-      title: 'IGKO Class 4 Mock Test 1',
-      exam_type: 'mock',
-      exam_code: 'IGKO',
-      class_name: 'Class 4',
-      subject_name: 'General Knowledge',
-      pattern_type: 'olympiad-standard',
-      difficulty_level: 'medium',
-      total_questions: 5,
-      total_marks: 5,
-      duration_minutes: 25,
-      sections: igkoMockSections,
-      instructions: ['Olympiad-like sectional flow.', 'Manage time per section.', 'Review before submission.'],
-      tags: ['igko', 'class4', 'mock'],
-      source: 'Structured sample generated for unified schema',
-    }),
-  ],
+  mock_exams: igkoMockExams,
   metadata: DEFAULT_METADATA,
 };
 
@@ -859,25 +690,7 @@ export const imoData: OlympiadContent = {
       source: 'Structured sample generated for unified schema',
     }),
   ],
-  mock_exams: [
-    createMockExam({
-      id: 'imo-mock-g7-001',
-      title: 'IMO Class 7 Mock Test 1',
-      exam_type: 'mock',
-      exam_code: 'IMO',
-      class_name: 'Class 7',
-      subject_name: 'Mathematics',
-      pattern_type: 'olympiad-standard',
-      difficulty_level: 'medium',
-      total_questions: 6,
-      total_marks: 6,
-      duration_minutes: 30,
-      sections: imoMockSections,
-      instructions: ['Follow olympiad order: reasoning, subject, achievers.', 'Do not spend too long on one item.'],
-      tags: ['imo', 'class7', 'mock', 'hot'],
-      source: 'Structured sample generated for unified schema',
-    }),
-  ],
+  mock_exams: imoMockExams,
   metadata: DEFAULT_METADATA,
 };
 
@@ -910,25 +723,7 @@ export const nsoData: OlympiadContent = {
       source: 'Structured sample generated for unified schema',
     }),
   ],
-  mock_exams: [
-    createMockExam({
-      id: 'nso-mock-g8-001',
-      title: 'NSO Class 8 Mock Test 1',
-      exam_type: 'mock',
-      exam_code: 'NSO',
-      class_name: 'Class 8',
-      subject_name: 'Science',
-      pattern_type: 'olympiad-standard',
-      difficulty_level: 'medium',
-      total_questions: 6,
-      total_marks: 6,
-      duration_minutes: 30,
-      sections: nsoMockSections,
-      instructions: ['Attempt all sections.', 'Balance reasoning and science time.', 'Reserve 5 minutes for review.'],
-      tags: ['nso', 'class8', 'mock'],
-      source: 'Structured sample generated for unified schema',
-    }),
-  ],
+  mock_exams: nsoMockExams,
   metadata: DEFAULT_METADATA,
 };
 
@@ -964,25 +759,7 @@ export const ieoData: OlympiadContent = {
       source: 'Structured sample generated for unified schema',
     }),
   ],
-  mock_exams: [
-    createMockExam({
-      id: 'ieo-mock-g6-001',
-      title: 'IEO Class 6 Mock Test 1',
-      exam_type: 'mock',
-      exam_code: 'IEO',
-      class_name: 'Class 6',
-      subject_name: 'English',
-      pattern_type: 'olympiad-standard',
-      difficulty_level: 'medium',
-      total_questions: 5,
-      total_marks: 5,
-      duration_minutes: 25,
-      sections: ieoMockSections,
-      instructions: ['Follow section flow.', 'Prioritize accuracy over speed.', 'Review language-function items at end.'],
-      tags: ['ieo', 'class6', 'mock'],
-      source: 'Structured sample generated for unified schema',
-    }),
-  ],
+  mock_exams: ieoMockExams,
   metadata: DEFAULT_METADATA,
 };
 
@@ -1000,17 +777,20 @@ export function getClassSyllabus(
   exam: OlympiadCode | OlympiadContent,
   className: string,
 ): OlympiadClassSyllabus | undefined {
-  return resolveExamData(exam).classes.find((c) => c.class_name.toLowerCase() === className.toLowerCase());
+  const want = normalizeClassLabel(className);
+  return resolveExamData(exam).classes.find((c) => normalizeClassLabel(c.class_name) === want);
 }
 
 export function getPracticeExams(exam: OlympiadCode | OlympiadContent, className: string): PracticeExam[] {
   const data = resolveExamData(exam);
-  return data.practice_exams.filter((e) => e.class_name.toLowerCase() === className.toLowerCase());
+  const want = normalizeClassLabel(className);
+  return data.practice_exams.filter((e) => normalizeClassLabel(e.class_name) === want);
 }
 
 export function getMockExams(exam: OlympiadCode | OlympiadContent, className: string): MockExam[] {
   const data = resolveExamData(exam);
-  return data.mock_exams.filter((e) => e.class_name.toLowerCase() === className.toLowerCase());
+  const want = normalizeClassLabel(className);
+  return data.mock_exams.filter((e) => normalizeClassLabel(e.class_name) === want);
 }
 
 export function getTopicsBySection(

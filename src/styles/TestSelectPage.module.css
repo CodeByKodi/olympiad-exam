@@ -1,5 +1,5 @@
 .page {
-  max-width: 1100px;
+  max-width: min(1320px, 100%);
   margin: 0 auto;
   padding: clamp(var(--space-4), 3vw, var(--space-6));
 }
@@ -92,9 +92,18 @@
   margin: 0 0 var(--space-4);
 }
 
+/* Shared responsive grid for practice + mock cards (uses horizontal space like mock row). */
+.packGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(272px, 1fr));
+  gap: var(--space-4);
+  align-items: stretch;
+}
+
+/** @deprecated Use packGrid — kept for any legacy imports */
 .grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(272px, 1fr));
   gap: var(--space-4);
 }
 
@@ -113,7 +122,7 @@
 
 .topicGrid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(272px, 1fr));
   gap: var(--space-4);
 }
 
@@ -174,6 +183,7 @@ button.emptyLink {
 }
 
 @media (max-width: 640px) {
+  .packGrid,
   .grid,
   .topicGrid {
     grid-template-columns: 1fr;

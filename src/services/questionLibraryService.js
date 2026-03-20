@@ -6,6 +6,7 @@
 
 import * as libraryStorage from './libraryStorageService.js';
 import * as questionBankService from './questionBankService.js';
+import { getBuiltInOlympiadMockPacks } from '../data/builtInMockPackAdapter.js';
 import { buildPracticePool, buildMockIndex } from '../utils/questionLibraryUtils.js';
 
 /**
@@ -16,43 +17,50 @@ import { buildPracticePool, buildMockIndex } from '../utils/questionLibraryUtils
  * @returns {Promise<Array>} Packs in library format
  */
 export async function loadBankForExamGrade(examId, gradeId) {
+  /** Typed mock exams (IGKO/IMO/NSO/IEO) merged into the library so the UI lists every paper. */
+  const builtInMocks = getBuiltInOlympiadMockPacks(examId, gradeId);
+
   try {
     const [bank, packDefs] = await Promise.all([
       questionBankService.loadQuestionBank(examId, gradeId),
       questionBankService.loadPackDefinitions(examId, gradeId),
     ]);
 
-    if (!bank || bank.size === 0 || !packDefs?.length) {
-      if (import.meta.env?.DEV) {
-        console.warn(`[QuestionBank] No content for ${examId} grade ${gradeId}: bank=${bank?.size ?? 0}, packs=${packDefs?.length ?? 0}`);
-      }
-      return [];
+    const bankPacks =
+      bank && bank.size > 0 && packDefs?.length
+        ? packDefs.map((def) => {
+            const packId = `${examId}-grade${gradeId}-${def.packId?.replace(/^[^-]+-grade\d+-/, '') || def.packId}`;
+            const mode = (def.mode || 'mock').toLowerCase();
+            const isMock = mode === 'mock';
+            const questionCount = isMock ? (def.questionIds?.length || 0) : (def.questionCount || 25);
+            return {
+              packId,
+              exam: examId,
+              grade: gradeId,
+              mode: isMock ? 'mock' : 'practice',
+              title: def.title || packId,
+              topic: def.topic,
+              questionCount,
+              durationMinutes: def.durationMinutes ?? Math.ceil(questionCount * 1.2),
+              isStarter: true,
+              enabled: true,
+              isQuestionBank: true,
+              _bankDef: def,
+              _bank: bank,
+            };
+          })
+        : [];
+
+    if (bankPacks.length === 0 && import.meta.env?.DEV) {
+      console.warn(
+        `[QuestionBank] No JSON bank for ${examId} grade ${gradeId}; using ${builtInMocks.length} built-in mock pack(s) only.`,
+      );
     }
 
-    return packDefs.map((def) => {
-      const packId = `${examId}-grade${gradeId}-${def.packId?.replace(/^[^-]+-grade\d+-/, '') || def.packId}`;
-      const mode = (def.mode || 'mock').toLowerCase();
-      const isMock = mode === 'mock';
-      const questionCount = isMock ? (def.questionIds?.length || 0) : (def.questionCount || 25);
-      return {
-        packId,
-        exam: examId,
-        grade: gradeId,
-        mode: isMock ? 'mock' : 'practice',
-        title: def.title || packId,
-        topic: def.topic,
-        questionCount,
-        durationMinutes: def.durationMinutes ?? Math.ceil(questionCount * 1.2),
-        isStarter: true,
-        enabled: true,
-        isQuestionBank: true,
-        _bankDef: def,
-        _bank: bank,
-      };
-    });
+    return [...bankPacks, ...builtInMocks];
   } catch (e) {
     console.warn(`[QuestionBank] Failed to load ${examId} grade ${gradeId}:`, e?.message || e);
-    return [];
+    return builtInMocks;
   }
 }
 
@@ -141,7 +149,7 @@ export async function importPack(content, skipDuplicates = false) {
  * Delete imported pack from IndexedDB.
  */
 export async function deletePack(pack) {
-  if (pack.isStarter || pack.isQuestionBank) {
+  if (pack.isStarter || pack.isQuestionBank || pack.isBuiltInOlympiadMock) {
     return { ok: false, error: 'Cannot delete built-in packs' };
   }
   try {
@@ -156,7 +164,7 @@ export async function deletePack(pack) {
  * Toggle pack enabled/disabled (imported packs only; built-in always enabled).
  */
 export async function togglePackEnabled(pack, enabled) {
-  if (pack.isStarter || pack.isQuestionBank) return { ok: true };
+  if (pack.isStarter || pack.isQuestionBank || pack.isBuiltInOlympiadMock) return { ok: true };
   try {
     await libraryStorage.setPackEnabled(pack.packId, enabled);
     return { ok: true };
@@ -169,6 +177,19 @@ export async function togglePackEnabled(pack, enabled) {
  * Get pack content for export.
  */
 export async function getPackContent(pack) {
+  if (pack.isBuiltInOlympiadMock && Array.isArray(pack.questions) && pack.questions.length > 0) {
+    const content = {
+      packId: pack.packId,
+      exam: pack.exam,
+      grade: pack.grade,
+      mode: pack.mode,
+      title: pack.title,
+      topic: pack.topic,
+      questions: pack.questions,
+      durationMinutes: pack.durationMinutes ?? Math.ceil(pack.questions.length * 1.2),
+    };
+    return { ok: true, content: JSON.stringify(content, null, 2) };
+  }
   if (pack.isQuestionBank && pack._bankDef && pack._bank) {
     const def = pack._bankDef;
     const bank = pack._bank;
@@ -202,6 +223,21 @@ export async function getPackContent(pack) {
  * Load pack data (questions etc.) for taking a test.
  */
 export async function loadPackData(pack) {
+  if (pack.isBuiltInOlympiadMock && Array.isArray(pack.questions) && pack.questions.length > 0) {
+    return {
+      ok: true,
+      pack: {
+        packId: pack.packId,
+        exam: pack.exam,
+        grade: pack.grade,
+        mode: pack.mode,
+        title: pack.title,
+        topic: pack.topic,
+        questions: pack.questions,
+        durationMinutes: pack.durationMinutes ?? Math.ceil(pack.questions.length * 1.2),
+      },
+    };
+  }
   if (pack.isQuestionBank && pack._bankDef && pack._bank) {
     const def = pack._bankDef;
     const bank = pack._bank;
