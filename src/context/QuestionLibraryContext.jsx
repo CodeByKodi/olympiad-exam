@@ -4,6 +4,15 @@ import { buildPracticePool, buildMockIndex, buildPracticeIndex } from '../utils/
 
 const QuestionLibraryContext = createContext(null);
 
+/** Question-bank JSON packs or embedded TypeScript mock packs for one exam/grade. */
+function isAutoLoadedBankPack(pack, examId, gradeId) {
+  return (
+    pack.exam === examId &&
+    String(pack.grade) === String(gradeId) &&
+    (pack.isQuestionBank || pack.isBuiltInOlympiadMock)
+  );
+}
+
 export function QuestionLibraryProvider({ children }) {
   const [packs, setPacks] = useState([]);
   const [loading, setLoading] = useState(true);
@@ -53,9 +62,7 @@ export function QuestionLibraryProvider({ children }) {
       if (newPacks.length > 0) {
         setLoadedBanks((prev) => new Set(prev).add(key));
         setPacks((prev) => {
-          const filtered = prev.filter(
-            (p) => !(p.isQuestionBank && p.exam === examId && String(p.grade) === String(gradeId))
-          );
+          const filtered = prev.filter((p) => !isAutoLoadedBankPack(p, examId, gradeId));
           return libraryService.mergeLibraries(newPacks, filtered);
         });
       }
@@ -69,13 +76,8 @@ export function QuestionLibraryProvider({ children }) {
 
   const hasBankFor = useCallback(
     (examId, gradeId) =>
-      packs.some(
-        (p) =>
-          p.isQuestionBank &&
-          p.exam === examId &&
-          String(p.grade) === String(gradeId)
-      ),
-    [packs]
+      packs.some((p) => p.enabled !== false && isAutoLoadedBankPack(p, examId, gradeId)),
+    [packs],
   );
 
   const preloadBankFor = useCallback(async (examId, gradeId) => {
@@ -86,9 +88,7 @@ export function QuestionLibraryProvider({ children }) {
       if (newPacks.length > 0) {
         setLoadedBanks((prev) => new Set(prev).add(key));
         setPacks((prev) => {
-          const filtered = prev.filter(
-            (p) => !(p.isQuestionBank && p.exam === examId && String(p.grade) === String(gradeId))
-          );
+          const filtered = prev.filter((p) => !isAutoLoadedBankPack(p, examId, gradeId));
           return libraryService.mergeLibraries(newPacks, filtered);
         });
       }
