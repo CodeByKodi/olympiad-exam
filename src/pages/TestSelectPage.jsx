@@ -8,6 +8,8 @@ import { resolveStaticPath } from '../config';
 import * as libraryService from '../services/questionLibraryService';
 import styles from '../styles/TestSelectPage.module.css';
 
+const EMPTY_PRACTICE_PACKS = [];
+
 /** Sample pack paths for import when no built-in content exists. */
 const SAMPLE_PACKS = {
   practice: 'sample-packs/nso-grade3-practice.json',
@@ -70,11 +72,14 @@ export function TestSelectPage() {
   const hasPracticePacks = hasLibraryPacks(exam.id, gradeId, 'practice');
   const hasMockPacks = hasLibraryPacks(exam.id, gradeId, 'mock');
   const mockPacks = getMockPacks(exam.id, gradeId);
-  const practicePacks = hasPracticePacks ? getPracticePacks(exam.id, gradeId) : [];
+  const practicePacks = useMemo(() => {
+    if (!hasPracticePacks) return EMPTY_PRACTICE_PACKS;
+    return getPracticePacks(exam.id, gradeId);
+  }, [hasPracticePacks, getPracticePacks, exam.id, gradeId]);
 
   /** One responsive grid (like mock tests) instead of one skinny row per topic. */
   const visiblePracticePacks = useMemo(() => {
-    if (!practicePacks.length) return [];
+    if (!practicePacks.length) return EMPTY_PRACTICE_PACKS;
     const filtered =
       topicFilter === 'all'
         ? practicePacks
