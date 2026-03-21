@@ -1,7 +1,7 @@
 import { useModalA11y } from '../hooks/useModalA11y';
 import styles from '../styles/ConfirmSubmitModal.module.css';
 
-export function ConfirmSubmitModal({ open, onConfirm, onCancel, unansweredCount }) {
+export function ConfirmSubmitModal({ open, onConfirm, onCancel, unansweredCount, onOpenQuestionList }) {
   const { modalRef, overlayRef } = useModalA11y(open, onCancel);
 
   if (!open) return null;
@@ -28,12 +28,19 @@ export function ConfirmSubmitModal({ open, onConfirm, onCancel, unansweredCount 
             : 'Are you sure you want to submit your test?'}
         </p>
         <div className={styles.actions}>
-          <button type="button" className={styles.cancelBtn} onClick={onCancel}>
-            Cancel
-          </button>
-          <button type="button" className={styles.confirmBtn} onClick={onConfirm}>
-            Submit
-          </button>
+          {unansweredCount > 0 && typeof onOpenQuestionList === 'function' && (
+            <button type="button" className={styles.reviewBtn} onClick={onOpenQuestionList}>
+              Open question list
+            </button>
+          )}
+          <div className={styles.actionsEnd}>
+            <button type="button" className={styles.cancelBtn} onClick={onCancel}>
+              Cancel
+            </button>
+            <button type="button" className={styles.confirmBtn} onClick={onConfirm}>
+              Submit
+            </button>
+          </div>
         </div>
       </div>
     </div>

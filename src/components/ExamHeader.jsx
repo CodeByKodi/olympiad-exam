@@ -15,6 +15,7 @@ export function ExamHeader({
   isMarked,
   progress,
   totalQuestions,
+  currentQuestionNumber,
 }) {
   const isPractice = mode === 'practice';
 
@@ -35,19 +36,31 @@ export function ExamHeader({
       </div>
 
       <div className={styles.bar}>
-        {progress != null && totalQuestions > 0 && (
-          <div
-            className={styles.progressWrap}
-            role="progressbar"
-            aria-valuenow={progress}
-            aria-valuemin={0}
-            aria-valuemax={totalQuestions}
-            aria-label={`${progress} of ${totalQuestions} questions answered`}
-          >
-            <div
-              className={styles.progressFill}
-              style={{ width: `${(progress / totalQuestions) * 100}%` }}
-            />
+        {(currentQuestionNumber != null || progress != null) && totalQuestions > 0 && (
+          <div className={styles.progressBlock}>
+            {currentQuestionNumber != null && (
+              <span
+                className={styles.questionPosition}
+                aria-label={`Question ${currentQuestionNumber} of ${totalQuestions}`}
+              >
+                Q {currentQuestionNumber} / {totalQuestions}
+              </span>
+            )}
+            {progress != null && (
+              <div
+                className={styles.progressWrap}
+                role="progressbar"
+                aria-valuenow={progress}
+                aria-valuemin={0}
+                aria-valuemax={totalQuestions}
+                aria-label={`${progress} of ${totalQuestions} questions answered`}
+              >
+                <div
+                  className={styles.progressFill}
+                  style={{ width: `${(progress / totalQuestions) * 100}%` }}
+                />
+              </div>
+            )}
           </div>
         )}
         <div className={styles.actions}>

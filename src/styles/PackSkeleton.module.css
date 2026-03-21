@@ -10,7 +10,18 @@
   background: var(--surface);
   border-radius: var(--radius-lg);
   border: 1px solid var(--border-color);
-  animation: pulse 1.5s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .card {
+    animation: pulse 1.5s ease-in-out infinite;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .card {
+    animation: none;
+  }
 }
 
 .line {

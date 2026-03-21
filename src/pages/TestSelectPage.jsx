@@ -2,7 +2,7 @@ import { useState, useEffect, useMemo } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { EXAMS, TEST_MODES } from '../constants/exams';
 import { TestCard } from '../components/TestCard';
-import { PackSkeleton } from '../components/PackSkeleton';
+import { TestSelectLoadingSkeleton } from '../components/TestSelectLoadingSkeleton';
 import { useQuestionLibrary } from '../hooks/useQuestionLibrary';
 import { resolveStaticPath } from '../config';
 import * as libraryService from '../services/questionLibraryService';
@@ -158,12 +158,31 @@ export function TestSelectPage() {
     <div className={styles.page}>
       <div className={styles.header}>
         <h1 className={styles.title}>{exam.fullName} — Grade {gradeId}</h1>
-        <p className={styles.subtitle}>
-          Choose a test mode and test. Use search and sort to find practice packs quickly.
+        <p className={styles.acronymLine}>
+          <span className={styles.examAcronym}>{exam.name}</span>
+          <span className={styles.acronymSep}>·</span>
+          <span>Grade {gradeId}</span>
         </p>
+        <p className={styles.subtitle}>
+          Choose a test mode and test. Use search and sort to find packs quickly.
+        </p>
+        <details className={styles.originLegend}>
+          <summary className={styles.originLegendSummary}>What do the pack badges mean?</summary>
+          <ul className={styles.originLegendList}>
+            <li>
+              <strong>Built-in</strong> — Mock papers bundled with the app (TypeScript bank).
+            </li>
+            <li>
+              <strong>Library</strong> — Loaded from the public question-bank JSON for this grade.
+            </li>
+            <li>
+              <strong>Imported</strong> — Added from your device or the Question Library.
+            </li>
+          </ul>
+        </details>
         {loading && (
           <div className={styles.loadingSkeleton}>
-            <PackSkeleton count={6} />
+            <TestSelectLoadingSkeleton />
           </div>
         )}
         {!loading && emptyContent && (
@@ -185,9 +204,18 @@ export function TestSelectPage() {
 
       <section className={styles.section} aria-labelledby="practice-heading">
         <div className={styles.sectionIntro}>
-          <h2 id="practice-heading" className={styles.sectionTitle}>
-            Practice Mode
-          </h2>
+          <div className={styles.sectionTitleRow}>
+            <h2 id="practice-heading" className={styles.sectionTitle}>
+              Practice Mode
+            </h2>
+            {!loading && hasPracticePacks && (
+              <span className={styles.sectionCount} aria-live="polite">
+                {visiblePracticePacks.length === practicePacks.length
+                  ? `${visiblePracticePacks.length} pack${visiblePracticePacks.length !== 1 ? 's' : ''}`
+                  : `${visiblePracticePacks.length} of ${practicePacks.length} packs`}
+              </span>
+            )}
+          </div>
           <p className={styles.sectionDesc}>
             Take your time, get instant feedback, and learn as you go. Each card shows its topic badge.
           </p>
@@ -268,24 +296,29 @@ export function TestSelectPage() {
               />
             ))
           ) : !loading && !hasPracticePacks ? (
-            <p className={styles.emptyHint}>
-              No practice content for this grade yet.{' '}
-              <Link to="/question-library" className={styles.emptyLink}>Import packs in the Library</Link>
-              ,{' '}
-              <button
-                type="button"
-                className={styles.emptyLink}
-                onClick={() => handleImportSample('practice')}
-                disabled={importingSample}
-              >
-                import a sample pack
-              </button>
-              , or{' '}
+            <div className={styles.emptyState}>
+              <div className={styles.emptyIcon} aria-hidden>📂</div>
+              <p className={styles.emptyTitle}>No practice content yet</p>
+              <p className={styles.emptyHint}>
+                Import packs in the library, try a sample, or download JSON to get started.
+              </p>
+              <div className={styles.emptyActions}>
+                <Link to="/question-library" className={styles.primaryCta}>
+                  Open Question Library
+                </Link>
+                <button
+                  type="button"
+                  className={styles.secondaryCta}
+                  onClick={() => handleImportSample('practice')}
+                  disabled={importingSample}
+                >
+                  Import sample pack
+                </button>
+              </div>
               <a href={getSamplePackDownloadUrl()} download="sample-practice-pack.json" className={styles.emptyLink}>
-                download a sample
+                Download sample JSON
               </a>
-              {' '}to get started.
-            </p>
+            </div>
           ) : !loading && hasPracticePacks && visiblePracticePacks.length === 0 ? (
             <p className={styles.emptyHint}>
               {practiceSearch.trim() ? (
@@ -323,9 +356,18 @@ export function TestSelectPage() {
         aria-labelledby="mock-heading"
       >
         <div className={styles.sectionIntro}>
-          <h2 id="mock-heading" className={styles.sectionTitle}>
-            Mock Test Mode
-          </h2>
+          <div className={styles.sectionTitleRow}>
+            <h2 id="mock-heading" className={styles.sectionTitle}>
+              Mock Test Mode
+            </h2>
+            {!loading && hasMockPacks && (
+              <span className={styles.sectionCount} aria-live="polite">
+                {visibleMockPacks.length === mockPacks.length
+                  ? `${visibleMockPacks.length} test${visibleMockPacks.length !== 1 ? 's' : ''}`
+                  : `${visibleMockPacks.length} of ${mockPacks.length} tests`}
+              </span>
+            )}
+          </div>
           <p className={styles.sectionDesc}>
             Timed exam simulation. No feedback until you submit.
           </p>
@@ -379,31 +421,36 @@ export function TestSelectPage() {
                 packOrigin={p.packOrigin}
               />
             ))
-          ) : hasMockPacks && visibleMockPacks.length === 0 && mockSearch.trim() ? (
+          ) : !loading && !hasMockPacks ? (
+            <div className={styles.emptyState}>
+              <div className={styles.emptyIcon} aria-hidden>📝</div>
+              <p className={styles.emptyTitle}>No mock tests yet</p>
+              <p className={styles.emptyHint}>
+                Add mocks from the library or import a sample timed test.
+              </p>
+              <div className={styles.emptyActions}>
+                <Link to="/question-library" className={styles.primaryCta}>
+                  Open Question Library
+                </Link>
+                <button
+                  type="button"
+                  className={styles.secondaryCta}
+                  onClick={() => handleImportSample('mock')}
+                  disabled={importingSample}
+                >
+                  Import sample mock
+                </button>
+              </div>
+              <a href={getSamplePackDownloadUrl('mock')} download="sample-mock-pack.json" className={styles.emptyLink}>
+                Download sample JSON
+              </a>
+            </div>
+          ) : !loading && hasMockPacks && visibleMockPacks.length === 0 && mockSearch.trim() ? (
             <p className={styles.emptyHint}>
               No mock tests match “{mockSearch.trim()}”.{' '}
               <button type="button" className={styles.emptyLink} onClick={() => setMockSearch('')}>
                 Clear search
               </button>
-            </p>
-          ) : !loading ? (
-            <p className={styles.emptyHint}>
-              No mock tests for this grade yet.{' '}
-              <Link to="/question-library" className={styles.emptyLink}>Import packs in the Library</Link>
-              ,{' '}
-              <button
-                type="button"
-                className={styles.emptyLink}
-                onClick={() => handleImportSample('mock')}
-                disabled={importingSample}
-              >
-                import a sample mock pack
-              </button>
-              , or{' '}
-              <a href={getSamplePackDownloadUrl('mock')} download="sample-mock-pack.json" className={styles.emptyLink}>
-                download a sample
-              </a>
-              {' '}to add mock tests.
             </p>
           ) : null}
         </div>
