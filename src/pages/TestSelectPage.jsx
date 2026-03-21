@@ -2,13 +2,26 @@ import { useState, useEffect, useMemo } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { EXAMS, TEST_MODES } from '../constants/exams';
 import { TestCard } from '../components/TestCard';
-import { PackSkeleton } from '../components/PackSkeleton';
+import { TestSelectLoadingSkeleton } from '../components/TestSelectLoadingSkeleton';
 import { useQuestionLibrary } from '../hooks/useQuestionLibrary';
 import { resolveStaticPath } from '../config';
 import * as libraryService from '../services/questionLibraryService';
 import styles from '../styles/TestSelectPage.module.css';
 
-const EMPTY_PRACTICE_PACKS = [];
+const EMPTY_PACKS = [];
+
+const PRACTICE_SORT_OPTIONS = [
+  { value: 'topic', label: 'Topic, then title' },
+  { value: 'title', label: 'Title (A–Z)' },
+  { value: 'questions', label: 'Fewest questions first' },
+  { value: 'duration', label: 'Shortest time first' },
+];
+
+const MOCK_SORT_OPTIONS = [
+  { value: 'title', label: 'Title (A–Z)' },
+  { value: 'questions', label: 'Fewest questions first' },
+  { value: 'duration', label: 'Shortest time first' },
+];
 
 /** Sample pack paths for import when no built-in content exists. */
 const SAMPLE_PACKS = {
@@ -29,6 +42,10 @@ export function TestSelectPage() {
   const { getMockPacks, getPracticePacks, hasLibraryPacks, loading, reload, loadBankFor, preloadBankFor, hasBankFor } = useQuestionLibrary();
   const [importingSample, setImportingSample] = useState(false);
   const [topicFilter, setTopicFilter] = useState('all');
+  const [practiceSearch, setPracticeSearch] = useState('');
+  const [practiceSort, setPracticeSort] = useState('topic');
+  const [mockSearch, setMockSearch] = useState('');
+  const [mockSort, setMockSort] = useState('title');
 
   useEffect(() => {
     if (examId && gradeId && !hasBankFor(exam.id, gradeId)) {
@@ -73,24 +90,67 @@ export function TestSelectPage() {
   const hasMockPacks = hasLibraryPacks(exam.id, gradeId, 'mock');
   const mockPacks = getMockPacks(exam.id, gradeId);
   const practicePacks = useMemo(() => {
-    if (!hasPracticePacks) return EMPTY_PRACTICE_PACKS;
+    if (!hasPracticePacks) return EMPTY_PACKS;
     return getPracticePacks(exam.id, gradeId);
   }, [hasPracticePacks, getPracticePacks, exam.id, gradeId]);
 
-  /** One responsive grid (like mock tests) instead of one skinny row per topic. */
+  /** Filtered + sorted practice packs (search, topic, sort). */
   const visiblePracticePacks = useMemo(() => {
-    if (!practicePacks.length) return EMPTY_PRACTICE_PACKS;
-    const filtered =
+    if (!practicePacks.length) return EMPTY_PACKS;
+    const q = practiceSearch.trim().toLowerCase();
+    let filtered =
       topicFilter === 'all'
         ? practicePacks
         : practicePacks.filter((p) => (p.topic || 'General') === topicFilter);
+    if (q) {
+      filtered = filtered.filter(
+        (p) =>
+          (p.title || '').toLowerCase().includes(q) ||
+          (p.topic || '').toLowerCase().includes(q) ||
+          String(p.id || '').toLowerCase().includes(q),
+      );
+    }
     return [...filtered].sort((a, b) => {
-      const ta = a.topic || 'General';
-      const tb = b.topic || 'General';
-      if (ta !== tb) return ta.localeCompare(tb);
-      return (a.title || a.id || '').localeCompare(b.title || b.id || '');
+      switch (practiceSort) {
+        case 'title':
+          return (a.title || a.id || '').localeCompare(b.title || b.id || '');
+        case 'duration':
+          return (a.durationMinutes ?? 0) - (b.durationMinutes ?? 0);
+        case 'questions':
+          return (a.questionCount ?? 0) - (b.questionCount ?? 0);
+        case 'topic':
+        default: {
+          const ta = a.topic || 'General';
+          const tb = b.topic || 'General';
+          if (ta !== tb) return ta.localeCompare(tb);
+          return (a.title || a.id || '').localeCompare(b.title || b.id || '');
+        }
+      }
     });
-  }, [practicePacks, topicFilter]);
+  }, [practicePacks, topicFilter, practiceSearch, practiceSort]);
+
+  const visibleMockPacks = useMemo(() => {
+    if (!mockPacks.length) return EMPTY_PACKS;
+    const q = mockSearch.trim().toLowerCase();
+    const filtered = q
+      ? mockPacks.filter(
+          (p) =>
+            (p.title || '').toLowerCase().includes(q) ||
+            String(p.id || '').toLowerCase().includes(q),
+        )
+      : mockPacks;
+    return [...filtered].sort((a, b) => {
+      switch (mockSort) {
+        case 'duration':
+          return (a.durationMinutes ?? 0) - (b.durationMinutes ?? 0);
+        case 'questions':
+          return (a.questionCount ?? 0) - (b.questionCount ?? 0);
+        case 'title':
+        default:
+          return (a.title || a.id || '').localeCompare(b.title || b.id || '');
+      }
+    });
+  }, [mockPacks, mockSearch, mockSort]);
 
   const emptyContent = !hasPracticePacks && !hasMockPacks;
 
@@ -98,10 +158,31 @@ export function TestSelectPage() {
     <div className={styles.page}>
       <div className={styles.header}>
         <h1 className={styles.title}>{exam.fullName} — Grade {gradeId}</h1>
-        <p className={styles.subtitle}>Choose a test mode and test</p>
+        <p className={styles.acronymLine}>
+          <span className={styles.examAcronym}>{exam.name}</span>
+          <span className={styles.acronymSep}>·</span>
+          <span>Grade {gradeId}</span>
+        </p>
+        <p className={styles.subtitle}>
+          Choose a test mode and test. Use search and sort to find packs quickly.
+        </p>
+        <details className={styles.originLegend}>
+          <summary className={styles.originLegendSummary}>What do the pack badges mean?</summary>
+          <ul className={styles.originLegendList}>
+            <li>
+              <strong>Built-in</strong> — Mock papers bundled with the app (TypeScript bank).
+            </li>
+            <li>
+              <strong>Library</strong> — Loaded from the public question-bank JSON for this grade.
+            </li>
+            <li>
+              <strong>Imported</strong> — Added from your device or the Question Library.
+            </li>
+          </ul>
+        </details>
         {loading && (
           <div className={styles.loadingSkeleton}>
-            <PackSkeleton count={6} />
+            <TestSelectLoadingSkeleton />
           </div>
         )}
         {!loading && emptyContent && (
@@ -121,35 +202,83 @@ export function TestSelectPage() {
         )}
       </div>
 
-      <section className={styles.section}>
-        <div className={styles.sectionHeader}>
-          <div>
-            <h2 className={styles.sectionTitle}>Practice Mode</h2>
-            <p className={styles.sectionDesc}>
-              Take your time, get instant feedback, and learn as you go. Packs are shown in a grid (sorted by topic); each card shows its topic badge.
-            </p>
+      <section className={styles.section} aria-labelledby="practice-heading">
+        <div className={styles.sectionIntro}>
+          <div className={styles.sectionTitleRow}>
+            <h2 id="practice-heading" className={styles.sectionTitle}>
+              Practice Mode
+            </h2>
+            {!loading && hasPracticePacks && (
+              <span className={styles.sectionCount} aria-live="polite">
+                {visiblePracticePacks.length === practicePacks.length
+                  ? `${visiblePracticePacks.length} pack${visiblePracticePacks.length !== 1 ? 's' : ''}`
+                  : `${visiblePracticePacks.length} of ${practicePacks.length} packs`}
+              </span>
+            )}
           </div>
-          {hasPracticePacks && practicePacks.length > 0 && (() => {
-            const topics = [...new Set(practicePacks.map((p) => p.topic || 'General'))].sort();
-            if (topics.length <= 1) return null;
-            return (
-              <label className={styles.topicFilter}>
-                <span className={styles.topicFilterLabel}>Filter:</span>
+          <p className={styles.sectionDesc}>
+            <strong>Practice:</strong> You’ll see whether each answer is correct as you go, with explanations when the pack includes them. Take your time — each pack card shows a topic; on the test, each question can show its own topic badge too.
+          </p>
+        </div>
+
+        {hasPracticePacks && practicePacks.length > 0 && (
+          <div className={styles.stickyToolbar}>
+            <div className={styles.toolbarRow}>
+              <label className={styles.searchField}>
+                <span className={styles.visuallyHidden}>Search practice packs</span>
+                <input
+                  type="search"
+                  value={practiceSearch}
+                  onChange={(e) => setPracticeSearch(e.target.value)}
+                  placeholder="Search by title, topic, or pack ID…"
+                  className={styles.searchInput}
+                  autoComplete="off"
+                  enterKeyHint="search"
+                />
+              </label>
+              <label className={styles.sortField}>
+                <span className={styles.fieldLabel}>Sort</span>
                 <select
-                  value={topicFilter}
-                  onChange={(e) => setTopicFilter(e.target.value)}
-                  className={styles.topicFilterSelect}
-                  aria-label="Filter by topic"
+                  value={practiceSort}
+                  onChange={(e) => setPracticeSort(e.target.value)}
+                  className={styles.toolbarSelect}
+                  aria-label="Sort practice packs"
                 >
-                  <option value="all">All topics</option>
-                  {topics.map((t) => (
-                    <option key={t} value={t}>{t}</option>
+                  {PRACTICE_SORT_OPTIONS.map((o) => (
+                    <option key={o.value} value={o.value}>
+                      {o.label}
+                    </option>
                   ))}
                 </select>
               </label>
-            );
-          })()}
-        </div>
+            </div>
+            {(() => {
+              const topics = [...new Set(practicePacks.map((p) => p.topic || 'General'))].sort();
+              if (topics.length <= 1) return null;
+              return (
+                <div className={styles.toolbarRow}>
+                  <label className={styles.topicFilter}>
+                    <span className={styles.fieldLabel}>Topic</span>
+                    <select
+                      value={topicFilter}
+                      onChange={(e) => setTopicFilter(e.target.value)}
+                      className={styles.toolbarSelect}
+                      aria-label="Filter by topic"
+                    >
+                      <option value="all">All topics</option>
+                      {topics.map((t) => (
+                        <option key={t} value={t}>
+                          {t}
+                        </option>
+                      ))}
+                    </select>
+                  </label>
+                </div>
+              );
+            })()}
+          </div>
+        )}
+
         <div className={styles.packGrid}>
           {hasPracticePacks && visiblePracticePacks.length > 0 ? (
             visiblePracticePacks.map((p) => (
@@ -163,30 +292,43 @@ export function TestSelectPage() {
                 durationMinutes={p.durationMinutes}
                 title={p.title}
                 topic={p.topic}
+                packOrigin={p.packOrigin}
               />
             ))
           ) : !loading && !hasPracticePacks ? (
-            <p className={styles.emptyHint}>
-              No practice content for this grade yet.{' '}
-              <Link to="/question-library" className={styles.emptyLink}>Import packs in the Library</Link>
-              ,{' '}
-              <button
-                type="button"
-                className={styles.emptyLink}
-                onClick={() => handleImportSample('practice')}
-                disabled={importingSample}
-              >
-                import a sample pack
-              </button>
-              , or{' '}
+            <div className={styles.emptyState}>
+              <div className={styles.emptyIcon} aria-hidden>📂</div>
+              <p className={styles.emptyTitle}>No practice content yet</p>
+              <p className={styles.emptyHint}>
+                Import packs in the library, try a sample, or download JSON to get started.
+              </p>
+              <div className={styles.emptyActions}>
+                <Link to="/question-library" className={styles.primaryCta}>
+                  Open Question Library
+                </Link>
+                <button
+                  type="button"
+                  className={styles.secondaryCta}
+                  onClick={() => handleImportSample('practice')}
+                  disabled={importingSample}
+                >
+                  Import sample pack
+                </button>
+              </div>
               <a href={getSamplePackDownloadUrl()} download="sample-practice-pack.json" className={styles.emptyLink}>
-                download a sample
+                Download sample JSON
               </a>
-              {' '}to get started.
-            </p>
+            </div>
           ) : !loading && hasPracticePacks && visiblePracticePacks.length === 0 ? (
             <p className={styles.emptyHint}>
-              {topicFilter !== 'all' ? (
+              {practiceSearch.trim() ? (
+                <>
+                  No practice packs match “{practiceSearch.trim()}”.{' '}
+                  <button type="button" className={styles.emptyLink} onClick={() => setPracticeSearch('')}>
+                    Clear search
+                  </button>
+                </>
+              ) : topicFilter !== 'all' ? (
                 <>
                   No practice packs for this topic.{' '}
                   <button
@@ -209,12 +351,64 @@ export function TestSelectPage() {
         </div>
       </section>
 
-      <section className={`${styles.section} ${styles.mockSection}`}>
-        <h2 className={styles.sectionTitle}>Mock Test Mode</h2>
-        <p className={styles.sectionDesc}>Timed exam simulation. No feedback until you submit.</p>
+      <section
+        className={`${styles.section} ${styles.mockSection}`}
+        aria-labelledby="mock-heading"
+      >
+        <div className={styles.sectionIntro}>
+          <div className={styles.sectionTitleRow}>
+            <h2 id="mock-heading" className={styles.sectionTitle}>
+              Mock Test Mode
+            </h2>
+            {!loading && hasMockPacks && (
+              <span className={styles.sectionCount} aria-live="polite">
+                {visibleMockPacks.length === mockPacks.length
+                  ? `${visibleMockPacks.length} test${visibleMockPacks.length !== 1 ? 's' : ''}`
+                  : `${visibleMockPacks.length} of ${mockPacks.length} tests`}
+              </span>
+            )}
+          </div>
+          <p className={styles.sectionDesc}>
+            <strong>Mock:</strong> Timed like a real exam — you won’t see right or wrong until you submit. Want instant feedback while you learn? Use <strong>Practice mode</strong> above.
+          </p>
+        </div>
+
+        {hasMockPacks && mockPacks.length > 0 && (
+          <div className={styles.mockToolbar}>
+            <div className={styles.toolbarRow}>
+              <label className={styles.searchField}>
+                <span className={styles.visuallyHidden}>Search mock tests</span>
+                <input
+                  type="search"
+                  value={mockSearch}
+                  onChange={(e) => setMockSearch(e.target.value)}
+                  placeholder="Search mock tests by title or pack ID…"
+                  className={styles.searchInput}
+                  autoComplete="off"
+                />
+              </label>
+              <label className={styles.sortField}>
+                <span className={styles.fieldLabel}>Sort</span>
+                <select
+                  value={mockSort}
+                  onChange={(e) => setMockSort(e.target.value)}
+                  className={styles.toolbarSelect}
+                  aria-label="Sort mock tests"
+                >
+                  {MOCK_SORT_OPTIONS.map((o) => (
+                    <option key={o.value} value={o.value}>
+                      {o.label}
+                    </option>
+                  ))}
+                </select>
+              </label>
+            </div>
+          </div>
+        )}
+
         <div className={styles.packGrid}>
-          {hasMockPacks ? (
-            mockPacks.map((p) => (
+          {hasMockPacks && visibleMockPacks.length > 0 ? (
+            visibleMockPacks.map((p) => (
               <TestCard
                 key={`mock-${p.id}`}
                 examId={exam.id}
@@ -224,26 +418,39 @@ export function TestSelectPage() {
                 questionCount={p.questionCount}
                 durationMinutes={p.durationMinutes}
                 title={p.title}
+                packOrigin={p.packOrigin}
               />
             ))
-          ) : !loading ? (
-            <p className={styles.emptyHint}>
-              No mock tests for this grade yet.{' '}
-              <Link to="/question-library" className={styles.emptyLink}>Import packs in the Library</Link>
-              ,{' '}
-              <button
-                type="button"
-                className={styles.emptyLink}
-                onClick={() => handleImportSample('mock')}
-                disabled={importingSample}
-              >
-                import a sample mock pack
-              </button>
-              , or{' '}
+          ) : !loading && !hasMockPacks ? (
+            <div className={styles.emptyState}>
+              <div className={styles.emptyIcon} aria-hidden>📝</div>
+              <p className={styles.emptyTitle}>No mock tests yet</p>
+              <p className={styles.emptyHint}>
+                Add mocks from the library or import a sample timed test.
+              </p>
+              <div className={styles.emptyActions}>
+                <Link to="/question-library" className={styles.primaryCta}>
+                  Open Question Library
+                </Link>
+                <button
+                  type="button"
+                  className={styles.secondaryCta}
+                  onClick={() => handleImportSample('mock')}
+                  disabled={importingSample}
+                >
+                  Import sample mock
+                </button>
+              </div>
               <a href={getSamplePackDownloadUrl('mock')} download="sample-mock-pack.json" className={styles.emptyLink}>
-                download a sample
+                Download sample JSON
               </a>
-              {' '}to add mock tests.
+            </div>
+          ) : !loading && hasMockPacks && visibleMockPacks.length === 0 && mockSearch.trim() ? (
+            <p className={styles.emptyHint}>
+              No mock tests match “{mockSearch.trim()}”.{' '}
+              <button type="button" className={styles.emptyLink} onClick={() => setMockSearch('')}>
+                Clear search
+              </button>
             </p>
           ) : null}
         </div>

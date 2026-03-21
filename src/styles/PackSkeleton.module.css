@@ -1,7 +1,8 @@
 .grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(272px, 1fr));
   gap: var(--space-4);
+  align-items: stretch;
 }
 
 .card {
@@ -9,7 +10,18 @@
   background: var(--surface);
   border-radius: var(--radius-lg);
   border: 1px solid var(--border-color);
-  animation: pulse 1.5s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .card {
+    animation: pulse 1.5s ease-in-out infinite;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .card {
+    animation: none;
+  }
 }
 
 .line {

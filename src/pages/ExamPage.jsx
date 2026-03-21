@@ -310,6 +310,7 @@ export function ExamPage() {
         isMarked={currentQuestion && markedForReview.has(currentQuestion.id)}
         progress={answeredCount}
         totalQuestions={questions.length}
+        currentQuestionNumber={currentIndex + 1}
       />
 
       <div className={styles.sectionTabsWrap}>
@@ -379,6 +380,14 @@ export function ExamPage() {
         onConfirm={handleSubmit}
         onCancel={() => setShowSubmitModal(false)}
         unansweredCount={unansweredCount}
+        onOpenQuestionList={
+          unansweredCount > 0
+            ? () => {
+                setShowSubmitModal(false);
+                setPaletteDrawerOpen(true);
+              }
+            : undefined
+        }
       />
 
       <PaletteDrawer

@@ -34,8 +34,33 @@
 
 .actions {
   display: flex;
+  flex-wrap: wrap;
   gap: var(--space-2);
+  align-items: center;
   justify-content: flex-end;
+}
+
+.actionsEnd {
+  display: flex;
+  gap: var(--space-2);
+  align-items: center;
+}
+
+.reviewBtn {
+  margin-right: auto;
+  padding: var(--space-2) var(--space-4);
+  min-height: 44px;
+  border: 2px solid var(--primary);
+  background: var(--primary-soft);
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  font-weight: var(--font-semibold);
+  font-size: var(--text-sm);
+  color: var(--primary);
+}
+
+.reviewBtn:hover {
+  background: var(--surface);
 }
 
 .cancelBtn {
