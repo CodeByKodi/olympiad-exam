@@ -306,8 +306,10 @@ describe('buildMockIndex', () => {
       title: 'Mock 1',
       questionCount: 25,
       durationMinutes: 30,
+      packOrigin: 'imported',
     });
     expect(result[1].questionCount).toBe(20);
+    expect(result[1].packOrigin).toBe('imported');
   });
 
   it('computes questionCount from questions when missing', () => {
