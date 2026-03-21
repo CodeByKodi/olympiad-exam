@@ -281,6 +281,13 @@ details[open] .originLegendSummary::before {
   font-size: var(--text-sm);
   color: var(--text-secondary);
   margin: 0 0 var(--space-4);
+  line-height: 1.55;
+  max-width: 52rem;
+}
+
+.sectionDesc strong {
+  color: var(--text-primary);
+  font-weight: var(--font-semibold);
 }
 
 /* Shared responsive grid for practice + mock cards (uses horizontal space like mock row). */

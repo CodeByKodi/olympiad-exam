@@ -12,6 +12,10 @@ An Olympiad mock exam app for Grade 3 students. Deploys to **GitHub Pages** and 
 - **Starter packs** – Built-in tests loaded from static JSON files
 - **Responsive UI** – Desktop-friendly and mobile touch-friendly
 
+## Documentation
+
+- **[Student feedback review](docs/student-feedback-review.md)** — UX/content notes from student feedback (Practice vs Mock, topic relevance, optional settings).
+
 ## Supported Exams (Grade 3)
 
 - NSO, IMO, IEO, ICS, IGKO, ISSO

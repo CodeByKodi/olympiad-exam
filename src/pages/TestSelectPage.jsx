@@ -217,7 +217,7 @@ export function TestSelectPage() {
             )}
           </div>
           <p className={styles.sectionDesc}>
-            Take your time, get instant feedback, and learn as you go. Each card shows its topic badge.
+            <strong>Practice:</strong> You’ll see whether each answer is correct as you go, with explanations when the pack includes them. Take your time — each pack card shows a topic; on the test, each question can show its own topic badge too.
           </p>
         </div>
 
@@ -369,7 +369,7 @@ export function TestSelectPage() {
             )}
           </div>
           <p className={styles.sectionDesc}>
-            Timed exam simulation. No feedback until you submit.
+            <strong>Mock:</strong> Timed like a real exam — you won’t see right or wrong until you submit. Want instant feedback while you learn? Use <strong>Practice mode</strong> above.
           </p>
         </div>
 
