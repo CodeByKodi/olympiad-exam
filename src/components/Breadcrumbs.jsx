@@ -15,7 +15,13 @@ export function Breadcrumbs() {
     crumbs.push({ label: exam?.name || params.examId, to: `/exam/${params.examId}` });
   }
   if (params.gradeId) {
-    crumbs.push({ label: `Grade ${params.gradeId}`, to: `/exam/${params.examId}/grade/${params.gradeId}` });
+    const gradePath = `/exam/${params.examId}/grade/${params.gradeId}`;
+    const onTestSelectOnly =
+      path === gradePath || path === `${gradePath}/`;
+    crumbs.push({
+      label: `Grade ${params.gradeId}`,
+      to: onTestSelectOnly ? null : gradePath,
+    });
   }
   if (params.testId && params.testId !== 'review-wrong') {
     crumbs.push({ label: 'Test', to: null });

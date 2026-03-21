@@ -165,10 +165,18 @@ export function buildPracticePool(packs) {
   return result;
 }
 
+/** @typedef {'built-in-mock' | 'question-bank' | 'imported'} PackOrigin */
+
+function packOrigin(p) {
+  if (p.isBuiltInOlympiadMock) return 'built-in-mock';
+  if (p.isQuestionBank) return 'question-bank';
+  return 'imported';
+}
+
 /**
  * Build mock index: list of enabled mock packs as tests.
  * @param {Array<Object>} packs - Enabled mock packs
- * @returns {Array<{ id: string, title: string, questionCount: number, durationMinutes: number }>}
+ * @returns {Array<{ id: string, title: string, questionCount: number, durationMinutes: number, packOrigin: PackOrigin }>}
  */
 export function buildMockIndex(packs) {
   return (packs || []).map((p) => ({
@@ -176,13 +184,14 @@ export function buildMockIndex(packs) {
     title: p.title || p.packId,
     questionCount: p.questionCount ?? (p.questions || []).length ?? (p._bankDef?.questionIds?.length || 0),
     durationMinutes: p.durationMinutes ?? Math.ceil((p.questionCount || p.questions?.length || 0) * 1.2),
+    packOrigin: packOrigin(p),
   }));
 }
 
 /**
  * Build practice index: list of enabled practice packs for display.
  * @param {Array<Object>} packs - Enabled practice packs
- * @returns {Array<{ id: string, title: string, topic?: string, questionCount: number, durationMinutes: number }>}
+ * @returns {Array<{ id: string, title: string, topic?: string, questionCount: number, durationMinutes: number, packOrigin: PackOrigin }>}
  */
 export function buildPracticeIndex(packs) {
   return (packs || []).map((p) => ({
@@ -191,5 +200,6 @@ export function buildPracticeIndex(packs) {
     topic: p.topic,
     questionCount: p.questionCount ?? (p.questions || []).length ?? (p._bankDef?.questionCount || 25),
     durationMinutes: p.durationMinutes ?? Math.ceil((p.questionCount || p.questions?.length || 25) * 1.2),
+    packOrigin: packOrigin(p),
   }));
 }
